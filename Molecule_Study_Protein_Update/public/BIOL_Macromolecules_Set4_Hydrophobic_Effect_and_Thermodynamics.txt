@@ -1,0 +1,19 @@
+What noncovalent interaction do water molecules form with one another?	Hydrogen bonds.
+In ΔG = ΔH − TΔS, what competes with the enthalpy change?	The entropy contribution −TΔS; T is absolute temperature and ΔS is the system’s entropy change.
+What temperature scale is required in ΔG = ΔH − TΔS?	Kelvin.
+At constant temperature and pressure, what does ΔG < 0 tell you?	The process is thermodynamically favorable in the forward direction; it says nothing about its speed.
+Does spontaneous mean instantaneous or fast?	No; spontaneity describes thermodynamic favorability, not rate.
+In the lecture model, why does water near exposed nonpolar tails have lower entropy?	Its possible arrangements and motion are more constrained around the nonpolar surfaces.
+Why does burying hydrophobic tails increase water entropy in the lecture model?	Less nonpolar surface contacts water, releasing constrained water molecules into the bulk.
+Why can lipid entropy decrease during assembly?	Lipids become more constrained in the organized aggregate.
+How can bilayer formation be favored even though lipid entropy decreases?	The increase in water entropy can outweigh the decrease in lipid entropy.
+How does a positive ΔS affect ΔG when ΔH and T are fixed?	It makes −TΔS negative and lowers ΔG.
+Does a positive ΔS alone guarantee a negative ΔG?	No; ΔH must also be included in ΔG = ΔH − TΔS.
+Does hydrophobic mean that water and a hydrocarbon have absolutely no interactions?	No; the interactions are less favorable than those available to polar or charged regions.
+At constant T and P, how does a spontaneous process with ΔG < 0 relate to the second law?	The entropy of the system plus surroundings increases; the system alone need not gain entropy.
+Lipids change entropy by −20 J/K and water by +50 J/K. What is their combined change?	+30 J/K: the water’s increase outweighs the lipid decrease.
+At 300 K, ΔH = +2 kJ and ΔS = +20 J/K. Calculate ΔG.	ΔG = 2 − 300 × 0.020 = −4 kJ; the process is favorable.
+Assuming ΔH and positive ΔS remain constant, how does increasing T affect ΔG?	It lowers ΔG because −TΔS becomes more negative.
+Why is the hydrophobic effect weaker as an explanation if no water is present?	The water-ordering and water-release mechanism no longer applies.
+Must an aggregate's molecules stay completely motionless for it to be stable?	No; thermodynamic stability is compatible with ongoing molecular motion.
+Is forming a bilayer the same chemical process as synthesizing a phospholipid?	No; assembly rearranges existing lipids, while synthesis forms covalent linkages.

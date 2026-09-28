@@ -1,0 +1,18 @@
+AX₂: what is the molecular shape?	Linear.
+AX₃: what is the molecular shape?	Trigonal planar.
+AX₂E: what is the molecular shape?	Bent.
+AX₄: what is the molecular shape?	Tetrahedral.
+AX₃E: what is the molecular shape?	Trigonal pyramidal.
+AX₂E₂: what is the molecular shape?	Bent.
+AX₅: what is the molecular shape?	Trigonal bipyramidal.
+AX₄E: what is the molecular shape?	Seesaw.
+AX₃E₂: what is the molecular shape?	T-shaped.
+AX₂E₃: what is the molecular shape?	Linear.
+AX₆: what is the molecular shape?	Octahedral.
+AX₅E: what is the molecular shape?	Square-based pyramidal.
+AX₄E₂: what is the molecular shape?	Square planar.
+AX₇: what is the molecular shape?	Pentagonal bipyramidal.
+Why does the word “bent” not uniquely specify the parent geometry?	AX₂E is trigonal planar in electron geometry; AX₂E₂ is tetrahedral. Lone pairs count toward the parent shape.
+Why is AX₄E₂ square planar rather than tetrahedral?	Its six domains have an octahedral parent; two opposite lone pairs leave four atoms in a square.
+A molecule has X = 3. Is that enough to choose between trigonal planar, trigonal pyramidal, and T-shaped?	No. You also need E and therefore the parent shape.
+Why do lone pairs prefer equatorial sites in a trigonal-bipyramidal electron geometry?	An equatorial site has only two 90° interactions; an axial site has three.

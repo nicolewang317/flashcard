@@ -1,0 +1,194 @@
+Identify the linkage R–C(=O)–O–R′.	Ester.
+In a structural formula, what does R usually represent?	An unspecified organic group or the rest of the molecule.
+In R–C(=O)–O–R′, what do the parentheses mean?	The carbon is double-bonded to the oxygen inside the parentheses.
+Which functional group is –OH when attached to a carbon outside a carboxyl group?	Hydroxyl group.
+Is an ordinary alcohol –OH group charged as drawn?	No; it is polar but uncharged.
+Which functional group appears repeatedly on a typical sugar?	Hydroxyl.
+Identify the group in R–C(=O)–OH.	Carboxyl group.
+Why does a carboxyl group become negatively charged after donating H⁺?	It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).
+Which functional group occurs at the end of a fatty acid?	Carboxyl.
+Does a C=O bond alone identify a carboxyl group?	No; a carboxyl group also has –OH or –O⁻ on that same carbon.
+Identify the nitrogen-containing group in R–NH₂.	Amino group.
+Why can an amino group act as a base?	Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.
+Why can phosphate groups make a molecular region hydrophilic?	Their polar bonds and often negative charges interact favorably with water.
+Are all phosphate-containing groups always drawn with exactly the same charge?	No; charge depends on protonation and the groups attached.
+Which repeating region of DNA and RNA contains phosphate groups?	The sugar–phosphate backbone.
+In a typical phospholipid, which region contains phosphate?	The polar head region.
+Identify the functional group C=O.	Carbonyl.
+Why is the oxygen end of a carbonyl partially negative?	Oxygen attracts the shared electrons more strongly than carbon.
+Does the polarity of C=O mean that the group necessarily has a net charge?	No; partial charges differ from a net ionic charge.
+Identify the group –CH₃.	Methyl group.
+Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.
+Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?	–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.
+Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
+Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.
+What covalent linkage joins amino acids in a protein backbone?	Peptide bond, a type of amide linkage.
+Which groups supply the C and N of a peptide bond?	The carboxyl group supplies the carbonyl C; the amino group supplies N.
+Recognize R–C(=O)–NH–R′: what linkage is shown?	An amide linkage; it is a peptide linkage when joining amino-acid residues.
+In –C(=O)–NH–, which bond is the peptide bond itself?	The bond between the carbonyl carbon and nitrogen.
+Why is R–C(=O)–NH–R′ not a free amino group?	Its nitrogen is directly bonded to a carbonyl carbon as part of an amide.
+Why is the –C(=O)–NH– part of a peptide not a free carboxyl group?	The carbonyl carbon is bonded to nitrogen instead of –OH or –O⁻.
+Why does cleaving a peptide bond within a linear protein backbone split the chain?	It breaks a covalent link between successive amino-acid residues.
+What two functional groups react to form an ester in the course model?	A hydroxyl group and a carboxyl group.
+What functional groups are restored by the course model of ester hydrolysis?	A hydroxyl group and a carboxyl group.
+In a common glycerol-based phospholipid, what links a fatty acid to glycerol?	An ester linkage.
+How can you distinguish a free carboxyl group from an ester in a diagram?	A carboxyl has –C(=O)–OH/–O⁻; an ester has –C(=O)–O–R.
+Identify R–C(=O)–S–R′.	Thioester.
+Which is a thioester: R–S–R′ or R–C(=O)–S–R′?	R–C(=O)–S–R′; sulfur must be attached to the carbonyl carbon.
+What does the thioester in acetyl-CoA enable it to transfer?	An acetyl group to another molecule during metabolism.
+Identify the phosphate attachment in R–O–P(=O)(O⁻)–O⁻.	A phosphoester linkage.
+How is an alcohol-derived carbon group connected to phosphate in a phosphoester?	Through the alcohol oxygen: C–O–P, not a direct C–P bond.
+A nucleotide's sugar is attached to one phosphate through C–O–P. What linkage is that attachment?	Phosphoester.
+Identify sugar–O–P(=O)(O⁻)–O–sugar.	A phosphodiester connection.
+Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?	Phosphodiester linkage.
+Trace the connection between neighboring sugars in a nucleic-acid backbone.	3′-C–O–P–O–C-5′; the sugars are connected through phosphate, not directly by C–C.
+What feature distinguishes a phosphodiester from a phosphate monoester in a diagram?	Two organic groups are attached through oxygens to the same phosphate instead of one.
+What happens to a DNA strand when one internal phosphodiester linkage is hydrolyzed?	Its covalent backbone is cut at that position.
+Does a phosphodiester bond connect the paired bases across two DNA strands?	No; it connects successive nucleotides within one strand.
+Which linkage joins monosaccharides in disaccharides and polysaccharides?	Glycosidic linkage.
+What groups react in the simplified model of glycosidic-bond formation between sugars?	Hydroxyl groups on the two sugars, including the anomeric hydroxyl of one.
+What do the numbers in a glucose (1→4) linkage identify?	C1 of one glucose and C4 of the next, joined through oxygen.
+What does α or β specify in a glycosidic-linkage name?	The configuration at the participating anomeric carbon, carbon 1 in glucose.
+How do α and β substituents at C1 differ in a standard D-glucose Haworth drawing?	α is opposite the C5–CH₂OH group; β is on the same side.
+Which linkage forms the glucose main chain of starch?	α(1→4) glycosidic linkage.
+Which linkage forms an amylopectin branch point?	α(1→6) glycosidic linkage.
+Which linkage joins glucose residues in cellulose?	β(1→4) glycosidic linkage.
+Identify the glycosidic linkage in this glucose structure.	α(1→6) glycosidic linkage.
+Identify the glycosidic linkage in this glucose structure.	β(1→4) glycosidic linkage.
+Why does glycosidic-linkage geometry matter biologically?	It changes polymer shape and which enzymes can act on the polymer.
+Identify R–O–R′ when the oxygen joins two carbons and neither adjacent carbon is a carbonyl carbon.	Ether.
+What structural feature distinguishes an ester from an ether?	An ester has a carbonyl carbon directly bonded to the linking oxygen.
+After locating C=O, how do you distinguish an ester, amide, and thioester?	Inspect the linking atom bonded to the carbonyl C: O → ester, N → amide, S → thioester.
+How can you distinguish a carboxylic ester from a phosphoester by its central atom?	A carboxylic ester centers on a carbonyl carbon; a phosphoester centers on phosphorus.
+What makes a sugar C–O–C connection an O-glycosidic linkage?	It joins a sugar’s anomeric carbon through oxygen to another group.
+An unfamiliar molecule has –C(=O)–NH– within a chain. Does that alone prove the whole molecule is a protein?	No; it identifies an amide, but the rest of the structure is needed.
+An unfamiliar molecule has one ester linkage. Does that alone prove it is a triacylglycerol?	No; triacylglycerol requires glycerol attached to three fatty acids.
+Two free monomers join with net release of H₂O. What reaction type is modeled?	Condensation (dehydration).
+What happens to water in a hydrolysis reaction?	Water is consumed to cleave a covalent linkage.
+Why should a net dehydration equation not be treated as a complete cellular mechanism?	It summarizes the net change; cells use enzymes and often activated reactants.
+What three components make a nucleotide?	A phosphate group, a pentose sugar, and a nitrogenous base.
+Which base differs between DNA and RNA?	DNA uses thymine (T); RNA uses uracil (U). Both use A, C, and G.
+How do ribose and deoxyribose differ at the 2′ carbon?	Ribose has 2′-OH; deoxyribose has 2′-H.
+Which pentose carbon is attached to the nitrogenous base?	1′.
+Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?	3′.
+Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?	5′.
+What does the prime mark in 3′ indicate in this context?	Sugar-carbon numbering, distinguished from numbering in the base.
+How can you identify the two ends of the usual textbook nucleic-acid strand?	The 3′ end has a free 3′-OH; the 5′ end has the terminal 5′ position, commonly bearing phosphate.
+Why is nucleic-acid synthesis described as 5′ → 3′?	New nucleotides attach to the growing strand’s 3′-OH, extending its 3′ end.
+If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?	It stops because the next backbone linkage cannot form there.
+One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?	3′ → 5′: the strands are antiparallel.
+What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
+Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
+Which part of an amino acid varies and determines many of its properties?	The R group, or side chain.
+In this amino-acid structure, which substituent distinguishes one amino acid from another?	The R group attached to the α-carbon.
+An amino acid has –NH₃⁺, –COO⁻, and an uncharged R group. What is its net charge?	Zero: the +1 and −1 charges cancel, although both groups are charged.
+How do you distinguish the N-terminus from the C-terminus in a peptide backbone?	The N-terminus has the free backbone amino group; the C-terminus has the free backbone carboxyl group.
+To which end are new amino acids added during normal protein synthesis?	The C-terminal end.
+A peptide is drawn with its free backbone carboxyl group on the left. At which end is the next residue added?	At the left-hand C-terminus; chemical identity determines direction, not page orientation.
+How many peptide bonds join 10 amino acids in one unbranched, noncyclic chain?	9 peptide bonds (n − 1).
+Does an amino group on a side chain define the N-terminus?	No; the N-terminus is the free amino end of the backbone.
+Which disaccharide is made from two glucose units?	Maltose.
+Complete hydrolysis produces glucose and galactose from one course disaccharide. Which one?	Lactose.
+Complete hydrolysis produces glucose and fructose from one course disaccharide. Which one?	Sucrose.
+Which polysaccharide is used for glucose storage in plants?	Starch.
+What is cellulose's main course-level biological role?	Structural support in plant cell walls.
+What linkage difference distinguishes starch from cellulose even though both contain glucose?	Starch has α(1→4) main-chain linkages; cellulose has β(1→4) linkages.
+A plant glucose polymer has α(1→4) chains and α(1→6) branches. Identify it.	Amylopectin.
+An enzyme recognizes α(1→4) linkages. Does that guarantee it can cleave β(1→4)?	No; the different geometry may prevent recognition.
+An enzyme cleaves only α(1→4) bonds in amylopectin. Which branch-point linkage remains uncleaved by it?	α(1→6).
+Why are lipids not classified as conventional repeating-monomer polymers?	Their diverse structures do not generally consist of long chains of identical repeating monomers.
+What two regions make up a fatty acid?	A hydrocarbon region and a carboxyl group.
+Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?	No; the chain remains mainly nonpolar.
+How many hydroxyl groups does glycerol have before esterification?	Three.
+How many ester linkages attach fatty acids in one triacylglycerol?	Three.
+What is the primary role of triacylglycerols in this unit?	Energy storage.
+In the simplified formation of one triacylglycerol from glycerol and three free fatty acids, how many waters are released?	Three, one per ester linkage.
+What products result from complete hydrolysis of one triacylglycerol in the course model?	Glycerol and three fatty acids (or their carboxylates, depending on pH).
+What chemical features usually make a region hydrophilic?	Polar bonds or ionic charges.
+A molecule has a polar head and nonpolar tails. What term describes this arrangement?	Amphipathic.
+Which parts make the head region of phosphatidylcholine hydrophilic?	Its charged phosphate and choline groups, plus nearby polar oxygen-containing bonds.
+What backbone connects the head region and fatty-acid chains in a glycerol-based phospholipid?	Glycerol.
+Which head-group component is named in phosphatidylcholine?	Choline.
+How many fatty-acid tails does the typical glycerol-based phospholipid in this unit have?	Two.
+Can an overall electrically neutral phospholipid still have a hydrophilic head?	Yes; its head can contain polar bonds and opposite charges.
+What kind of fatty-acid double bond commonly creates a kink?	A cis double bond.
+Compared with straight tails, how do kinked tails affect close packing?	They make close packing more difficult.
+Why is an isolated single phospholipid sheet unstable when water surrounds it on both sides?	Its tails would be exposed to water on one side.
+How are phospholipid heads and tails oriented in a bilayer surrounded by water?	Heads face water on both sides; tails face inward, away from water.
+What is a leaflet?	One of the two phospholipid layers making up a bilayer.
+Which course aggregate has an aqueous cavity: a micelle or a liposome?	A liposome.
+Why do single-tail amphiphiles with bulky heads often favor micelles over bilayers?	Their cone-like shape packs well around a curved, tail-filled core.
+Why can closing a bilayer into a liposome be favorable?	It removes exposed edges where hydrophobic tails could contact water.
+A circular cross-section has one layer of heads outside and tails filling the center. Identify the aggregate.	Micelle.
+A circular cross-section has heads facing both the outside water and a water-filled center. Identify the aggregate.	Liposome.
+How many bilayers make up the mitochondrial double membrane?	Two separate bilayers, with an intermembrane space between them (four leaflets total).
+Does the nuclear envelope contain one bilayer or two?	Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.
+Name a course organelle surrounded by a single membrane bilayer.	ER, Golgi, or lysosome.
+What membrane property helps maintain cellular homeostasis?	Selective permeability.
+Which passes through a lipid bilayer more easily: O₂ or Na⁺?	O₂; it is small and nonpolar.
+Why does adding aquaporins increase water transport across a membrane?	Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.
+Why do ions usually need transport proteins to cross a lipid bilayer?	The hydrophobic interior is energetically unfavorable for charged, hydrated ions.
+What two membrane components together determine selective permeability?	The lipid bilayer and membrane proteins.
+How does a carrier move a solute differently from a channel?	A carrier binds the solute and changes conformation; a channel provides a selective pore.
+Does movement through a membrane protein automatically mean active transport?	No; facilitated diffusion also uses proteins.
+What distinguishes simple from facilitated diffusion?	Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.
+At diffusion equilibrium, do molecules stop moving?	No; movement continues in both directions with no net movement.
+What distinguishes active transport from passive transport?	Active transport uses energy to move a substance against its gradient.
+Where does primary active transport obtain energy directly?	ATP, in the course examples.
+Why can secondary active transport be active even without direct ATP use?	It couples downhill ion movement to uphill movement of another solute.
+What two differences make up an electrochemical gradient?	Ion concentration difference and electrical potential difference.
+A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?	From B to A, toward the higher concentration of nonpenetrating solute.
+An animal cell enters a hypotonic solution. What happens to its volume?	Water enters by osmosis; the cell swells and may lyse.
+Why do ion pumps help cells regulate their volume?	Ion concentrations affect osmotic water movement.
+What does a contractile vacuole do in a freshwater protist?	Collects and expels excess water.
+Why does a plant cell wall limit osmotic swelling?	As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.
+What protein framework helps maintain cell shape?	The cytoskeleton.
+What noncovalent interaction do water molecules form with one another?	Hydrogen bonds.
+In ΔG = ΔH − TΔS, what competes with the enthalpy change?	The entropy contribution −TΔS; T is absolute temperature and ΔS is the system’s entropy change.
+What temperature scale is required in ΔG = ΔH − TΔS?	Kelvin.
+At constant temperature and pressure, what does ΔG < 0 tell you?	The process is thermodynamically favorable in the forward direction; it says nothing about its speed.
+Does spontaneous mean instantaneous or fast?	No; spontaneity describes thermodynamic favorability, not rate.
+In the lecture model, why does water near exposed nonpolar tails have lower entropy?	Its possible arrangements and motion are more constrained around the nonpolar surfaces.
+Why does burying hydrophobic tails increase water entropy in the lecture model?	Less nonpolar surface contacts water, releasing constrained water molecules into the bulk.
+Why can lipid entropy decrease during assembly?	Lipids become more constrained in the organized aggregate.
+How can bilayer formation be favored even though lipid entropy decreases?	The increase in water entropy can outweigh the decrease in lipid entropy.
+How does a positive ΔS affect ΔG when ΔH and T are fixed?	It makes −TΔS negative and lowers ΔG.
+Does a positive ΔS alone guarantee a negative ΔG?	No; ΔH must also be included in ΔG = ΔH − TΔS.
+Does hydrophobic mean that water and a hydrocarbon have absolutely no interactions?	No; the interactions are less favorable than those available to polar or charged regions.
+At constant T and P, how does a spontaneous process with ΔG < 0 relate to the second law?	The entropy of the system plus surroundings increases; the system alone need not gain entropy.
+Lipids change entropy by −20 J/K and water by +50 J/K. What is their combined change?	+30 J/K: the water’s increase outweighs the lipid decrease.
+At 300 K, ΔH = +2 kJ and ΔS = +20 J/K. Calculate ΔG.	ΔG = 2 − 300 × 0.020 = −4 kJ; the process is favorable.
+Assuming ΔH and positive ΔS remain constant, how does increasing T affect ΔG?	It lowers ΔG because −TΔS becomes more negative.
+Why is the hydrophobic effect weaker as an explanation if no water is present?	The water-ordering and water-release mechanism no longer applies.
+Must an aggregate's molecules stay completely motionless for it to be stable?	No; thermodynamic stability is compatible with ongoing molecular motion.
+Is forming a bilayer the same chemical process as synthesizing a phospholipid?	No; assembly rearranges existing lipids, while synthesis forms covalent linkages.
+What geometry surrounds the α-carbon of a standard amino acid?	Tetrahedral: its four single bonds point in three-dimensional directions.
+A free amino acid has NH₃⁺ and COO⁻ groups. Can those two groups alone tell you whether its R group is nonpolar?	No. They belong to the common backbone; inspect the side chain separately.
+In a water-soluble globular protein, where would you usually expect nonpolar R groups?	Buried in the interior, reducing contact between nonpolar surfaces and water.
+Would a nonpolar R group facing lipid tails in a membrane protein necessarily be misplaced?	No. A lipid-facing nonpolar surface is favorable; the “buried core” rule assumes an aqueous environment.
+What weak attractions help stabilize closely packed nonpolar side chains after they come together?	Van der Waals attractions between nearby atoms.
+A negatively charged R group lies near a positively charged R group. What interaction can stabilize their association?	An ionic interaction (salt bridge).
+How can changing pH disrupt an ionic interaction between two R groups?	Changing protonation can change the charges needed for attraction.
+Which amino acid has H as its R group?	Glycine; its α-carbon is attached to two hydrogens.
+An amino-acid side chain closes a ring by bonding back to the backbone nitrogen. Which amino acid is it?	Proline.
+Why does glycine allow more backbone flexibility than proline?	Glycine has a tiny H side chain; proline’s ring constrains backbone rotation.
+Which special amino acid in this reading has a –CH₂–SH side chain?	Cysteine.
+How can two cysteine side chains covalently crosslink parts of a protein?	Their thiol groups can be oxidized to form an S–S disulfide bond, not S=S.
+Why is rotation around the peptide C–N bond restricted?	Resonance gives it partial double-bond character, making it shorter and more rigid than an ordinary C–N single bond.
+If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?	The N–Cα and Cα–carbonyl-C bonds can rotate, within steric constraints.
+Do N–Gly–Cys–Pro–C and N–Pro–Cys–Gly–C have the same primary structure?	No. They have the same composition but different amino-acid order from N to C.
+Why can replacing one amino acid change a protein’s function?	The new R group can alter interactions and folding, which may change the functional site.
+Which backbone groups form the hydrogen bonds that stabilize α-helices and β-sheets?	A carbonyl oxygen accepts a hydrogen bond from a backbone N–H group.
+A polypeptide segment forms a regular coil stabilized by backbone hydrogen bonds. Which secondary structure is it?	An α-helix.
+In a typical α-helix, where do the R groups project?	Outward from the helix axis, rather than into its backbone hydrogen-bonded core.
+Extended polypeptide strands align side by side and hydrogen-bond between their backbones. Which secondary structure results?	A β-sheet; the arrangement is pleated rather than helical.
+What is the key interaction distinction between secondary and tertiary protein structure?	Secondary structure uses local backbone hydrogen bonding; tertiary folding involves many interactions, especially among R groups.
+One continuous polypeptide folds into several helices and sheets. What level describes its overall 3D shape?	Tertiary structure; several folded regions do not by themselves mean several subunits.
+Two identical polypeptide chains associate into a functional protein. Does it have quaternary structure?	Yes. Quaternary structure requires multiple polypeptides, whether identical or different.
+A two-subunit protein separates into two still-folded chains. Which structural level has been lost?	Quaternary structure; each chain can retain its tertiary structure.
+How does a disulfide within one chain differ structurally from one joining two subunits?	The first stabilizes tertiary folding; the second can stabilize quaternary association.
+A protein unfolds on heating without breaking peptide bonds. Which structural level is retained?	Primary structure: the amino-acid sequence remains intact.
+Why can denaturation abolish binding even when the amino-acid sequence is unchanged?	The binding site may lose the 3D shape and chemical arrangement needed to fit its partner.
+Why are unfolded proteins often more prone to aggregation?	Normally buried hydrophobic regions become exposed and associate with those of other proteins.
+How can a chaperone reduce inappropriate aggregation during folding?	It temporarily shields exposed hydrophobic regions, allowing the polypeptide an opportunity to fold correctly.
+Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?	No. Chaperones assist folding; they do not rewrite the primary sequence.

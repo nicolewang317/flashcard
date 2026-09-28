@@ -1,0 +1,11 @@
+AX₂: which approximate X–A–X angle(s) are listed in your course table?	180°.
+AX₃: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₄: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₅: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₃E₂: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 180° (ax–ax).
+AX₂E₃: which approximate X–A–X angle(s) are listed in your course table?	180° (ax–ax).
+AX₆: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₄E₂: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+What ideal bond angles occur in pentagonal-bipyramidal AX₇?	72° and 144° between equatorial bonds; 90° axial–equatorial; 180° axial–axial.
+Derive the angle between adjacent equatorial bonds in ideal pentagonal-bipyramidal geometry.	360° ÷ 5 = 72° because five equatorial bonds are evenly spaced.
+Why should 109.5° not be treated as the exact bond angle of every AX₃E or AX₂E₂ molecule?	109.5° is the ideal tetrahedral domain angle. Lone pairs repel more strongly and usually compress bond angles.

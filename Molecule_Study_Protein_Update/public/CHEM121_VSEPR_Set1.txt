@@ -1,0 +1,15 @@
+What does A represent in AXₓEₑ notation?	The central atom.
+What does X count in the supplied VSEPR tables?	Atoms attached to the central atom.
+What does E count in the supplied VSEPR tables?	Lone pairs on the central atom.
+A central atom has four bonded atoms and one lone pair. How many electron domains determine its parent geometry?	Five domains (X + E = 4 + 1).
+Does the molecular shape name include the positions of lone pairs?	No. It describes the attached atoms; lone pairs still influence their arrangement.
+When do the parent shape and molecular shape have the same name in these tables?	When E = 0: every parent position is occupied by an attached atom.
+In VSEPR domain counting, is a double bond one region or two around A?	One bonding region; multiple bonds connect A to one attached atom in the table’s X count.
+E + X = 2. What is the parent shape?	Linear.
+E + X = 3. What is the parent shape?	Trigonal planar.
+E + X = 4. What is the parent shape?	Tetrahedral.
+E + X = 5. What is the parent shape?	Trigonal bipyramidal.
+E + X = 6. What is the parent shape?	Octahedral.
+E + X = 7. What is the parent shape?	Pentagonal bipyramidal.
+How do solid wedges and dashed wedges differ in a perspective bond drawing?	A solid wedge points toward you; a dashed wedge points away.
+Does rotating a perspective drawing change the molecular shape?	No. The relative three-dimensional arrangement stays the same.

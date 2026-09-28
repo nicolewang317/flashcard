@@ -1,0 +1,47 @@
+Why are lipids not classified as conventional repeating-monomer polymers?	Their diverse structures do not generally consist of long chains of identical repeating monomers.
+What two regions make up a fatty acid?	A hydrocarbon region and a carboxyl group.
+Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?	No; the chain remains mainly nonpolar.
+How many hydroxyl groups does glycerol have before esterification?	Three.
+How many ester linkages attach fatty acids in one triacylglycerol?	Three.
+What is the primary role of triacylglycerols in this unit?	Energy storage.
+In the simplified formation of one triacylglycerol from glycerol and three free fatty acids, how many waters are released?	Three, one per ester linkage.
+What products result from complete hydrolysis of one triacylglycerol in the course model?	Glycerol and three fatty acids (or their carboxylates, depending on pH).
+What chemical features usually make a region hydrophilic?	Polar bonds or ionic charges.
+A molecule has a polar head and nonpolar tails. What term describes this arrangement?	Amphipathic.
+Which parts make the head region of phosphatidylcholine hydrophilic?	Its charged phosphate and choline groups, plus nearby polar oxygen-containing bonds.
+What backbone connects the head region and fatty-acid chains in a glycerol-based phospholipid?	Glycerol.
+Which head-group component is named in phosphatidylcholine?	Choline.
+How many fatty-acid tails does the typical glycerol-based phospholipid in this unit have?	Two.
+Can an overall electrically neutral phospholipid still have a hydrophilic head?	Yes; its head can contain polar bonds and opposite charges.
+What kind of fatty-acid double bond commonly creates a kink?	A cis double bond.
+Compared with straight tails, how do kinked tails affect close packing?	They make close packing more difficult.
+Why is an isolated single phospholipid sheet unstable when water surrounds it on both sides?	Its tails would be exposed to water on one side.
+How are phospholipid heads and tails oriented in a bilayer surrounded by water?	Heads face water on both sides; tails face inward, away from water.
+What is a leaflet?	One of the two phospholipid layers making up a bilayer.
+Which course aggregate has an aqueous cavity: a micelle or a liposome?	A liposome.
+Why do single-tail amphiphiles with bulky heads often favor micelles over bilayers?	Their cone-like shape packs well around a curved, tail-filled core.
+Why can closing a bilayer into a liposome be favorable?	It removes exposed edges where hydrophobic tails could contact water.
+A circular cross-section has one layer of heads outside and tails filling the center. Identify the aggregate.	Micelle.
+A circular cross-section has heads facing both the outside water and a water-filled center. Identify the aggregate.	Liposome.
+How many bilayers make up the mitochondrial double membrane?	Two separate bilayers, with an intermembrane space between them (four leaflets total).
+Does the nuclear envelope contain one bilayer or two?	Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.
+Name a course organelle surrounded by a single membrane bilayer.	ER, Golgi, or lysosome.
+What membrane property helps maintain cellular homeostasis?	Selective permeability.
+Which passes through a lipid bilayer more easily: O₂ or Na⁺?	O₂; it is small and nonpolar.
+Why does adding aquaporins increase water transport across a membrane?	Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.
+Why do ions usually need transport proteins to cross a lipid bilayer?	The hydrophobic interior is energetically unfavorable for charged, hydrated ions.
+What two membrane components together determine selective permeability?	The lipid bilayer and membrane proteins.
+How does a carrier move a solute differently from a channel?	A carrier binds the solute and changes conformation; a channel provides a selective pore.
+Does movement through a membrane protein automatically mean active transport?	No; facilitated diffusion also uses proteins.
+What distinguishes simple from facilitated diffusion?	Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.
+At diffusion equilibrium, do molecules stop moving?	No; movement continues in both directions with no net movement.
+What distinguishes active transport from passive transport?	Active transport uses energy to move a substance against its gradient.
+Where does primary active transport obtain energy directly?	ATP, in the course examples.
+Why can secondary active transport be active even without direct ATP use?	It couples downhill ion movement to uphill movement of another solute.
+What two differences make up an electrochemical gradient?	Ion concentration difference and electrical potential difference.
+A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?	From B to A, toward the higher concentration of nonpenetrating solute.
+An animal cell enters a hypotonic solution. What happens to its volume?	Water enters by osmosis; the cell swells and may lyse.
+Why do ion pumps help cells regulate their volume?	Ion concentrations affect osmotic water movement.
+What does a contractile vacuole do in a freshwater protist?	Collects and expels excess water.
+Why does a plant cell wall limit osmotic swelling?	As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.
+What protein framework helps maintain cell shape?	The cytoskeleton.

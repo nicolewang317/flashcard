@@ -1,0 +1,62 @@
+What does A represent in AXₓEₑ notation?	The central atom.
+What does X count in the supplied VSEPR tables?	Atoms attached to the central atom.
+What does E count in the supplied VSEPR tables?	Lone pairs on the central atom.
+A central atom has four bonded atoms and one lone pair. How many electron domains determine its parent geometry?	Five domains (X + E = 4 + 1).
+Does the molecular shape name include the positions of lone pairs?	No. It describes the attached atoms; lone pairs still influence their arrangement.
+When do the parent shape and molecular shape have the same name in these tables?	When E = 0: every parent position is occupied by an attached atom.
+In VSEPR domain counting, is a double bond one region or two around A?	One bonding region; multiple bonds connect A to one attached atom in the table’s X count.
+E + X = 2. What is the parent shape?	Linear.
+E + X = 3. What is the parent shape?	Trigonal planar.
+E + X = 4. What is the parent shape?	Tetrahedral.
+E + X = 5. What is the parent shape?	Trigonal bipyramidal.
+E + X = 6. What is the parent shape?	Octahedral.
+E + X = 7. What is the parent shape?	Pentagonal bipyramidal.
+How do solid wedges and dashed wedges differ in a perspective bond drawing?	A solid wedge points toward you; a dashed wedge points away.
+Does rotating a perspective drawing change the molecular shape?	No. The relative three-dimensional arrangement stays the same.
+AX₂: what is the molecular shape?	Linear.
+AX₃: what is the molecular shape?	Trigonal planar.
+AX₂E: what is the molecular shape?	Bent.
+AX₄: what is the molecular shape?	Tetrahedral.
+AX₃E: what is the molecular shape?	Trigonal pyramidal.
+AX₂E₂: what is the molecular shape?	Bent.
+AX₅: what is the molecular shape?	Trigonal bipyramidal.
+AX₄E: what is the molecular shape?	Seesaw.
+AX₃E₂: what is the molecular shape?	T-shaped.
+AX₂E₃: what is the molecular shape?	Linear.
+AX₆: what is the molecular shape?	Octahedral.
+AX₅E: what is the molecular shape?	Square-based pyramidal.
+AX₄E₂: what is the molecular shape?	Square planar.
+AX₇: what is the molecular shape?	Pentagonal bipyramidal.
+Why does the word “bent” not uniquely specify the parent geometry?	AX₂E is trigonal planar in electron geometry; AX₂E₂ is tetrahedral. Lone pairs count toward the parent shape.
+Why is AX₄E₂ square planar rather than tetrahedral?	Its six domains have an octahedral parent; two opposite lone pairs leave four atoms in a square.
+A molecule has X = 3. Is that enough to choose between trigonal planar, trigonal pyramidal, and T-shaped?	No. You also need E and therefore the parent shape.
+Why do lone pairs prefer equatorial sites in a trigonal-bipyramidal electron geometry?	An equatorial site has only two 90° interactions; an axial site has three.
+AX₂: which approximate X–A–X angle(s) are listed in your course table?	180°.
+AX₃: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₄: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₅: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₃E₂: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 180° (ax–ax).
+AX₂E₃: which approximate X–A–X angle(s) are listed in your course table?	180° (ax–ax).
+AX₆: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₄E₂: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+What ideal bond angles occur in pentagonal-bipyramidal AX₇?	72° and 144° between equatorial bonds; 90° axial–equatorial; 180° axial–axial.
+Derive the angle between adjacent equatorial bonds in ideal pentagonal-bipyramidal geometry.	360° ÷ 5 = 72° because five equatorial bonds are evenly spaced.
+Why should 109.5° not be treated as the exact bond angle of every AX₃E or AX₂E₂ molecule?	109.5° is the ideal tetrahedral domain angle. Lone pairs repel more strongly and usually compress bond angles.
+For the AX₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Linear.
+For the AX₃ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal planar.
+For the AX₂E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Bent.
+For the AX₂E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal planar.
+For the AX₄ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Tetrahedral.
+For the AX₃E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal pyramidal.
+For the AX₃E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Tetrahedral.
+For the AX₂E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Bent.
+For the AX₅ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal bipyramidal.
+For the AX₄E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Seesaw.
+For the AX₄E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal bipyramidal.
+For the AX₃E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	T-shaped.
+For the AX₂E₃ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Linear.
+For the AX₆ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Octahedral.
+For the AX₅E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Square-based pyramidal.
+For the AX₅E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Octahedral.
+For the AX₄E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Square planar.
+For the AX₇ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Pentagonal bipyramidal.
