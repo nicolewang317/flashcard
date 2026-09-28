@@ -2,9 +2,9 @@
 
 A personal flashcard library for BIOL 112 and CHEM 121, with Supabase sign-in and automatic progress syncing between a phone and Mac.
 
-- 268 flashcards across ten sets and 156 scored questions, with original study diagrams.
+- 276 flashcards across ten sets and 163 scored questions, with original study diagrams.
 - Course and set mastery rings, plus structure-and-information popovers on highlighted answer terms.
-- BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients (28 cards).
+- BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients (36 cards).
 - Animated front/back cards, drag/swipe recall, favorites, and wrong-question practice.
 - Email + password registration and sign-in, without email links or verification codes. Each account has private study data protected by database row-level security.
 - An immutable review log keeps separate reviews from separate devices. Retries do not count twice.

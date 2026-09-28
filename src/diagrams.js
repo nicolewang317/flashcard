@@ -14,7 +14,24 @@ function carbonyl(right='O',end='R′',labels=false){
  if(labels)s+=note(285,25,'carbonyl')+note(430,237,'Inspect this linking atom');
  return s;
 }
+
+function transportPanel(x,width,opposite=false,labels=['A','B'],heading='') {
+ const left=x+width*.38,right=x+width*.68;
+ let s=heading?txt(x+width/2,20,heading,22):'';
+ s+='<rect x="'+(x+8)+'" y="106" width="'+(width-16)+'" height="66" rx="8" fill="#e8f1ff"/>';
+ s+='<rect x="'+(left-24)+'" y="92" width="'+(right-left+48)+'" height="94" rx="22" fill="#fff5df" stroke="#b58a3d" stroke-width="2"/>';
+ s+=txt(x+42,67,'Outside',17,MUTED)+txt(x+42,228,'Inside',17,MUTED);
+ for(const [xx,up,label,color]of [[left,false,labels[0],BLUE],[right,opposite,labels[1],'#a06517']]){
+  s+=line(xx,73,xx,211,color,4)+path(up?'M'+(xx-8)+' 86 L'+xx+' 73 L'+(xx+8)+' 86':'M'+(xx-8)+' 198 L'+xx+' 211 L'+(xx+8)+' 198',color,4);
+  s+=txt(xx,up?241:52,label,22,color);
+ }
+ return s;
+}
 const FIGURES={
+ 'transport-symport':{name:'Symport · intestinal uptake',group:'Membrane transport',caption:'Arrows show net transport across one membrane. Ratios and protein shape are schematic.',desc:'Outside above and inside below: Na plus and glucose both move inward through one coupled carrier.',explain:'Na⁺ and glucose enter together: symport. Downhill Na⁺ movement can drive uphill glucose uptake in intestinal epithelial cells.',draw:a=>transportPanel(125,470,false,['Na⁺','Glucose'],a?'Symport':'')},
+ 'transport-antiport':{name:'Antiport · cardiac exchanger',group:'Membrane transport',caption:'Example: forward-mode Na⁺/Ca²⁺ exchange during Ca²⁺ extrusion. The exchanger can reverse if driving forces change; ratios are not shown.',desc:'Outside above and inside below: Na plus moves inward and Ca 2 plus moves outward through one exchanger.',explain:'Opposite directions identify antiport. In this cardiac example, the Na⁺ gradient helps drive Ca²⁺ extrusion; direction depends on electrochemical driving forces.',draw:a=>transportPanel(125,470,true,['Na⁺','Ca²⁺'],a?'Antiport':'')},
+ 'transport-compare':{name:'Draw symport & antiport',group:'Membrane transport',caption:'A and B represent different solutes. Direction alone does not specify the energy source.',desc:'Left: A and B both move inward. Right: A moves inward while B moves outward.',explain:'Same-direction arrows mean symport; opposite-direction arrows mean antiport. For secondary active transport, label one solute downhill and its coupled partner uphill.',draw:()=>transportPanel(0,350,false,['A','B'],'Symporter')+transportPanel(370,350,true,['A','B'],'Antiporter')},
+
  ester:{name:'Ester',group:'Groups & linkages',caption:'R and R′ represent carbon-containing groups.',desc:'R bonded to carbonyl carbon, then oxygen, then R prime.',explain:'The carbonyl carbon is directly bonded to an oxygen that continues to R′: –C(=O)–O–. This joins glycerol and fatty acids.',draw:a=>carbonyl('O','R′',a)},
  ether:{name:'Ether',group:'Groups & linkages',caption:'Neither carbon next to the oxygen is a carbonyl carbon.',desc:'R bonded to oxygen bonded to R prime, with no adjacent carbonyl.',explain:'The oxygen lies between two carbon-containing groups, with no neighboring carbonyl carbon. That missing C=O distinguishes an ether from an ester.',draw:a=>txt(190,145,'R',45)+line(220,145,328,145)+txt(360,145,'O',45,BLUE)+line(392,145,498,145)+txt(540,145,'R′',45)+(a?note(360,220,'C–O–C; no adjacent carbonyl'):'')},
  amide:{name:'Amide / peptide',group:'Groups & linkages',caption:'An amide is a peptide linkage when it joins amino-acid residues.',desc:'R bonded to carbonyl carbon, then NH, then R prime.',explain:'Nitrogen is directly bonded to the carbonyl carbon. In a protein, this is the peptide connection, not a free amino group.',draw:a=>carbonyl('NH','R′',a)},

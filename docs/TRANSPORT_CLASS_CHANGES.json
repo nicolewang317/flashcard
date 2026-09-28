@@ -1,0 +1,283 @@
+[
+  {
+    "id": "1a1629ee8c2db1",
+    "before": {
+      "id": "1a1629ee8c2db1",
+      "front": "What distinguishes active transport from passive transport?",
+      "back": "Active transport uses energy to move a substance against its gradient.",
+      "prompt": "What distinguishes active transport from passive transport?",
+      "figure": "",
+      "kind": "Compare & distinguish",
+      "deck": 9,
+      "concept": "Membrane transport"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "0f1df698561d7c",
+    "before": {
+      "id": "0f1df698561d7c",
+      "front": "Why can secondary active transport be active even without direct ATP use?",
+      "back": "It couples downhill ion movement to uphill movement of another solute.",
+      "prompt": "Why can secondary active transport be active even without direct ATP use?",
+      "figure": "",
+      "kind": "Explain why",
+      "deck": 9,
+      "concept": "Membrane transport"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "d07897c49018fb",
+    "before": {
+      "id": "d07897c49018fb",
+      "front": "Where does primary active transport obtain energy directly?",
+      "back": "ATP, in the course examples.",
+      "prompt": "Where does primary active transport obtain energy directly?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 9,
+      "concept": "Membrane transport"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "edfb4e1bbe486a",
+    "before": {
+      "id": "edfb4e1bbe486a",
+      "front": "How does a carrier move a solute differently from a channel?",
+      "back": "A carrier binds the solute and changes conformation; a channel provides a selective pore.",
+      "prompt": "How does a carrier move a solute differently from a channel?",
+      "figure": "",
+      "kind": "Recall & application",
+      "deck": 9,
+      "concept": "Lipids and membranes"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "biol112-transport-cotransport-directions",
+    "before": {
+      "id": "biol112-transport-cotransport-directions",
+      "front": "Na⁺ and glucose move together into a cell. Is this symport or antiport?",
+      "prompt": "Na⁺ and glucose move together into a cell. Is this symport or antiport?",
+      "back": "Symport: the two substances cross in the same direction; antiport means opposite directions.",
+      "concept": "Cotransport direction",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "c88e0cacd1b53f",
+    "before": {
+      "id": "c88e0cacd1b53f",
+      "front": "What two membrane components together determine selective permeability?",
+      "back": "The lipid bilayer and membrane proteins.",
+      "prompt": "What two membrane components together determine selective permeability?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 9,
+      "concept": "Ether versus ester"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "9e9a02f1776b43",
+    "before": {
+      "id": "9e9a02f1776b43",
+      "front": "What distinguishes simple from facilitated diffusion?",
+      "back": "Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.",
+      "prompt": "What distinguishes simple from facilitated diffusion?",
+      "figure": "",
+      "kind": "Compare & distinguish",
+      "deck": 9,
+      "concept": "Bilayer structure and assembly"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "1c36c3640b6bce",
+    "before": {
+      "id": "1c36c3640b6bce",
+      "front": "Why does adding aquaporins increase water transport across a membrane?",
+      "back": "Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.",
+      "prompt": "Why does adding aquaporins increase water transport across a membrane?",
+      "figure": "",
+      "kind": "Recall & application",
+      "deck": 9,
+      "concept": "Bilayer structure and assembly"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "32c14042b89659",
+    "before": {
+      "id": "32c14042b89659",
+      "front": "What two differences make up an electrochemical gradient?",
+      "back": "Ion concentration difference and electrical potential difference.",
+      "prompt": "What two differences make up an electrochemical gradient?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 9,
+      "concept": "Lipids and membranes"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "7664b2ee0eb6e6",
+    "before": {
+      "id": "7664b2ee0eb6e6",
+      "front": "Why do ion pumps help cells regulate their volume?",
+      "back": "Ion concentrations affect osmotic water movement.",
+      "prompt": "Why do ion pumps help cells regulate their volume?",
+      "figure": "",
+      "kind": "Explain why",
+      "deck": 9,
+      "concept": "Lipids and membranes"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "54fbc9d4e2d114",
+    "before": {
+      "id": "54fbc9d4e2d114",
+      "front": "What does a contractile vacuole do in a freshwater protist?",
+      "back": "Collects and expels excess water.",
+      "prompt": "What does a contractile vacuole do in a freshwater protist?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 9,
+      "concept": "Lipids and membranes"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "6a065c7fe8a263",
+    "before": {
+      "id": "6a065c7fe8a263",
+      "front": "Why does a plant cell wall limit osmotic swelling?",
+      "back": "As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.",
+      "prompt": "Why does a plant cell wall limit osmotic swelling?",
+      "figure": "",
+      "kind": "Recall & application",
+      "deck": 9,
+      "concept": "Lipids and membranes"
+    },
+    "action": "Rewrite / integrate"
+  },
+  {
+    "id": "biol112-class-net-flux",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-net-flux",
+      "front": "In one second, 100 molecules cross A → B and 60 cross B → A. What is the net movement?",
+      "prompt": "In one second, 100 molecules cross A → B and 60 cross B → A. What is the net movement?",
+      "back": "40 molecules A → B; individual molecules still cross both ways.",
+      "concept": "Net versus two-way movement",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  },
+  {
+    "id": "biol112-class-uniporter",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-uniporter",
+      "front": "GLUT transports glucose without obligatorily coupling it to a second solute. Is it a uniporter, symporter, or antiporter?",
+      "prompt": "GLUT transports glucose without obligatorily coupling it to a second solute. Is it a uniporter, symporter, or antiporter?",
+      "back": "A uniporter: one solute species is transported without obligatory cotransport of another.",
+      "concept": "Uniporter recognition",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  },
+  {
+    "id": "biol112-class-gradient-energy",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-gradient-energy",
+      "front": "Does downhill solute movement automatically produce ATP or drive another solute uphill?",
+      "prompt": "Does downhill solute movement automatically produce ATP or drive another solute uphill?",
+      "back": "No. Downhill movement releases free energy; a coupling mechanism is needed to capture it for work, such as uphill cotransport.",
+      "concept": "Free energy and coupling",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  },
+  {
+    "id": "biol112-class-action-potential",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-action-potential",
+      "front": "Why should “electrochemical gradient” not be replaced by “action potential” in a transport explanation?",
+      "prompt": "Why should “electrochemical gradient” not be replaced by “action potential” in a transport explanation?",
+      "back": "An electrochemical gradient is a driving force from concentration and voltage differences; an action potential is a transient change in membrane voltage.",
+      "concept": "Gradient versus action potential",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  },
+  {
+    "id": "biol112-class-draw-cotransport",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-draw-cotransport",
+      "front": "Sketch a symporter and an antiporter across a membrane, using arrows for solutes A and B.",
+      "prompt": "Sketch a symporter and an antiporter across a membrane, using arrows for solutes A and B.",
+      "back": "Symporter: A and B cross in the same direction. Antiporter: they cross in opposite directions. Compare your arrows with the diagrams.",
+      "concept": "Drawing coupled transport",
+      "deck": 9,
+      "figure": "",
+      "kind": "Draw from memory",
+      "answerFigure": "transport-compare"
+    }
+  },
+  {
+    "id": "biol112-class-heart-antiport",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-heart-antiport",
+      "front": "Na⁺ enters a heart muscle cell as Ca²⁺ leaves via one exchanger. Identify the coupled transport pattern.",
+      "prompt": "During Ca²⁺ extrusion from a heart muscle cell, identify the coupled transport pattern shown.",
+      "back": "Antiport: Na⁺ enters while Ca²⁺ leaves through the Na⁺/Ca²⁺ exchanger.",
+      "concept": "Antiport in cardiac muscle",
+      "deck": 9,
+      "figure": "transport-antiport",
+      "kind": "Diagram recognition"
+    }
+  },
+  {
+    "id": "biol112-class-gas-cell-example",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-gas-cell-example",
+      "front": "O₂ enters a red blood cell directly through its lipid bilayer. Which transport mechanism is this?",
+      "prompt": "O₂ enters a red blood cell directly through its lipid bilayer. Which transport mechanism is this?",
+      "back": "Simple diffusion: a small nonpolar molecule crosses the lipid bilayer down its gradient.",
+      "concept": "Gas diffusion in human cells",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  },
+  {
+    "id": "biol112-class-glut-cell-example",
+    "action": "Add",
+    "after": {
+      "id": "biol112-class-glut-cell-example",
+      "front": "A human red blood cell takes up glucose down its gradient through GLUT1. Which transport mechanism is this?",
+      "prompt": "A human red blood cell takes up glucose down its gradient through GLUT1. Which transport mechanism is this?",
+      "back": "Carrier-mediated facilitated diffusion; GLUT1 provides the route without pumping glucose uphill.",
+      "concept": "Glucose transport in human cells",
+      "deck": 9,
+      "figure": "",
+      "kind": "Application"
+    }
+  }
+]
