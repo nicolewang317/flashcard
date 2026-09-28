@@ -1,2 +1,12 @@
 .sync-bar{display:flex;align-items:center;gap:8px;margin-bottom:24px;font-size:12px;color:var(--muted);min-height:36px}.sync-status{flex:1;line-height:1.5}.sync-dot{height:7px;width:7px;flex:none;border-radius:50%;background:#91a2b9}.sync-dot.synced{background:#189966}.sync-dot.syncing,.sync-dot.pending{background:#0865ff}.sync-dot.error{background:#c68024}.sync-account{border:1px solid var(--border);background:var(--pale);border-radius:9px;padding:8px 12px;min-height:36px;font-size:12px;color:var(--blue)}#signin-form{display:grid;gap:12px;margin:24px 0}#signin-form label{font-size:14px}#signin-email{width:100%}.account-footnote{border-top:1px solid var(--border);padding-top:15px;font-size:12px!important}#account-email{overflow-wrap:anywhere;font-weight:600}#account-dialog .dialog-actions{gap:10px}#account-dialog .dialog-actions button{font-size:13px;padding:10px 15px}@media(max-width:780px){.sync-bar{margin-bottom:19px;align-items:flex-start}.sync-dot{margin-top:12px}.sync-status{padding-top:7px}.sync-account{max-width:130px}.rail-bottom{flex-wrap:wrap;gap:7px}}
 main{margin:0 auto;}
+.account-brand{font-size:11px!important;font-weight:750;letter-spacing:2px;color:var(--blue)!important;margin:0 0 26px!important}
+body.account-required{background:#f3f6fd;overflow:hidden}
+body.account-required .shell{visibility:hidden}
+#account-dialog.account-entry{max-width:490px;padding:40px;border-radius:24px;box-shadow:0 24px 90px #15327315;max-height:calc(100dvh - 32px)}
+#account-dialog.account-entry::backdrop{background:radial-gradient(ellipse at 25% 15%,#e5edff 0,transparent 55%),#f3f6fd;backdrop-filter:none}
+#account-dialog.account-entry h2{font-size:34px;line-height:1.12;letter-spacing:-1px;margin:0 0 18px}
+#account-dialog.account-entry #signin-form{margin:28px 0 18px}
+#account-dialog.account-entry #signin-email{font-size:16px;min-height:50px;background:white}
+#account-dialog.account-entry #send-link{min-height:50px;font-size:15px}
+@media(max-width:540px){#account-dialog.account-entry{padding:30px 24px;width:calc(100% - 28px)}#account-dialog.account-entry h2{font-size:30px}.account-brand{margin-bottom:22px!important}}
