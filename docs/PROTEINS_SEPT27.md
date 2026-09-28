@@ -1,6 +1,6 @@
 # Proteins · September 27 prereading
 
-BIOL 112 → Proteins → Structure, folding & function
+BIOL 112 → Macromolecules → Proteins
 
 30张新卡，30道对应选择题。来源是你提供的 Chapter 5.1 pp.89–98 预习笔记；未直接读取未注明书名的教材原页。
 

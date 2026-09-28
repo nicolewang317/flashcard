@@ -81,4 +81,8 @@ See [all 516 card decisions](docs/CARD_AUDIT.md) or the searchable `docs/CARD_AU
 
 ## Protein prereading set
 
-BIOL 112 → Proteins → Structure, folding & function: 30 cards and 30 scored questions based on the supplied September 27 notes (labelled Ch. 5.1, pp. 89–98). See [all new cards](docs/PROTEINS_SEPT27.md). The original eight deck indices and all earlier card IDs stay stable.
+BIOL 112 → Macromolecules → Proteins: 30 cards and 30 scored questions based on the supplied September 27 notes (labelled Ch. 5.1, pp. 89–98). See [all new cards](docs/PROTEINS_SEPT27.md). The original eight deck indices and all earlier card IDs stay stable.
+
+## Navigation and mastery progress
+
+BIOL 112 → Macromolecules contains the original four sets plus Proteins. Every set shows known / total cards and a circular indicator: red below one third, yellow below 80%, green below completion, and a green star at 100%. A wrong answer or Forgot lowers progress; opening or favoriting a card does not raise it. Card IDs, indices and cloud history are unchanged.

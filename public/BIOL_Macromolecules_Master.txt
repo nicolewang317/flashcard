@@ -162,3 +162,33 @@ Assuming ΔH and positive ΔS remain constant, how does increasing T affect ΔG?
 Why is the hydrophobic effect weaker as an explanation if no water is present?	The water-ordering and water-release mechanism no longer applies.
 Must an aggregate's molecules stay completely motionless for it to be stable?	No; thermodynamic stability is compatible with ongoing molecular motion.
 Is forming a bilayer the same chemical process as synthesizing a phospholipid?	No; assembly rearranges existing lipids, while synthesis forms covalent linkages.
+What geometry surrounds the α-carbon of a standard amino acid?	Tetrahedral: its four single bonds point in three-dimensional directions.
+A free amino acid has NH₃⁺ and COO⁻ groups. Can those two groups alone tell you whether its R group is nonpolar?	No. They belong to the common backbone; inspect the side chain separately.
+In a water-soluble globular protein, where would you usually expect nonpolar R groups?	Buried in the interior, reducing contact between nonpolar surfaces and water.
+Would a nonpolar R group facing lipid tails in a membrane protein necessarily be misplaced?	No. A lipid-facing nonpolar surface is favorable; the “buried core” rule assumes an aqueous environment.
+What weak attractions help stabilize closely packed nonpolar side chains after they come together?	Van der Waals attractions between nearby atoms.
+A negatively charged R group lies near a positively charged R group. What interaction can stabilize their association?	An ionic interaction (salt bridge).
+How can changing pH disrupt an ionic interaction between two R groups?	Changing protonation can change the charges needed for attraction.
+Which amino acid has H as its R group?	Glycine; its α-carbon is attached to two hydrogens.
+An amino-acid side chain closes a ring by bonding back to the backbone nitrogen. Which amino acid is it?	Proline.
+Why does glycine allow more backbone flexibility than proline?	Glycine has a tiny H side chain; proline’s ring constrains backbone rotation.
+Which special amino acid in this reading has a –CH₂–SH side chain?	Cysteine.
+How can two cysteine side chains covalently crosslink parts of a protein?	Their thiol groups can be oxidized to form an S–S disulfide bond, not S=S.
+Why is rotation around the peptide C–N bond restricted?	Resonance gives it partial double-bond character, making it shorter and more rigid than an ordinary C–N single bond.
+If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?	The N–Cα and Cα–carbonyl-C bonds can rotate, within steric constraints.
+Do N–Gly–Cys–Pro–C and N–Pro–Cys–Gly–C have the same primary structure?	No. They have the same composition but different amino-acid order from N to C.
+Why can replacing one amino acid change a protein’s function?	The new R group can alter interactions and folding, which may change the functional site.
+Which backbone groups form the hydrogen bonds that stabilize α-helices and β-sheets?	A carbonyl oxygen accepts a hydrogen bond from a backbone N–H group.
+A polypeptide segment forms a regular coil stabilized by backbone hydrogen bonds. Which secondary structure is it?	An α-helix.
+In a typical α-helix, where do the R groups project?	Outward from the helix axis, rather than into its backbone hydrogen-bonded core.
+Extended polypeptide strands align side by side and hydrogen-bond between their backbones. Which secondary structure results?	A β-sheet; the arrangement is pleated rather than helical.
+What is the key interaction distinction between secondary and tertiary protein structure?	Secondary structure uses local backbone hydrogen bonding; tertiary folding involves many interactions, especially among R groups.
+One continuous polypeptide folds into several helices and sheets. What level describes its overall 3D shape?	Tertiary structure; several folded regions do not by themselves mean several subunits.
+Two identical polypeptide chains associate into a functional protein. Does it have quaternary structure?	Yes. Quaternary structure requires multiple polypeptides, whether identical or different.
+A two-subunit protein separates into two still-folded chains. Which structural level has been lost?	Quaternary structure; each chain can retain its tertiary structure.
+How does a disulfide within one chain differ structurally from one joining two subunits?	The first stabilizes tertiary folding; the second can stabilize quaternary association.
+A protein unfolds on heating without breaking peptide bonds. Which structural level is retained?	Primary structure: the amino-acid sequence remains intact.
+Why can denaturation abolish binding even when the amino-acid sequence is unchanged?	The binding site may lose the 3D shape and chemical arrangement needed to fit its partner.
+Why are unfolded proteins often more prone to aggregation?	Normally buried hydrophobic regions become exposed and associate with those of other proteins.
+How can a chaperone reduce inappropriate aggregation during folding?	It temporarily shields exposed hydrophobic regions, allowing the polypeptide an opportunity to fold correctly.
+Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?	No. Chaperones assist folding; they do not rewrite the primary sequence.

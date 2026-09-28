@@ -11,3 +11,29 @@ aside{overflow-y:auto;padding-top:25px}.course{padding:20px 12px 13px}.course st
 @media(max-width:780px){aside{padding:16px;overflow:visible}.course{display:none}.course-tree{margin:15px 0 0;gap:5px;display:block}.course-section{margin:0 0 5px}.course-heading{font-size:14px;padding:9px 3px}.unit-name{padding:0 3px 8px;font-size:12px}.unit-decks{flex-direction:row;border:0;overflow-x:auto;margin:0;gap:6px;padding-bottom:5px}.unit-decks .deck{flex:0 0 163px;border:1px solid var(--border);border-left:3px solid transparent;border-radius:8px;margin:0;font-size:12px}.unit-decks .deck.active{border-left-color:var(--blue)}.course-section.closed{display:block}.course-section.closed .course-heading{color:var(--muted)}.rail-bottom{padding-top:4px}.breadcrumbs{font-size:12px;margin-bottom:12px}.subheading{font-size:13px}.tab{font-size:13px;padding:12px 8px}.card-face{padding:17px 14px;min-height:370px}.card-face .card-content{min-height:285px;padding:12px 0}.card-face .question{font-size:21px}.card-face .answer{font-size:22px}.back .question{font-size:14px}.card-face .figure svg{max-height:195px}.rating-bar{gap:10px}.rating-bar button{min-width:0;flex:1;font-size:13px;padding:12px 8px}.card-footer{gap:7px;padding:8px 0}.star-button{font-size:12px}.card-footer .quiet{font-size:12px}.choices{grid-template-columns:1fr}.test-setup,.test-question,.test-summary{padding:21px 17px}.test-question h2{font-size:21px}.choice{font-size:15px;padding:12px}.test-form{gap:12px;display:block}.field{margin-bottom:15px}.test-actions{gap:10px;flex-wrap:wrap}.wrong-row{gap:10px}.wrong-row .wrong-front{font-size:15px}.wrong-row .secondary{font-size:12px;padding:9px}.wrong-overview{align-items:flex-start}.swipe-stamp{font-size:16px;padding:10px}.figure-menu button{font-size:12px}}
 @media(prefers-reduced-motion:reduce){.flip-card{transition:none}.drag-wrap{transition:none}}
 
+
+/* Course → unit → set: readable hierarchy and persistent mastery indicators. */
+@media(min-width:781px){.shell{grid-template-columns:316px minmax(0,1fr)}aside{padding-left:18px;padding-right:18px}.course-tree{gap:22px}.course{padding-bottom:7px}}
+.course-heading{font-size:21px;font-weight:800;letter-spacing:.2px;padding:13px 10px;color:var(--ink)}
+.unit-group{margin:0 0 6px 10px;border-left:2px solid #cad9ed;padding:0 0 0 11px}
+.unit-heading{padding:7px 9px 11px}
+.unit-kicker{display:block;font-size:10px;font-weight:750;letter-spacing:1.5px;color:var(--muted);margin-bottom:3px}
+.unit-name{font-size:19px;font-weight:750;letter-spacing:-.3px;line-height:1.25;color:var(--ink);padding:0;margin:0}
+.unit-decks{margin:0;border:0;gap:5px}
+.unit-decks .deck{display:grid;grid-template-columns:17px minmax(0,1fr) 44px;align-items:center;gap:8px;min-height:76px;width:100%;padding:10px 8px;margin:0;border:1px solid transparent;border-left:3px solid transparent;border-radius:10px;color:var(--ink);font-size:14px;line-height:1.4;font-weight:500}
+.unit-decks .deck:hover{background:#edf3fd}
+.unit-decks .deck.active{border-color:#c7dafa;border-left-color:var(--blue);background:#e5efff;font-weight:650}
+.deck-num{align-self:start;padding-top:2px;font-size:11px;color:#6981a5;font-weight:600}
+.deck-copy{min-width:0;display:flex;flex-direction:column;gap:5px}
+.deck-title{overflow-wrap:break-word}
+.deck-mastery{font-size:11px;font-weight:450;line-height:1.25;color:var(--muted)}
+.set-progress{display:block;width:44px;height:44px;flex:none;color:#bf4b46}
+.set-progress svg{width:100%;height:100%;display:block;overflow:visible}
+.set-progress text{font-size:10px;font-weight:750;fill:currentColor;letter-spacing:-.3px}
+.ring-track,.ring-fill{fill:none;stroke-width:3}
+.ring-track{stroke:currentColor;opacity:.18}.ring-fill{stroke:currentColor;stroke-linecap:round}
+.set-progress.yellow{color:#a16d00}.set-progress.green,.set-progress.complete{color:#178052}
+.set-progress.complete .ring-track{opacity:.1}
+.course-section.closed .unit-group{display:none}
+@media(max-width:1100px) and (min-width:781px){.shell{grid-template-columns:290px minmax(0,1fr)}aside{padding-left:12px;padding-right:12px}main{padding-left:23px;padding-right:23px}.unit-decks .deck{font-size:13px}}
+@media(max-width:780px){.course-heading{font-size:19px;padding:12px 3px}.unit-group{border-left:0;margin:0;padding:0}.unit-heading{padding:4px 3px 10px}.unit-name{font-size:18px}.unit-kicker{font-size:9px}.unit-decks{display:flex;flex-direction:row;gap:8px}.unit-decks .deck{flex:0 0 216px;grid-template-columns:15px minmax(0,1fr) 36px;min-height:82px;font-size:13px;border-color:var(--border);border-left-color:transparent;padding:9px;gap:7px}.set-progress{width:36px;height:36px}.deck-mastery{font-size:10px}}
