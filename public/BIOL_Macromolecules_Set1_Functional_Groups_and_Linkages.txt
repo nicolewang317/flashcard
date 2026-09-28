@@ -1,0 +1,155 @@
+In a structural formula, what does R usually represent?	An unspecified organic group or the rest of the molecule.
+In R–C(=O)–O–R′, what do the parentheses mean?	The carbon is double-bonded to the oxygen inside the parentheses.
+Which functional group is –OH when attached to a carbon outside a carboxyl group?	Hydroxyl group.
+Write the structural shorthand for a hydroxyl group.	–OH.
+What property does a hydroxyl group usually add to a carbon-containing region?	Polarity, allowing favorable interactions with water.
+How can a hydroxyl group interact with water?	By forming hydrogen bonds.
+Is an ordinary alcohol –OH group charged as drawn?	No; it is polar but uncharged.
+Which functional group appears repeatedly on a typical sugar?	Hydroxyl.
+Which functional group on glycerol reacts with a fatty acid?	A hydroxyl group.
+Identify the group in R–C(=O)–OH.	Carboxyl group.
+Write the two course-relevant forms of a carboxyl group.	–COOH and –COO⁻.
+What happens to –COOH when it donates H⁺?	It becomes –COO⁻.
+Why can a carboxyl group acquire a negative charge?	It can lose H⁺ while retaining the bonding electrons.
+Which is negatively charged: –COOH or –COO⁻?	–COO⁻.
+What is the name of the deprotonated form of a carboxyl group?	Carboxylate.
+A hydrocarbon chain ends in –C(=O)–OH. Which end can donate H⁺?	The carboxyl end.
+Which functional group occurs at the end of a fatty acid?	Carboxyl.
+Which group of an amino acid supplies the carbonyl carbon of a peptide linkage?	The carboxyl group.
+Does a C=O bond alone identify a carboxyl group?	No; a carboxyl group also has –OH or –O⁻ on that same carbon.
+Identify the nitrogen-containing group in R–NH₂.	Amino group.
+Write a neutral amino group attached to R.	R–NH₂.
+What does R–NH₂ become when it accepts H⁺?	R–NH₃⁺.
+Why can an amino group act as a base?	Its nitrogen can accept H⁺.
+Which is positively charged: R–NH₂ or R–NH₃⁺?	R–NH₃⁺.
+How does protonation of an amino group affect its interaction with water?	The resulting positive charge favors interaction with water.
+Which group of an amino acid supplies nitrogen to a peptide linkage?	The amino group.
+What atom surrounded by oxygens is a clue to a phosphate-containing group?	Phosphorus (P).
+Give one common schematic form of a phosphate monoester with negative charges.	R–O–P(=O)(O⁻)–O⁻; protonation can vary.
+Why can phosphate groups make a molecular region hydrophilic?	Their polar bonds and often negative charges interact favorably with water.
+Are all phosphate-containing groups always drawn with exactly the same charge?	No; charge depends on protonation and the groups attached.
+Which repeating region of DNA and RNA contains phosphate groups?	The sugar–phosphate backbone.
+In a typical phospholipid, which region contains phosphate?	The polar head region.
+Identify the functional group C=O.	Carbonyl.
+Write the structural shorthand for a carbonyl group.	C=O.
+Why is a carbonyl group polar?	Oxygen pulls the shared electrons more strongly than carbon.
+Which end of a carbonyl bond has a partial negative charge?	The oxygen end.
+Does the polarity of C=O mean that the group necessarily has a net charge?	No; partial charges differ from a net ionic charge.
+Which feature do carboxyl, ester, and amide groups share?	A carbonyl group.
+Identify the group –CH₃.	Methyl group.
+Write the structural shorthand for a methyl group.	–CH₃.
+Is a methyl group mainly polar or nonpolar?	Nonpolar.
+A region contains mostly C–C and C–H bonds. Is it mainly polar or nonpolar?	Nonpolar.
+Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.
+Which region interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH?	–CH₂–OH, because it contains a polar hydroxyl group.
+Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
+Can an uncharged group still be hydrophilic?	Yes; polar groups such as hydroxyls can interact with water.
+Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.
+Classify –COO⁻ as charged or uncharged and give the sign.	Charged; negative.
+Classify –NH₃⁺ as charged or uncharged and give the sign.	Charged; positive.
+Classify an alcohol –OH as charged or uncharged in its usual drawn form.	Uncharged.
+What covalent linkage joins amino acids in a protein backbone?	Peptide bond, a type of amide linkage.
+Which two functional groups react in the course model of peptide-bond formation?	A carboxyl group and an amino group.
+Recognize R–C(=O)–NH–R′: what linkage is shown?	An amide linkage; it is a peptide linkage when joining amino-acid residues.
+Write a typical peptide/amide linkage motif.	–C(=O)–NH–.
+In –C(=O)–NH–, which bond is the peptide bond itself?	The bond between the carbonyl carbon and nitrogen.
+Which class of macromolecule has repeated peptide bonds in its backbone?	Proteins.
+What units does a peptide bond connect in proteins?	Amino-acid residues.
+What net reaction type forms a peptide bond in the course's simplified model?	Condensation/dehydration.
+What net reaction type breaks a peptide bond?	Hydrolysis.
+What small molecule is consumed when a peptide bond is hydrolyzed?	Water.
+What small molecule is released in the simplified condensation of two free amino acids?	Water.
+Why is R–C(=O)–NH–R′ not a free amino group?	Its nitrogen is directly bonded to a carbonyl carbon as part of an amide.
+Why is the –C(=O)–NH– part of a peptide not a free carboxyl group?	The carbonyl carbon is bonded to nitrogen instead of –OH or –O⁻.
+How does R–NH₂ differ structurally from R–C(=O)–NH–R′?	Only the second has nitrogen directly attached to a carbonyl carbon.
+Does every nitrogen atom in a protein belong to a free amino group?	No; many are part of peptide linkages.
+Why do peptide bonds matter to protein structure at this course level?	They covalently join amino-acid residues into the backbone.
+Identify the linkage R–C(=O)–O–R′.	Ester.
+Write the structural motif of an ester linkage.	–C(=O)–O–.
+What two functional groups react to form an ester in the course model?	A hydroxyl group and a carboxyl group.
+Which linkage would you expect between glycerol and a fatty acid?	Ester linkage.
+Which glycerol group participates in ester formation?	A hydroxyl group.
+Which fatty-acid group participates in ester formation?	The carboxyl group.
+What is the net reaction type for hydroxyl + carboxyl → ester + water?	Condensation/dehydration, specifically esterification.
+What reaction breaks an ester linkage by adding water?	Hydrolysis.
+What functional groups are restored by the course model of ester hydrolysis?	A hydroxyl group and a carboxyl group.
+Which storage lipid contains three ester linkages between glycerol and fatty acids?	Triacylglycerol.
+In a common glycerol-based phospholipid, what links a fatty acid to glycerol?	An ester linkage.
+Why do ester linkages matter in triacylglycerols?	They covalently attach the fatty-acid chains to glycerol.
+A diagram contains R–O–C(=O)–R′. Which linkage is present?	Ester; reversing its drawing direction does not change the linkage.
+A diagram contains C=O, but no oxygen single-bonded to that carbon. Is that enough to identify an ester?	No; an ester requires the –C(=O)–O– connection.
+How can you distinguish a free carboxyl group from an ester in a diagram?	A carboxyl has –C(=O)–OH/–O⁻; an ester has –C(=O)–O–R.
+Identify R–C(=O)–S–R′.	Thioester.
+Write the structural motif of a thioester.	–C(=O)–S–.
+Which atom replaces the linking oxygen of an ester in a thioester?	Sulfur.
+What feature is shared by ester and thioester linkages?	A carbonyl carbon bonded to the linking oxygen or sulfur.
+Which is a thioester: R–S–R′ or R–C(=O)–S–R′?	R–C(=O)–S–R′; sulfur must be attached to the carbonyl carbon.
+What introductory biological role can thioesters have?	They can carry acyl groups, the R–C(=O)– portion, in metabolic reactions.
+Identify the phosphate attachment in R–O–P(=O)(O⁻)–O⁻.	A phosphoester linkage.
+In a phosphoester, how is the carbon-containing group connected to phosphate?	Through an alcohol-derived oxygen: C–O–P.
+What kind of group provides the alcohol-derived oxygen in a phosphoester?	A hydroxyl group.
+Which two groups are joined in the simple condensation model of phosphoester formation?	An alcohol hydroxyl group and a phosphate –OH group.
+What reaction type can cleave a phosphoester linkage using water?	Hydrolysis.
+A nucleotide's sugar is attached to one phosphate through C–O–P. What linkage is that attachment?	Phosphoester.
+How many alcohol-derived organic groups are ester-linked to the phosphate in a phosphate monoester?	One.
+How many alcohol-derived organic groups are ester-linked to the phosphate in a phosphodiester?	Two.
+Identify sugar–O–P(=O)(O⁻)–O–sugar.	A phosphodiester connection.
+Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?	Phosphodiester linkage.
+What units are connected by phosphodiester linkages in DNA and RNA?	Nucleotide residues.
+Which sugar-carbon positions are connected through phosphate in a normal nucleic-acid backbone?	The 3′ position of one sugar and the 5′ position of the next.
+Does a 3′–5′ phosphodiester linkage directly join two sugar carbons with a C–C bond?	No; the connection passes through O–P–O.
+How does a phosphodiester relate to phosphoester attachments?	One phosphate has two phosphoester attachments to organic groups.
+What feature distinguishes a phosphodiester from a phosphate monoester in a diagram?	Two organic groups are attached through oxygens to the same phosphate instead of one.
+Does any phosphate group in a drawing automatically identify a phosphodiester?	No; check for two ester attachments to organic groups.
+What reaction type can break the nucleic-acid backbone by using water?	Hydrolysis of a phosphodiester linkage.
+Which nucleic-acid group is required at the growing chain end to form the next phosphodiester linkage?	A usable 3′-OH.
+Why does the 3′–5′ connection give a nucleic-acid strand directionality?	The strand has chemically different 5′ and 3′ ends.
+Does a phosphodiester bond connect the paired bases across two DNA strands?	No; it connects successive nucleotides within one strand.
+Which linkage joins monosaccharides in disaccharides and polysaccharides?	Glycosidic linkage.
+What units does a glycosidic linkage connect in the carbohydrates in this course?	Monosaccharide residues.
+What groups react in the simplified model of glycosidic-bond formation between sugars?	Hydroxyl groups on the two sugars, including the anomeric hydroxyl of one.
+What reaction type joins two free sugars with net loss of water in the course model?	Condensation/dehydration.
+What reaction type breaks a glycosidic linkage using water?	Hydrolysis.
+In glucose polymers, what does the 1 in a (1→4) linkage identify?	Carbon 1 of one glucose residue.
+In glucose polymers, what does the 4 in a (1→4) linkage identify?	Carbon 4 of the other glucose residue.
+Does 1→4 mean that four glucose molecules are connected?	No; it identifies the linked carbon positions.
+In α(1→6), which carbon of the second glucose is linked?	Carbon 6.
+What does α or β specify in a glycosidic-linkage name?	The configuration at the participating anomeric carbon, carbon 1 in glucose.
+In a standard D-glucose Haworth drawing, how is an α substituent at C1 oriented relative to the C5–CH₂OH group?	On the opposite side of the ring.
+In a standard D-glucose Haworth drawing, how is a β substituent at C1 oriented relative to the C5–CH₂OH group?	On the same side of the ring.
+Can the numbers (1→4) alone distinguish starch from cellulose?	No; the α versus β configuration also matters.
+Which linkage makes the glucose main chain of starch?	α(1→4) glycosidic linkage.
+Which linkage forms an amylopectin branch point?	α(1→6) glycosidic linkage.
+Which linkage joins glucose residues in cellulose?	β(1→4) glycosidic linkage.
+A glucose diagram shows an α connection from C1 through oxygen to C6 of another glucose. Name the linkage.	α(1→6) glycosidic linkage.
+A glucose diagram shows a β connection from C1 through oxygen to C4 of another glucose. Name the linkage.	β(1→4) glycosidic linkage.
+Why does glycosidic-linkage geometry matter biologically?	It changes polymer shape and which enzymes can act on the polymer.
+Identify R–O–R′ when the oxygen joins two carbons and neither adjacent carbon is a carbonyl carbon.	Ether.
+Write the structural motif of an ether.	C–O–C, without an adjacent carbonyl carbon.
+What structural feature distinguishes an ester from an ether?	An ester has a carbonyl carbon directly bonded to the linking oxygen.
+Which is an ester: CH₃–O–CH₃ or CH₃–C(=O)–O–CH₃?	CH₃–C(=O)–O–CH₃.
+Which is an ether: CH₃–O–CH₃ or CH₃–C(=O)–O–CH₃?	CH₃–O–CH₃.
+What structural feature distinguishes an ester from an amide?	The atom attached to the carbonyl carbon is O in an ester and N in an amide.
+Classify CH₃–C(=O)–NH–CH₃.	Amide linkage.
+Classify CH₃–C(=O)–S–CH₃.	Thioester linkage.
+Classify CH₃–CH₂–O–CH₃.	Ether linkage.
+Classify CH₃–C(=O)–O–CH₂–CH₃.	Ester linkage.
+Classify CH₃–CH₂–NH₂: free amino group or amide?	Free amino group; no carbonyl carbon is directly bonded to its nitrogen.
+Which atom should you inspect next after finding C=O when comparing ester, amide, and thioester?	The single-bonded linking atom: O, N, or S, respectively.
+How can you distinguish a carboxylic ester from a phosphoester by its central atom?	A carboxylic ester centers on a carbonyl carbon; a phosphoester centers on phosphorus.
+Which linkage joins sugar units, and which joins amino-acid units?	Glycosidic joins sugar units; peptide joins amino-acid units.
+Is every C–O–C fragment enough to classify a whole linkage as an ordinary ether?	No; inspect context, including an adjacent carbonyl or a sugar's anomeric carbon.
+An unfamiliar molecule has –COO⁻ at one end and a long hydrocarbon region. Which end is more hydrophilic?	The –COO⁻ end.
+An unfamiliar molecule has –C(=O)–NH– within a chain. Does that alone prove the whole molecule is a protein?	No; it identifies an amide, but the rest of the structure is needed.
+An unfamiliar molecule has one ester linkage. Does that alone prove it is a triacylglycerol?	No; triacylglycerol requires glycerol attached to three fatty acids.
+What happens to water in a net dehydration reaction?	Water is released.
+What happens to water in a hydrolysis reaction?	Water is consumed to cleave a covalent linkage.
+Is hydrolysis simply separating molecules without changing covalent bonds?	No; it cleaves a covalent linkage using water.
+Why should a net dehydration equation not be treated as a complete cellular mechanism?	It summarizes the net change; cells use enzymes and often activated reactants.
+When identifying a linkage in a crowded diagram, what must you inspect beyond a single atom?	The connected neighboring atoms and bond orders.
+Draw an ester linkage from memory.	R–C(=O)–O–R′.
+Draw an amide linkage from memory.	R–C(=O)–NH–R′.
+Draw a thioester linkage from memory.	R–C(=O)–S–R′.
+Draw an ether linkage from memory.	R–O–R′, with no adjacent carbonyl carbon.
+Draw a phosphodiester connection between two sugars.	Sugar–O–P(=O)(O⁻)–O–sugar.
+Draw a carboxyl group after loss of H⁺.	R–C(=O)–O⁻, often shortened to R–COO⁻.

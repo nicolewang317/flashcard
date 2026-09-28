@@ -1,0 +1,24 @@
+What does A represent in AXₓEₑ notation?	The central atom.
+What does X count in the supplied VSEPR tables?	Atoms attached to the central atom.
+What does E count in the supplied VSEPR tables?	Lone pairs on the central atom.
+Which total selects the VSEPR parent shape?	E + X: lone pairs on A plus attached atoms.
+Does the molecular shape name include the positions of lone pairs?	No. It describes the attached atoms; lone pairs still influence their arrangement.
+When do the parent shape and molecular shape have the same name in these tables?	When E = 0: every parent position is occupied by an attached atom.
+Why can two molecules with the same parent shape have different molecular shapes?	Different numbers or positions of lone pairs leave different arrangements of attached atoms.
+In VSEPR domain counting, is a double bond one region or two around A?	One bonding region; multiple bonds connect A to one attached atom in the table’s X count.
+E + X = 2. What is the parent shape?	Linear.
+What E + X total gives a linear parent shape?	2.
+E + X = 3. What is the parent shape?	Trigonal planar.
+What E + X total gives a trigonal planar parent shape?	3.
+E + X = 4. What is the parent shape?	Tetrahedral.
+What E + X total gives a tetrahedral parent shape?	4.
+E + X = 5. What is the parent shape?	Trigonal bipyramidal.
+What E + X total gives a trigonal bipyramidal parent shape?	5.
+E + X = 6. What is the parent shape?	Octahedral.
+What E + X total gives a octahedral parent shape?	6.
+E + X = 7. What is the parent shape?	Pentagonal bipyramidal.
+What E + X total gives a pentagonal bipyramidal parent shape?	7.
+In a perspective drawing, what does a solid wedge mean?	A bond projecting toward the viewer.
+In a perspective drawing, what does a dashed wedge mean?	A bond projecting away from the viewer.
+What do two dots beside A usually represent in these diagrams?	One lone pair on the central atom.
+Does rotating a perspective drawing change the molecular shape?	No. The relative three-dimensional arrangement stays the same.

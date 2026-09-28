@@ -1,0 +1,57 @@
+About what fraction of cell mass is water in the course notes?	About 70%.
+What noncovalent interaction do water molecules form with one another?	Hydrogen bonds.
+Does calling water a universal solvent mean it dissolves every substance well?	No; nonpolar substances often dissolve poorly.
+What effect is central to spontaneous bilayer assembly in water?	The hydrophobic effect.
+Write the Gibbs free-energy equation used in this unit.	ΔG = ΔH − TΔS.
+What does ΔG represent?	The change in Gibbs free energy.
+What does ΔH represent?	The enthalpy change; heat absorbed or released at constant pressure.
+What does ΔS represent?	The entropy change of the system being considered.
+What temperature scale is required in ΔG = ΔH − TΔS?	Kelvin.
+What does ΔG < 0 mean at constant temperature and pressure?	The process is thermodynamically favorable in the stated direction.
+What does ΔG > 0 mean for the stated process under those conditions?	It is thermodynamically unfavorable without coupling or changed conditions.
+What does ΔG = 0 indicate at equilibrium?	No net thermodynamic driving force in either direction.
+Does spontaneous mean instantaneous or fast?	No; spontaneity describes thermodynamic favorability, not rate.
+Does spontaneous bilayer assembly require zero molecular motion?	No; molecular motion allows lipids to rearrange.
+What happens to nearby water when an isolated hydrophobic tail is exposed in the course model?	Water becomes more ordered and its motion is restricted.
+How does ordering water around exposed hydrophobic tails affect water entropy?	It lowers water entropy.
+When many hydrophobic tails aggregate, what happens to the total tail surface exposed to water?	It decreases.
+Why are water molecules released when hydrophobic tails aggregate?	Less hydrophobic surface remains exposed, so fewer waters must organize around it.
+What happens to the freedom of released water molecules?	They become freer to move and arrange themselves.
+What is the sign of ΔS_water during aggregation in the lecture model?	Positive.
+What is the sign of ΔS_lipids during ordered bilayer assembly in the lecture model?	Negative.
+Why can lipid entropy decrease during assembly?	Lipids become more constrained in the organized aggregate.
+In the lecture model, which entropy change is larger in magnitude during favorable assembly?	The increase in water entropy exceeds the decrease in lipid entropy.
+When adding water and lipid entropy changes, what is the sign of total ΔS in the lecture model?	Positive.
+Why is looking only at lipid order insufficient to judge bilayer formation?	The surrounding water contributes to the system's entropy change too.
+If ΔS is positive and T is positive, what is the sign of −TΔS?	Negative.
+How can an increase in total entropy favor bilayer assembly?	It makes −TΔS more negative, lowering ΔG.
+Does a positive ΔS alone guarantee a negative ΔG?	No; ΔH must also be included in ΔG = ΔH − TΔS.
+What is the lecture's main explanation for hydrophobic-tail aggregation?	Aggregation releases ordered water, increasing water entropy enough to favor assembly.
+Do tails aggregate because water forms covalent bonds between them?	No; assembly is driven by noncovalent interactions and the hydrophobic effect.
+Are strong special bonds between hydrophobic tails required to explain their aggregation?	No; the water-entropy contribution is central in the course model.
+Does hydrophobic mean that water and a hydrocarbon have absolutely no interactions?	No; the interactions are less favorable than those available to polar or charged regions.
+Why do phospholipid heads remain exposed to water during assembly?	Their polar or charged groups interact favorably with water.
+Why do tails become buried during assembly?	Burial reduces hydrophobic surface exposed to water.
+What connects amphipathic structure to the orientation of lipids in a bilayer?	Polar heads favor water contact while nonpolar tails become sheltered inside.
+A bilayer forms and the lipids become more ordered. Has the second law necessarily been violated?	No; water and the surroundings must also be included in the entropy accounting.
+What is the appropriate system for the lecture's lipid-versus-water entropy comparison?	The lipids together with the surrounding water.
+If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, what is their combined ΔS?	+30 J/K.
+If ΔS_lipids = −40 J/K and ΔS_water = +15 J/K, does their combined entropy increase?	No; the combined ΔS is −25 J/K.
+If T = 300 K and ΔS = +0.020 kJ/K, what is TΔS?	+6 kJ.
+If ΔH = +2 kJ and TΔS = +6 kJ, what is ΔG?	−4 kJ; favorable in the stated direction.
+If ΔH = +8 kJ and TΔS = +6 kJ, what is ΔG?	+2 kJ; unfavorable in the stated direction.
+Why must ΔH and TΔS use compatible units before subtraction?	Both terms must be expressed in the same energy units.
+Assuming ΔH and positive ΔS remain constant, how does increasing T affect ΔG?	It lowers ΔG because −TΔS becomes more negative.
+Does the lecture's hydrophobic-effect model require bilayer formation to release heat?	No; a sufficiently favorable entropy term can outweigh positive ΔH.
+What would exposing more hydrophobic tail area do to nearby water in the course model?	It would require more water ordering and reduce water entropy.
+Why does a bilayer's exposed edge tend to be unfavorable in water?	It exposes hydrophobic tails, promoting water ordering around them.
+Why is the hydrophobic effect weaker as an explanation if no water is present?	The water-ordering and water-release mechanism no longer applies.
+Must an aggregate's molecules stay completely motionless for it to be stable?	No; thermodynamic stability is compatible with ongoing molecular motion.
+Is forming a bilayer the same chemical process as synthesizing a phospholipid?	No; assembly rearranges existing lipids, while synthesis forms covalent linkages.
+What changes during esterification that need not change during bilayer assembly?	Covalent bonds change during esterification.
+An exam answer says “lipids order, so entropy decreases and assembly cannot occur.” What did it omit?	The entropy increase of water released from exposed hydrophobic surfaces.
+An exam answer says “ΔG is negative because the tails want to hide.” What mechanism should replace that wording?	Tail burial releases ordered water; the resulting entropy contribution lowers ΔG.
+After tails cluster, fewer waters contact them. Does that mean the released water disappears?	No; it returns to the surrounding bulk water.
+What is the immediate link between reduced tail exposure and increased water entropy?	Fewer water molecules remain constrained around hydrophobic surfaces.
+Does ΔG < 0 prove that ΔS_lipids > 0?	No; ΔG depends on enthalpy and the entropy change of the full system.
+Which term in ΔG = ΔH − TΔS captures the lecture's main water-release contribution?	The entropy term, −TΔS.

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Molecule Study: BIOL 112 and CHEM 121 flashcards, diagrams, scored tests, and automatic progress syncing across devices.">
+<title>Molecule Study</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23edf4ff'/%3E%3Cpath d='M20 32 44 15M20 32 44 49' stroke='%238db4ff' stroke-width='6'/%3E%3Cg fill='%230865ff'%3E%3Ccircle cx='20' cy='32' r='10'/%3E%3Ccircle cx='44' cy='15' r='10'/%3E%3Ccircle cx='44' cy='49' r='10'/%3E%3C/g%3E%3C/svg%3E">
+
+</head>
+<body>
+<div class="shell">
+<aside aria-label="Study sets">
+ <div class="brand"><svg viewBox="0 0 40 48" aria-hidden="true"><path d="M10 24 30 7M10 24 30 41" stroke="#9cbfff" stroke-width="5"/><g fill="#0865ff"><circle cx="10" cy="24" r="8"/><circle cx="30" cy="7" r="7"/><circle cx="30" cy="41" r="7"/></g></svg>Molecule</div>
+ <div class="course"><strong>Course practice</strong><p>Your subjects, one study space.</p></div><nav id="decks" class="course-tree" aria-label="Course library"></nav><div class="rail-bottom"><button id="export-open"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M12 16V3m-5 5 5-5 5 5M4 14v7h16v-7"/></svg>Export for Quizlet</button><button id="guide-open"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M4 4h6l2 2 2-2h6v16h-6l-2 2-2-2H4ZM12 6v16"/></svg>Study guide & backups</button><p>Study here. Continue anywhere.</p></div>
+</aside>
+<main><div id="sync-bar" class="sync-bar"></div>
+ <header><nav id="breadcrumbs" aria-label="Breadcrumb" class="breadcrumbs"></nav><h1 id="deck-title">Functional groups & linkages</h1><p class="subheading" id="unit-description"></p></header>
+ <div class="tabs" role="tablist" aria-label="Study mode" id="mode-tabs"></div><div id="storage-warning" class="warning" hidden>Browser storage is unavailable. This session works, but export a backup to keep your progress.</div>
+ <section id="panel" role="tabpanel" aria-labelledby="tab-flashcards"></section>
+</main>
+</div>
+<dialog id="export-dialog" aria-labelledby="export-heading"><button class="close" aria-label="Close export">×</button><h2 id="export-heading">Take your cards with you</h2><p>Each download uses a tab between question and answer, and one card per line. In Quizlet, choose <strong>Tab</strong> and <strong>New line</strong>. Text files include structural formulas; the drawn diagrams stay here.</p><div id="export-list"></div><p class="hint">The master combines all four sets. No account is needed to download.</p></dialog>
+<dialog id="guide-dialog" aria-labelledby="guide-heading">
+<button class="close" aria-label="Close study guide">×</button><h2 id="guide-heading">Make each review count.</h2>
+<p><strong>Flashcards:</strong> click the card or press Space to flip between front and back. The star at the bottom saves a favorite (收藏).</p>
+<p><strong>Swipe review:</strong> swipe or drag right if you remembered; left if you forgot. You can also use the visible buttons or ← / → keys. A left swipe records the card and its concept in your wrong-question deck.</p>
+<p><strong>Test:</strong> choose an answer and select Check answer. Scoring is automatic. An incorrect answer saves your choice, the correct answer, and the knowledge point. Test questions have curated choices; the question count shows the available bank for your selection.</p>
+<p><strong>Wrong deck (错题本):</strong> Needs review shows current misses. All missed keeps the history even after you get something right. A successful review resolves the current flag; it does not erase the mistake history.</p>
+<p><strong>Scheduling:</strong> Forgot is due after 10 minutes. Remembered is due after 1, 3, 7, 14, then 30 days. These are self-ratings; tests are scored against an answer key.</p>
+<h3>CHEM 121 angle convention</h3><p>The four supplied VSEPR tables are the source. Questions explicitly asking for a table angle use its approximate values—such as 109.5° for tetrahedral-derived shapes. These are not exact measured angles for every molecule. Diagrams are perspective projections, not drawings from which to measure angles.</p>
+<h3>Your progress</h3><p>Sign in with the same email on your Mac and phone for automatic syncing. Guest progress stays on this device. To bring your original Mac progress here, export it from the old website and choose Restore backup below. Existing cloud cards are kept; missing cards are added.</p>
+<div class="dialog-actions"><button id="backup-export" class="secondary">Export progress</button><label class="secondary file-label" for="backup-file">Restore backup</label><input id="backup-file" type="file" accept=".json,application/json" class="visually-hidden"></div><p id="backup-message" class="status-note" role="status"></p>
+<h3>Course sources</h3><p>BIOL 112: the supplied September 18 and 21 Notes content and your study brief. CHEM 121: the four supplied parent-shape, molecular-shape, and approximate-angle tables. Original diagrams redraw these concepts.</p><button id="guide-download" class="secondary">Download BIOL active-recall guide</button>
+</dialog>
+<div id="toast" class="toast" role="status" hidden></div>
+<script type="module" src="/src/app.js"></script>
+</body></html>

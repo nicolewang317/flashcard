@@ -1,0 +1,85 @@
+What three components make a nucleotide?	A phosphate group, a pentose sugar, and a nitrogenous base.
+What is the name of a nucleic-acid building block containing phosphate, pentose, and base?	Nucleotide.
+Which pentose sugar occurs in DNA?	Deoxyribose.
+Which nucleic acid contains deoxyribose?	DNA.
+Which pentose sugar occurs in RNA?	Ribose.
+Which nucleic acid contains ribose?	RNA.
+Which bases occur in DNA?	A, T, G, and C.
+Which bases occur in RNA?	A, U, G, and C.
+Which base in RNA takes the place of thymine in the usual base list?	Uracil (U).
+Which sugar position distinguishes ribose from deoxyribose?	The 2′ carbon.
+What is attached to the 2′ carbon in ribose that is absent at that position in deoxyribose?	An –OH group; deoxyribose has H instead.
+A nucleotide's sugar has H rather than OH at 2′. Which course nucleic acid does it match?	DNA.
+A nucleotide's sugar has OH at 2′. Which course nucleic acid does it match?	RNA.
+Which pentose carbon is attached to the nitrogenous base?	1′.
+What component attaches to the sugar at 1′?	The nitrogenous base.
+Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?	3′.
+Why is the terminal 3′-OH important?	It is needed to form the next backbone linkage during chain extension.
+Which numbered sugar carbon is a ring carbon connected to the outside-ring 5′ carbon?	4′.
+Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?	5′.
+A sugar diagram shows CH₂ outside the ring connected to phosphate. Which carbon is this?	5′.
+What does the prime mark in 3′ indicate in this context?	Sugar-carbon numbering, distinguished from numbering in the base.
+What defines the 5′ end of a nucleic-acid strand?	The end corresponding to the terminal sugar's 5′ position, often bearing phosphate.
+What defines the 3′ end of a nucleic-acid strand?	The end corresponding to the terminal sugar's 3′ position, normally bearing a free 3′-OH.
+To which end is a nucleotide added during normal nucleic-acid synthesis?	The 3′ end.
+In which direction is a nucleic-acid strand synthesized?	5′→3′.
+Why is extension at the 3′ end described as 5′→3′ synthesis?	The chain grows from its existing 5′ end toward its extending 3′ end.
+If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?	It stops because the next backbone linkage cannot form there.
+A strand reads 5′–A–G–C–3′. At which displayed end is the next nucleotide added?	The right-hand end, at the terminal 3′-OH.
+A strand is drawn 3′ on the left and 5′ on the right. Which end can extend?	The left-hand 3′ end.
+Does rotating a strand diagram change its chemical 5′→3′ direction?	No; direction is determined by the end chemistry, not page orientation.
+What does antiparallel mean for DNA's two strands?	They run in opposite 5′→3′ directions.
+One DNA strand runs 5′→3′ from left to right. How does the other run from left to right?	3′→5′.
+What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
+Does polymer polarity mean that one DNA end is positive and the other is negative?	No; it refers here to chemically different ends.
+Which linkage holds successive nucleotides together within one strand?	Phosphodiester linkage.
+Which components alternate along a nucleic-acid backbone?	Sugars and phosphates.
+Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
+What four groups attach to an amino acid's α-carbon in the general course structure?	An amino group, a carboxyl group, H, and an R group.
+Which part of an amino acid varies and determines many of its properties?	The R group, or side chain.
+What is the α-carbon in the general amino-acid structure?	The central carbon bonded to the amino group, carboxyl group, H, and R group.
+Identify the building block H₂N–CH(R)–COOH.	An amino acid in its neutral schematic form.
+Draw the general neutral schematic structure of an amino acid.	H₂N–CH(R)–COOH.
+How can the amino and carboxyl groups appear in an ionized amino-acid drawing?	As –NH₃⁺ and –COO⁻.
+If two amino acids have different R groups, must their general backbone groups differ?	No; the R groups vary while the general backbone arrangement is shared.
+Which end of a polypeptide has the free backbone amino group?	The N-terminus.
+Which end of a polypeptide has the free backbone carboxyl group?	The C-terminus.
+In which direction are protein sequences conventionally written?	N-terminus→C-terminus.
+To which end are new amino acids added during normal protein synthesis?	The C-terminal end.
+A peptide is drawn with its N-terminus on the right. Which end normally grows?	The left-hand C-terminal end.
+Which groups connect when two amino acids form a peptide linkage in the course model?	The carboxyl group of one and amino group of the other.
+What reaction type breaks a peptide chain into smaller pieces using water?	Hydrolysis.
+What reaction type describes joining free amino acids with net loss of water?	Condensation/dehydration in the simplified course model.
+How many peptide bonds join three amino-acid residues in one unbranched chain?	Two.
+How many peptide bonds join n amino-acid residues in one unbranched chain?	n − 1.
+Does an amino group on a side chain define the N-terminus?	No; the N-terminus is the free amino end of the backbone.
+Compare the extending ends of nucleic acids and proteins.	Nucleic acids extend at the 3′ end; proteins extend at the C-terminal end.
+What simple sugar building blocks form disaccharides and polysaccharides?	Monosaccharides.
+To which broad biomolecule class does a monosaccharide belong?	Carbohydrates.
+Which linkage connects the sugar units of a disaccharide?	Glycosidic linkage.
+Which disaccharide is made from two glucose units?	Maltose.
+Which monosaccharides make maltose?	Glucose + glucose.
+Which disaccharide contains glucose and galactose?	Lactose.
+Which monosaccharides make lactose?	Glucose + galactose.
+Which disaccharide contains glucose and fructose?	Sucrose.
+Which monosaccharides make sucrose?	Glucose + fructose.
+Complete hydrolysis produces glucose and galactose from one course disaccharide. Which one?	Lactose.
+Complete hydrolysis produces glucose and fructose from one course disaccharide. Which one?	Sucrose.
+Which polysaccharide is used for glucose storage in plants?	Starch.
+Which main-chain linkage is characteristic of starch?	α(1→4).
+Which branched component of starch contains α(1→6) branch points?	Amylopectin.
+Which linkage forms the main chains of amylopectin?	α(1→4).
+Which linkage marks the branch points of amylopectin?	α(1→6).
+Are starch and amylopectin entirely separate categories?	No; amylopectin is a branched component of starch.
+Which glucose polymer contains β(1→4) linkages?	Cellulose.
+What is cellulose's main course-level biological role?	Structural support in plant cell walls.
+Which plant polysaccharide forms long structural fibres?	Cellulose.
+What linkage difference distinguishes starch main chains from cellulose?	Starch has α(1→4); cellulose has β(1→4).
+Do starch and cellulose differ because one uses glucose and the other does not?	No; both use glucose, but their linkage configurations differ.
+A plant glucose polymer has α(1→4) chains and α(1→6) branches. Identify it.	Amylopectin.
+A plant glucose polymer has β(1→4) linkages and forms fibres. Identify it.	Cellulose.
+Why can two polymers made from glucose have different biological roles?	Different linkage geometries produce different structures and enzyme recognition.
+An enzyme recognizes α(1→4) linkages. Does that guarantee it can cleave β(1→4)?	No; the different geometry may prevent recognition.
+An enzyme cleaves only α(1→4) bonds in amylopectin. Which branch-point linkage remains uncleaved by it?	α(1→6).
+After complete hydrolysis, both starch and cellulose yield glucose. Does that establish that their linkages were identical?	No; monomer identity does not specify linkage geometry.
+What distinguishes a branch connection in amylopectin from its main-chain connection?	The second glucose contributes C6 at a branch instead of C4.

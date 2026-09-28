@@ -1,0 +1,137 @@
+What does A represent in AXₓEₑ notation?	The central atom.
+What does X count in the supplied VSEPR tables?	Atoms attached to the central atom.
+What does E count in the supplied VSEPR tables?	Lone pairs on the central atom.
+Which total selects the VSEPR parent shape?	E + X: lone pairs on A plus attached atoms.
+Does the molecular shape name include the positions of lone pairs?	No. It describes the attached atoms; lone pairs still influence their arrangement.
+When do the parent shape and molecular shape have the same name in these tables?	When E = 0: every parent position is occupied by an attached atom.
+Why can two molecules with the same parent shape have different molecular shapes?	Different numbers or positions of lone pairs leave different arrangements of attached atoms.
+In VSEPR domain counting, is a double bond one region or two around A?	One bonding region; multiple bonds connect A to one attached atom in the table’s X count.
+E + X = 2. What is the parent shape?	Linear.
+What E + X total gives a linear parent shape?	2.
+E + X = 3. What is the parent shape?	Trigonal planar.
+What E + X total gives a trigonal planar parent shape?	3.
+E + X = 4. What is the parent shape?	Tetrahedral.
+What E + X total gives a tetrahedral parent shape?	4.
+E + X = 5. What is the parent shape?	Trigonal bipyramidal.
+What E + X total gives a trigonal bipyramidal parent shape?	5.
+E + X = 6. What is the parent shape?	Octahedral.
+What E + X total gives a octahedral parent shape?	6.
+E + X = 7. What is the parent shape?	Pentagonal bipyramidal.
+What E + X total gives a pentagonal bipyramidal parent shape?	7.
+In a perspective drawing, what does a solid wedge mean?	A bond projecting toward the viewer.
+In a perspective drawing, what does a dashed wedge mean?	A bond projecting away from the viewer.
+What do two dots beside A usually represent in these diagrams?	One lone pair on the central atom.
+Does rotating a perspective drawing change the molecular shape?	No. The relative three-dimensional arrangement stays the same.
+AX₂: what is the molecular shape?	Linear.
+AX₂: what is the parent shape?	Linear.
+AX₂: how many lone pairs are on A?	0.
+Linear with a linear parent: what are X and E?	X = 2, E = 0.
+AX₃: what is the molecular shape?	Trigonal planar.
+AX₃: what is the parent shape?	Trigonal planar.
+AX₃: how many lone pairs are on A?	0.
+Trigonal planar with a trigonal planar parent: what are X and E?	X = 3, E = 0.
+AX₂E: what is the molecular shape?	Bent.
+AX₂E: what is the parent shape?	Trigonal planar.
+AX₂E: how many lone pairs are on A?	1.
+Bent with a trigonal planar parent: what are X and E?	X = 2, E = 1.
+AX₄: what is the molecular shape?	Tetrahedral.
+AX₄: what is the parent shape?	Tetrahedral.
+AX₄: how many lone pairs are on A?	0.
+Tetrahedral with a tetrahedral parent: what are X and E?	X = 4, E = 0.
+AX₃E: what is the molecular shape?	Trigonal pyramidal.
+AX₃E: what is the parent shape?	Tetrahedral.
+AX₃E: how many lone pairs are on A?	1.
+Trigonal pyramidal with a tetrahedral parent: what are X and E?	X = 3, E = 1.
+AX₂E₂: what is the molecular shape?	Bent.
+AX₂E₂: what is the parent shape?	Tetrahedral.
+AX₂E₂: how many lone pairs are on A?	2.
+Bent with a tetrahedral parent: what are X and E?	X = 2, E = 2.
+AX₅: what is the molecular shape?	Trigonal bipyramidal.
+AX₅: what is the parent shape?	Trigonal bipyramidal.
+AX₅: how many lone pairs are on A?	0.
+Trigonal bipyramidal with a trigonal bipyramidal parent: what are X and E?	X = 5, E = 0.
+AX₄E: what is the molecular shape?	Seesaw.
+AX₄E: what is the parent shape?	Trigonal bipyramidal.
+AX₄E: how many lone pairs are on A?	1.
+Seesaw with a trigonal bipyramidal parent: what are X and E?	X = 4, E = 1.
+AX₃E₂: what is the molecular shape?	T-shaped.
+AX₃E₂: what is the parent shape?	Trigonal bipyramidal.
+AX₃E₂: how many lone pairs are on A?	2.
+T-shaped with a trigonal bipyramidal parent: what are X and E?	X = 3, E = 2.
+AX₂E₃: what is the molecular shape?	Linear.
+AX₂E₃: what is the parent shape?	Trigonal bipyramidal.
+AX₂E₃: how many lone pairs are on A?	3.
+Linear with a trigonal bipyramidal parent: what are X and E?	X = 2, E = 3.
+AX₆: what is the molecular shape?	Octahedral.
+AX₆: what is the parent shape?	Octahedral.
+AX₆: how many lone pairs are on A?	0.
+Octahedral with a octahedral parent: what are X and E?	X = 6, E = 0.
+AX₅E: what is the molecular shape?	Square-based pyramidal.
+AX₅E: what is the parent shape?	Octahedral.
+AX₅E: how many lone pairs are on A?	1.
+Square-based pyramidal with a octahedral parent: what are X and E?	X = 5, E = 1.
+AX₄E₂: what is the molecular shape?	Square planar.
+AX₄E₂: what is the parent shape?	Octahedral.
+AX₄E₂: how many lone pairs are on A?	2.
+Square planar with a octahedral parent: what are X and E?	X = 4, E = 2.
+AX₇: what is the molecular shape?	Pentagonal bipyramidal.
+AX₇: what is the parent shape?	Pentagonal bipyramidal.
+AX₇: how many lone pairs are on A?	0.
+Pentagonal bipyramidal with a pentagonal bipyramidal parent: what are X and E?	X = 7, E = 0.
+Which two AXE formulas in your table give a bent molecular shape?	AX₂E and AX₂E₂.
+Which two AXE formulas in your table give a linear molecular shape?	AX₂ and AX₂E₃.
+Why is AX₄E₂ square planar rather than tetrahedral?	Its six domains have an octahedral parent; two opposite lone pairs leave four atoms in a square.
+A molecule has X = 3. Is that enough to choose between trigonal planar, trigonal pyramidal, and T-shaped?	No. You also need E and therefore the parent shape.
+In the trigonal-bipyramidal-derived shapes shown, where are lone pairs placed first?	In equatorial positions.
+AX₂: which approximate X–A–X angle(s) are listed in your course table?	180°.
+AX₃: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₂E: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₄: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₃E: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₂E₂: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₅: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₄E: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₃E₂: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 180° (ax–ax).
+AX₂E₃: which approximate X–A–X angle(s) are listed in your course table?	180° (ax–ax).
+AX₆: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₅E: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₄E₂: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₇: which approximate X–A–X angle(s) are listed in your course table?	72° (adjacent eq–eq), 90° (ax–eq), 180° (ax–ax).
+What does ax–eq mean in the angle table?	An angle between an axial bond and an equatorial bond.
+What does eq–eq mean in the angle table?	An angle between two equatorial bonds.
+What does ax–ax mean in the angle table?	An angle between the two axial bonds.
+In a trigonal bipyramid, what is the axial–equatorial angle?	90° in the ideal parent geometry.
+In a trigonal bipyramid, what is the equatorial–equatorial angle?	120° in the ideal parent geometry.
+In a trigonal bipyramid, what is the axial–axial angle?	180° in the ideal parent geometry.
+For AX₇, what angle separates adjacent equatorial bonds in the supplied table?	72°; five equal sectors divide 360° around the equatorial plane.
+For AX₇, what is the axial–equatorial angle in the supplied table?	90°.
+Does the table’s 109.5° entry mean every AX₂E₂ molecule has an exact 109.5° angle?	No. It is the table’s approximate parent-shape value; actual angles can be distorted by lone pairs.
+Why can lone pairs change actual bond angles from the parent-shape values?	Lone-pair electron density changes repulsions between the domains.
+For the AX₂ diagram, identify the molecular shape.	Linear.
+For the AX₂ diagram, identify the parent shape.	Linear.
+For the AX₃ diagram, identify the molecular shape.	Trigonal planar.
+For the AX₃ diagram, identify the parent shape.	Trigonal planar.
+For the AX₂E diagram, identify the molecular shape.	Bent.
+For the AX₂E diagram, identify the parent shape.	Trigonal planar.
+For the AX₄ diagram, identify the molecular shape.	Tetrahedral.
+For the AX₄ diagram, identify the parent shape.	Tetrahedral.
+For the AX₃E diagram, identify the molecular shape.	Trigonal pyramidal.
+For the AX₃E diagram, identify the parent shape.	Tetrahedral.
+For the AX₂E₂ diagram, identify the molecular shape.	Bent.
+For the AX₂E₂ diagram, identify the parent shape.	Tetrahedral.
+For the AX₅ diagram, identify the molecular shape.	Trigonal bipyramidal.
+For the AX₅ diagram, identify the parent shape.	Trigonal bipyramidal.
+For the AX₄E diagram, identify the molecular shape.	Seesaw.
+For the AX₄E diagram, identify the parent shape.	Trigonal bipyramidal.
+For the AX₃E₂ diagram, identify the molecular shape.	T-shaped.
+For the AX₃E₂ diagram, identify the parent shape.	Trigonal bipyramidal.
+For the AX₂E₃ diagram, identify the molecular shape.	Linear.
+For the AX₂E₃ diagram, identify the parent shape.	Trigonal bipyramidal.
+For the AX₆ diagram, identify the molecular shape.	Octahedral.
+For the AX₆ diagram, identify the parent shape.	Octahedral.
+For the AX₅E diagram, identify the molecular shape.	Square-based pyramidal.
+For the AX₅E diagram, identify the parent shape.	Octahedral.
+For the AX₄E₂ diagram, identify the molecular shape.	Square planar.
+For the AX₄E₂ diagram, identify the parent shape.	Octahedral.
+For the AX₇ diagram, identify the molecular shape.	Pentagonal bipyramidal.
+For the AX₇ diagram, identify the parent shape.	Pentagonal bipyramidal.

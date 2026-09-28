@@ -1,0 +1,82 @@
+Why are lipids not classified as conventional repeating-monomer polymers?	Their diverse structures do not generally consist of long chains of identical repeating monomers.
+What two regions make up a fatty acid?	A hydrocarbon region and a carboxyl group.
+Which region of a fatty acid is mainly nonpolar?	The hydrocarbon chain.
+Which region of a fatty acid can ionize in water?	The carboxyl group.
+Complete the equilibrium: COOH ⇌ ____ + H⁺.	COO⁻.
+Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?	No; the chain remains mainly nonpolar.
+What components make one triacylglycerol?	One glycerol and three fatty acids.
+How many hydroxyl groups does glycerol have before esterification?	Three.
+How many ester linkages attach fatty acids in one triacylglycerol?	Three.
+What is the primary role of triacylglycerols in this unit?	Energy storage.
+Which lipid combines glycerol with three fatty acids through ester linkages?	Triacylglycerol.
+What net reaction joins glycerol hydroxyls to fatty-acid carboxyls?	Esterification by condensation/dehydration.
+In the simplified formation of one triacylglycerol from glycerol and three free fatty acids, how many waters are released?	Three, one per ester linkage.
+What are the products of complete triacylglycerol hydrolysis in the course model?	Glycerol and three fatty acids.
+Can the three fatty-acid chains of a triacylglycerol vary in length?	Yes.
+What does hydrophilic mean?	Interacts favorably with water.
+What chemical features usually make a region hydrophilic?	Polar bonds or ionic charges.
+What does hydrophobic mean?	Interacts poorly with water relative to polar or charged regions.
+What chemical features usually make a region hydrophobic?	A largely nonpolar, uncharged structure.
+What does amphipathic mean?	Having both hydrophilic and hydrophobic regions.
+A molecule has a polar head and nonpolar tails. What term describes this arrangement?	Amphipathic.
+Which course example is amphipathic: soap or a hydrocarbon-only oil molecule?	Soap.
+Which part of a typical phospholipid faces water in a membrane?	The hydrophilic head region.
+Which part of a typical phospholipid avoids exposure to water?	The hydrocarbon tails.
+What components form the polar region of the course's glycerol-based phospholipid?	The polar head group, phosphate, and oxygen-containing glycerol region.
+What backbone connects the head region and fatty-acid chains in a glycerol-based phospholipid?	Glycerol.
+Which head-group component is named in phosphatidylcholine?	Choline.
+How many fatty-acid tails does the typical glycerol-based phospholipid in this unit have?	Two.
+What linkage attaches each fatty acid to glycerol in the course's typical phospholipid?	Ester linkage.
+Can an overall electrically neutral phospholipid still have a hydrophilic head?	Yes; its head can contain polar bonds and opposite charges.
+What kind of fatty-acid double bond commonly creates a kink?	A cis double bond.
+Does every possible C=C arrangement necessarily create the same kink?	No; the course's bent-tail drawing represents a cis double bond.
+Compared with straight tails, how do kinked tails affect close packing?	They make close packing more difficult.
+Why is an isolated single phospholipid sheet unstable when water surrounds it on both sides?	Its tails would be exposed to water on one side.
+In a bilayer, where do the hydrophilic heads point?	Toward water on both outer surfaces.
+In a bilayer, where do the hydrophobic tails point?	Inward, toward one another and away from water.
+What is a leaflet?	One of the two phospholipid layers making up a bilayer.
+How many leaflets make one bilayer?	Two.
+What is a liposome?	A closed phospholipid bilayer enclosing an aqueous cavity.
+What is inside a liposome's central cavity?	Water and potentially dissolved substances.
+Is a liposome's central cavity the same as its hydrophobic bilayer interior?	No; the cavity is aqueous, while the tails occupy the bilayer itself.
+What is a micelle?	An aggregate with hydrophilic heads outside and hydrophobic tails packed inward.
+Does a typical micelle have an aqueous central cavity?	No; its core is hydrophobic.
+Which course aggregate has an aqueous cavity: a micelle or a liposome?	A liposome.
+Which molecular shape favors micelles in the course notes?	A bulky hydrophilic head with a single hydrophobic tail.
+Which arrangement is favored by the typical two-tailed phospholipids in this unit?	A bilayer.
+Why can closing a bilayer into a liposome be favorable?	It removes exposed edges where hydrophobic tails could contact water.
+A circular cross-section has one layer of heads outside and tails filling the center. Identify the aggregate.	Micelle.
+A circular cross-section has heads facing both the outside water and a water-filled center. Identify the aggregate.	Liposome.
+Does one lipid bilayer mean two separate membranes?	No; its two leaflets form one membrane bilayer.
+What does a mitochondrial double membrane mean?	Two separate bilayers with an intermembrane space between them.
+How many leaflets are present across two separate bilayers?	Four.
+Which two course organelle groups have double membranes?	Mitochondria and plastids.
+Name a course organelle surrounded by a single membrane bilayer.	ER, Golgi, or lysosome.
+What membrane property helps maintain cellular homeostasis?	Selective permeability.
+What creates the main barrier to ions in a lipid bilayer?	Its hydrophobic interior.
+Which passes through a lipid bilayer more easily: O₂ or Na⁺?	O₂; it is small and nonpolar.
+Can water cross a lipid bilayer at all without a channel?	Yes, to a limited extent; aquaporins enable much faster movement.
+Why do many polar solutes need membrane transport proteins?	The hydrophobic bilayer interior strongly limits their direct passage.
+What two membrane components together determine selective permeability?	The lipid bilayer and membrane proteins.
+What kind of protein forms a selective aqueous passage across a membrane?	A channel protein.
+What kind of transport protein binds a solute and changes shape to move it?	A carrier protein.
+What are aquaporins specialized to transport?	Water.
+Does movement through a membrane protein automatically mean active transport?	No; facilitated diffusion also uses proteins.
+What distinguishes simple from facilitated diffusion?	Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.
+Does facilitated diffusion directly require ATP?	No; it moves substances down their gradient.
+At diffusion equilibrium, do molecules stop moving?	No; movement continues in both directions with no net movement.
+What distinguishes active transport from passive transport?	Active transport uses energy to move a substance against its gradient.
+Where does primary active transport obtain energy directly?	ATP, in the course examples.
+Where does secondary active transport obtain its immediate energy?	An ion moving down its electrochemical gradient.
+Why can secondary active transport be active even without direct ATP use?	It couples downhill ion movement to uphill movement of another solute.
+What two differences make up an electrochemical gradient?	Ion concentration difference and electrical potential difference.
+What is osmosis?	Net water movement across a selectively permeable membrane.
+With equal pressure and impermeant solute, toward which side does water move by osmosis?	Toward the side with higher effective solute concentration.
+What happens to an animal cell in a hypotonic solution?	Water enters and the cell swells; severe swelling can cause lysis.
+What happens to an animal cell in a hypertonic solution?	Water leaves and the cell shrinks.
+What happens to net water movement in an isotonic solution?	There is no net water movement, although water still moves both ways.
+Why do ion pumps help cells regulate their volume?	Ion concentrations affect osmotic water movement.
+What does a contractile vacuole do in a freshwater protist?	Collects and expels excess water.
+What is turgor pressure?	Outward pressure of cell contents against the plant cell wall.
+How does a plant cell wall limit swelling?	It resists expansion and pushes back against turgor pressure.
+What protein framework helps maintain cell shape?	The cytoskeleton.

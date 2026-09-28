@@ -1,0 +1,24 @@
+AX₂: which approximate X–A–X angle(s) are listed in your course table?	180°.
+AX₃: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₂E: which approximate X–A–X angle(s) are listed in your course table?	120°.
+AX₄: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₃E: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₂E₂: which approximate X–A–X angle(s) are listed in your course table?	109.5°.
+AX₅: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₄E: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 120° (eq–eq), 180° (ax–ax).
+AX₃E₂: which approximate X–A–X angle(s) are listed in your course table?	90° (ax–eq), 180° (ax–ax).
+AX₂E₃: which approximate X–A–X angle(s) are listed in your course table?	180° (ax–ax).
+AX₆: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₅E: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₄E₂: which approximate X–A–X angle(s) are listed in your course table?	90° and 180°.
+AX₇: which approximate X–A–X angle(s) are listed in your course table?	72° (adjacent eq–eq), 90° (ax–eq), 180° (ax–ax).
+What does ax–eq mean in the angle table?	An angle between an axial bond and an equatorial bond.
+What does eq–eq mean in the angle table?	An angle between two equatorial bonds.
+What does ax–ax mean in the angle table?	An angle between the two axial bonds.
+In a trigonal bipyramid, what is the axial–equatorial angle?	90° in the ideal parent geometry.
+In a trigonal bipyramid, what is the equatorial–equatorial angle?	120° in the ideal parent geometry.
+In a trigonal bipyramid, what is the axial–axial angle?	180° in the ideal parent geometry.
+For AX₇, what angle separates adjacent equatorial bonds in the supplied table?	72°; five equal sectors divide 360° around the equatorial plane.
+For AX₇, what is the axial–equatorial angle in the supplied table?	90°.
+Does the table’s 109.5° entry mean every AX₂E₂ molecule has an exact 109.5° angle?	No. It is the table’s approximate parent-shape value; actual angles can be distorted by lone pairs.
+Why can lone pairs change actual bond angles from the parent-shape values?	Lone-pair electron density changes repulsions between the domains.

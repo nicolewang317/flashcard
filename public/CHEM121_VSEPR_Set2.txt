@@ -1,0 +1,61 @@
+AX₂: what is the molecular shape?	Linear.
+AX₂: what is the parent shape?	Linear.
+AX₂: how many lone pairs are on A?	0.
+Linear with a linear parent: what are X and E?	X = 2, E = 0.
+AX₃: what is the molecular shape?	Trigonal planar.
+AX₃: what is the parent shape?	Trigonal planar.
+AX₃: how many lone pairs are on A?	0.
+Trigonal planar with a trigonal planar parent: what are X and E?	X = 3, E = 0.
+AX₂E: what is the molecular shape?	Bent.
+AX₂E: what is the parent shape?	Trigonal planar.
+AX₂E: how many lone pairs are on A?	1.
+Bent with a trigonal planar parent: what are X and E?	X = 2, E = 1.
+AX₄: what is the molecular shape?	Tetrahedral.
+AX₄: what is the parent shape?	Tetrahedral.
+AX₄: how many lone pairs are on A?	0.
+Tetrahedral with a tetrahedral parent: what are X and E?	X = 4, E = 0.
+AX₃E: what is the molecular shape?	Trigonal pyramidal.
+AX₃E: what is the parent shape?	Tetrahedral.
+AX₃E: how many lone pairs are on A?	1.
+Trigonal pyramidal with a tetrahedral parent: what are X and E?	X = 3, E = 1.
+AX₂E₂: what is the molecular shape?	Bent.
+AX₂E₂: what is the parent shape?	Tetrahedral.
+AX₂E₂: how many lone pairs are on A?	2.
+Bent with a tetrahedral parent: what are X and E?	X = 2, E = 2.
+AX₅: what is the molecular shape?	Trigonal bipyramidal.
+AX₅: what is the parent shape?	Trigonal bipyramidal.
+AX₅: how many lone pairs are on A?	0.
+Trigonal bipyramidal with a trigonal bipyramidal parent: what are X and E?	X = 5, E = 0.
+AX₄E: what is the molecular shape?	Seesaw.
+AX₄E: what is the parent shape?	Trigonal bipyramidal.
+AX₄E: how many lone pairs are on A?	1.
+Seesaw with a trigonal bipyramidal parent: what are X and E?	X = 4, E = 1.
+AX₃E₂: what is the molecular shape?	T-shaped.
+AX₃E₂: what is the parent shape?	Trigonal bipyramidal.
+AX₃E₂: how many lone pairs are on A?	2.
+T-shaped with a trigonal bipyramidal parent: what are X and E?	X = 3, E = 2.
+AX₂E₃: what is the molecular shape?	Linear.
+AX₂E₃: what is the parent shape?	Trigonal bipyramidal.
+AX₂E₃: how many lone pairs are on A?	3.
+Linear with a trigonal bipyramidal parent: what are X and E?	X = 2, E = 3.
+AX₆: what is the molecular shape?	Octahedral.
+AX₆: what is the parent shape?	Octahedral.
+AX₆: how many lone pairs are on A?	0.
+Octahedral with a octahedral parent: what are X and E?	X = 6, E = 0.
+AX₅E: what is the molecular shape?	Square-based pyramidal.
+AX₅E: what is the parent shape?	Octahedral.
+AX₅E: how many lone pairs are on A?	1.
+Square-based pyramidal with a octahedral parent: what are X and E?	X = 5, E = 1.
+AX₄E₂: what is the molecular shape?	Square planar.
+AX₄E₂: what is the parent shape?	Octahedral.
+AX₄E₂: how many lone pairs are on A?	2.
+Square planar with a octahedral parent: what are X and E?	X = 4, E = 2.
+AX₇: what is the molecular shape?	Pentagonal bipyramidal.
+AX₇: what is the parent shape?	Pentagonal bipyramidal.
+AX₇: how many lone pairs are on A?	0.
+Pentagonal bipyramidal with a pentagonal bipyramidal parent: what are X and E?	X = 7, E = 0.
+Which two AXE formulas in your table give a bent molecular shape?	AX₂E and AX₂E₂.
+Which two AXE formulas in your table give a linear molecular shape?	AX₂ and AX₂E₃.
+Why is AX₄E₂ square planar rather than tetrahedral?	Its six domains have an octahedral parent; two opposite lone pairs leave four atoms in a square.
+A molecule has X = 3. Is that enough to choose between trigonal planar, trigonal pyramidal, and T-shaped?	No. You also need E and therefore the parent shape.
+In the trigonal-bipyramidal-derived shapes shown, where are lone pairs placed first?	In equatorial positions.
