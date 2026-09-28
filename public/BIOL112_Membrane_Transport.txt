@@ -1,0 +1,28 @@
+What membrane property helps maintain cellular homeostasis?	Selective permeability.
+Which passes through a lipid bilayer more easily: O₂ or Na⁺?	O₂; it is small and nonpolar.
+Why does adding aquaporins increase water transport across a membrane?	Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.
+Why do ions usually need transport proteins to cross a lipid bilayer?	The hydrophobic interior is energetically unfavorable for charged, hydrated ions.
+What two membrane components together determine selective permeability?	The lipid bilayer and membrane proteins.
+How does a carrier move a solute differently from a channel?	A carrier binds the solute and changes conformation; a channel provides a selective pore.
+Does movement through a membrane protein automatically mean active transport?	No; facilitated diffusion also uses proteins.
+What distinguishes simple from facilitated diffusion?	Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.
+At diffusion equilibrium, do molecules stop moving?	No; movement continues in both directions with no net movement.
+What distinguishes active transport from passive transport?	Active transport uses energy to move a substance against its gradient.
+Where does primary active transport obtain energy directly?	ATP, in the course examples.
+Why can secondary active transport be active even without direct ATP use?	It couples downhill ion movement to uphill movement of another solute.
+What two differences make up an electrochemical gradient?	Ion concentration difference and electrical potential difference.
+A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?	From B to A, toward the higher concentration of nonpenetrating solute.
+An animal cell enters a hypotonic solution. What happens to its volume?	Water enters by osmosis; the cell swells and may lyse.
+Why do ion pumps help cells regulate their volume?	Ion concentrations affect osmotic water movement.
+What does a contractile vacuole do in a freshwater protist?	Collects and expels excess water.
+Why does a plant cell wall limit osmotic swelling?	As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.
+Why does glucose cross a protein-free lipid bilayer much less readily than O₂?	Glucose is larger and has many polar hydroxyl groups; entering the hydrophobic core is unfavorable.
+Two fixed 1-L compartments contain 8 mM and 2 mM of a freely permeating neutral solute. With no reactions, what concentration is reached on each side?	5 mM on each side: total solute is conserved and concentrations become equal.
+For neutral glucose transported by GLUT, what happens to net flux if the glucose concentration gradient reverses?	Net glucose flux reverses; GLUT mediates facilitated diffusion down the gradient.
+Opening a gated ion channel allows flux. What determines its net direction?	The ion’s electrochemical gradient; opening the gate does not provide energy for uphill pumping.
+In one normal Na⁺/K⁺-ATPase cycle, what crosses the membrane per ATP hydrolyzed?	3 Na⁺ move out and 2 K⁺ move in.
+A pump moves 3 Na⁺ out and 2 K⁺ in per cycle. What is its net charge transfer?	One positive charge moves outward per cycle.
+Na⁺ and glucose move together into a cell. Is this symport or antiport?	Symport: the two substances cross in the same direction; antiport means opposite directions.
+A positive ion is more concentrated outside, but the inside is strongly positive. Can concentration alone predict net channel flux?	No. The inward chemical drive competes with the outward electrical drive; their combined effect determines net flux.
+After Na⁺/K⁺-ATPase inhibition, the inward Na⁺ driving force gradually collapses. Why does uphill glucose uptake by Na⁺–glucose symport weaken?	The cotransporter loses the downhill Na⁺ energy that powers uphill glucose transport.
+Which can maintain uphill glucose transport: GLUT or a Na⁺–glucose cotransporter supplied with a sufficient inward Na⁺ gradient?	The Na⁺–glucose cotransporter uses ion-gradient energy; GLUT alone permits only downhill glucose flux.

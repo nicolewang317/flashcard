@@ -53,8 +53,8 @@ How do α and β substituents at C1 differ in a standard D-glucose Haworth drawi
 Which linkage forms the glucose main chain of starch?	α(1→4) glycosidic linkage.
 Which linkage forms an amylopectin branch point?	α(1→6) glycosidic linkage.
 Which linkage joins glucose residues in cellulose?	β(1→4) glycosidic linkage.
-D-glucose Haworth: the C1–O substituent is opposite the C5–CH₂OH group; the O bridge joins C1 to C6. Name the linkage.	α(1→6) glycosidic linkage.
-D-glucose Haworth: the C1–O substituent is on the same side as the C5–CH₂OH group; the O bridge joins C1 to C4. Name the linkage.	β(1→4) glycosidic linkage.
+Identify the glycosidic linkage in this glucose structure.	α(1→6) glycosidic linkage.
+Identify the glycosidic linkage in this glucose structure.	β(1→4) glycosidic linkage.
 Why does glycosidic-linkage geometry matter biologically?	It changes polymer shape and which enzymes can act on the polymer.
 Identify R–O–R′ when the oxygen joins two carbons and neither adjacent carbon is a carbonyl carbon.	Ether.
 What structural feature distinguishes an ester from an ether?	An ester has a carbonyl carbon directly bonded to the linking oxygen.

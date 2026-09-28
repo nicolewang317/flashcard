@@ -1,18 +1,18 @@
-For the AX₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Linear.
-For the AX₃ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal planar.
-For the AX₂E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Bent.
-For the AX₂E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal planar.
-For the AX₄ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Tetrahedral.
-For the AX₃E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal pyramidal.
-For the AX₃E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Tetrahedral.
-For the AX₂E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Bent.
-For the AX₅ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal bipyramidal.
-For the AX₄E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Seesaw.
-For the AX₄E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Trigonal bipyramidal.
-For the AX₃E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	T-shaped.
-For the AX₂E₃ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Linear.
-For the AX₆ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Octahedral.
-For the AX₅E diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Square-based pyramidal.
-For the AX₅E diagram, identify the parent shape. [Text-only equivalent; use the website for visual recognition.]	Octahedral.
-For the AX₄E₂ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Square planar.
-For the AX₇ diagram, identify the molecular shape. [Text-only equivalent; use the website for visual recognition.]	Pentagonal bipyramidal.
+Identify the molecular shape in this diagram.	Linear.
+Identify the molecular shape in this diagram.	Trigonal planar.
+Identify the molecular shape in this diagram.	Bent.
+Identify the electron-domain (parent) shape in this diagram.	Trigonal planar.
+Identify the molecular shape in this diagram.	Tetrahedral.
+Identify the molecular shape in this diagram.	Trigonal pyramidal.
+Identify the electron-domain (parent) shape in this diagram.	Tetrahedral.
+Identify the molecular shape in this diagram.	Bent.
+Identify the molecular shape in this diagram.	Trigonal bipyramidal.
+Identify the molecular shape in this diagram.	Seesaw.
+Identify the electron-domain (parent) shape in this diagram.	Trigonal bipyramidal.
+Identify the molecular shape in this diagram.	T-shaped.
+Identify the molecular shape in this diagram.	Linear.
+Identify the molecular shape in this diagram.	Octahedral.
+Identify the molecular shape in this diagram.	Square-based pyramidal.
+Identify the electron-domain (parent) shape in this diagram.	Octahedral.
+Identify the molecular shape in this diagram.	Square planar.
+Identify the molecular shape in this diagram.	Pentagonal bipyramidal.

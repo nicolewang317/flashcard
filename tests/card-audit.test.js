@@ -12,7 +12,7 @@ const review=(id,entity,seq,ok,at)=>({event_id:id,entity,seq,kind:'review',occur
 const favorite=(id,entity,seq,value)=>({event_id:id,entity,seq,kind:'favorite',occurred_at:new Date(seq*1000).toISOString(),payload:value});
 
 test('all 516 original cards have a decision; all merge targets survive with stable IDs',()=>{
- assert.equal(Object.keys(audit).length,516);assert.equal(cards.length,256);assert.equal(ids.size,256);
+ assert.equal(Object.keys(audit).length,516);assert.equal(cards.length,268);assert.equal(ids.size,268);
  const counts={};for(const d of Object.values(audit)){
   counts[d.action]=(counts[d.action]||0)+1;
   if(d.action==='合并'){assert.ok(audit[d.target].after);assert.equal(CARD_REDIRECTS[d.id],audit[d.target].id);assert.ok(!ids.has(d.id));}
@@ -25,7 +25,7 @@ test('all 516 original cards have a decision; all merge targets survive with sta
 });
 test('all scored questions and diagrams resolve; no retired questions survive',()=>{
  const figures=new Set([...Object.keys(FIGURES),...CHEM_SHAPES.map(s=>'v-'+s.key)]);
- assert.equal(TESTS.length,144);assert.equal(new Set(TESTS.map(q=>q.id)).size,144);
+ assert.equal(TESTS.length,156);assert.equal(new Set(TESTS.map(q=>q.id)).size,156);
  for(const [i,d]of DECKS.entries()){
   assert.ok(TESTS.some(q=>q.deck===i));
   for(const c of d.cards){assert.equal(c.deck,i);assert.ok(c.front&&c.prompt&&c.back);if(c.figure)assert.ok(figures.has(c.figure),c.figure);}

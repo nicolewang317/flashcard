@@ -28,3 +28,5 @@ Why can denaturation abolish binding even when the amino-acid sequence is unchan
 Why are unfolded proteins often more prone to aggregation?	Normally buried hydrophobic regions become exposed and associate with those of other proteins.
 How can a chaperone reduce inappropriate aggregation during folding?	It temporarily shields exposed hydrophobic regions, allowing the polypeptide an opportunity to fold correctly.
 Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?	No. Chaperones assist folding; they do not rewrite the primary sequence.
+At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.	Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).
+A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?	Hydrogen bonding through its polar hydroxyl group.

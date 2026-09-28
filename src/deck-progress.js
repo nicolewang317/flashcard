@@ -8,3 +8,9 @@ export function deckProgress(deck, progress = {}) {
  const tone = complete ? 'complete' : ratio >= .8 ? 'green' : ratio >= 1 / 3 ? 'yellow' : 'red';
  return { total, mastered, ratio, percent, complete, tone };
 }
+
+// Weight by individual cards, not by the (unequal) sizes of sets.
+export function courseProgress(decks, course, progress = {}) {
+ const cards = [...new Map(decks.filter(d => d.course === course).flatMap(d => d.cards).map(c => [c.id, c])).values()];
+ return deckProgress({cards}, progress);
+}

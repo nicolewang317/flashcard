@@ -1281,186 +1281,6 @@ export const DECKS = [
         "concept": "Bilayer structure and assembly"
       },
       {
-        "id": "8ded866480167a",
-        "front": "What membrane property helps maintain cellular homeostasis?",
-        "back": "Selective permeability.",
-        "prompt": "What membrane property helps maintain cellular homeostasis?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "dbe974593b2efc",
-        "front": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
-        "back": "O₂; it is small and nonpolar.",
-        "prompt": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Selective permeability"
-      },
-      {
-        "id": "1c36c3640b6bce",
-        "front": "Why does adding aquaporins increase water transport across a membrane?",
-        "back": "Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.",
-        "prompt": "Why does adding aquaporins increase water transport across a membrane?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Bilayer structure and assembly"
-      },
-      {
-        "id": "353300d67cbfc7",
-        "front": "Why do ions usually need transport proteins to cross a lipid bilayer?",
-        "back": "The hydrophobic interior is energetically unfavorable for charged, hydrated ions.",
-        "prompt": "Why do ions usually need transport proteins to cross a lipid bilayer?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Membrane transport"
-      },
-      {
-        "id": "c88e0cacd1b53f",
-        "front": "What two membrane components together determine selective permeability?",
-        "back": "The lipid bilayer and membrane proteins.",
-        "prompt": "What two membrane components together determine selective permeability?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Ether versus ester"
-      },
-      {
-        "id": "edfb4e1bbe486a",
-        "front": "How does a carrier move a solute differently from a channel?",
-        "back": "A carrier binds the solute and changes conformation; a channel provides a selective pore.",
-        "prompt": "How does a carrier move a solute differently from a channel?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "0a452a9d71d327",
-        "front": "Does movement through a membrane protein automatically mean active transport?",
-        "back": "No; facilitated diffusion also uses proteins.",
-        "prompt": "Does movement through a membrane protein automatically mean active transport?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 2,
-        "concept": "Membrane transport"
-      },
-      {
-        "id": "9e9a02f1776b43",
-        "front": "What distinguishes simple from facilitated diffusion?",
-        "back": "Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.",
-        "prompt": "What distinguishes simple from facilitated diffusion?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 2,
-        "concept": "Bilayer structure and assembly"
-      },
-      {
-        "id": "0700ae8fe9b43f",
-        "front": "At diffusion equilibrium, do molecules stop moving?",
-        "back": "No; movement continues in both directions with no net movement.",
-        "prompt": "At diffusion equilibrium, do molecules stop moving?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Diffusion equilibrium"
-      },
-      {
-        "id": "1a1629ee8c2db1",
-        "front": "What distinguishes active transport from passive transport?",
-        "back": "Active transport uses energy to move a substance against its gradient.",
-        "prompt": "What distinguishes active transport from passive transport?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 2,
-        "concept": "Membrane transport"
-      },
-      {
-        "id": "d07897c49018fb",
-        "front": "Where does primary active transport obtain energy directly?",
-        "back": "ATP, in the course examples.",
-        "prompt": "Where does primary active transport obtain energy directly?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Membrane transport"
-      },
-      {
-        "id": "0f1df698561d7c",
-        "front": "Why can secondary active transport be active even without direct ATP use?",
-        "back": "It couples downhill ion movement to uphill movement of another solute.",
-        "prompt": "Why can secondary active transport be active even without direct ATP use?",
-        "figure": "",
-        "kind": "Explain why",
-        "deck": 2,
-        "concept": "Membrane transport"
-      },
-      {
-        "id": "32c14042b89659",
-        "front": "What two differences make up an electrochemical gradient?",
-        "back": "Ion concentration difference and electrical potential difference.",
-        "prompt": "What two differences make up an electrochemical gradient?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "29480d7477adf4",
-        "front": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
-        "back": "From B to A, toward the higher concentration of nonpenetrating solute.",
-        "prompt": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Osmosis and tonicity"
-      },
-      {
-        "id": "6094adf0179c40",
-        "front": "An animal cell enters a hypotonic solution. What happens to its volume?",
-        "back": "Water enters by osmosis; the cell swells and may lyse.",
-        "prompt": "An animal cell enters a hypotonic solution. What happens to its volume?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Osmosis and tonicity"
-      },
-      {
-        "id": "7664b2ee0eb6e6",
-        "front": "Why do ion pumps help cells regulate their volume?",
-        "back": "Ion concentrations affect osmotic water movement.",
-        "prompt": "Why do ion pumps help cells regulate their volume?",
-        "figure": "",
-        "kind": "Explain why",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "54fbc9d4e2d114",
-        "front": "What does a contractile vacuole do in a freshwater protist?",
-        "back": "Collects and expels excess water.",
-        "prompt": "What does a contractile vacuole do in a freshwater protist?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "6a065c7fe8a263",
-        "front": "Why does a plant cell wall limit osmotic swelling?",
-        "back": "As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.",
-        "prompt": "Why does a plant cell wall limit osmotic swelling?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
         "id": "4098901fa99719",
         "front": "What protein framework helps maintain cell shape?",
         "back": "The cytoskeleton.",
@@ -2329,7 +2149,7 @@ export const DECKS = [
     "file": "BIOL112_Proteins_Sept27.txt",
     "course": "BIOL 112",
     "unit": "Macromolecules",
-    "source": "September 27 prereading · Ch. 5.1, pp. 89–98 · your supplied notes",
+    "source": "September 27 prereading · Ch. 5.1, pp. 89–98 · September 28 R-group comparisons",
     "defaultFigure": "peptide",
     "cards": [
       {
@@ -2631,13 +2451,324 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Limits of folding assistance"
+      },
+      {
+        "id": "biol112-protein-hydrophilicity-ranking",
+        "front": "At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.",
+        "prompt": "At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.",
+        "back": "Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).",
+        "concept": "Comparing side-chain hydration",
+        "deck": 8,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-protein-sidechain-hbond",
+        "front": "A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?",
+        "prompt": "A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?",
+        "back": "Hydrogen bonding through its polar hydroxyl group.",
+        "concept": "Uncharged polar side chains",
+        "deck": 8,
+        "figure": "",
+        "kind": "Application"
       }
     ],
     "topic": "Proteins",
     "shortTitle": "Proteins"
+  },
+  {
+    "title": "Transport & gradients",
+    "shortTitle": "Transport & gradients",
+    "course": "BIOL 112",
+    "unit": "Membranes",
+    "file": "BIOL112_Membrane_Transport.txt",
+    "defaultFigure": "bilayer",
+    "source": "September 28 supplied notes · membrane transport, with September 21 prerequisites",
+    "cards": [
+      {
+        "id": "8ded866480167a",
+        "front": "What membrane property helps maintain cellular homeostasis?",
+        "back": "Selective permeability.",
+        "prompt": "What membrane property helps maintain cellular homeostasis?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "dbe974593b2efc",
+        "front": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
+        "back": "O₂; it is small and nonpolar.",
+        "prompt": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Selective permeability"
+      },
+      {
+        "id": "1c36c3640b6bce",
+        "front": "Why does adding aquaporins increase water transport across a membrane?",
+        "back": "Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.",
+        "prompt": "Why does adding aquaporins increase water transport across a membrane?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Bilayer structure and assembly"
+      },
+      {
+        "id": "353300d67cbfc7",
+        "front": "Why do ions usually need transport proteins to cross a lipid bilayer?",
+        "back": "The hydrophobic interior is energetically unfavorable for charged, hydrated ions.",
+        "prompt": "Why do ions usually need transport proteins to cross a lipid bilayer?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Membrane transport"
+      },
+      {
+        "id": "c88e0cacd1b53f",
+        "front": "What two membrane components together determine selective permeability?",
+        "back": "The lipid bilayer and membrane proteins.",
+        "prompt": "What two membrane components together determine selective permeability?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Ether versus ester"
+      },
+      {
+        "id": "edfb4e1bbe486a",
+        "front": "How does a carrier move a solute differently from a channel?",
+        "back": "A carrier binds the solute and changes conformation; a channel provides a selective pore.",
+        "prompt": "How does a carrier move a solute differently from a channel?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "0a452a9d71d327",
+        "front": "Does movement through a membrane protein automatically mean active transport?",
+        "back": "No; facilitated diffusion also uses proteins.",
+        "prompt": "Does movement through a membrane protein automatically mean active transport?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 9,
+        "concept": "Membrane transport"
+      },
+      {
+        "id": "9e9a02f1776b43",
+        "front": "What distinguishes simple from facilitated diffusion?",
+        "back": "Simple diffusion crosses the lipid bilayer; facilitated diffusion uses a membrane protein.",
+        "prompt": "What distinguishes simple from facilitated diffusion?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 9,
+        "concept": "Bilayer structure and assembly"
+      },
+      {
+        "id": "0700ae8fe9b43f",
+        "front": "At diffusion equilibrium, do molecules stop moving?",
+        "back": "No; movement continues in both directions with no net movement.",
+        "prompt": "At diffusion equilibrium, do molecules stop moving?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Diffusion equilibrium"
+      },
+      {
+        "id": "1a1629ee8c2db1",
+        "front": "What distinguishes active transport from passive transport?",
+        "back": "Active transport uses energy to move a substance against its gradient.",
+        "prompt": "What distinguishes active transport from passive transport?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 9,
+        "concept": "Membrane transport"
+      },
+      {
+        "id": "d07897c49018fb",
+        "front": "Where does primary active transport obtain energy directly?",
+        "back": "ATP, in the course examples.",
+        "prompt": "Where does primary active transport obtain energy directly?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Membrane transport"
+      },
+      {
+        "id": "0f1df698561d7c",
+        "front": "Why can secondary active transport be active even without direct ATP use?",
+        "back": "It couples downhill ion movement to uphill movement of another solute.",
+        "prompt": "Why can secondary active transport be active even without direct ATP use?",
+        "figure": "",
+        "kind": "Explain why",
+        "deck": 9,
+        "concept": "Membrane transport"
+      },
+      {
+        "id": "32c14042b89659",
+        "front": "What two differences make up an electrochemical gradient?",
+        "back": "Ion concentration difference and electrical potential difference.",
+        "prompt": "What two differences make up an electrochemical gradient?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "29480d7477adf4",
+        "front": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
+        "back": "From B to A, toward the higher concentration of nonpenetrating solute.",
+        "prompt": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Osmosis and tonicity"
+      },
+      {
+        "id": "6094adf0179c40",
+        "front": "An animal cell enters a hypotonic solution. What happens to its volume?",
+        "back": "Water enters by osmosis; the cell swells and may lyse.",
+        "prompt": "An animal cell enters a hypotonic solution. What happens to its volume?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Osmosis and tonicity"
+      },
+      {
+        "id": "7664b2ee0eb6e6",
+        "front": "Why do ion pumps help cells regulate their volume?",
+        "back": "Ion concentrations affect osmotic water movement.",
+        "prompt": "Why do ion pumps help cells regulate their volume?",
+        "figure": "",
+        "kind": "Explain why",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "54fbc9d4e2d114",
+        "front": "What does a contractile vacuole do in a freshwater protist?",
+        "back": "Collects and expels excess water.",
+        "prompt": "What does a contractile vacuole do in a freshwater protist?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "6a065c7fe8a263",
+        "front": "Why does a plant cell wall limit osmotic swelling?",
+        "back": "As water enters, the wall resists expansion; rising turgor pressure opposes further net water entry.",
+        "prompt": "Why does a plant cell wall limit osmotic swelling?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 9,
+        "concept": "Lipids and membranes"
+      },
+      {
+        "id": "biol112-transport-glucose-barrier",
+        "front": "Why does glucose cross a protein-free lipid bilayer much less readily than O₂?",
+        "prompt": "Why does glucose cross a protein-free lipid bilayer much less readily than O₂?",
+        "back": "Glucose is larger and has many polar hydroxyl groups; entering the hydrophobic core is unfavorable.",
+        "concept": "Glucose permeability",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-equilibrium-concentration",
+        "front": "Two fixed 1-L compartments contain 8 mM and 2 mM of a freely permeating neutral solute. With no reactions, what concentration is reached on each side?",
+        "prompt": "Two fixed 1-L compartments contain 8 mM and 2 mM of a freely permeating neutral solute. With no reactions, what concentration is reached on each side?",
+        "back": "5 mM on each side: total solute is conserved and concentrations become equal.",
+        "concept": "Diffusion and mass conservation",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-glut-reversal",
+        "front": "For neutral glucose transported by GLUT, what happens to net flux if the glucose concentration gradient reverses?",
+        "prompt": "For neutral glucose transported by GLUT, what happens to net flux if the glucose concentration gradient reverses?",
+        "back": "Net glucose flux reverses; GLUT mediates facilitated diffusion down the gradient.",
+        "concept": "Reversible GLUT transport",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-channel-gating",
+        "front": "Opening a gated ion channel allows flux. What determines its net direction?",
+        "prompt": "Opening a gated ion channel allows flux. What determines its net direction?",
+        "back": "The ion’s electrochemical gradient; opening the gate does not provide energy for uphill pumping.",
+        "concept": "Channel gating versus driving force",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-nak-stoichiometry",
+        "front": "In one normal Na⁺/K⁺-ATPase cycle, what crosses the membrane per ATP hydrolyzed?",
+        "prompt": "In one normal Na⁺/K⁺-ATPase cycle, what crosses the membrane per ATP hydrolyzed?",
+        "back": "3 Na⁺ move out and 2 K⁺ move in.",
+        "concept": "Sodium–potassium pump cycle",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-pump-electrogenic",
+        "front": "A pump moves 3 Na⁺ out and 2 K⁺ in per cycle. What is its net charge transfer?",
+        "prompt": "A pump moves 3 Na⁺ out and 2 K⁺ in per cycle. What is its net charge transfer?",
+        "back": "One positive charge moves outward per cycle.",
+        "concept": "Electrogenic transport",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-cotransport-directions",
+        "front": "Na⁺ and glucose move together into a cell. Is this symport or antiport?",
+        "prompt": "Na⁺ and glucose move together into a cell. Is this symport or antiport?",
+        "back": "Symport: the two substances cross in the same direction; antiport means opposite directions.",
+        "concept": "Cotransport direction",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-electrical-opposition",
+        "front": "A positive ion is more concentrated outside, but the inside is strongly positive. Can concentration alone predict net channel flux?",
+        "prompt": "A positive ion is more concentrated outside, but the inside is strongly positive. Can concentration alone predict net channel flux?",
+        "back": "No. The inward chemical drive competes with the outward electrical drive; their combined effect determines net flux.",
+        "concept": "Competing electrochemical forces",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-sglt-pump-dependence",
+        "front": "After Na⁺/K⁺-ATPase inhibition, the inward Na⁺ driving force gradually collapses. Why does uphill glucose uptake by Na⁺–glucose symport weaken?",
+        "prompt": "After Na⁺/K⁺-ATPase inhibition, the inward Na⁺ driving force gradually collapses. Why does uphill glucose uptake by Na⁺–glucose symport weaken?",
+        "back": "The cotransporter loses the downhill Na⁺ energy that powers uphill glucose transport.",
+        "concept": "Indirect ATP dependence",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      },
+      {
+        "id": "biol112-transport-glut-sglt-comparison",
+        "front": "Which can maintain uphill glucose transport: GLUT or a Na⁺–glucose cotransporter supplied with a sufficient inward Na⁺ gradient?",
+        "prompt": "Which can maintain uphill glucose transport: GLUT or a Na⁺–glucose cotransporter supplied with a sufficient inward Na⁺ gradient?",
+        "back": "The Na⁺–glucose cotransporter uses ion-gradient energy; GLUT alone permits only downhill glucose flux.",
+        "concept": "Glucose carrier mechanisms",
+        "deck": 9,
+        "figure": "",
+        "kind": "Application"
+      }
+    ]
   }
 ];
-export const GUIDE = "# BIOL 112 · Macromolecules active recall\n\nSource: your September 18 and September 21 notes in **Notes → Class Logs → BIOL 112**, as shared in this conversation, plus your original study brief. The September 21 pre-class membrane material is included toward the end of Set 3. The linked Canvas files and image attachments were not separately retrieved; the diagrams in this system are original redrawings of the concepts described in the supplied notes.\n\n## Start here\n\nOpen **BIOL_Macromolecules_Study.html** in Chrome or another modern browser. It works offline without an account, server, or installation. Use the same browser and file location to retain your progress. Browser storage can be cleared or unavailable in private browsing; export a progress backup from **Study guide & backups** periodically. The site does not sync between devices or browsers.\n\nThe four decks contain **379 cards**:\n\n| Set | Focus | Cards |\n| --- | --- | ---: |\n| 1 | Functional groups and linkages | 155 |\n| 2 | Structure and directionality | 85 |\n| 3 | Lipids and membranes, with September 21 pre-class transport review | 82 |\n| 4 | Hydrophobic effect and thermodynamics | 57 |\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. BIOL has 50 scored questions in addition to the full 379-card self-review library.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## September 27 content review\n226 flashcards after concept-level deduplication. Functional-group recognition, macromolecule location, connection chemistry, and biological consequence remain separate objectives. See docs/CARD_AUDIT.md for all 516 original-card decisions.\n\n\n## Proteins · September 27 prereading\n30 cards follow amino-acid structure → R-group properties → peptide rigidity → sequence → folding → function. Based on the supplied notes labelled Chapter 5.1, pp. 89–98, not direct access to the unidentified textbook. Review the existing amino-acid, peptide-linkage and N/C-terminal cards for prerequisites. Near neutral pH, free amino acids generally have ionized amino and carboxyl groups; internal residues instead participate in peptide bonds. The amide group includes C(=O)–N, not N–H alone. Proline restricts rotation and can disrupt a regular helix, but does not inevitably make every protein bend. The hydrophobic-core rule assumes a water-soluble protein; a membrane-facing surface may be hydrophobic.\n\n\n## Set progress\nProgress is the number of cards whose latest review status is known, divided by the set size. Red: below one third; yellow: one third to below 80%; green: 80% to below 100%; a green star means all cards are currently known. Viewing or favoriting a card does not increase mastery. A later wrong answer lowers mastery again. Protein is now a set within BIOL 112 → Macromolecules.\n";
+export const GUIDE = "# Molecule Study · active recall\n\n268 flashcards and 156 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n";
 export const TESTS = [
   {
     "id": "t-452a82fad6cb0c",
@@ -3002,7 +3133,7 @@ export const TESTS = [
   {
     "id": "t-dbe974593b2efc",
     "cardId": "dbe974593b2efc",
-    "deck": 2,
+    "deck": 9,
     "prompt": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
     "figure": "",
     "options": [
@@ -3017,7 +3148,7 @@ export const TESTS = [
   {
     "id": "t-0700ae8fe9b43f",
     "cardId": "0700ae8fe9b43f",
-    "deck": 2,
+    "deck": 9,
     "prompt": "At diffusion equilibrium, do molecules stop moving?",
     "figure": "",
     "options": [
@@ -3032,7 +3163,7 @@ export const TESTS = [
   {
     "id": "t-6094adf0179c40",
     "cardId": "6094adf0179c40",
-    "deck": 2,
+    "deck": 9,
     "prompt": "What happens to an animal cell in a hypotonic solution?",
     "figure": "",
     "options": [
@@ -4247,7 +4378,7 @@ export const TESTS = [
   {
     "id": "t-edfb4e1bbe486a",
     "cardId": "edfb4e1bbe486a",
-    "deck": 2,
+    "deck": 9,
     "prompt": "How does a carrier move a solute differently from a channel?",
     "figure": "",
     "options": [
@@ -4262,7 +4393,7 @@ export const TESTS = [
   {
     "id": "t-29480d7477adf4",
     "cardId": "29480d7477adf4",
-    "deck": 2,
+    "deck": 9,
     "prompt": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
     "figure": "",
     "options": [
@@ -4798,6 +4929,186 @@ export const TESTS = [
     ],
     "explanation": "No. Chaperones assist folding; they do not rewrite the primary sequence.",
     "concept": "Limits of folding assistance"
+  },
+  {
+    "id": "t-biol112-protein-hydrophilicity-ranking",
+    "cardId": "biol112-protein-hydrophilicity-ranking",
+    "deck": 8,
+    "prompt": "At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.",
+    "figure": "",
+    "options": [
+      "Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).",
+      "Phenylalanine > threonine > aspartate.",
+      "Threonine > aspartate > phenylalanine.",
+      "All are equally hydrophilic because their backbones are the same."
+    ],
+    "explanation": "Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).",
+    "concept": "Comparing side-chain hydration"
+  },
+  {
+    "id": "t-biol112-protein-sidechain-hbond",
+    "cardId": "biol112-protein-sidechain-hbond",
+    "deck": 8,
+    "prompt": "A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?",
+    "figure": "",
+    "options": [
+      "Hydrogen bonding through its polar hydroxyl group.",
+      "An ionic interaction requiring a net positive side-chain charge.",
+      "A covalent disulfide bond with water.",
+      "A peptide bond between the side chain and water."
+    ],
+    "explanation": "Hydrogen bonding through its polar hydroxyl group.",
+    "concept": "Uncharged polar side chains"
+  },
+  {
+    "id": "t-biol112-transport-glucose-barrier",
+    "cardId": "biol112-transport-glucose-barrier",
+    "deck": 9,
+    "prompt": "Why does glucose cross a protein-free lipid bilayer much less readily than O₂?",
+    "figure": "",
+    "options": [
+      "Glucose is larger and has many polar hydroxyl groups; entering the hydrophobic core is unfavorable.",
+      "Glucose has a net positive charge, whereas O₂ has a negative charge.",
+      "Glucose lacks oxygen atoms and therefore cannot dissolve in water.",
+      "Every carbon-containing molecule is unable to enter a lipid bilayer."
+    ],
+    "explanation": "Glucose is larger and has many polar hydroxyl groups; entering the hydrophobic core is unfavorable.",
+    "concept": "Glucose permeability"
+  },
+  {
+    "id": "t-biol112-transport-equilibrium-concentration",
+    "cardId": "biol112-transport-equilibrium-concentration",
+    "deck": 9,
+    "prompt": "Two fixed 1-L compartments contain 8 mM and 2 mM of a freely permeating neutral solute. With no reactions, what concentration is reached on each side?",
+    "figure": "",
+    "options": [
+      "5 mM on each side: total solute is conserved and concentrations become equal.",
+      "1 mM on each side, because equilibrium concentration is always one.",
+      "8 mM and 2 mM, because equilibrium only stops molecular motion.",
+      "10 mM on each side, because the two concentrations are added."
+    ],
+    "explanation": "5 mM on each side: total solute is conserved and concentrations become equal.",
+    "concept": "Diffusion and mass conservation"
+  },
+  {
+    "id": "t-biol112-transport-glut-reversal",
+    "cardId": "biol112-transport-glut-reversal",
+    "deck": 9,
+    "prompt": "For neutral glucose transported by GLUT, what happens to net flux if the glucose concentration gradient reverses?",
+    "figure": "",
+    "options": [
+      "Net glucose flux reverses; GLUT mediates facilitated diffusion down the gradient.",
+      "GLUT continues pumping glucose in the original direction using ATP.",
+      "GLUT turns into an ion channel.",
+      "GLUT transports only from outside to inside regardless of the gradient."
+    ],
+    "explanation": "Net glucose flux reverses; GLUT mediates facilitated diffusion down the gradient.",
+    "concept": "Reversible GLUT transport"
+  },
+  {
+    "id": "t-biol112-transport-channel-gating",
+    "cardId": "biol112-transport-channel-gating",
+    "deck": 9,
+    "prompt": "Opening a gated ion channel allows flux. What determines its net direction?",
+    "figure": "",
+    "options": [
+      "The ion’s electrochemical gradient; opening the gate does not provide energy for uphill pumping.",
+      "The gate’s opening always drives ions toward higher concentration.",
+      "ATP released by the opening gate sets the direction.",
+      "All open channels move every ion only into the cell."
+    ],
+    "explanation": "The ion’s electrochemical gradient; opening the gate does not provide energy for uphill pumping.",
+    "concept": "Channel gating versus driving force"
+  },
+  {
+    "id": "t-biol112-transport-nak-stoichiometry",
+    "cardId": "biol112-transport-nak-stoichiometry",
+    "deck": 9,
+    "prompt": "In one normal Na⁺/K⁺-ATPase cycle, what crosses the membrane per ATP hydrolyzed?",
+    "figure": "",
+    "options": [
+      "3 Na⁺ move out and 2 K⁺ move in.",
+      "2 Na⁺ move out and 3 K⁺ move in.",
+      "3 Na⁺ move in and 2 K⁺ move out.",
+      "3 Na⁺ and 3 K⁺ both move out."
+    ],
+    "explanation": "3 Na⁺ move out and 2 K⁺ move in.",
+    "concept": "Sodium–potassium pump cycle"
+  },
+  {
+    "id": "t-biol112-transport-pump-electrogenic",
+    "cardId": "biol112-transport-pump-electrogenic",
+    "deck": 9,
+    "prompt": "A pump moves 3 Na⁺ out and 2 K⁺ in per cycle. What is its net charge transfer?",
+    "figure": "",
+    "options": [
+      "One positive charge moves outward per cycle.",
+      "One negative charge moves outward per cycle.",
+      "Five positive charges move outward per cycle.",
+      "No net charge moves because both ions are positive."
+    ],
+    "explanation": "One positive charge moves outward per cycle.",
+    "concept": "Electrogenic transport"
+  },
+  {
+    "id": "t-biol112-transport-cotransport-directions",
+    "cardId": "biol112-transport-cotransport-directions",
+    "deck": 9,
+    "prompt": "Na⁺ and glucose move together into a cell. Is this symport or antiport?",
+    "figure": "",
+    "options": [
+      "Symport: the two substances cross in the same direction; antiport means opposite directions.",
+      "Antiport: two different substances always move in opposite directions.",
+      "Simple diffusion: moving together means no protein is involved.",
+      "Primary active transport: same-direction transport must directly hydrolyze ATP."
+    ],
+    "explanation": "Symport: the two substances cross in the same direction; antiport means opposite directions.",
+    "concept": "Cotransport direction"
+  },
+  {
+    "id": "t-biol112-transport-electrical-opposition",
+    "cardId": "biol112-transport-electrical-opposition",
+    "deck": 9,
+    "prompt": "A positive ion is more concentrated outside, but the inside is strongly positive. Can concentration alone predict net channel flux?",
+    "figure": "",
+    "options": [
+      "No. The inward chemical drive competes with the outward electrical drive; their combined effect determines net flux.",
+      "Yes. Higher outside concentration guarantees inward flux at every voltage.",
+      "Yes. Positive ions always enter positively charged compartments.",
+      "No. Ion channels move ions randomly with no effect of either gradient."
+    ],
+    "explanation": "No. The inward chemical drive competes with the outward electrical drive; their combined effect determines net flux.",
+    "concept": "Competing electrochemical forces"
+  },
+  {
+    "id": "t-biol112-transport-sglt-pump-dependence",
+    "cardId": "biol112-transport-sglt-pump-dependence",
+    "deck": 9,
+    "prompt": "After Na⁺/K⁺-ATPase inhibition, the inward Na⁺ driving force gradually collapses. Why does uphill glucose uptake by Na⁺–glucose symport weaken?",
+    "figure": "",
+    "options": [
+      "The cotransporter loses the downhill Na⁺ energy that powers uphill glucose transport.",
+      "The cotransporter normally makes ATP from glucose, so it runs out of glucose.",
+      "The glucose molecule loses all its hydroxyl groups.",
+      "The pump directly forms a covalent bond between Na⁺ and glucose."
+    ],
+    "explanation": "The cotransporter loses the downhill Na⁺ energy that powers uphill glucose transport.",
+    "concept": "Indirect ATP dependence"
+  },
+  {
+    "id": "t-biol112-transport-glut-sglt-comparison",
+    "cardId": "biol112-transport-glut-sglt-comparison",
+    "deck": 9,
+    "prompt": "Which can maintain uphill glucose transport: GLUT or a Na⁺–glucose cotransporter supplied with a sufficient inward Na⁺ gradient?",
+    "figure": "",
+    "options": [
+      "The Na⁺–glucose cotransporter uses ion-gradient energy; GLUT alone permits only downhill glucose flux.",
+      "Both use ATP directly to pump glucose uphill.",
+      "Only GLUT, because all carrier proteins pump uphill.",
+      "Neither, because glucose cannot move through any membrane protein."
+    ],
+    "explanation": "The Na⁺–glucose cotransporter uses ion-gradient energy; GLUT alone permits only downhill glucose flux.",
+    "concept": "Glucose carrier mechanisms"
   }
 ];
 export const CHEM_SHAPES = [

@@ -12,7 +12,7 @@ One DNA strand runs 5′ → 3′ along a given direction. How does its partner 
 What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
 Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
 Which part of an amino acid varies and determines many of its properties?	The R group, or side chain.
-In H₂N–CH(R)–COOH, which substituent varies among amino acids?	The R group attached to the α-carbon.
+In this amino-acid structure, which substituent distinguishes one amino acid from another?	The R group attached to the α-carbon.
 An amino acid has –NH₃⁺, –COO⁻, and an uncharged R group. What is its net charge?	Zero: the +1 and −1 charges cancel, although both groups are charged.
 How do you distinguish the N-terminus from the C-terminus in a peptide backbone?	The N-terminus has the free backbone amino group; the C-terminus has the free backbone carboxyl group.
 To which end are new amino acids added during normal protein synthesis?	The C-terminal end.
