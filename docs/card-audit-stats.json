@@ -1,0 +1,54 @@
+{
+  "original": 516,
+  "actions": {
+    "保留": 151,
+    "重写": 75,
+    "合并": 270,
+    "删除": 20
+  },
+  "final": 226,
+  "removed": 290,
+  "tests": 114,
+  "decks": [
+    {
+      "title": "Functional groups & linkages",
+      "before": 155,
+      "after": 68
+    },
+    {
+      "title": "Structures & directionality",
+      "before": 85,
+      "after": 30
+    },
+    {
+      "title": "Lipids & membranes",
+      "before": 82,
+      "after": 47
+    },
+    {
+      "title": "Hydrophobic effect",
+      "before": 57,
+      "after": 19
+    },
+    {
+      "title": "AXE & parent shapes",
+      "before": 24,
+      "after": 15
+    },
+    {
+      "title": "Molecular shapes",
+      "before": 61,
+      "after": 18
+    },
+    {
+      "title": "Bond angles",
+      "before": 24,
+      "after": 11
+    },
+    {
+      "title": "Visual recognition",
+      "before": 28,
+      "after": 18
+    }
+  ]
+}
