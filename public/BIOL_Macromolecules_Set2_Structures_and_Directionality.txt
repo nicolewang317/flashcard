@@ -1,16 +1,3 @@
-What three components make a nucleotide?	A phosphate group, a pentose sugar, and a nitrogenous base.
-Which base differs between DNA and RNA?	DNA uses thymine (T); RNA uses uracil (U). Both use A, C, and G.
-How do ribose and deoxyribose differ at the 2′ carbon?	Ribose has 2′-OH; deoxyribose has 2′-H.
-Which pentose carbon is attached to the nitrogenous base?	1′.
-Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?	3′.
-Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?	5′.
-What does the prime mark in 3′ indicate in this context?	Sugar-carbon numbering, distinguished from numbering in the base.
-How can you identify the two ends of the usual textbook nucleic-acid strand?	The 3′ end has a free 3′-OH; the 5′ end has the terminal 5′ position, commonly bearing phosphate.
-Why is nucleic-acid synthesis described as 5′ → 3′?	New nucleotides attach to the growing strand’s 3′-OH, extending its 3′ end.
-If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?	It stops because the next backbone linkage cannot form there.
-One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?	3′ → 5′: the strands are antiparallel.
-What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
-Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
 Which part of an amino acid varies and determines many of its properties?	The R group, or side chain.
 In this amino-acid structure, which substituent distinguishes one amino acid from another?	The R group attached to the α-carbon.
 An amino acid has –NH₃⁺, –COO⁻, and an uncharged R group. What is its net charge?	Zero: the +1 and −1 charges cancel, although both groups are charged.

@@ -19,7 +19,7 @@ test('near completion does not round up to a completion star; empty sets are not
  assert.equal(deckProgress(large,p).percent,99);assert.equal(deckProgress(large,p).complete,false);assert.equal(deckProgress({cards:[]}).complete,false);
 });
 test('protein history keeps its IDs and still drives progress after moving into Macromolecules',()=>{
- const d=DECKS[8],id=d.cards[0].id;assert.equal(d.unit,'Macromolecules');assert.equal(d.shortTitle,'Proteins');
+ const d=DECKS[8],id=d.cards[0].id;assert.equal(d.unit,'Unit 2');assert.equal(d.shortTitle,'Proteins');
  const db=projectStudy([{card_id:id,value:{...emptyRecord(),status:'known'}}],[]);
  assert.equal(deckProgress(d,db.progress).mastered,1);assert.equal(deckProgress(DECKS[0],db.progress).mastered,0);
 });

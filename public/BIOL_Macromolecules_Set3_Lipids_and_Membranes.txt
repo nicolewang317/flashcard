@@ -23,7 +23,3 @@ Why do single-tail amphiphiles with bulky heads often favor micelles over bilaye
 Why can closing a bilayer into a liposome be favorable?	It removes exposed edges where hydrophobic tails could contact water.
 A circular cross-section has one layer of heads outside and tails filling the center. Identify the aggregate.	Micelle.
 A circular cross-section has heads facing both the outside water and a water-filled center. Identify the aggregate.	Liposome.
-How many bilayers make up the mitochondrial double membrane?	Two separate bilayers, with an intermembrane space between them (four leaflets total).
-Does the nuclear envelope contain one bilayer or two?	Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.
-Name a course organelle surrounded by a single membrane bilayer.	ER, Golgi, or lysosome.
-What protein framework helps maintain cell shape?	The cytoskeleton.

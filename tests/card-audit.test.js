@@ -34,7 +34,7 @@ test('all scored questions and diagrams resolve; no retired questions survive',(
 });
 test('all text exports match deck sizes and combined course totals',()=>{
  for(const d of DECKS){const lines=readFileSync(new URL('../public/'+d.file,import.meta.url),'utf8').trim().split('\n');assert.equal(lines.length,d.cards.length);assert.ok(lines.every(l=>l.split('\t').length===2));}
- for(const[course,file]of [['BIOL 112','BIOL_Macromolecules_Master.txt'],['CHEM 121','CHEM121_VSEPR_Master.txt']])assert.equal(readFileSync(new URL('../public/'+file,import.meta.url),'utf8').trim().split('\n').length,DECKS.filter(d=>d.course===course&&(course!=='BIOL 112'||d.unit==='Macromolecules')).flatMap(d=>d.cards).length);
+ for(const[course,file]of [['BIOL 112','BIOL112_Unit2_Master.txt'],['CHEM 121','CHEM121_VSEPR_Master.txt']])assert.equal(readFileSync(new URL('../public/'+file,import.meta.url),'utf8').trim().split('\n').length,DECKS.filter(d=>d.course===course&&(course!=='BIOL 112'||d.unit==='Unit 2')).flatMap(d=>d.cards).length);
 });
 test('recognition and biological mechanism remain separate; glycosidic fronts conceal alpha/beta answer labels',()=>{
  for(const key of ['1.1','1.69','1.75','1.77','1.54','1.53','1.67','1.88','1.89','1.96','1.99','1.104','1.124','1.125'])assert.ok(audit[key].after,key);

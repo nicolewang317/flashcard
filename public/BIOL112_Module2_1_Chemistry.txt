@@ -1,0 +1,11 @@
+Is an ordinary alcohol –OH group charged as drawn?	No; it is polar but uncharged.
+Why does a carboxyl group become negatively charged after donating H⁺?	It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).
+Why can an amino group act as a base?	Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.
+Why can phosphate groups make a molecular region hydrophilic?	Their polar bonds and often negative charges interact favorably with water.
+Are all phosphate-containing groups always drawn with exactly the same charge?	No; charge depends on protonation and the groups attached.
+Why is the oxygen end of a carbonyl partially negative?	Oxygen attracts the shared electrons more strongly than carbon.
+Does the polarity of C=O mean that the group necessarily has a net charge?	No; partial charges differ from a net ionic charge.
+Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.
+Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?	–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.
+Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
+Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.

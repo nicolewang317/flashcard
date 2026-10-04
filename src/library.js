@@ -12,7 +12,8 @@ export const DECKS = [
         "figure": "ester",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Ester linkages"
+        "concept": "Ester linkages",
+        "answerFigure": "ester"
       },
       {
         "id": "0f8fb207df12bc",
@@ -22,17 +23,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "answerFigure": "ester"
       },
       {
         "id": "110c8d1ef82b3d",
         "front": "In R–C(=O)–O–R′, what do the parentheses mean?",
         "back": "The carbon is double-bonded to the oxygen inside the parentheses.",
         "prompt": "In R–C(=O)–O–R′, what do the parentheses mean?",
-        "figure": "",
+        "figure": "ester",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "answerFigure": "ester"
       },
       {
         "id": "41831ba6d3698c",
@@ -42,17 +45,8 @@ export const DECKS = [
         "figure": "hydroxyl",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Hydroxyl groups"
-      },
-      {
-        "id": "5d997636f1e38b",
-        "front": "Is an ordinary alcohol –OH group charged as drawn?",
-        "back": "No; it is polar but uncharged.",
-        "prompt": "Is an ordinary alcohol –OH group charged as drawn?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 0,
-        "concept": "Hydroxyl groups"
+        "concept": "Hydroxyl groups",
+        "answerFigure": "hydroxyl"
       },
       {
         "id": "900a2d038c6eca",
@@ -62,7 +56,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Hydroxyl groups"
+        "concept": "Hydroxyl groups",
+        "answerFigure": "hydroxyl"
       },
       {
         "id": "f14cc9bae4ae20",
@@ -72,17 +67,8 @@ export const DECKS = [
         "figure": "carboxyl",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Carboxyl groups"
-      },
-      {
-        "id": "109097e6f4e634",
-        "front": "Why does a carboxyl group become negatively charged after donating H⁺?",
-        "back": "It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).",
-        "prompt": "Why does a carboxyl group become negatively charged after donating H⁺?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 0,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "carboxyl"
       },
       {
         "id": "34b018da2029be",
@@ -92,7 +78,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "fatty-acid"
       },
       {
         "id": "5d674e84f681b5",
@@ -102,7 +89,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 0,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "carboxyl"
       },
       {
         "id": "6f4a25eecdf2a7",
@@ -112,37 +100,8 @@ export const DECKS = [
         "figure": "amino",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Amino groups"
-      },
-      {
-        "id": "0c147b0091a9ba",
-        "front": "Why can an amino group act as a base?",
-        "back": "Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.",
-        "prompt": "Why can an amino group act as a base?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 0,
-        "concept": "Amino groups"
-      },
-      {
-        "id": "ca0e1fc6a84ad3",
-        "front": "Why can phosphate groups make a molecular region hydrophilic?",
-        "back": "Their polar bonds and often negative charges interact favorably with water.",
-        "prompt": "Why can phosphate groups make a molecular region hydrophilic?",
-        "figure": "",
-        "kind": "Explain why",
-        "deck": 0,
-        "concept": "Phosphate groups"
-      },
-      {
-        "id": "25e23ef75b61ed",
-        "front": "Are all phosphate-containing groups always drawn with exactly the same charge?",
-        "back": "No; charge depends on protonation and the groups attached.",
-        "prompt": "Are all phosphate-containing groups always drawn with exactly the same charge?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 0,
-        "concept": "Phosphate groups"
+        "concept": "Amino groups",
+        "answerFigure": "amino"
       },
       {
         "id": "8dc0a648b3b97c",
@@ -152,7 +111,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Phosphate groups"
+        "concept": "Phosphate groups",
+        "answerFigure": "dna-antiparallel"
       },
       {
         "id": "928cd65f030502",
@@ -162,7 +122,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Phosphate groups"
+        "concept": "Phosphate groups",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "d32caf798806ed",
@@ -172,27 +133,8 @@ export const DECKS = [
         "figure": "carbonyl",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Carbonyl groups"
-      },
-      {
-        "id": "f5a935317ba00e",
-        "front": "Why is the oxygen end of a carbonyl partially negative?",
-        "back": "Oxygen attracts the shared electrons more strongly than carbon.",
-        "prompt": "Why is the oxygen end of a carbonyl partially negative?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 0,
-        "concept": "Carbonyl groups"
-      },
-      {
-        "id": "ce2c877933dd67",
-        "front": "Does the polarity of C=O mean that the group necessarily has a net charge?",
-        "back": "No; partial charges differ from a net ionic charge.",
-        "prompt": "Does the polarity of C=O mean that the group necessarily has a net charge?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Carbonyl groups",
+        "answerFigure": "carbonyl"
       },
       {
         "id": "ee18e8a7271de2",
@@ -202,47 +144,8 @@ export const DECKS = [
         "figure": "methyl",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Nonpolar hydrocarbon regions"
-      },
-      {
-        "id": "a98892fbe1869e",
-        "front": "Why is a long hydrocarbon chain hydrophobic?",
-        "back": "Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.",
-        "prompt": "Why is a long hydrocarbon chain hydrophobic?",
-        "figure": "",
-        "kind": "Explain why",
-        "deck": 0,
-        "concept": "Functional groups and polarity"
-      },
-      {
-        "id": "e24f7c8c3adf9f",
-        "front": "Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?",
-        "back": "–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.",
-        "prompt": "Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 0,
-        "concept": "Hydroxyl groups"
-      },
-      {
-        "id": "541ec6d6374e70",
-        "front": "Which region interacts more favorably with water: –COO⁻ or –CH₃?",
-        "back": "–COO⁻, because its negative charge interacts with water.",
-        "prompt": "Which region interacts more favorably with water: –COO⁻ or –CH₃?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 0,
-        "concept": "Functional groups and polarity"
-      },
-      {
-        "id": "1423aa549927ea",
-        "front": "Does one hydroxyl guarantee that an entire molecule is highly water-soluble?",
-        "back": "No; the size of its nonpolar region also matters.",
-        "prompt": "Does one hydroxyl guarantee that an entire molecule is highly water-soluble?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 0,
-        "concept": "Hydroxyl groups"
+        "concept": "Nonpolar hydrocarbon regions",
+        "answerFigure": "methyl"
       },
       {
         "id": "ca520d163fa16e",
@@ -252,7 +155,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "2215451ecb12cd",
@@ -262,7 +166,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "b71243ebee6d7f",
@@ -272,7 +177,8 @@ export const DECKS = [
         "figure": "amide",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "amide"
       },
       {
         "id": "84d2a795408eae",
@@ -282,27 +188,30 @@ export const DECKS = [
         "figure": "peptide",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "43c5ffac3dd03a",
         "front": "Why is R–C(=O)–NH–R′ not a free amino group?",
         "back": "Its nitrogen is directly bonded to a carbonyl carbon as part of an amide.",
         "prompt": "Why is R–C(=O)–NH–R′ not a free amino group?",
-        "figure": "",
+        "figure": "ammonium",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Amino groups"
+        "concept": "Amino groups",
+        "answerFigure": "ammonium"
       },
       {
         "id": "8f4ff9f1fb15be",
         "front": "Why is the –C(=O)–NH– part of a peptide not a free carboxyl group?",
         "back": "The carbonyl carbon is bonded to nitrogen instead of –OH or –O⁻.",
         "prompt": "Why is the –C(=O)–NH– part of a peptide not a free carboxyl group?",
-        "figure": "",
+        "figure": "peptide",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "481e681bc77d57",
@@ -312,7 +221,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "2b7a00ec80eec4",
@@ -322,7 +232,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Ester formation"
+        "concept": "Ester formation",
+        "answerFigure": "ester"
       },
       {
         "id": "5b4dc30223fa95",
@@ -332,7 +243,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "ester"
       },
       {
         "id": "8d37052b26c4c1",
@@ -352,7 +264,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "carboxylate"
       },
       {
         "id": "a3252945c05041",
@@ -362,7 +275,8 @@ export const DECKS = [
         "figure": "thioester",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Thioester linkages"
+        "concept": "Thioester linkages",
+        "answerFigure": "thioester"
       },
       {
         "id": "28a4f27db3882d",
@@ -372,7 +286,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 0,
-        "concept": "Thioester linkages"
+        "concept": "Thioester linkages",
+        "answerFigure": "ester"
       },
       {
         "id": "2d93055072c7c4",
@@ -382,7 +297,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Thioester linkages"
+        "concept": "Thioester linkages",
+        "answerFigure": "thioester"
       },
       {
         "id": "51602b4aef54f6",
@@ -392,7 +308,8 @@ export const DECKS = [
         "figure": "phosphoester",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Phosphoester linkages"
+        "concept": "Phosphoester linkages",
+        "answerFigure": "phosphoester"
       },
       {
         "id": "873341f64e90e4",
@@ -402,7 +319,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Phosphoester versus phosphodiester"
+        "concept": "Phosphoester versus phosphodiester",
+        "answerFigure": "phosphoester"
       },
       {
         "id": "15b577a0a7f372",
@@ -412,7 +330,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Phosphoester versus phosphodiester"
+        "concept": "Phosphoester versus phosphodiester",
+        "answerFigure": "phosphoester"
       },
       {
         "id": "ca128bbf6315f8",
@@ -422,7 +341,8 @@ export const DECKS = [
         "figure": "phosphodiester",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Phosphodiester backbone"
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "phosphodiester"
       },
       {
         "id": "f2274ed088f7bf",
@@ -432,7 +352,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Phosphodiester backbone"
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "phosphoester"
       },
       {
         "id": "a614efcd577db7",
@@ -452,7 +373,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Phosphodiester backbone"
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "phosphodiester"
       },
       {
         "id": "eb3f9e33cf7c44",
@@ -462,7 +384,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Phosphodiester backbone"
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "phosphodiester"
       },
       {
         "id": "aae076b90b7766",
@@ -472,7 +395,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 0,
-        "concept": "Phosphodiester backbone"
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "dna-antiparallel"
       },
       {
         "id": "37f0a6d006cf98",
@@ -492,7 +416,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glycoa14"
       },
       {
         "id": "6418e8666d330f",
@@ -502,7 +427,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "answerFigure": "glycoa14"
       },
       {
         "id": "ce5d00b26515d0",
@@ -512,7 +438,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glycob14"
       },
       {
         "id": "4ccfcf4f81ee3e",
@@ -522,7 +449,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "answerFigure": "glycob14"
       },
       {
         "id": "b50af684af2284",
@@ -532,7 +460,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glycoa14"
       },
       {
         "id": "d239968900916e",
@@ -542,7 +471,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Amylopectin branches"
+        "concept": "Amylopectin branches",
+        "answerFigure": "glyco16"
       },
       {
         "id": "9f27a546f579af",
@@ -552,7 +482,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Cellulose linkages"
+        "concept": "Cellulose linkages",
+        "answerFigure": "glycob14"
       },
       {
         "id": "e9d803ea923110",
@@ -562,7 +493,8 @@ export const DECKS = [
         "figure": "glyco16",
         "kind": "Visual recognition",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glyco16"
       },
       {
         "id": "65c68e0ba154d9",
@@ -572,7 +504,8 @@ export const DECKS = [
         "figure": "glycob14",
         "kind": "Visual recognition",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glycob14"
       },
       {
         "id": "032e9e16596658",
@@ -582,7 +515,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "answerFigure": "glycoa14"
       },
       {
         "id": "e594e25ed84e4f",
@@ -592,7 +526,8 @@ export const DECKS = [
         "figure": "ether",
         "kind": "Structure recognition",
         "deck": 0,
-        "concept": "Ether versus ester"
+        "concept": "Ether versus ester",
+        "answerFigure": "ether"
       },
       {
         "id": "157128deef267f",
@@ -602,7 +537,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Ether versus ester"
+        "concept": "Ether versus ester",
+        "answerFigure": "ester"
       },
       {
         "id": "7b6f799048937b",
@@ -612,7 +548,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Thioester linkages"
+        "concept": "Thioester linkages",
+        "answerFigure": "linkage-compare"
       },
       {
         "id": "5d50e5d9b3b599",
@@ -622,7 +559,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Phosphoester versus phosphodiester"
+        "concept": "Phosphoester versus phosphodiester",
+        "answerFigure": "phosphoester"
       },
       {
         "id": "afb93bab941a22",
@@ -632,7 +570,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Ether versus ester"
+        "concept": "Ether versus ester",
+        "answerFigure": "glycoa14"
       },
       {
         "id": "5231084ab9f460",
@@ -652,7 +591,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 0,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "tag"
       },
       {
         "id": "bf0be168dba2b8",
@@ -672,7 +612,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "answerFigure": "ester"
       },
       {
         "id": "006ef919da5d8d",
@@ -686,142 +627,13 @@ export const DECKS = [
       }
     ],
     "course": "BIOL 112",
-    "unit": "Macromolecules"
+    "unit": "Unit 2",
+    "module": "2-2"
   },
   {
     "title": "Structures & directionality",
     "file": "BIOL_Macromolecules_Set2_Structures_and_Directionality.txt",
     "cards": [
-      {
-        "id": "b949468ac5b34d",
-        "front": "What three components make a nucleotide?",
-        "back": "A phosphate group, a pentose sugar, and a nitrogenous base.",
-        "prompt": "What three components make a nucleotide?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 1,
-        "concept": "Phosphate groups"
-      },
-      {
-        "id": "a0a3d0371ed4db",
-        "front": "Which base differs between DNA and RNA?",
-        "back": "DNA uses thymine (T); RNA uses uracil (U). Both use A, C, and G.",
-        "prompt": "Which base differs between DNA and RNA?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 1,
-        "concept": "Macromolecule structure"
-      },
-      {
-        "id": "5ef92f3136fd40",
-        "front": "How do ribose and deoxyribose differ at the 2′ carbon?",
-        "back": "Ribose has 2′-OH; deoxyribose has 2′-H.",
-        "prompt": "How do ribose and deoxyribose differ at the 2′ carbon?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 1,
-        "concept": "Macromolecule structure"
-      },
-      {
-        "id": "9ea0d9c5b094e5",
-        "front": "Which pentose carbon is attached to the nitrogenous base?",
-        "back": "1′.",
-        "prompt": "Which numbered carbon attaches to the base?",
-        "figure": "nucleotide",
-        "kind": "Structure recognition",
-        "deck": 1,
-        "concept": "Nucleotide carbon numbering"
-      },
-      {
-        "id": "34cd3c7e1c15d4",
-        "front": "Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?",
-        "back": "3′.",
-        "prompt": "Which numbered carbon carries the growing-end OH?",
-        "figure": "nucleotide",
-        "kind": "Structure recognition",
-        "deck": 1,
-        "concept": "Nucleic-acid directionality"
-      },
-      {
-        "id": "967e8c0ab26b16",
-        "front": "Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?",
-        "back": "5′.",
-        "prompt": "Which sugar carbon is outside the ring?",
-        "figure": "nucleotide",
-        "kind": "Structure recognition",
-        "deck": 1,
-        "concept": "Nucleotide carbon numbering"
-      },
-      {
-        "id": "4e059a2a62fef3",
-        "front": "What does the prime mark in 3′ indicate in this context?",
-        "back": "Sugar-carbon numbering, distinguished from numbering in the base.",
-        "prompt": "What does the prime mark in 3′ indicate in this context?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 1,
-        "concept": "Nucleic-acid directionality"
-      },
-      {
-        "id": "0584c1c5960e24",
-        "front": "How can you identify the two ends of the usual textbook nucleic-acid strand?",
-        "back": "The 3′ end has a free 3′-OH; the 5′ end has the terminal 5′ position, commonly bearing phosphate.",
-        "prompt": "How can you identify the two ends of the usual textbook nucleic-acid strand?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 1,
-        "concept": "Phosphate groups"
-      },
-      {
-        "id": "3807f7a049d9b5",
-        "front": "Why is nucleic-acid synthesis described as 5′ → 3′?",
-        "back": "New nucleotides attach to the growing strand’s 3′-OH, extending its 3′ end.",
-        "prompt": "Why is nucleic-acid synthesis described as 5′ → 3′?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 1,
-        "concept": "Nucleic-acid directionality"
-      },
-      {
-        "id": "22f497f52cc9df",
-        "front": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
-        "back": "It stops because the next backbone linkage cannot form there.",
-        "prompt": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
-        "figure": "",
-        "kind": "Apply it",
-        "deck": 1,
-        "concept": "Nucleic-acid directionality"
-      },
-      {
-        "id": "19778ed33b7663",
-        "front": "One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?",
-        "back": "3′ → 5′: the strands are antiparallel.",
-        "prompt": "One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 1,
-        "concept": "Antiparallel DNA"
-      },
-      {
-        "id": "c76e53724378eb",
-        "front": "What does polymer polarity mean when discussing 5′ and 3′ ends?",
-        "back": "The polymer has chemically different ends and therefore a direction.",
-        "prompt": "What does polymer polarity mean when discussing 5′ and 3′ ends?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 1,
-        "concept": "Nucleic-acid directionality"
-      },
-      {
-        "id": "c7e5872c754078",
-        "front": "Are nitrogenous bases the repeating links of the sugar–phosphate backbone?",
-        "back": "No; they attach to the sugars and project from the backbone.",
-        "prompt": "Are nitrogenous bases the repeating links of the sugar–phosphate backbone?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 1,
-        "concept": "Phosphate groups"
-      },
       {
         "id": "95b1af8dda9fce",
         "front": "Which part of an amino acid varies and determines many of its properties?",
@@ -830,7 +642,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "answerFigure": "aminoacid"
       },
       {
         "id": "a89fb0a7de7fa4",
@@ -840,7 +653,8 @@ export const DECKS = [
         "figure": "aminoacid",
         "kind": "Visual recognition",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "answerFigure": "aminoacid"
       },
       {
         "id": "08365faa9e7bd7",
@@ -850,7 +664,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 1,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "amino-zwitterion"
       },
       {
         "id": "cd804a1daef1ae",
@@ -860,7 +675,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 1,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "answerFigure": "peptide"
       },
       {
         "id": "4c256c32e3cc30",
@@ -870,7 +686,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Protein directionality"
+        "concept": "Protein directionality",
+        "answerFigure": "peptide"
       },
       {
         "id": "24fd620b6c912c",
@@ -900,7 +717,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 1,
-        "concept": "Amino groups"
+        "concept": "Amino groups",
+        "answerFigure": "peptide"
       },
       {
         "id": "9e9c1a58c8287e",
@@ -950,7 +768,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Starch versus cellulose"
+        "concept": "Starch versus cellulose",
+        "answerFigure": "glycob14"
       },
       {
         "id": "4d79ab08c12f14",
@@ -960,7 +779,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 1,
-        "concept": "Starch versus cellulose"
+        "concept": "Starch versus cellulose",
+        "answerFigure": "glycob14"
       },
       {
         "id": "c0d12ef23c1520",
@@ -970,7 +790,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Starch versus cellulose"
+        "concept": "Starch versus cellulose",
+        "answerFigure": "glyco16"
       },
       {
         "id": "b7e9b1efdc7e8c",
@@ -980,7 +801,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "answerFigure": "glycob14"
       },
       {
         "id": "1e34614c3e6692",
@@ -990,11 +812,13 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 1,
-        "concept": "Amylopectin branches"
+        "concept": "Amylopectin branches",
+        "answerFigure": "glyco16"
       }
     ],
     "course": "BIOL 112",
-    "unit": "Macromolecules"
+    "unit": "Unit 2",
+    "module": "2-2"
   },
   {
     "title": "Lipids & membranes",
@@ -1008,7 +832,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "tag"
       },
       {
         "id": "a2174c4b23f17c",
@@ -1018,17 +843,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "fatty-acid"
       },
       {
         "id": "8b7b0441de337d",
         "front": "Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?",
         "back": "No; the chain remains mainly nonpolar.",
         "prompt": "Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?",
-        "figure": "",
+        "figure": "fatty-acid",
         "kind": "Compare & distinguish",
         "deck": 2,
-        "concept": "Carboxyl groups"
+        "concept": "Carboxyl groups",
+        "answerFigure": "fatty-acid"
       },
       {
         "id": "09d35709dd17ee",
@@ -1038,7 +865,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "glycerol-model"
       },
       {
         "id": "c573281bc85cdc",
@@ -1048,7 +876,8 @@ export const DECKS = [
         "figure": "tag",
         "kind": "Structure recognition",
         "deck": 2,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "tag"
       },
       {
         "id": "2fdfd7d5bf6b80",
@@ -1058,7 +887,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Triacylglycerol"
+        "concept": "Triacylglycerol",
+        "answerFigure": "tag"
       },
       {
         "id": "ed97f6cf8955db",
@@ -1068,7 +898,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "answerFigure": "tag"
       },
       {
         "id": "aedbcf85cfccda",
@@ -1078,7 +909,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 2,
-        "concept": "Triacylglycerol"
+        "concept": "Triacylglycerol",
+        "answerFigure": "tag"
       },
       {
         "id": "0f84875c2ea96c",
@@ -1088,7 +920,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "fb0a5f24c56649",
@@ -1098,7 +931,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "982f374197fcf2",
@@ -1108,7 +942,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 2,
-        "concept": "Phosphate groups"
+        "concept": "Phosphate groups",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "d52b1100080767",
@@ -1118,7 +953,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "a0a1d51a3ad0cf",
@@ -1128,7 +964,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "03745188ed50be",
@@ -1138,7 +975,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "6eb97eac05a8e3",
@@ -1148,7 +986,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "phospholipid-model"
       },
       {
         "id": "76fa67952b2174",
@@ -1158,7 +997,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "tail-kink"
       },
       {
         "id": "67dd298e2cfb30",
@@ -1168,7 +1008,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "tail-kink"
       },
       {
         "id": "ad196db3d6d40a",
@@ -1178,7 +1019,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "answerFigure": "bilayer"
       },
       {
         "id": "ed74b0120f3b19",
@@ -1188,7 +1030,8 @@ export const DECKS = [
         "figure": "bilayer",
         "kind": "Visual recognition",
         "deck": 2,
-        "concept": "Bilayer structure and assembly"
+        "concept": "Bilayer structure and assembly",
+        "answerFigure": "bilayer"
       },
       {
         "id": "82fd5793490c78",
@@ -1198,7 +1041,8 @@ export const DECKS = [
         "figure": "bilayer",
         "kind": "Structure recognition",
         "deck": 2,
-        "concept": "Bilayer structure and assembly"
+        "concept": "Bilayer structure and assembly",
+        "answerFigure": "bilayer"
       },
       {
         "id": "57cac6a435cc5b",
@@ -1208,7 +1052,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 2,
-        "concept": "Micelle versus liposome"
+        "concept": "Micelle versus liposome",
+        "answerFigure": "liposome"
       },
       {
         "id": "f1e7517075c3aa",
@@ -1218,7 +1063,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 2,
-        "concept": "Micelle versus liposome"
+        "concept": "Micelle versus liposome",
+        "answerFigure": "micelle"
       },
       {
         "id": "225b5653b5c01a",
@@ -1228,7 +1074,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 2,
-        "concept": "Micelle versus liposome"
+        "concept": "Micelle versus liposome",
+        "answerFigure": "liposome"
       },
       {
         "id": "d1bc2fbbbf1c38",
@@ -1238,7 +1085,8 @@ export const DECKS = [
         "figure": "micelle",
         "kind": "Structure recognition",
         "deck": 2,
-        "concept": "Micelle versus liposome"
+        "concept": "Micelle versus liposome",
+        "answerFigure": "micelle"
       },
       {
         "id": "f6121927923603",
@@ -1248,51 +1096,13 @@ export const DECKS = [
         "figure": "liposome",
         "kind": "Structure recognition",
         "deck": 2,
-        "concept": "Micelle versus liposome"
-      },
-      {
-        "id": "1d5571994c1bb9",
-        "front": "How many bilayers make up the mitochondrial double membrane?",
-        "back": "Two separate bilayers, with an intermembrane space between them (four leaflets total).",
-        "prompt": "How many bilayers make up the mitochondrial double membrane?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Bilayer structure and assembly"
-      },
-      {
-        "id": "b4812ce1553424",
-        "front": "Does the nuclear envelope contain one bilayer or two?",
-        "back": "Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.",
-        "prompt": "Does the nuclear envelope contain one bilayer or two?",
-        "figure": "",
-        "kind": "Recall & application",
-        "deck": 2,
-        "concept": "Lipids and membranes"
-      },
-      {
-        "id": "5b050dd82bc5cc",
-        "front": "Name a course organelle surrounded by a single membrane bilayer.",
-        "back": "ER, Golgi, or lysosome.",
-        "prompt": "Name a course organelle surrounded by a single membrane bilayer.",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Bilayer structure and assembly"
-      },
-      {
-        "id": "4098901fa99719",
-        "front": "What protein framework helps maintain cell shape?",
-        "back": "The cytoskeleton.",
-        "prompt": "What protein framework helps maintain cell shape?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 2,
-        "concept": "Lipids and membranes"
+        "concept": "Micelle versus liposome",
+        "answerFigure": "liposome"
       }
     ],
     "course": "BIOL 112",
-    "unit": "Macromolecules"
+    "unit": "Unit 2",
+    "module": "2-3"
   },
   {
     "title": "Hydrophobic effect",
@@ -1356,7 +1166,8 @@ export const DECKS = [
         "figure": "hydrophobic",
         "kind": "Visual recognition",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "7d407d6f2143fe",
@@ -1366,7 +1177,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "fc12e8fec9d95d",
@@ -1376,7 +1188,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 3,
-        "concept": "Lipid versus water entropy"
+        "concept": "Lipid versus water entropy",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "05ecfd7770ef1b",
@@ -1386,7 +1199,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Lipid versus water entropy"
+        "concept": "Lipid versus water entropy",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "0e5b77fe4b1d33",
@@ -1416,7 +1230,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "5676a9bca1f215",
@@ -1466,7 +1281,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "c7dec36b22b0ea",
@@ -1476,7 +1292,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "answerFigure": "hydrophobic"
       },
       {
         "id": "6e46179bc67c15",
@@ -1486,11 +1303,13 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 3,
-        "concept": "Bilayer structure and assembly"
+        "concept": "Bilayer structure and assembly",
+        "answerFigure": "hydrophobic"
       }
     ],
     "course": "BIOL 112",
-    "unit": "Macromolecules"
+    "unit": "Unit 2",
+    "module": "2-3"
   },
   {
     "title": "AXE & parent shapes",
@@ -1506,7 +1325,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "AXE notation"
+        "concept": "AXE notation",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "e05f2483802d19",
@@ -1516,7 +1336,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "AXE notation"
+        "concept": "AXE notation",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "583488756c3c71",
@@ -1526,7 +1347,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "AXE notation"
+        "concept": "AXE notation",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "b916f1f43b4f5e",
@@ -1536,7 +1358,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Recall & application",
-        "concept": "Parent versus molecular shape"
+        "concept": "Parent versus molecular shape",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "afb7269632bd58",
@@ -1546,7 +1369,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "Parent versus molecular shape"
+        "concept": "Parent versus molecular shape",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "75d7a324c1b3fc",
@@ -1556,7 +1380,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "Parent versus molecular shape"
+        "concept": "Parent versus molecular shape",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "3972079d51ba7a",
@@ -1576,7 +1401,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "2 domains → Linear"
+        "concept": "2 domains → Linear",
+        "answerFigure": "v-ax2"
       },
       {
         "id": "e76c39be64bd83",
@@ -1586,7 +1412,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "3 domains → Trigonal planar"
+        "concept": "3 domains → Trigonal planar",
+        "answerFigure": "v-ax3"
       },
       {
         "id": "4c2cf12935ddfc",
@@ -1596,7 +1423,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "4 domains → Tetrahedral"
+        "concept": "4 domains → Tetrahedral",
+        "answerFigure": "v-ax4"
       },
       {
         "id": "d6d099ad314ee1",
@@ -1606,7 +1434,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "5 domains → Trigonal bipyramidal"
+        "concept": "5 domains → Trigonal bipyramidal",
+        "answerFigure": "v-ax5"
       },
       {
         "id": "d46e4a62f5d08f",
@@ -1616,7 +1445,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "6 domains → Octahedral"
+        "concept": "6 domains → Octahedral",
+        "answerFigure": "v-ax6"
       },
       {
         "id": "1b75f752b6ffcd",
@@ -1626,7 +1456,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "7 domains → Pentagonal bipyramidal"
+        "concept": "7 domains → Pentagonal bipyramidal",
+        "answerFigure": "v-ax7"
       },
       {
         "id": "9e322a965d0344",
@@ -1636,7 +1467,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Recall & application",
-        "concept": "Reading perspective drawings"
+        "concept": "Reading perspective drawings",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "61f5e876c4f3a4",
@@ -1646,7 +1478,8 @@ export const DECKS = [
         "figure": "",
         "deck": 4,
         "kind": "Quick recall",
-        "concept": "Reading perspective drawings"
+        "concept": "Reading perspective drawings",
+        "answerFigure": "v-ax4e"
       }
     ]
   },
@@ -1664,7 +1497,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₂ · Linear"
+        "concept": "AX₂ · Linear",
+        "answerFigure": "v-ax2"
       },
       {
         "id": "020ef7f4abb936",
@@ -1674,7 +1508,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₃ · Trigonal planar"
+        "concept": "AX₃ · Trigonal planar",
+        "answerFigure": "v-ax3"
       },
       {
         "id": "79f2345cc55ae2",
@@ -1684,7 +1519,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₂E · Bent"
+        "concept": "AX₂E · Bent",
+        "answerFigure": "v-ax2e"
       },
       {
         "id": "819a1034eb0b5a",
@@ -1694,7 +1530,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₄ · Tetrahedral"
+        "concept": "AX₄ · Tetrahedral",
+        "answerFigure": "v-ax4"
       },
       {
         "id": "c320594b61273d",
@@ -1704,7 +1541,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₃E · Trigonal pyramidal"
+        "concept": "AX₃E · Trigonal pyramidal",
+        "answerFigure": "v-ax3e"
       },
       {
         "id": "0db02aeca6e65c",
@@ -1714,7 +1552,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₂E₂ · Bent"
+        "concept": "AX₂E₂ · Bent",
+        "answerFigure": "v-ax2e2"
       },
       {
         "id": "dad2e7786e79a4",
@@ -1724,7 +1563,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₅ · Trigonal bipyramidal"
+        "concept": "AX₅ · Trigonal bipyramidal",
+        "answerFigure": "v-ax5"
       },
       {
         "id": "60b20ffb75e82a",
@@ -1734,7 +1574,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₄E · Seesaw"
+        "concept": "AX₄E · Seesaw",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "ad0e1ae99c8855",
@@ -1744,7 +1585,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₃E₂ · T-shaped"
+        "concept": "AX₃E₂ · T-shaped",
+        "answerFigure": "v-ax3e2"
       },
       {
         "id": "e60015c37a9c39",
@@ -1754,7 +1596,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₂E₃ · Linear"
+        "concept": "AX₂E₃ · Linear",
+        "answerFigure": "v-ax2e3"
       },
       {
         "id": "6b9649ff82973a",
@@ -1764,7 +1607,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₆ · Octahedral"
+        "concept": "AX₆ · Octahedral",
+        "answerFigure": "v-ax6"
       },
       {
         "id": "46edc20f9084e6",
@@ -1774,7 +1618,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₅E · Square-based pyramidal"
+        "concept": "AX₅E · Square-based pyramidal",
+        "answerFigure": "v-ax5e"
       },
       {
         "id": "1adf715f435473",
@@ -1784,7 +1629,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₄E₂ · Square planar"
+        "concept": "AX₄E₂ · Square planar",
+        "answerFigure": "v-ax4e2"
       },
       {
         "id": "786915bf3fa613",
@@ -1794,7 +1640,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "AX₇ · Pentagonal bipyramidal"
+        "concept": "AX₇ · Pentagonal bipyramidal",
+        "answerFigure": "v-ax7"
       },
       {
         "id": "14ef3618cdaaa0",
@@ -1804,7 +1651,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Recall & application",
-        "concept": "Two kinds of bent"
+        "concept": "Two kinds of bent",
+        "answerFigure": "shape-bent-pair"
       },
       {
         "id": "5e2453e50614cd",
@@ -1814,7 +1662,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Explain why",
-        "concept": "Square planar versus tetrahedral"
+        "concept": "Square planar versus tetrahedral",
+        "answerFigure": "v-ax4e2"
       },
       {
         "id": "21f65a98d795b8",
@@ -1824,7 +1673,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Quick recall",
-        "concept": "Count E as well as X"
+        "concept": "Count E as well as X",
+        "answerFigure": "shape-three-x"
       },
       {
         "id": "6df15bf9a955cc",
@@ -1834,7 +1684,8 @@ export const DECKS = [
         "figure": "",
         "deck": 5,
         "kind": "Recall & application",
-        "concept": "Lone-pair positions"
+        "concept": "Lone-pair positions",
+        "answerFigure": "v-ax4e"
       }
     ]
   },
@@ -1852,7 +1703,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₂ · Linear"
+        "concept": "AX₂ · Linear",
+        "answerFigure": "v-ax2"
       },
       {
         "id": "b12b7aab6f3be8",
@@ -1862,7 +1714,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₃ · Trigonal planar"
+        "concept": "AX₃ · Trigonal planar",
+        "answerFigure": "v-ax3"
       },
       {
         "id": "676611bcdff1f7",
@@ -1872,7 +1725,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₄ · Tetrahedral"
+        "concept": "AX₄ · Tetrahedral",
+        "answerFigure": "v-ax4"
       },
       {
         "id": "6a758e2a9eedcb",
@@ -1882,7 +1736,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₅ · Trigonal bipyramidal"
+        "concept": "AX₅ · Trigonal bipyramidal",
+        "answerFigure": "v-ax5"
       },
       {
         "id": "038d48f69f7370",
@@ -1892,7 +1747,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₃E₂ · T-shaped"
+        "concept": "AX₃E₂ · T-shaped",
+        "answerFigure": "v-ax3e2"
       },
       {
         "id": "e98b4f8e495cc0",
@@ -1902,7 +1758,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₂E₃ · Linear"
+        "concept": "AX₂E₃ · Linear",
+        "answerFigure": "v-ax2e3"
       },
       {
         "id": "6c1a972de2c0a2",
@@ -1912,7 +1769,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₆ · Octahedral"
+        "concept": "AX₆ · Octahedral",
+        "answerFigure": "v-ax6"
       },
       {
         "id": "739475b41afe67",
@@ -1922,7 +1780,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Quick recall",
-        "concept": "AX₄E₂ · Square planar"
+        "concept": "AX₄E₂ · Square planar",
+        "answerFigure": "v-ax4e2"
       },
       {
         "id": "dfe41e7d8abc8a",
@@ -1932,7 +1791,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Recall & application",
-        "concept": "AX₇ · Pentagonal bipyramidal"
+        "concept": "AX₇ · Pentagonal bipyramidal",
+        "answerFigure": "v-ax7"
       },
       {
         "id": "4b76cc29d6e92d",
@@ -1952,7 +1812,8 @@ export const DECKS = [
         "figure": "",
         "deck": 6,
         "kind": "Recall & application",
-        "concept": "Approximate versus actual angles"
+        "concept": "Approximate versus actual angles",
+        "answerFigure": "v-ax3e"
       }
     ]
   },
@@ -1970,7 +1831,8 @@ export const DECKS = [
         "figure": "v-ax2",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₂ · Linear"
+        "concept": "AX₂ · Linear",
+        "answerFigure": "v-ax2"
       },
       {
         "id": "af657e52a349cb",
@@ -1980,7 +1842,8 @@ export const DECKS = [
         "figure": "v-ax3",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₃ · Trigonal planar"
+        "concept": "AX₃ · Trigonal planar",
+        "answerFigure": "v-ax3"
       },
       {
         "id": "56e92477bdc3fc",
@@ -1990,7 +1853,8 @@ export const DECKS = [
         "figure": "v-ax2e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₂E · Bent"
+        "concept": "AX₂E · Bent",
+        "answerFigure": "v-ax2e"
       },
       {
         "id": "5ff80e061efca9",
@@ -2000,7 +1864,8 @@ export const DECKS = [
         "figure": "v-ax2e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₂E · Bent"
+        "concept": "AX₂E · Bent",
+        "answerFigure": "v-ax2e"
       },
       {
         "id": "8094b8e18d03a6",
@@ -2010,7 +1875,8 @@ export const DECKS = [
         "figure": "v-ax4",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₄ · Tetrahedral"
+        "concept": "AX₄ · Tetrahedral",
+        "answerFigure": "v-ax4"
       },
       {
         "id": "387f3d0c3008e3",
@@ -2020,7 +1886,8 @@ export const DECKS = [
         "figure": "v-ax3e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₃E · Trigonal pyramidal"
+        "concept": "AX₃E · Trigonal pyramidal",
+        "answerFigure": "v-ax3e"
       },
       {
         "id": "551cf30832d63b",
@@ -2030,7 +1897,8 @@ export const DECKS = [
         "figure": "v-ax3e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₃E · Trigonal pyramidal"
+        "concept": "AX₃E · Trigonal pyramidal",
+        "answerFigure": "v-ax3e"
       },
       {
         "id": "5d96f0b2711134",
@@ -2040,7 +1908,8 @@ export const DECKS = [
         "figure": "v-ax2e2",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₂E₂ · Bent"
+        "concept": "AX₂E₂ · Bent",
+        "answerFigure": "v-ax2e2"
       },
       {
         "id": "d464dd83ea5549",
@@ -2050,7 +1919,8 @@ export const DECKS = [
         "figure": "v-ax5",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₅ · Trigonal bipyramidal"
+        "concept": "AX₅ · Trigonal bipyramidal",
+        "answerFigure": "v-ax5"
       },
       {
         "id": "66158240af85ba",
@@ -2060,7 +1930,8 @@ export const DECKS = [
         "figure": "v-ax4e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₄E · Seesaw"
+        "concept": "AX₄E · Seesaw",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "9feccd11476ae6",
@@ -2070,7 +1941,8 @@ export const DECKS = [
         "figure": "v-ax4e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₄E · Seesaw"
+        "concept": "AX₄E · Seesaw",
+        "answerFigure": "v-ax4e"
       },
       {
         "id": "6f2e613edc6814",
@@ -2080,7 +1952,8 @@ export const DECKS = [
         "figure": "v-ax3e2",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₃E₂ · T-shaped"
+        "concept": "AX₃E₂ · T-shaped",
+        "answerFigure": "v-ax3e2"
       },
       {
         "id": "f450d9e28fb3c4",
@@ -2090,7 +1963,8 @@ export const DECKS = [
         "figure": "v-ax2e3",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₂E₃ · Linear"
+        "concept": "AX₂E₃ · Linear",
+        "answerFigure": "v-ax2e3"
       },
       {
         "id": "35a7c2d0b72f2b",
@@ -2100,7 +1974,8 @@ export const DECKS = [
         "figure": "v-ax6",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₆ · Octahedral"
+        "concept": "AX₆ · Octahedral",
+        "answerFigure": "v-ax6"
       },
       {
         "id": "70fcc3a4ae8a75",
@@ -2110,7 +1985,8 @@ export const DECKS = [
         "figure": "v-ax5e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₅E · Square-based pyramidal"
+        "concept": "AX₅E · Square-based pyramidal",
+        "answerFigure": "v-ax5e"
       },
       {
         "id": "9cecbd122a5646",
@@ -2120,7 +1996,8 @@ export const DECKS = [
         "figure": "v-ax5e",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₅E · Square-based pyramidal"
+        "concept": "AX₅E · Square-based pyramidal",
+        "answerFigure": "v-ax5e"
       },
       {
         "id": "9dc0bca22bcab9",
@@ -2130,7 +2007,8 @@ export const DECKS = [
         "figure": "v-ax4e2",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₄E₂ · Square planar"
+        "concept": "AX₄E₂ · Square planar",
+        "answerFigure": "v-ax4e2"
       },
       {
         "id": "b9a1422a379f78",
@@ -2140,7 +2018,8 @@ export const DECKS = [
         "figure": "v-ax7",
         "deck": 7,
         "kind": "Visual recognition",
-        "concept": "AX₇ · Pentagonal bipyramidal"
+        "concept": "AX₇ · Pentagonal bipyramidal",
+        "answerFigure": "v-ax7"
       }
     ]
   },
@@ -2148,7 +2027,7 @@ export const DECKS = [
     "title": "Proteins · structure, folding & function",
     "file": "BIOL112_Proteins_Sept27.txt",
     "course": "BIOL 112",
-    "unit": "Macromolecules",
+    "unit": "Unit 2",
     "source": "September 27 prereading · Ch. 5.1, pp. 89–98 · September 28 R-group comparisons",
     "defaultFigure": "peptide",
     "cards": [
@@ -2160,7 +2039,8 @@ export const DECKS = [
         "figure": "aminoacid",
         "kind": "Structure & geometry",
         "deck": 8,
-        "concept": "Amino-acid geometry"
+        "concept": "Amino-acid geometry",
+        "answerFigure": "amino-3d"
       },
       {
         "id": "biol112-protein-sidechain-classification",
@@ -2170,7 +2050,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Backbone versus side chain"
+        "concept": "Backbone versus side chain",
+        "answerFigure": "amino-zwitterion"
       },
       {
         "id": "biol112-protein-soluble-core",
@@ -2180,7 +2061,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Hydrophobic core"
+        "concept": "Hydrophobic core",
+        "answerFigure": "protein-core"
       },
       {
         "id": "biol112-protein-membrane-surface",
@@ -2190,7 +2072,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Environment and folding"
+        "concept": "Environment and folding",
+        "answerFigure": "membrane-protein"
       },
       {
         "id": "biol112-protein-vdw-packing",
@@ -2200,7 +2083,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Close packing"
+        "concept": "Close packing",
+        "answerFigure": "protein-core"
       },
       {
         "id": "biol112-protein-ionic-pair",
@@ -2210,7 +2094,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Ionic side-chain interactions"
+        "concept": "Ionic side-chain interactions",
+        "answerFigure": "ionic-pair"
       },
       {
         "id": "biol112-protein-ph-protonation",
@@ -2220,7 +2105,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "pH and folding"
+        "concept": "pH and folding",
+        "answerFigure": "ionic-pair"
       },
       {
         "id": "biol112-protein-glycine-recognition",
@@ -2230,7 +2116,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recognize structure",
         "deck": 8,
-        "concept": "Glycine structure"
+        "concept": "Glycine structure",
+        "answerFigure": "glycine-model"
       },
       {
         "id": "biol112-protein-proline-recognition",
@@ -2240,17 +2127,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Recognize structure",
         "deck": 8,
-        "concept": "Proline structure"
+        "concept": "Proline structure",
+        "answerFigure": "proline-model"
       },
       {
         "id": "biol112-protein-gly-pro-mobility",
         "front": "Why does glycine allow more backbone flexibility than proline?",
         "back": "Glycine has a tiny H side chain; proline’s ring constrains backbone rotation.",
         "prompt": "Why does glycine allow more backbone flexibility than proline?",
-        "figure": "",
+        "figure": "proline-model",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Side-chain geometry and flexibility"
+        "concept": "Side-chain geometry and flexibility",
+        "answerFigure": "proline-model"
       },
       {
         "id": "biol112-protein-cysteine-recognition",
@@ -2260,7 +2149,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recognize structure",
         "deck": 8,
-        "concept": "Cysteine structure"
+        "concept": "Cysteine structure",
+        "answerFigure": "cysteine-model"
       },
       {
         "id": "biol112-protein-disulfide-crosslink",
@@ -2270,7 +2160,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Disulfide formation"
+        "concept": "Disulfide formation",
+        "answerFigure": "disulfide-model"
       },
       {
         "id": "biol112-protein-peptide-rigidity",
@@ -2280,17 +2171,19 @@ export const DECKS = [
         "figure": "peptide",
         "kind": "Explain the mechanism",
         "deck": 8,
-        "concept": "Peptide-bond resonance"
+        "concept": "Peptide-bond resonance",
+        "answerFigure": "peptide"
       },
       {
         "id": "biol112-protein-backbone-rotation",
         "front": "If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?",
         "back": "The N–Cα and Cα–carbonyl-C bonds can rotate, within steric constraints.",
         "prompt": "If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?",
-        "figure": "",
+        "figure": "peptide",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Backbone flexibility"
+        "concept": "Backbone flexibility",
+        "answerFigure": "peptide"
       },
       {
         "id": "biol112-protein-sequence-order",
@@ -2300,7 +2193,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Primary structure"
+        "concept": "Primary structure",
+        "answerFigure": "peptide"
       },
       {
         "id": "biol112-protein-sequence-to-function",
@@ -2310,7 +2204,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Sequence → folding → function"
+        "concept": "Sequence → folding → function",
+        "answerFigure": "protein-fold"
       },
       {
         "id": "biol112-protein-secondary-hbonds",
@@ -2320,7 +2215,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Secondary-structure hydrogen bonds"
+        "concept": "Secondary-structure hydrogen bonds",
+        "answerFigure": "hydrogen-bond"
       },
       {
         "id": "biol112-protein-helix-recognition",
@@ -2330,7 +2226,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recognize structure",
         "deck": 8,
-        "concept": "α-Helix recognition"
+        "concept": "α-Helix recognition",
+        "answerFigure": "protein-secondary"
       },
       {
         "id": "biol112-protein-helix-sidechains",
@@ -2340,7 +2237,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "α-Helix side-chain placement"
+        "concept": "α-Helix side-chain placement",
+        "answerFigure": "protein-secondary"
       },
       {
         "id": "biol112-protein-sheet-recognition",
@@ -2350,7 +2248,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recognize structure",
         "deck": 8,
-        "concept": "β-Sheet recognition"
+        "concept": "β-Sheet recognition",
+        "answerFigure": "protein-secondary"
       },
       {
         "id": "biol112-protein-secondary-tertiary",
@@ -2360,7 +2259,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Secondary versus tertiary"
+        "concept": "Secondary versus tertiary",
+        "answerFigure": "protein-secondary"
       },
       {
         "id": "biol112-protein-one-chain-fold",
@@ -2370,7 +2270,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "One-chain tertiary structure"
+        "concept": "One-chain tertiary structure",
+        "answerFigure": "protein-fold"
       },
       {
         "id": "biol112-protein-identical-subunits",
@@ -2380,7 +2281,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Quaternary assembly"
+        "concept": "Quaternary assembly",
+        "answerFigure": "protein-subunits"
       },
       {
         "id": "biol112-protein-subunit-dissociation",
@@ -2390,7 +2292,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Disassembly of subunits"
+        "concept": "Disassembly of subunits",
+        "answerFigure": "protein-subunits"
       },
       {
         "id": "biol112-protein-disulfide-level",
@@ -2400,7 +2303,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Disulfides across structural levels"
+        "concept": "Disulfides across structural levels",
+        "answerFigure": "disulfide-model"
       },
       {
         "id": "biol112-protein-denaturation-sequence",
@@ -2410,7 +2314,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Denaturation versus backbone cleavage"
+        "concept": "Denaturation versus backbone cleavage",
+        "answerFigure": "protein-unfold"
       },
       {
         "id": "biol112-protein-shape-function",
@@ -2420,7 +2325,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Shape-dependent function"
+        "concept": "Shape-dependent function",
+        "answerFigure": "protein-unfold"
       },
       {
         "id": "biol112-protein-unfolding-aggregation",
@@ -2430,7 +2336,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Unfolding and aggregation"
+        "concept": "Unfolding and aggregation",
+        "answerFigure": "protein-unfold"
       },
       {
         "id": "biol112-protein-chaperone-protection",
@@ -2440,7 +2347,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Chaperone mechanism"
+        "concept": "Chaperone mechanism",
+        "answerFigure": "protein-unfold"
       },
       {
         "id": "biol112-protein-chaperone-limits",
@@ -2470,17 +2378,19 @@ export const DECKS = [
         "concept": "Uncharged polar side chains",
         "deck": 8,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "answerFigure": "hydroxyl"
       }
     ],
     "topic": "Proteins",
-    "shortTitle": "Proteins"
+    "shortTitle": "Proteins",
+    "module": "2-5"
   },
   {
     "title": "Transport & gradients",
     "shortTitle": "Transport & gradients",
     "course": "BIOL 112",
-    "unit": "Membranes",
+    "unit": "Unit 2",
     "file": "BIOL112_Membrane_Transport.txt",
     "defaultFigure": "transport-compare",
     "source": "September 21 & 28 notes · transport class overview and diagram practice",
@@ -2503,7 +2413,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Selective permeability"
+        "concept": "Selective permeability",
+        "answerFigure": "bilayer"
       },
       {
         "id": "1c36c3640b6bce",
@@ -2513,7 +2424,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Aquaporin channels"
+        "concept": "Aquaporin channels",
+        "answerFigure": "channel-carrier"
       },
       {
         "id": "353300d67cbfc7",
@@ -2523,7 +2435,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Membrane transport"
+        "concept": "Membrane transport",
+        "answerFigure": "bilayer"
       },
       {
         "id": "c88e0cacd1b53f",
@@ -2533,7 +2446,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Selective permeability"
+        "concept": "Selective permeability",
+        "answerFigure": "membrane-protein"
       },
       {
         "id": "edfb4e1bbe486a",
@@ -2543,7 +2457,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Carrier versus channel"
+        "concept": "Carrier versus channel",
+        "answerFigure": "channel-carrier"
       },
       {
         "id": "0a452a9d71d327",
@@ -2563,7 +2478,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 9,
-        "concept": "Simple versus facilitated diffusion"
+        "concept": "Simple versus facilitated diffusion",
+        "answerFigure": "channel-carrier"
       },
       {
         "id": "0700ae8fe9b43f",
@@ -2593,7 +2509,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "ATP-driven ion pump"
+        "concept": "ATP-driven ion pump",
+        "answerFigure": "nak-pump"
       },
       {
         "id": "0f1df698561d7c",
@@ -2623,7 +2540,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Osmosis and tonicity"
+        "concept": "Osmosis and tonicity",
+        "answerFigure": "osmosis-model"
       },
       {
         "id": "6094adf0179c40",
@@ -2633,7 +2551,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Osmosis and tonicity"
+        "concept": "Osmosis and tonicity",
+        "answerFigure": "osmosis-model"
       },
       {
         "id": "7664b2ee0eb6e6",
@@ -2643,7 +2562,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 9,
-        "concept": "Osmotic volume control"
+        "concept": "Osmotic volume control",
+        "answerFigure": "osmosis-model"
       },
       {
         "id": "54fbc9d4e2d114",
@@ -2663,7 +2583,8 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 9,
-        "concept": "Turgor pressure"
+        "concept": "Turgor pressure",
+        "answerFigure": "osmosis-model"
       },
       {
         "id": "biol112-transport-glucose-barrier",
@@ -2713,7 +2634,8 @@ export const DECKS = [
         "concept": "Sodium–potassium pump cycle",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "answerFigure": "nak-pump"
       },
       {
         "id": "biol112-transport-pump-electrogenic",
@@ -2723,7 +2645,8 @@ export const DECKS = [
         "concept": "Electrogenic transport",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "answerFigure": "nak-pump"
       },
       {
         "id": "biol112-transport-cotransport-directions",
@@ -2733,7 +2656,8 @@ export const DECKS = [
         "concept": "Cotransport direction",
         "deck": 9,
         "figure": "transport-symport",
-        "kind": "Diagram recognition"
+        "kind": "Diagram recognition",
+        "answerFigure": "transport-symport"
       },
       {
         "id": "biol112-transport-electrical-opposition",
@@ -2753,7 +2677,8 @@ export const DECKS = [
         "concept": "Indirect ATP dependence",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "answerFigure": "transport-symport"
       },
       {
         "id": "biol112-transport-glut-sglt-comparison",
@@ -2824,7 +2749,8 @@ export const DECKS = [
         "concept": "Antiport in cardiac muscle",
         "deck": 9,
         "figure": "transport-antiport",
-        "kind": "Diagram recognition"
+        "kind": "Diagram recognition",
+        "answerFigure": "transport-antiport"
       },
       {
         "id": "biol112-class-gas-cell-example",
@@ -2846,10 +2772,349 @@ export const DECKS = [
         "figure": "",
         "kind": "Application"
       }
+    ],
+    "module": "2-4"
+  },
+  {
+    "course": "BIOL 112",
+    "unit": "Unit 2",
+    "module": "2-1",
+    "title": "Polarity, charge & interactions",
+    "file": "BIOL112_Module2_1_Chemistry.txt",
+    "defaultFigure": "carbonyl",
+    "source": "Existing cards from your supplied chemistry and macromolecules notes",
+    "cards": [
+      {
+        "id": "5d997636f1e38b",
+        "front": "Is an ordinary alcohol –OH group charged as drawn?",
+        "back": "No; it is polar but uncharged.",
+        "prompt": "Is an ordinary alcohol –OH group charged as drawn?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 10,
+        "concept": "Hydroxyl groups",
+        "answerFigure": "hydroxyl"
+      },
+      {
+        "id": "109097e6f4e634",
+        "front": "Why does a carboxyl group become negatively charged after donating H⁺?",
+        "back": "It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).",
+        "prompt": "Why does a carboxyl group become negatively charged after donating H⁺?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 10,
+        "concept": "Carboxyl groups",
+        "answerFigure": "carboxylate"
+      },
+      {
+        "id": "0c147b0091a9ba",
+        "front": "Why can an amino group act as a base?",
+        "back": "Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.",
+        "prompt": "Why can an amino group act as a base?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 10,
+        "concept": "Amino groups",
+        "answerFigure": "ammonium"
+      },
+      {
+        "id": "ca0e1fc6a84ad3",
+        "front": "Why can phosphate groups make a molecular region hydrophilic?",
+        "back": "Their polar bonds and often negative charges interact favorably with water.",
+        "prompt": "Why can phosphate groups make a molecular region hydrophilic?",
+        "figure": "",
+        "kind": "Explain why",
+        "deck": 10,
+        "concept": "Phosphate groups",
+        "answerFigure": "phosphoester"
+      },
+      {
+        "id": "25e23ef75b61ed",
+        "front": "Are all phosphate-containing groups always drawn with exactly the same charge?",
+        "back": "No; charge depends on protonation and the groups attached.",
+        "prompt": "Are all phosphate-containing groups always drawn with exactly the same charge?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 10,
+        "concept": "Phosphate groups",
+        "answerFigure": "phosphoester"
+      },
+      {
+        "id": "f5a935317ba00e",
+        "front": "Why is the oxygen end of a carbonyl partially negative?",
+        "back": "Oxygen attracts the shared electrons more strongly than carbon.",
+        "prompt": "Why is the oxygen end of a carbonyl partially negative?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 10,
+        "concept": "Carbonyl groups",
+        "answerFigure": "carbonyl"
+      },
+      {
+        "id": "ce2c877933dd67",
+        "front": "Does the polarity of C=O mean that the group necessarily has a net charge?",
+        "back": "No; partial charges differ from a net ionic charge.",
+        "prompt": "Does the polarity of C=O mean that the group necessarily has a net charge?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 10,
+        "concept": "Functional groups and polarity",
+        "answerFigure": "carbonyl"
+      },
+      {
+        "id": "a98892fbe1869e",
+        "front": "Why is a long hydrocarbon chain hydrophobic?",
+        "back": "Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.",
+        "prompt": "Why is a long hydrocarbon chain hydrophobic?",
+        "figure": "",
+        "kind": "Explain why",
+        "deck": 10,
+        "concept": "Functional groups and polarity",
+        "answerFigure": "fatty-acid"
+      },
+      {
+        "id": "e24f7c8c3adf9f",
+        "front": "Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?",
+        "back": "–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.",
+        "prompt": "Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?",
+        "figure": "hydroxyl",
+        "kind": "Recall & application",
+        "deck": 10,
+        "concept": "Hydroxyl groups",
+        "answerFigure": "hydroxyl"
+      },
+      {
+        "id": "541ec6d6374e70",
+        "front": "Which region interacts more favorably with water: –COO⁻ or –CH₃?",
+        "back": "–COO⁻, because its negative charge interacts with water.",
+        "prompt": "Which region interacts more favorably with water: –COO⁻ or –CH₃?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 10,
+        "concept": "Functional groups and polarity"
+      },
+      {
+        "id": "1423aa549927ea",
+        "front": "Does one hydroxyl guarantee that an entire molecule is highly water-soluble?",
+        "back": "No; the size of its nonpolar region also matters.",
+        "prompt": "Does one hydroxyl guarantee that an entire molecule is highly water-soluble?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 10,
+        "concept": "Hydroxyl groups",
+        "answerFigure": "fatty-acid"
+      }
+    ]
+  },
+  {
+    "course": "BIOL 112",
+    "unit": "Unit 2",
+    "module": "2-6",
+    "title": "Nucleic acid structure & directionality",
+    "file": "BIOL112_Module2_6_Nucleic_Acids.txt",
+    "defaultFigure": "nucleotide",
+    "source": "Existing September 18 notes · detailed Module 2-6 learning objectives not yet supplied",
+    "cards": [
+      {
+        "id": "b949468ac5b34d",
+        "front": "What three components make a nucleotide?",
+        "back": "A phosphate group, a pentose sugar, and a nitrogenous base.",
+        "prompt": "What three components make a nucleotide?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 11,
+        "concept": "Phosphate groups",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "a0a3d0371ed4db",
+        "front": "Which base differs between DNA and RNA?",
+        "back": "DNA uses thymine (T); RNA uses uracil (U). Both use A, C, and G.",
+        "prompt": "Which base differs between DNA and RNA?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 11,
+        "concept": "Macromolecule structure"
+      },
+      {
+        "id": "5ef92f3136fd40",
+        "front": "How do ribose and deoxyribose differ at the 2′ carbon?",
+        "back": "Ribose has 2′-OH; deoxyribose has 2′-H.",
+        "prompt": "How do ribose and deoxyribose differ at the 2′ carbon?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 11,
+        "concept": "Macromolecule structure",
+        "answerFigure": "sugar-comparison"
+      },
+      {
+        "id": "9ea0d9c5b094e5",
+        "front": "Which pentose carbon is attached to the nitrogenous base?",
+        "back": "1′.",
+        "prompt": "Which numbered carbon attaches to the base?",
+        "figure": "nucleotide",
+        "kind": "Structure recognition",
+        "deck": 11,
+        "concept": "Nucleotide carbon numbering",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "34cd3c7e1c15d4",
+        "front": "Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?",
+        "back": "3′.",
+        "prompt": "Which numbered carbon carries the growing-end OH?",
+        "figure": "nucleotide",
+        "kind": "Structure recognition",
+        "deck": 11,
+        "concept": "Nucleic-acid directionality",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "967e8c0ab26b16",
+        "front": "Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?",
+        "back": "5′.",
+        "prompt": "Which sugar carbon is outside the ring?",
+        "figure": "nucleotide",
+        "kind": "Structure recognition",
+        "deck": 11,
+        "concept": "Nucleotide carbon numbering",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "4e059a2a62fef3",
+        "front": "What does the prime mark in 3′ indicate in this context?",
+        "back": "Sugar-carbon numbering, distinguished from numbering in the base.",
+        "prompt": "What does the prime mark in 3′ indicate in this context?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 11,
+        "concept": "Nucleic-acid directionality",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "0584c1c5960e24",
+        "front": "How can you identify the two ends of the usual textbook nucleic-acid strand?",
+        "back": "The 3′ end has a free 3′-OH; the 5′ end has the terminal 5′ position, commonly bearing phosphate.",
+        "prompt": "How can you identify the two ends of the usual textbook nucleic-acid strand?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 11,
+        "concept": "Phosphate groups",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "3807f7a049d9b5",
+        "front": "Why is nucleic-acid synthesis described as 5′ → 3′?",
+        "back": "New nucleotides attach to the growing strand’s 3′-OH, extending its 3′ end.",
+        "prompt": "Why is nucleic-acid synthesis described as 5′ → 3′?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 11,
+        "concept": "Nucleic-acid directionality",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "22f497f52cc9df",
+        "front": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
+        "back": "It stops because the next backbone linkage cannot form there.",
+        "prompt": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
+        "figure": "",
+        "kind": "Apply it",
+        "deck": 11,
+        "concept": "Nucleic-acid directionality",
+        "answerFigure": "nucleotide"
+      },
+      {
+        "id": "19778ed33b7663",
+        "front": "One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?",
+        "back": "3′ → 5′: the strands are antiparallel.",
+        "prompt": "One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 11,
+        "concept": "Antiparallel DNA",
+        "answerFigure": "dna-antiparallel"
+      },
+      {
+        "id": "c76e53724378eb",
+        "front": "What does polymer polarity mean when discussing 5′ and 3′ ends?",
+        "back": "The polymer has chemically different ends and therefore a direction.",
+        "prompt": "What does polymer polarity mean when discussing 5′ and 3′ ends?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 11,
+        "concept": "Nucleic-acid directionality",
+        "answerFigure": "dna-antiparallel"
+      },
+      {
+        "id": "c7e5872c754078",
+        "front": "Are nitrogenous bases the repeating links of the sugar–phosphate backbone?",
+        "back": "No; they attach to the sugars and project from the backbone.",
+        "prompt": "Are nitrogenous bases the repeating links of the sugar–phosphate backbone?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 11,
+        "concept": "Phosphate groups",
+        "answerFigure": "dna-antiparallel"
+      }
+    ]
+  },
+  {
+    "course": "BIOL 112",
+    "unit": "Unit 1",
+    "module": "1-1",
+    "title": "Cell structures & compartments",
+    "file": "BIOL112_Module1_1_Cell_Structures.txt",
+    "defaultFigure": "double-membrane",
+    "source": "Existing September 18 & 21 notes · additional course material awaited",
+    "cards": [
+      {
+        "id": "1d5571994c1bb9",
+        "front": "How many bilayers make up the mitochondrial double membrane?",
+        "back": "Two separate bilayers, with an intermembrane space between them (four leaflets total).",
+        "prompt": "How many bilayers make up the mitochondrial double membrane?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 12,
+        "concept": "Bilayer structure and assembly",
+        "answerFigure": "double-membrane"
+      },
+      {
+        "id": "b4812ce1553424",
+        "front": "Does the nuclear envelope contain one bilayer or two?",
+        "back": "Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.",
+        "prompt": "Does the nuclear envelope contain one bilayer or two?",
+        "figure": "",
+        "kind": "Recall & application",
+        "deck": 12,
+        "concept": "Lipids and membranes",
+        "answerFigure": "double-membrane"
+      },
+      {
+        "id": "5b050dd82bc5cc",
+        "front": "Name a course organelle surrounded by a single membrane bilayer.",
+        "back": "ER, Golgi, or lysosome.",
+        "prompt": "Name a course organelle surrounded by a single membrane bilayer.",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 12,
+        "concept": "Bilayer structure and assembly"
+      },
+      {
+        "id": "4098901fa99719",
+        "front": "What protein framework helps maintain cell shape?",
+        "back": "The cytoskeleton.",
+        "prompt": "What protein framework helps maintain cell shape?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 12,
+        "concept": "Lipids and membranes",
+        "answerFigure": "cytoskeleton-model"
+      }
     ]
   }
 ];
-export const GUIDE = "# Molecule Study · active recall\n\n276 flashcards and 163 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n";
+export const GUIDE = "# Molecule Study · active recall\n\n276 flashcards and 163 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n\n## October 3 curriculum and structure review\nThe teacher’s complete supplied requirements are preserved verbatim in BIOL112_Syllabus_Original.txt. Unit and Module views quote slices of that source. Navigation has 2 units and 8 modules. No requirements or missing objectives were written for the teacher. Existing cards were reassigned with stable IDs; Module 1-2 awaits course materials. All 276 existing cards were reviewed for diagram needs without altering question or answer text. See STRUCTURE_REVIEW.json for each decision. Course/module percentages describe current card mastery, not complete syllabus coverage.\n";
 export const TESTS = [
   {
     "id": "t-452a82fad6cb0c",
@@ -3004,7 +3269,7 @@ export const TESTS = [
   {
     "id": "t-109097e6f4e634",
     "cardId": "109097e6f4e634",
-    "deck": 0,
+    "deck": 10,
     "prompt": "What happens to –COOH when it donates H⁺?",
     "figure": "",
     "options": [
@@ -3019,7 +3284,7 @@ export const TESTS = [
   {
     "id": "t-0c147b0091a9ba",
     "cardId": "0c147b0091a9ba",
-    "deck": 0,
+    "deck": 10,
     "prompt": "What does R–NH₂ become when it accepts H⁺?",
     "figure": "",
     "options": [
@@ -3094,7 +3359,7 @@ export const TESTS = [
   {
     "id": "t-9ea0d9c5b094e5",
     "cardId": "9ea0d9c5b094e5",
-    "deck": 1,
+    "deck": 11,
     "prompt": "Which numbered carbon attaches to the base?",
     "figure": "nucleotide",
     "options": [
@@ -3109,7 +3374,7 @@ export const TESTS = [
   {
     "id": "t-967e8c0ab26b16",
     "cardId": "967e8c0ab26b16",
-    "deck": 1,
+    "deck": 11,
     "prompt": "Which sugar carbon is outside the ring?",
     "figure": "nucleotide",
     "options": [
@@ -3124,7 +3389,7 @@ export const TESTS = [
   {
     "id": "t-22f497f52cc9df",
     "cardId": "22f497f52cc9df",
-    "deck": 1,
+    "deck": 11,
     "prompt": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
     "figure": "",
     "options": [
@@ -3139,7 +3404,7 @@ export const TESTS = [
   {
     "id": "t-19778ed33b7663",
     "cardId": "19778ed33b7663",
-    "deck": 1,
+    "deck": 11,
     "prompt": "One DNA strand runs 5′→3′ from left to right. How does the other run from left to right?",
     "figure": "",
     "options": [
@@ -4444,7 +4709,7 @@ export const TESTS = [
   {
     "id": "t-b4812ce1553424",
     "cardId": "b4812ce1553424",
-    "deck": 2,
+    "deck": 12,
     "prompt": "Does the nuclear envelope contain one bilayer or two?",
     "figure": "",
     "options": [
@@ -4701,7 +4966,7 @@ export const TESTS = [
     "cardId": "biol112-protein-gly-pro-mobility",
     "deck": 8,
     "prompt": "Why does glycine allow more backbone flexibility than proline?",
-    "figure": "",
+    "figure": "proline-model",
     "options": [
       "Glycine has a tiny H side chain; proline’s ring constrains backbone rotation.",
       "Glycine has a rigid ring; proline has only H.",
@@ -4761,7 +5026,7 @@ export const TESTS = [
     "cardId": "biol112-protein-backbone-rotation",
     "deck": 8,
     "prompt": "If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?",
-    "figure": "",
+    "figure": "peptide",
     "options": [
       "The N–Cα and Cα–carbonyl-C bonds can rotate, within steric constraints.",
       "Only carbonyl C=O double bonds",

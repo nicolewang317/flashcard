@@ -1,0 +1,253 @@
+## **Module 1-1: What makes a cell living?**
+
+By the end of this week you should be able to:&#xA0;**&#xA0;**
+
+-
+
+* **Summarize&#x20;**&#x74;he critical components of cell theory and **list&#x20;**&#x6F;&#x72;**&#x20;recognize&#x20;**&#x74;he characteristics that define cells as the smallest unit of life. 
+
+-
+
+*
+
+- **Explore** cellular diversity including:
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe&#x20;**&#x74;he diversity in cell size within bacteria and eukaryotes and between bacteria and eukaryotes. 
+  - **Distinguish** between unicellular organisms and cells that make up multicellular organisms.
+  - **Recognize** and **provide examples&#x20;**&#x6F;f the diversity of cell types within multicellular organisms and across the tree of life. 
+
+*
+
+- **Identify&#x20;**&#x61;nd **recognize** similarities and differences in organization of genetic material in bacteria and eukaryotes. 
+
+*
+
+- **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe** the general chromosomal structure, location(s) (and sizes) of the genomes in bacterial cells versus eukaryotic cells (including mitochondrial and chloroplast genomes). 
+
+*
+
+- Using your knowledge of basic cell organization and subcellular structures,**&#x20;compare&#x20;**&#x61;n&#x64;**&#x20;contrast** the structure and organization of bacterial and eukaryotic cells. To do this you will need to be able to:
+
+*
+
+-
+
+* **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe** the evidence supporting the endosymbiotic theory of the origins of mitochondria and chloroplasts in the evolution of eukaryotic cells. 
+
+-
+
+*
+
+- Be able t&#x6F;**&#x20;interpret&#x20;**&#x6F;&#x72;**&#x20;make&#x20;**&#x66;igures or diagrams of cells including:
+
+  -
+  * **Identify** or **diagram&#x20;**&#x74;he major subcellular structures and compartments in bacterial and eukaryotic cells.
+  * **Using** a scale bar to estimate the size of objects or structures in a figure.
+  * **Identify&#x20;**&#x61;n&#x64;**&#x20;recognize&#x20;**&#x74;he major structures that comprise eukaryotic cells (organelles and cytoskeleton) and their  basic functions.
+  * **Define the terms genome, chromosome and gene in terms of the DNA in the cell.**
+
+## **(Module 1-2)**
+
+**Purpose of the Module:&#xA0;**
+
+A fundamental characteristic of living organisms is the ability to reproduce.  This module introduces you to division of individual cells and the growth of populations of cells in laboratory culture. Through the course you will relate cellular processes such as protein synthesis and DNA replication to stages of population growth.
+
+- **Describe&#x20;**&#x77;hy cells are grown in the lab and that growth of cells in the lab is a fundamental technique for studying cells. 
+- **Recognize** and **list** the major types of molecules that cells can take up from nutrient media 
+- **Interpret&#x20;**&#x61; graph of the growth of a population of cells in the lab and identify the general processes that are important for growth and factors that can inhibit growth.  
+  - **Recognize&#x20;**&#x61;nd **list&#x20;**&#xA0;the things that cells need in order to grow and divide.&#x20;**&#xA0;**
+- **Interpret&#x20;**&#x61; graph of the growth of a population of cells in the lab and identify or label  the four phases of population growth of bacteria and eukaryotic cell lines in a liquid culture from a growth curve.
+  - For each phase of population growth **identify** differences in the division rate and the survival rate. 
+- **Distinguish** between growth and division of individual cells and growth of a population of cells in bacteria.
+- **Describe** the events (e.g. transcription, translation, DNA replication) that occur at different phases of population growth (of bacteria and eukaryotic cell lines) and that occur in response to changes in nutrients present in the environment. In order to do this, you will need to be able to: 
+  - **Interpret** a graph of the growth of a population of cells in the lab and **identify** or **label&#x20;**&#x74;he four phases of population growth of bacteria and eukaryotic cell lines in a liquid culture from a growth curve. 
+  - For each phase of population growth **identify** differences in the division rate and survival of cells.
+  - **Describe**, in general terms, how bacterial cells are grown in the lab and the purpose of nutrient media. (i.e. what are the components of media and how are they used for growth).
+
+
+
+# Unit 2 Overview - Macromolecules the building blocks of cells
+
+## **Purpose of Unit 2:**
+
+In order for cells to be self-replicating, cells need to make parts and have a container to keep everything together. This unit introduces you to the major macromolecules that are the building blocks of cellular structures, cellular function and biological information flow.  This includes their roles in cells, where they are found within bacterial and eukaryotic cells, their synthesis and assembly into higher order structures.  This module also introduces you to how materials are moved in and out of the cellular container.
+
+### **Module 2-1 Chemistry for Biology (Mastery Learning Module #1)**
+
+Purpose of the Module: Macromolecules are the basic building blocks of cells. Physical properties of the macromolecules that make up cells and interactions among macromolecules are dependent on chemical interactions occurring within cells. This module focuses on non-covalent interactions that are important for interactions within and between the major classes of biological macromolecules.
+
+- Identify how the highly electronegative atoms (for example O and N) lead to uneven electron sharing and permanent dipoles when bonded to other biologically relevant atoms
+- Identify whether a molecule or group on a molecule is polar/nonpolar, neutral/charged, hydrophobic/hydrophilic/amphipathic
+
+**Targeted:**
+
+- Predict the types of noncovalent interactions that can form between functional groups within a molecule or between molecules
+
+### **Module 2-2: Major macromolecules in cells**
+
+Purpose of the Module: This module introduces the four major types of macromolecules within cells, their basic structure, the monomers that form macromolecules and chemical properties.
+
+-
+
+* **Apply** your knowledge of chemistry for biology and macromolecule structure and functio&#x6E;**&#x20;**&#x74;o: 
+
+-
+
+*
+
+- **Identify&#x20;**&#x6F;r **recognize&#x20;**&#x74;he chemical properties of functional groups within macromolecules and the types of non-covalent interactions they can make
+
+*
+
+-
+
+* **Recognize&#x20;**&#x68;ow functional groups react during polymerization
+
+-
+
+*
+
+- **Recognize** how directionality of macromolecules is determined
+
+*
+
+-
+
+* **Recognize&#x20;**&#x74;he role(s) of macromolecules within cells
+
+-
+
+*
+
+- **Describe**, in terms of free energy changes, the energetics of anabolic reactions required for the synthesis of macromolecules.      
+
+To do this you will need to be able to:
+
+-
+
+*
+
+- **List** the four major categories of macromolecules in cells. 
+
+*
+
+-
+
+* For each of the polymeric macromolecules and for (nucleic acids, proteins, carbohydrates)
+
+-
+
+*
+
+-
+
+* **Identify&#x20;**&#x6F;&#x72;**&#x20;name&#x20;**&#x74;he monomers that make up each type of macromolecule. 
+
+-
+
+*
+
+-
+
+* **Name&#x20;**&#x74;he covalent bonds that link monomers to form a macromolecule.
+
+-
+
+*
+
+-
+
+* **Give an example&#x20;**&#x6F;f a cellular structure or organelle where each type of macromolecule functions. 
+
+-
+
+*
+
+-
+
+* **Describe&#x20;**&#x61;nd **explain** the concepts of asymmetrical monomer polarity and macromolecule directionality, and why these concepts don’t apply to lipids.
+
+-
+
+*
+
+-
+
+* **Identify&#x20;**&#x77;hich molecules are generally taken up from growth media versus molecules that are synthesized by cells. 
+
+## **Module 2-3: Making a container - lipids and membranes** 
+
+-
+
+* **Explain** the thermodynamic process (hydrophobic effect) driving macromolecular assembly in the case of lipids self assembling into membranes. In order to do this you will need to be able to: 
+  - **Explain&#x20;**&#x68;ow fatty acid structure and the hydrophobic effect determines how lipids will self-assemble as micelles or bilayers when mixed with water. 
+  - **Recognize** the diversity of lipids. 
+  - Using glycerophospholipids as an example of a lipid, **describe&#x20;**&#x62;asic types of interactions among lipids and between lipids and membrane proteins.
+  - **Describe** the amphipathic nature of phospholipids, an&#x64;**&#x20;identify&#x20;**&#x77;hich non-covalent interactions will likely form when phospholipids are mixed with water.
+
+-
+
+* **Describe** how the cell membrane is both a container and semipermeable barrier.
+* **Apply&#x20;**&#x79;our understanding of chemistry for biology t&#x6F;**&#x20;explain&#x20;**&#x68;ow proteins are embedded in or interact with membrane bilayers. To do this you will need to be able to:
+  - **Recognize&#x20;**&#x74;he major ways that proteins are associated with membranes.
+  - **Recognize&#x20;**&#x74;he types of non-covalent interactions that occur between different amino acids, lipids and water.
+* **Describe** the movement of lipids and proteins within the membrane according to the fluid mosaic model and **recognize** why movement of membrane components is important for membrane function.
+
+### **Module 2-3: Making a container - lipids and membranes**
+
+Purpose of the Module: This module builds on the modules on macromolecules and chemistry to explore the formation and function of biological membranes.  Membranes are a container for cellular contents and cellular compartments and function as a selective, semi-permeable barrier.  This module explores how membrane bilayers are formed; the types of proteins that are associated with membranes; how materials move across membranes and the model of membranes as a fluid mosaic.
+
+### **Module 2-4: How things get across membranes - membrane transport &#xA0;**
+
+Purpose of the Module: This module builds on the previous three modules to further explore membrane function and introduce how cells control and facilitate the movement of molecules and ions across membranes.
+
+## **Module 2-4: How things get across membranes - membrane transport &#xA0;**
+
+-
+
+* **List &#x20;**&#x73;ome of the important molecules cells take up from the environment (and nutrient media in the lab).  
+* **Describe&#x20;**&#x74;he importance of uptake of molecules from the environment (or nutrient media) across the plasma membrane for cell growth and reproduction. 
+* Using a transport graph for a molecule, **predict** the type of transport occurring (and explain your reasoning in words, clearly connecting your explanation to data from a figure). To do this you will need to be able to: 
+  - **Recognize&#x20;**&#x74;hat movement of most molecules across membranes is mediated by proteins in the membrane.
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe&#x20;**&#x6D;embrane transport proteins (carriers versus channels) and **list** the differences between these types of proteins. 
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe&#x20;**&#x62;etween the different types of membrane transport (simple diffusion, facilitated diffusion and active transport) in terms of concentration dependence, protein transporters, and energy requirements.
+  - **Plot&#x20;**&#x61; transport graph comparing the concentration ratios of molecules across membranes over time.
+  - **Distinguish&#x20;**&#x62;etween the processes of diffusion and osmosis.  
+* Utilizing knowledge of chemical properties of molecules, functional groups and membrane propertie&#x73;**, predict&#x20;**&#x74;he permeability of pure lipid bilayers to various types of molecules. 
+
+
+
+### **Module 2-5: Structure, function and self-assembly of proteins&#xA0;**
+
+Purpose of the Module: This module builds on the chemistry for biology and macromolecules units to further explore the functions of proteins in cells, and macromolecular assembly.
+
+## **Module 2-5: Structure, function and self-assembly of proteins&#xA0;**
+
+By the end of this week, you should be able to...
+
+-
+
+* **List&#x20;**&#x6F;&#x72;**&#x20;recognize** the roles of proteins within and outside of cells
+* **Predict** the effects of changing amino acids on protein structure, function and stability. To do this you will need to be able to: 
+  - **Draw &#x20;**&#x74;he generic structure of an amino acid and **identify** the key functional groups.
+  - **Recognize&#x20;**&#x61;mino acid classes based on the hydrophilic or hydrophobic properties of their side chains (R-groups).
+  - **Identify&#x20;**&#x61; peptide bond between amino acyl residues in a polypeptide (i.e. be able to circle it on a structure).
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;identify&#x20;**&#x74;he directionality of proteins and how it is determined.
+  - **Describe** the features or characteristics of each level of protein structure: primary, secondary, tertiary, and quaternary. 
+  - **Identify** the level of protein structure for a given protein, amino acid sequence or scenario.   
+  - **Identify&#x20;**&#x74;h&#x65;**&#x20;**&#x63;ovalent and non-covalent interactions that are important for different levels of protein structure.
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;identify&#x20;**&#x74;he types of covalent and non-covalent interactions important for protein structure and function. 
+  - **Define&#x20;**&#x70;rotein denaturation and **describe &#x20;**&#x74;he effects of protein denaturation on structure and function.
+  - **Interpret&#x20;**&#x6F;&#x72;**&#x20;make&#x20;**&#xA0;figure&#x73;**&#x20;**&#x73;howing the effect of the environment (e.g. temperature or chemicals) on protein structure and function.&#x20;**&#xA0;**
+  - **Describe** the spontaneous assembly and folding of proteins using the relative terms; stability, bond strength, spontaneous and entropy (i.e. the hydrophobic effect). 
+
+-
+
+* **Apply&#x20;**&#x79;our knowledge of amino acid side chains, the hydrophobic effect and intramolecular interactions in proteins t&#x6F;**&#x20;predict&#x20;**&#xA0;the likely R-group properties of amino acids based on their location within a protein’s folded structure (i.e. interior vs. exterior)
+* **Apply** your knowledge of amino acid side chains, the hydrophobic effect and noncovalent interactions to **predict** (C4) the likely R- group properties of amino acids that mediate interactions between the protein and the environment (e.g. water, other macromolecules, membranes etc).  
+* **Describe** allosteric changes in protein structure as a control mechanism to alter enzyme or protein activity. 
+  - **Recognize&#x20;**&#x61;n&#x64;**&#x20;describe&#x20;**&#x74;he role of many proteins as enzymes
+  - **Recognize&#x20;**&#x74;hat noncovalent interactions with other molecules, and covalent modifications, affect protein shape and therefore function.
+
+### **Module 2-6: Structure and function of nucleic acids&#xA0;**
+
+Purpose of the Module: This module builds on the chemistry for biology and macromolecules units to further explore structure and functions of nucleic acids and their roles in biological information flow within cells and between generations of cells. The module also emphasizes the locations of nucleic acids and where they perform their functions in bacterial and eukaryotic cells.

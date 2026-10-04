@@ -2,9 +2,11 @@
 
 A personal flashcard library for BIOL 112 and CHEM 121, with Supabase sign-in and automatic progress syncing between a phone and Mac.
 
-- 276 flashcards across ten sets and 163 scored questions, with original study diagrams.
+- 276 flashcards across thirteen sets and 163 scored questions, with original study diagrams.
 - Course and set mastery rings, plus structure-and-information popovers on highlighted answer terms.
-- BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients (36 cards).
+- BIOL 112 follows Unit 1 / Unit 2 and Modules 1-1 through 2-6. The teacher’s complete supplied requirements are archived verbatim and quoted at each level.
+- 227 cards have structure-reference diagrams; all 276 original question/answer texts and card IDs are preserved. Module 1-2 awaits course materials; existing cards do not imply complete objective coverage.
+- Protein cards are in Module 2-5; the 36 transport cards are in Module 2-4.
 - Animated front/back cards, drag/swipe recall, favorites, and wrong-question practice.
 - Email + password registration and sign-in, without email links or verification codes. Each account has private study data protected by database row-level security.
 - An immutable review log keeps separate reviews from separate devices. Retries do not count twice.
@@ -83,8 +85,8 @@ See [all 516 card decisions](docs/CARD_AUDIT.md) or the searchable `docs/CARD_AU
 
 ## Protein prereading set
 
-BIOL 112 → Macromolecules → Proteins: 30 cards and 30 scored questions based on the supplied September 27 notes (labelled Ch. 5.1, pp. 89–98). See [all new cards](docs/PROTEINS_SEPT27.md). The original eight deck indices and all earlier card IDs stay stable.
+BIOL 112 → Unit 2 → Module 2-5 → Proteins contains 32 cards, including the September 27 prereading and September 28 comparisons. The [September 27 record](docs/PROTEINS_SEPT27.md) documents the original 30-card addition. All existing card IDs stay stable.
 
 ## Navigation and mastery progress
 
-BIOL 112 → Macromolecules contains the original four sets plus Proteins. Every set shows known / total cards and a circular indicator: red below one third, yellow below 80%, green below completion, and a green star at 100%. A wrong answer or Forgot lowers progress; opening or favoriting a card does not raise it. Card IDs, indices and cloud history are unchanged.
+BIOL 112 follows the supplied Unit / Module hierarchy. The sidebar preserves the complete module titles, and each module links to its exact teacher requirements. Every set shows known / total cards and a circular indicator: red below one third, yellow below 80%, green below completion, and a green star at 100%. A wrong answer or Forgot lowers progress; opening or favoriting a card does not raise it. Card IDs and cloud history are preserved when cards move between sets. Progress measures existing-card mastery, not coverage of every syllabus objective.

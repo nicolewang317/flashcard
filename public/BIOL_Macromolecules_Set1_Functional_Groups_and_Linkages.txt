@@ -2,26 +2,15 @@ Identify the linkage R–C(=O)–O–R′.	Ester.
 In a structural formula, what does R usually represent?	An unspecified organic group or the rest of the molecule.
 In R–C(=O)–O–R′, what do the parentheses mean?	The carbon is double-bonded to the oxygen inside the parentheses.
 Which functional group is –OH when attached to a carbon outside a carboxyl group?	Hydroxyl group.
-Is an ordinary alcohol –OH group charged as drawn?	No; it is polar but uncharged.
 Which functional group appears repeatedly on a typical sugar?	Hydroxyl.
 Identify the group in R–C(=O)–OH.	Carboxyl group.
-Why does a carboxyl group become negatively charged after donating H⁺?	It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).
 Which functional group occurs at the end of a fatty acid?	Carboxyl.
 Does a C=O bond alone identify a carboxyl group?	No; a carboxyl group also has –OH or –O⁻ on that same carbon.
 Identify the nitrogen-containing group in R–NH₂.	Amino group.
-Why can an amino group act as a base?	Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.
-Why can phosphate groups make a molecular region hydrophilic?	Their polar bonds and often negative charges interact favorably with water.
-Are all phosphate-containing groups always drawn with exactly the same charge?	No; charge depends on protonation and the groups attached.
 Which repeating region of DNA and RNA contains phosphate groups?	The sugar–phosphate backbone.
 In a typical phospholipid, which region contains phosphate?	The polar head region.
 Identify the functional group C=O.	Carbonyl.
-Why is the oxygen end of a carbonyl partially negative?	Oxygen attracts the shared electrons more strongly than carbon.
-Does the polarity of C=O mean that the group necessarily has a net charge?	No; partial charges differ from a net ionic charge.
 Identify the group –CH₃.	Methyl group.
-Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot form favorable hydrogen bonds with water.
-Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?	–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.
-Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
-Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.
 What covalent linkage joins amino acids in a protein backbone?	Peptide bond, a type of amide linkage.
 Which groups supply the C and N of a peptide bond?	The carboxyl group supplies the carbonyl C; the amino group supplies N.
 Recognize R–C(=O)–NH–R′: what linkage is shown?	An amide linkage; it is a peptide linkage when joining amino-acid residues.

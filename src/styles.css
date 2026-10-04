@@ -56,3 +56,30 @@ aside{overflow-y:auto;padding-top:25px}.course{padding:20px 12px 13px}.course st
 .molecule-description{margin:12px 0 0;font-size:14px;line-height:1.65}
 @media(max-width:780px){.course-heading{grid-template-columns:minmax(0,1fr) 36px 15px}.molecule-popover{padding:17px}.molecule-popover h2{font-size:21px}}
 .molecule-structure svg{max-height:185px}
+
+/* Official course structure and read-only source archive. */
+.curriculum-unit{margin:8px 0 14px 7px;border-left:2px solid #cbdaf0;padding:8px 0 8px 12px}
+.curriculum-unit>summary{font-size:18px;line-height:1.35;padding:4px 0;cursor:pointer}
+.curriculum-module{margin:9px 0;padding:5px 0;border-top:1px solid #dce6f4}
+.curriculum-module>summary{display:flex;gap:9px;align-items:center;justify-content:space-between;cursor:pointer;font-size:14px;line-height:1.4;font-weight:650;padding:8px 3px;list-style:none}
+.curriculum-module>summary:before{content:'›';font-size:20px;color:var(--muted)}
+.curriculum-module[open]>summary:before{content:'⌄'}
+.curriculum-module>summary>span:first-of-type{flex:1;min-width:0}
+.module-number{display:block;color:#416fa4;font-size:11px;letter-spacing:.4px;margin-bottom:5px}
+.pending-module{color:#8a9bb4;font-size:20px}
+.requirements-link,.syllabus-library-link{border:0;background:transparent;text-align:left;color:#245d9f;text-decoration:underline;text-underline-offset:3px;font-size:12px;padding:8px 3px;min-height:36px}
+.syllabus-library-link{padding:5px 10px 12px}.module-empty{font-size:12px;line-height:1.5;color:var(--muted);padding:0 5px 8px}
+.course-section.closed .curriculum-unit,.course-section.closed .syllabus-library-link{display:none}
+#current-requirements{margin:-16px 0 12px}
+#syllabus-dialog{width:min(920px,94vw);max-height:90vh}
+#syllabus-dialog .control{width:100%;max-width:100%;font-size:14px}
+.syllabus-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin:16px 0;font-size:13px}
+.syllabus-actions a{text-decoration:none;font-size:13px}
+.source-note{font-size:13px;line-height:1.7;color:var(--muted)}
+.syllabus-content{background:#f7faff;border:1px solid var(--border);padding:22px;border-radius:12px;line-height:1.65;font-size:15px}
+.source-heading{font-size:19px;line-height:1.4;margin:20px 0 9px;font-weight:750}.source-line{white-space:pre-wrap;overflow-wrap:anywhere}.source-gap{height:8px}
+.syllabus-raw{white-space:pre-wrap;overflow-wrap:anywhere;font:13px/1.6 ui-monospace,monospace;margin:0}
+.card-reference{width:100%;max-width:520px;margin:16px auto 0;padding:12px;border:1px solid #d9e5f6;border-radius:12px;background:#fff}
+.reference-label{display:block;text-align:left;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin-bottom:7px}
+.card-reference .figure svg{max-height:175px}.card-reference .figure-caption{font-size:11px}
+@media(max-width:780px){.curriculum-unit{margin-left:0}.curriculum-unit>summary{font-size:18px}.curriculum-module>summary{font-size:14px}.card-reference{padding:8px}.card-reference .figure svg{max-height:165px}.syllabus-content{padding:14px;font-size:14px}.source-heading{font-size:17px}#current-requirements{margin:0 0 10px}}
