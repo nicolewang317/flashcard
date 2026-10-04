@@ -72,6 +72,10 @@ What linkage difference distinguishes starch from cellulose even though both con
 A plant glucose polymer has α(1→4) chains and α(1→6) branches. Identify it.	Amylopectin.
 An enzyme recognizes α(1→4) linkages. Does that guarantee it can cleave β(1→4)?	No; the different geometry may prevent recognition.
 An enzyme cleaves only α(1→4) bonds in amylopectin. Which branch-point linkage remains uncleaved by it?	α(1→6).
+Which of these contain RNA in the lecture model: nucleus, cytoplasm, mitochondrial matrix, plastid stroma or cell wall?	Nucleus, cytoplasm, mitochondrial matrix and plastid stroma.
+Where is storage starch located in the wheat endosperm example?	In amyloplasts, a type of plastid.
+Match the bacterial carbohydrate examples to their locations: glycogen and peptidoglycan.	Glycogen → cytoplasm; peptidoglycan → cell wall.
+Are bacterial proteins confined to the cytoplasm?	No. They also associate with DNA and occur in membranes and the cell envelope.
 Why are lipids not classified as conventional repeating-monomer polymers?	Their diverse structures do not generally consist of long chains of identical repeating monomers.
 What two regions make up a fatty acid?	A hydrocarbon region and a carboxyl group.
 Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?	No; the chain remains mainly nonpolar.
@@ -148,6 +152,12 @@ How can a chaperone reduce inappropriate aggregation during folding?	It temporar
 Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?	No. Chaperones assist folding; they do not rewrite the primary sequence.
 At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.	Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).
 A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?	Hydrogen bonding through its polar hydroxyl group.
+Why should peptide-bond synthesis not be treated like spontaneous phospholipid-bilayer assembly?	Peptide synthesis requires energy input and ribosomal catalysis; bilayer assembly organizes existing lipids.
+Which atoms form the repeating protein backbone, excluding the R groups?	The repeating N–Cα–carbonyl-C chain.
+Why is glycine the only non-chiral common amino acid in the lecture?	Its α-carbon has two identical H substituents rather than four different groups.
+What does an amino-acid residue mean in a polypeptide?	The amino-acid-derived unit remaining after incorporation into the peptide chain.
+A protein speeds up a cellular chemical reaction. Which listed protein role is it performing?	Catalysis: it is acting as an enzyme.
+In Lecture 10’s introductory terminology, what distinguishes a protein from just a long polypeptide chain?	The protein has folded into a functional structure; chain length alone does not establish function.
 What membrane property helps maintain cellular homeostasis?	Selective permeability.
 Which passes through a lipid bilayer more easily: O₂ or Na⁺?	O₂; it is small and nonpolar.
 Why does adding aquaporins increase water transport across a membrane?	Water can cross the lipid bilayer slowly; aquaporin channels provide a much faster pathway.
@@ -184,6 +194,16 @@ Sketch a symporter and an antiporter across a membrane, using arrows for solutes
 Na⁺ enters a heart muscle cell as Ca²⁺ leaves via one exchanger. Identify the coupled transport pattern.	Antiport: Na⁺ enters while Ca²⁺ leaves through the Na⁺/Ca²⁺ exchanger.
 O₂ enters a red blood cell directly through its lipid bilayer. Which transport mechanism is this?	Simple diffusion: a small nonpolar molecule crosses the lipid bilayer down its gradient.
 A human red blood cell takes up glucose down its gradient through GLUT1. Which transport mechanism is this?	Carrier-mediated facilitated diffusion; GLUT1 provides the route without pumping glucose uphill.
+Why are polar or charged R groups expected along a water-filled ion-channel passage?	They interact favorably with water and transported ions, unlike the surrounding lipid-facing surface.
+How does a leak channel differ from a gated channel in the lecture model?	A leak channel is open; a gated channel opens or closes in response to a signal.
+Why can channel transport usually be faster than carrier transport?	An open pore lets solutes pass without a separate alternating-access cycle for each solute.
+For neutral glucose, [inside] = 1 mM and [outside] = 10 mM. What is the inside/outside concentration ratio?	0.1; the initial concentration gradient favors inward movement.
+Sketch the inside/outside glucose ratio over time for passive uptake starting below 1, with no glucose metabolism or other transport.	The ratio rises toward 1 and levels off there; passive uptake alone does not maintain a ratio above 1.
+These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?	A: its inside/outside concentration ratio rises above 1, accumulating glucose against its gradient.
+Can a neutral-solute concentration-ratio curve approaching 1, by itself, distinguish simple from facilitated diffusion?	No. Both can equilibrate concentrations; identify the molecule and whether a membrane protein provides the route.
+Draw neutral-solute particles in equal-volume compartments when [inside]/[outside] = 3.	Show three times as many particles inside as outside, for example 9 inside and 3 outside.
+Which amino-acid side chain is transiently phosphorylated in the Na⁺/K⁺-ATPase example?	An aspartate side chain.
+Why is energy-coupled glucose uptake useful in intestinal cells when luminal glucose becomes scarce?	It can continue uptake against the glucose concentration gradient, reducing loss of available glucose.
 Is an ordinary alcohol –OH group charged as drawn?	No; it is polar but uncharged.
 Why does a carboxyl group become negatively charged after donating H⁺?	It loses H⁺ but retains the bonding electrons, forming carboxylate (–COO⁻).
 Why can an amino group act as a base?	Its nitrogen accepts H⁺: R–NH₂ becomes R–NH₃⁺.
@@ -195,6 +215,16 @@ Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot fo
 Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?	–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.
 Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
 Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.
+Using the lecture’s electronegativity ordering, why are C–H regions treated as nonpolar?	C and H have similar electronegativities, so their bonding electrons are shared relatively evenly.
+Classify the attraction between Na⁺ and the oxygen end of a water molecule.	Ion–permanent dipole (ion–PD).
+A nearby ion distorts the electron cloud of a nonpolar group. What interaction results?	Ion–induced dipole (ion–ID).
+A polar carbonyl distorts the electron cloud of a neighboring nonpolar group. Classify the interaction.	Permanent dipole–induced dipole (PD–ID).
+What weak attraction can occur between two nonpolar groups through fluctuating electron distributions?	Induced dipole–induced dipole (ID–ID), or London dispersion attraction.
+Two neutral carbonyl groups align with δ⁺ carbon near δ⁻ oxygen. What interaction can occur?	Permanent dipole–permanent dipole (PD–PD).
+What strongest-to-weakest order is used in the lecture’s simplified interaction scheme?	Ion–ion > ion–PD > hydrogen bond > other PD–PD > ion–ID > PD–ID > ID–ID.
+Can two permanent dipoles repel even though each molecule is neutral overall?	Yes. Orientation can bring like partial charges together; opposite partial charges favor attraction.
+Why is the induced-dipole contribution attractive in the lecture model?	The electron cloud shifts so the nearer induced charge is opposite the inducing charge.
+What distinguishes a covalent bond from the noncovalent interactions in the lecture?	Covalent bonding shares electrons; noncovalent interactions act between charge distributions without that covalent link.
 What three components make a nucleotide?	A phosphate group, a pentose sugar, and a nitrogenous base.
 Which base differs between DNA and RNA?	DNA uses thymine (T); RNA uses uracil (U). Both use A, C, and G.
 How do ribose and deoxyribose differ at the 2′ carbon?	Ribose has 2′-OH; deoxyribose has 2′-H.
@@ -208,3 +238,9 @@ If the growing terminal nucleotide lacks a usable 3′-OH, what happens to norma
 One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?	3′ → 5′: the strands are antiparallel.
 What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
 Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
+Why is the membrane described as a mosaic?	It contains multiple components, including phospholipids, cholesterol, proteins and carbohydrate-bearing molecules.
+Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?	Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.
+How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?	It restrains lipid movement and reduces excessive fluidity/permeability.
+How does cholesterol help a membrane at low temperature?	It disrupts tight phospholipid packing, helping the membrane remain fluid.
+In the model, which protein spans the bilayer and which stays on its surface?	A is transmembrane (integral); B is peripheral.
+On which side of the red-cell membrane are the carbohydrate markers discussed for blood type exposed?	On the extracellular surface.

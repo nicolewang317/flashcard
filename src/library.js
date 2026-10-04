@@ -13,7 +13,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Ester linkages",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0f8fb207df12bc",
@@ -24,7 +33,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Functional groups and polarity",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "110c8d1ef82b3d",
@@ -35,7 +46,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Functional groups and polarity",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "41831ba6d3698c",
@@ -46,7 +59,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Hydroxyl groups",
-        "answerFigure": "hydroxyl"
+        "answerFigure": "hydroxyl",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "900a2d038c6eca",
@@ -57,7 +79,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Hydroxyl groups",
-        "answerFigure": "hydroxyl"
+        "answerFigure": "hydroxyl",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "f14cc9bae4ae20",
@@ -68,7 +92,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Carboxyl groups",
-        "answerFigure": "carboxyl"
+        "answerFigure": "carboxyl",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "34b018da2029be",
@@ -79,7 +112,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Carboxyl groups",
-        "answerFigure": "fatty-acid"
+        "answerFigure": "fatty-acid",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "5d674e84f681b5",
@@ -90,7 +125,9 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 0,
         "concept": "Carboxyl groups",
-        "answerFigure": "carboxyl"
+        "answerFigure": "carboxyl",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "6f4a25eecdf2a7",
@@ -101,7 +138,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Amino groups",
-        "answerFigure": "amino"
+        "answerFigure": "amino",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "8dc0a648b3b97c",
@@ -112,7 +158,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Phosphate groups",
-        "answerFigure": "dna-antiparallel"
+        "answerFigure": "dna-antiparallel",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "928cd65f030502",
@@ -123,7 +180,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Phosphate groups",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "d32caf798806ed",
@@ -134,7 +201,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Carbonyl groups",
-        "answerFigure": "carbonyl"
+        "answerFigure": "carbonyl",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ee18e8a7271de2",
@@ -145,7 +221,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Nonpolar hydrocarbon regions",
-        "answerFigure": "methyl"
+        "answerFigure": "methyl",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ca520d163fa16e",
@@ -156,7 +241,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "2215451ecb12cd",
@@ -167,7 +262,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "b71243ebee6d7f",
@@ -178,7 +283,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "amide"
+        "answerFigure": "amide",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "84d2a795408eae",
@@ -189,7 +303,17 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "43c5ffac3dd03a",
@@ -200,7 +324,17 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 0,
         "concept": "Amino groups",
-        "answerFigure": "ammonium"
+        "answerFigure": "ammonium",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "8f4ff9f1fb15be",
@@ -211,7 +345,17 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "481e681bc77d57",
@@ -222,7 +366,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "2b7a00ec80eec4",
@@ -233,7 +387,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Ester formation",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "5b4dc30223fa95",
@@ -244,7 +409,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "8d37052b26c4c1",
@@ -254,7 +430,18 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Ester formation and hydrolysis"
+        "concept": "Ester formation and hydrolysis",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "cd98d8e3e5ef94",
@@ -265,7 +452,18 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 0,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "carboxylate"
+        "answerFigure": "carboxylate",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a3252945c05041",
@@ -276,7 +474,17 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Thioester linkages",
-        "answerFigure": "thioester"
+        "answerFigure": "thioester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "Lecture 6, p. 7: thioesters are shown, but detailed importance is deferred to BIOL 201. These existing cards are supplementary."
       },
       {
         "id": "28a4f27db3882d",
@@ -287,7 +495,10 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 0,
         "concept": "Thioester linkages",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides",
+        "studyNote": "Lecture 6, p. 7: thioesters are shown, but detailed importance is deferred to BIOL 201. These existing cards are supplementary."
       },
       {
         "id": "2d93055072c7c4",
@@ -298,7 +509,10 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Thioester linkages",
-        "answerFigure": "thioester"
+        "answerFigure": "thioester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides",
+        "studyNote": "Lecture 6, p. 7: thioesters are shown, but detailed importance is deferred to BIOL 201. These existing cards are supplementary."
       },
       {
         "id": "51602b4aef54f6",
@@ -309,7 +523,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Phosphoester linkages",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "873341f64e90e4",
@@ -320,7 +543,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Phosphoester versus phosphodiester",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "15b577a0a7f372",
@@ -331,7 +556,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Phosphoester versus phosphodiester",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "ca128bbf6315f8",
@@ -342,7 +569,18 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Phosphodiester backbone",
-        "answerFigure": "phosphodiester"
+        "answerFigure": "phosphodiester",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "f2274ed088f7bf",
@@ -353,7 +591,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Phosphodiester backbone",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a614efcd577db7",
@@ -363,7 +612,18 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Phosphate groups"
+        "concept": "Phosphate groups",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "bb301c5e6a88ee",
@@ -374,7 +634,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Phosphodiester backbone",
-        "answerFigure": "phosphodiester"
+        "answerFigure": "phosphodiester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "eb3f9e33cf7c44",
@@ -385,7 +647,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Phosphodiester backbone",
-        "answerFigure": "phosphodiester"
+        "answerFigure": "phosphodiester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "aae076b90b7766",
@@ -396,7 +660,18 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 0,
         "concept": "Phosphodiester backbone",
-        "answerFigure": "dna-antiparallel"
+        "answerFigure": "dna-antiparallel",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "37f0a6d006cf98",
@@ -406,7 +681,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 0,
-        "concept": "Glycosidic linkages"
+        "concept": "Glycosidic linkages",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c66ad2b861e37f",
@@ -417,7 +702,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glycoa14"
+        "answerFigure": "glycoa14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "6418e8666d330f",
@@ -428,7 +723,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Functional groups and polarity",
-        "answerFigure": "glycoa14"
+        "answerFigure": "glycoa14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ce5d00b26515d0",
@@ -439,7 +744,9 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "4ccfcf4f81ee3e",
@@ -450,7 +757,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Functional groups and polarity",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "b50af684af2284",
@@ -461,7 +770,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glycoa14"
+        "answerFigure": "glycoa14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "d239968900916e",
@@ -472,7 +791,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Amylopectin branches",
-        "answerFigure": "glyco16"
+        "answerFigure": "glyco16",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "9f27a546f579af",
@@ -483,7 +812,16 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Cellulose linkages",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              11
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "e9d803ea923110",
@@ -494,7 +832,17 @@ export const DECKS = [
         "kind": "Visual recognition",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glyco16"
+        "answerFigure": "glyco16",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              8,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "65c68e0ba154d9",
@@ -505,7 +853,16 @@ export const DECKS = [
         "kind": "Visual recognition",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              11
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "032e9e16596658",
@@ -516,7 +873,9 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 0,
         "concept": "Glycosidic linkages",
-        "answerFigure": "glycoa14"
+        "answerFigure": "glycoa14",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "e594e25ed84e4f",
@@ -527,7 +886,16 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 0,
         "concept": "Ether versus ester",
-        "answerFigure": "ether"
+        "answerFigure": "ether",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "157128deef267f",
@@ -538,7 +906,16 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Ether versus ester",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "7b6f799048937b",
@@ -549,7 +926,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Thioester linkages",
-        "answerFigure": "linkage-compare"
+        "answerFigure": "linkage-compare",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "Lecture 6, p. 7: thioesters are shown, but detailed importance is deferred to BIOL 201. These existing cards are supplementary."
       },
       {
         "id": "5d50e5d9b3b599",
@@ -560,7 +947,16 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 0,
         "concept": "Phosphoester versus phosphodiester",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "afb93bab941a22",
@@ -571,7 +967,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 0,
         "concept": "Ether versus ester",
-        "answerFigure": "glycoa14"
+        "answerFigure": "glycoa14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              12,
+              13
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "5231084ab9f460",
@@ -581,7 +987,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "1811912db864f3",
@@ -592,7 +1000,9 @@ export const DECKS = [
         "kind": "Apply it",
         "deck": 0,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "bf0be168dba2b8",
@@ -602,7 +1012,18 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "042ef1aaa4eba9",
@@ -613,7 +1034,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 0,
         "concept": "Functional groups and polarity",
-        "answerFigure": "ester"
+        "answerFigure": "ester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "006ef919da5d8d",
@@ -623,12 +1055,15 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 0,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       }
     ],
     "course": "BIOL 112",
     "unit": "Unit 2",
-    "module": "2-2"
+    "module": "2-2",
+    "source": "Lectures 4–6 · functional groups and linkages; earlier notes"
   },
   {
     "title": "Structures & directionality",
@@ -643,7 +1078,16 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 1,
         "concept": "Macromolecule structure",
-        "answerFigure": "aminoacid"
+        "answerFigure": "aminoacid",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a89fb0a7de7fa4",
@@ -654,7 +1098,16 @@ export const DECKS = [
         "kind": "Visual recognition",
         "deck": 1,
         "concept": "Macromolecule structure",
-        "answerFigure": "aminoacid"
+        "answerFigure": "aminoacid",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "08365faa9e7bd7",
@@ -665,7 +1118,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 1,
         "concept": "Carboxyl groups",
-        "answerFigure": "amino-zwitterion"
+        "answerFigure": "amino-zwitterion",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              17,
+              24
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "cd804a1daef1ae",
@@ -676,7 +1139,19 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 1,
         "concept": "Peptide / amide linkages",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              31,
+              32,
+              33,
+              36
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "4c256c32e3cc30",
@@ -687,7 +1162,19 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 1,
         "concept": "Protein directionality",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              31,
+              32,
+              33,
+              36
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "24fd620b6c912c",
@@ -697,7 +1184,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 1,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              31,
+              32,
+              33,
+              36
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c9fb7bdd206a68",
@@ -707,7 +1206,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 1,
-        "concept": "Peptide / amide linkages"
+        "concept": "Peptide / amide linkages",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "efdb1c84a20974",
@@ -718,7 +1219,9 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 1,
         "concept": "Amino groups",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "9e9c1a58c8287e",
@@ -728,7 +1231,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              9
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "601c7a29f950be",
@@ -738,7 +1250,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              9
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "dcf0a04543870b",
@@ -748,7 +1269,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              9
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c3ec1c33999669",
@@ -758,7 +1288,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 1,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "adc532774fc4ea",
@@ -769,7 +1308,16 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 1,
         "concept": "Starch versus cellulose",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              11
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "4d79ab08c12f14",
@@ -780,7 +1328,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 1,
         "concept": "Starch versus cellulose",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "c0d12ef23c1520",
@@ -791,7 +1341,16 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 1,
         "concept": "Starch versus cellulose",
-        "answerFigure": "glyco16"
+        "answerFigure": "glyco16",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "b7e9b1efdc7e8c",
@@ -802,7 +1361,9 @@ export const DECKS = [
         "kind": "Apply it",
         "deck": 1,
         "concept": "Macromolecule structure",
-        "answerFigure": "glycob14"
+        "answerFigure": "glycob14",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "1e34614c3e6692",
@@ -813,12 +1374,103 @@ export const DECKS = [
         "kind": "Apply it",
         "deck": 1,
         "concept": "Amylopectin branches",
-        "answerFigure": "glyco16"
+        "answerFigure": "glyco16",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
+      },
+      {
+        "id": "biol112-lecture-rna-locations",
+        "front": "Which of these contain RNA in the lecture model: nucleus, cytoplasm, mitochondrial matrix, plastid stroma or cell wall?",
+        "prompt": "Which of these contain RNA in the lecture model: nucleus, cytoplasm, mitochondrial matrix, plastid stroma or cell wall?",
+        "back": "Nucleus, cytoplasm, mitochondrial matrix and plastid stroma.",
+        "kind": "Apply & explain",
+        "concept": "RNA locations",
+        "deck": 1,
+        "figure": "",
+        "answerFigure": "lecture-cells",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              12,
+              13
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-starch-location",
+        "front": "Where is storage starch located in the wheat endosperm example?",
+        "prompt": "Where is storage starch located in the wheat endosperm example?",
+        "back": "In amyloplasts, a type of plastid.",
+        "kind": "Apply & explain",
+        "concept": "Storage carbohydrate location",
+        "deck": 1,
+        "figure": "",
+        "answerFigure": "lecture-cells",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              15,
+              16
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-bacterial-carbohydrates",
+        "front": "Match the bacterial carbohydrate examples to their locations: glycogen and peptidoglycan.",
+        "prompt": "Match the bacterial carbohydrate examples to their locations: glycogen and peptidoglycan.",
+        "back": "Glycogen → cytoplasm; peptidoglycan → cell wall.",
+        "kind": "Apply & explain",
+        "concept": "Bacterial carbohydrate locations",
+        "deck": 1,
+        "figure": "",
+        "answerFigure": "lecture-bacterial",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              17,
+              18
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-bacterial-proteins",
+        "front": "Are bacterial proteins confined to the cytoplasm?",
+        "prompt": "Are bacterial proteins confined to the cytoplasm?",
+        "back": "No. They also associate with DNA and occur in membranes and the cell envelope.",
+        "kind": "Apply & explain",
+        "concept": "Protein locations",
+        "deck": 1,
+        "figure": "",
+        "answerFigure": "lecture-bacterial",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
       }
     ],
     "course": "BIOL 112",
     "unit": "Unit 2",
-    "module": "2-2"
+    "module": "2-2",
+    "source": "Lectures 5–6 · macromolecule structures and locations"
   },
   {
     "title": "Lipids & membranes",
@@ -833,7 +1485,16 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              18
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a2174c4b23f17c",
@@ -844,7 +1505,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Carboxyl groups",
-        "answerFigure": "fatty-acid"
+        "answerFigure": "fatty-acid",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "8b7b0441de337d",
@@ -855,7 +1527,18 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 2,
         "concept": "Carboxyl groups",
-        "answerFigure": "fatty-acid"
+        "answerFigure": "fatty-acid",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "09d35709dd17ee",
@@ -866,7 +1549,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "glycerol-model"
+        "answerFigure": "glycerol-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c573281bc85cdc",
@@ -877,7 +1571,18 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 2,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "2fdfd7d5bf6b80",
@@ -888,7 +1593,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Triacylglycerol",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              14,
+              19
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ed97f6cf8955db",
@@ -899,7 +1614,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Ester formation and hydrolysis",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "aedbcf85cfccda",
@@ -910,7 +1636,18 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 2,
         "concept": "Triacylglycerol",
-        "answerFigure": "tag"
+        "answerFigure": "tag",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0f84875c2ea96c",
@@ -921,7 +1658,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              20,
+              21,
+              25
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "fb0a5f24c56649",
@@ -932,7 +1680,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              20,
+              21,
+              25
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "982f374197fcf2",
@@ -943,7 +1702,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 2,
         "concept": "Phosphate groups",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "d52b1100080767",
@@ -954,7 +1723,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a0a1d51a3ad0cf",
@@ -965,7 +1744,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "03745188ed50be",
@@ -976,7 +1765,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "6eb97eac05a8e3",
@@ -987,7 +1786,17 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "phospholipid-model"
+        "answerFigure": "phospholipid-model",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "76fa67952b2174",
@@ -998,7 +1807,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "tail-kink"
+        "answerFigure": "tail-kink",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              26,
+              27
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "67dd298e2cfb30",
@@ -1009,7 +1828,17 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "tail-kink"
+        "answerFigure": "tail-kink",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              14,
+              15
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ad196db3d6d40a",
@@ -1020,7 +1849,17 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 2,
         "concept": "Lipids and membranes",
-        "answerFigure": "bilayer"
+        "answerFigure": "bilayer",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ed74b0120f3b19",
@@ -1031,7 +1870,17 @@ export const DECKS = [
         "kind": "Visual recognition",
         "deck": 2,
         "concept": "Bilayer structure and assembly",
-        "answerFigure": "bilayer"
+        "answerFigure": "bilayer",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "82fd5793490c78",
@@ -1042,7 +1891,17 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 2,
         "concept": "Bilayer structure and assembly",
-        "answerFigure": "bilayer"
+        "answerFigure": "bilayer",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "57cac6a435cc5b",
@@ -1053,7 +1912,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 2,
         "concept": "Micelle versus liposome",
-        "answerFigure": "liposome"
+        "answerFigure": "liposome",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "f1e7517075c3aa",
@@ -1064,7 +1933,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 2,
         "concept": "Micelle versus liposome",
-        "answerFigure": "micelle"
+        "answerFigure": "micelle",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "225b5653b5c01a",
@@ -1075,7 +1954,9 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 2,
         "concept": "Micelle versus liposome",
-        "answerFigure": "liposome"
+        "answerFigure": "liposome",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "d1bc2fbbbf1c38",
@@ -1086,7 +1967,17 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 2,
         "concept": "Micelle versus liposome",
-        "answerFigure": "micelle"
+        "answerFigure": "micelle",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "f6121927923603",
@@ -1097,12 +1988,23 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 2,
         "concept": "Micelle versus liposome",
-        "answerFigure": "liposome"
+        "answerFigure": "liposome",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       }
     ],
     "course": "BIOL 112",
     "unit": "Unit 2",
-    "module": "2-3"
+    "module": "2-3",
+    "source": "Lecture 6 · Macromolecules II; earlier notes"
   },
   {
     "title": "Hydrophobic effect",
@@ -1116,7 +2018,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              35
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "686c80fded1187",
@@ -1126,7 +2037,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Gibbs free energy"
+        "concept": "Gibbs free energy",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              37,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "7113d60a8f8bf3",
@@ -1136,7 +2057,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 3,
-        "concept": "Gibbs free energy"
+        "concept": "Gibbs free energy",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "27108b918ef021",
@@ -1146,7 +2069,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Spontaneity versus rate"
+        "concept": "Spontaneity versus rate",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              37,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "5940057e72d6ec",
@@ -1156,7 +2089,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 3,
-        "concept": "Spontaneity versus rate"
+        "concept": "Spontaneity versus rate",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "6bd1135dad77c9",
@@ -1167,7 +2102,18 @@ export const DECKS = [
         "kind": "Visual recognition",
         "deck": 3,
         "concept": "Hydrophobic effect",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              40,
+              41,
+              42
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "7d407d6f2143fe",
@@ -1178,7 +2124,18 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 3,
         "concept": "Hydrophobic effect",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              40,
+              41,
+              42
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "fc12e8fec9d95d",
@@ -1189,7 +2146,18 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 3,
         "concept": "Lipid versus water entropy",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              40,
+              41,
+              42
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "05ecfd7770ef1b",
@@ -1200,7 +2168,18 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 3,
         "concept": "Lipid versus water entropy",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              40,
+              41,
+              42
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0e5b77fe4b1d33",
@@ -1210,7 +2189,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Lipid versus water entropy"
+        "concept": "Lipid versus water entropy",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              37,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "2a69fa91b97e59",
@@ -1220,7 +2209,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 3,
-        "concept": "Gibbs free energy"
+        "concept": "Gibbs free energy",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "e251f726191cfa",
@@ -1231,7 +2222,9 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 3,
         "concept": "Hydrophobic effect",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "5676a9bca1f215",
@@ -1241,7 +2234,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Lipid versus water entropy"
+        "concept": "Lipid versus water entropy",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "f20c7da6097384",
@@ -1251,7 +2246,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Entropy accounting"
+        "concept": "Entropy accounting",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "c91e4b83bed467",
@@ -1261,7 +2258,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 3,
-        "concept": "Free-energy calculations"
+        "concept": "Free-energy calculations",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "64167b51d35e89",
@@ -1271,7 +2270,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Apply it",
         "deck": 3,
-        "concept": "Hydrophobic effect"
+        "concept": "Hydrophobic effect",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "08be3d2ca9292b",
@@ -1282,7 +2283,9 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 3,
         "concept": "Hydrophobic effect",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "c7dec36b22b0ea",
@@ -1293,7 +2296,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 3,
         "concept": "Hydrophobic effect",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              14,
+              15
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "6e46179bc67c15",
@@ -1304,12 +2317,23 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 3,
         "concept": "Bilayer structure and assembly",
-        "answerFigure": "hydrophobic"
+        "answerFigure": "hydrophobic",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              17,
+              36
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       }
     ],
     "course": "BIOL 112",
     "unit": "Unit 2",
-    "module": "2-3"
+    "module": "2-3",
+    "source": "Lectures 6–7 · hydrophobic effect; earlier practice"
   },
   {
     "title": "AXE & parent shapes",
@@ -2028,7 +3052,7 @@ export const DECKS = [
     "file": "BIOL112_Proteins_Sept27.txt",
     "course": "BIOL 112",
     "unit": "Unit 2",
-    "source": "September 27 prereading · Ch. 5.1, pp. 89–98 · September 28 R-group comparisons",
+    "source": "September 27 prereading · Ch. 5.1, pp. 89–98; Lecture 10 · Protein Structure I",
     "defaultFigure": "peptide",
     "cards": [
       {
@@ -2040,7 +3064,9 @@ export const DECKS = [
         "kind": "Structure & geometry",
         "deck": 8,
         "concept": "Amino-acid geometry",
-        "answerFigure": "amino-3d"
+        "answerFigure": "amino-3d",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-sidechain-classification",
@@ -2051,7 +3077,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Backbone versus side chain",
-        "answerFigure": "amino-zwitterion"
+        "answerFigure": "amino-zwitterion",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              17,
+              24
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-soluble-core",
@@ -2062,7 +3098,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Hydrophobic core",
-        "answerFigure": "protein-core"
+        "answerFigure": "protein-core",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-membrane-surface",
@@ -2073,7 +3111,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Environment and folding",
-        "answerFigure": "membrane-protein"
+        "answerFigure": "membrane-protein",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              18,
+              20
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-vdw-packing",
@@ -2084,7 +3132,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Close packing",
-        "answerFigure": "protein-core"
+        "answerFigure": "protein-core",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-ionic-pair",
@@ -2095,7 +3145,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Ionic side-chain interactions",
-        "answerFigure": "ionic-pair"
+        "answerFigure": "ionic-pair",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-ph-protonation",
@@ -2106,7 +3158,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "pH and folding",
-        "answerFigure": "ionic-pair"
+        "answerFigure": "ionic-pair",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-glycine-recognition",
@@ -2117,7 +3171,17 @@ export const DECKS = [
         "kind": "Recognize structure",
         "deck": 8,
         "concept": "Glycine structure",
-        "answerFigure": "glycine-model"
+        "answerFigure": "glycine-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-proline-recognition",
@@ -2128,7 +3192,17 @@ export const DECKS = [
         "kind": "Recognize structure",
         "deck": 8,
         "concept": "Proline structure",
-        "answerFigure": "proline-model"
+        "answerFigure": "proline-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-gly-pro-mobility",
@@ -2139,7 +3213,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Side-chain geometry and flexibility",
-        "answerFigure": "proline-model"
+        "answerFigure": "proline-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-cysteine-recognition",
@@ -2150,7 +3234,17 @@ export const DECKS = [
         "kind": "Recognize structure",
         "deck": 8,
         "concept": "Cysteine structure",
-        "answerFigure": "cysteine-model"
+        "answerFigure": "cysteine-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-disulfide-crosslink",
@@ -2161,7 +3255,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Disulfide formation",
-        "answerFigure": "disulfide-model"
+        "answerFigure": "disulfide-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-peptide-rigidity",
@@ -2172,7 +3276,9 @@ export const DECKS = [
         "kind": "Explain the mechanism",
         "deck": 8,
         "concept": "Peptide-bond resonance",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-backbone-rotation",
@@ -2183,7 +3289,16 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Backbone flexibility",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-sequence-order",
@@ -2194,7 +3309,16 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Primary structure",
-        "answerFigure": "peptide"
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-sequence-to-function",
@@ -2205,7 +3329,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Sequence → folding → function",
-        "answerFigure": "protein-fold"
+        "answerFigure": "protein-fold",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-secondary-hbonds",
@@ -2216,7 +3342,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Secondary-structure hydrogen bonds",
-        "answerFigure": "hydrogen-bond"
+        "answerFigure": "hydrogen-bond",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              20,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-helix-recognition",
@@ -2227,7 +3363,16 @@ export const DECKS = [
         "kind": "Recognize structure",
         "deck": 8,
         "concept": "α-Helix recognition",
-        "answerFigure": "protein-secondary"
+        "answerFigure": "protein-secondary",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              30
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-helix-sidechains",
@@ -2238,7 +3383,17 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "α-Helix side-chain placement",
-        "answerFigure": "protein-secondary"
+        "answerFigure": "protein-secondary",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              20,
+              21
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-sheet-recognition",
@@ -2249,7 +3404,16 @@ export const DECKS = [
         "kind": "Recognize structure",
         "deck": 8,
         "concept": "β-Sheet recognition",
-        "answerFigure": "protein-secondary"
+        "answerFigure": "protein-secondary",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              30
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-secondary-tertiary",
@@ -2260,7 +3424,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Secondary versus tertiary",
-        "answerFigure": "protein-secondary"
+        "answerFigure": "protein-secondary",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-one-chain-fold",
@@ -2271,7 +3437,16 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "One-chain tertiary structure",
-        "answerFigure": "protein-fold"
+        "answerFigure": "protein-fold",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              30
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-identical-subunits",
@@ -2282,7 +3457,16 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Quaternary assembly",
-        "answerFigure": "protein-subunits"
+        "answerFigure": "protein-subunits",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              30
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-protein-subunit-dissociation",
@@ -2293,7 +3477,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Disassembly of subunits",
-        "answerFigure": "protein-subunits"
+        "answerFigure": "protein-subunits",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-disulfide-level",
@@ -2304,7 +3490,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Disulfides across structural levels",
-        "answerFigure": "disulfide-model"
+        "answerFigure": "disulfide-model",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-denaturation-sequence",
@@ -2315,7 +3503,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Denaturation versus backbone cleavage",
-        "answerFigure": "protein-unfold"
+        "answerFigure": "protein-unfold",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-shape-function",
@@ -2326,7 +3516,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Shape-dependent function",
-        "answerFigure": "protein-unfold"
+        "answerFigure": "protein-unfold",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-unfolding-aggregation",
@@ -2337,7 +3529,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Unfolding and aggregation",
-        "answerFigure": "protein-unfold"
+        "answerFigure": "protein-unfold",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-chaperone-protection",
@@ -2348,7 +3542,9 @@ export const DECKS = [
         "kind": "Compare & apply",
         "deck": 8,
         "concept": "Chaperone mechanism",
-        "answerFigure": "protein-unfold"
+        "answerFigure": "protein-unfold",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-chaperone-limits",
@@ -2358,7 +3554,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & apply",
         "deck": 8,
-        "concept": "Limits of folding assistance"
+        "concept": "Limits of folding assistance",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-hydrophilicity-ranking",
@@ -2368,7 +3566,9 @@ export const DECKS = [
         "concept": "Comparing side-chain hydration",
         "deck": 8,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-protein-sidechain-hbond",
@@ -2379,7 +3579,146 @@ export const DECKS = [
         "deck": 8,
         "figure": "",
         "kind": "Application",
-        "answerFigure": "hydroxyl"
+        "answerFigure": "hydroxyl",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
+      },
+      {
+        "id": "biol112-lecture-peptide-energy",
+        "front": "Why should peptide-bond synthesis not be treated like spontaneous phospholipid-bilayer assembly?",
+        "prompt": "Why should peptide-bond synthesis not be treated like spontaneous phospholipid-bilayer assembly?",
+        "back": "Peptide synthesis requires energy input and ribosomal catalysis; bilayer assembly organizes existing lipids.",
+        "kind": "Apply & explain",
+        "concept": "Covalent synthesis versus assembly",
+        "deck": 8,
+        "figure": "",
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-backbone-trace",
+        "front": "Which atoms form the repeating protein backbone, excluding the R groups?",
+        "prompt": "Which atoms form the repeating protein backbone, excluding the R groups?",
+        "back": "The repeating N–Cα–carbonyl-C chain.",
+        "kind": "Interpret a model",
+        "concept": "Tracing the backbone",
+        "deck": 8,
+        "figure": "lecture-backbone",
+        "answerFigure": "lecture-backbone",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              21,
+              22,
+              23
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-glycine-achiral",
+        "front": "Why is glycine the only non-chiral common amino acid in the lecture?",
+        "prompt": "Why is glycine the only non-chiral common amino acid in the lecture?",
+        "back": "Its α-carbon has two identical H substituents rather than four different groups.",
+        "kind": "Apply & explain",
+        "concept": "Glycine and chirality",
+        "deck": 8,
+        "figure": "",
+        "answerFigure": "glycine-model",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              26
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-residue",
+        "front": "What does an amino-acid residue mean in a polypeptide?",
+        "prompt": "What does an amino-acid residue mean in a polypeptide?",
+        "back": "The amino-acid-derived unit remaining after incorporation into the peptide chain.",
+        "kind": "Apply & explain",
+        "concept": "Residue versus free amino acid",
+        "deck": 8,
+        "figure": "",
+        "answerFigure": "peptide",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              18,
+              32,
+              33
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "The slide’s simplified explanation concerns backbone incorporation. Ionizable side chains and terminal groups can still donate or accept H⁺."
+      },
+      {
+        "id": "biol112-lecture-protein-roles",
+        "front": "A protein speeds up a cellular chemical reaction. Which listed protein role is it performing?",
+        "prompt": "A protein speeds up a cellular chemical reaction. Which listed protein role is it performing?",
+        "back": "Catalysis: it is acting as an enzyme.",
+        "kind": "Apply & explain",
+        "concept": "Protein functions",
+        "deck": 8,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              8
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-polypeptide-folded",
+        "front": "In Lecture 10’s introductory terminology, what distinguishes a protein from just a long polypeptide chain?",
+        "prompt": "In Lecture 10’s introductory terminology, what distinguishes a protein from just a long polypeptide chain?",
+        "back": "The protein has folded into a functional structure; chain length alone does not establish function.",
+        "kind": "Apply & explain",
+        "concept": "Course peptide terminology",
+        "deck": 8,
+        "figure": "",
+        "answerFigure": "protein-fold",
+        "sources": [
+          {
+            "lecture": 10,
+            "pages": [
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
       }
     ],
     "topic": "Proteins",
@@ -2393,7 +3732,7 @@ export const DECKS = [
     "unit": "Unit 2",
     "file": "BIOL112_Membrane_Transport.txt",
     "defaultFigure": "transport-compare",
-    "source": "September 21 & 28 notes · transport class overview and diagram practice",
+    "source": "Lectures 7–9 · permeability and transport; earlier notes",
     "cards": [
       {
         "id": "8ded866480167a",
@@ -2403,7 +3742,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Lipids and membranes"
+        "concept": "Lipids and membranes",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "dbe974593b2efc",
@@ -2414,7 +3763,19 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 9,
         "concept": "Selective permeability",
-        "answerFigure": "bilayer"
+        "answerFigure": "bilayer",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              27,
+              28,
+              31,
+              34
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "1c36c3640b6bce",
@@ -2425,7 +3786,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Aquaporin channels",
-        "answerFigure": "channel-carrier"
+        "answerFigure": "channel-carrier",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "353300d67cbfc7",
@@ -2436,7 +3806,19 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Membrane transport",
-        "answerFigure": "bilayer"
+        "answerFigure": "bilayer",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              27,
+              28,
+              31,
+              34
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c88e0cacd1b53f",
@@ -2447,7 +3829,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 9,
         "concept": "Selective permeability",
-        "answerFigure": "membrane-protein"
+        "answerFigure": "membrane-protein",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "edfb4e1bbe486a",
@@ -2458,7 +3850,19 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Carrier versus channel",
-        "answerFigure": "channel-carrier"
+        "answerFigure": "channel-carrier",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              12,
+              14,
+              16,
+              18
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0a452a9d71d327",
@@ -2468,7 +3872,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 9,
-        "concept": "Membrane transport"
+        "concept": "Membrane transport",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              12,
+              14,
+              16,
+              18
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "9e9a02f1776b43",
@@ -2479,7 +3895,19 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 9,
         "concept": "Simple versus facilitated diffusion",
-        "answerFigure": "channel-carrier"
+        "answerFigure": "channel-carrier",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              12,
+              14,
+              16,
+              18
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0700ae8fe9b43f",
@@ -2489,7 +3917,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Diffusion equilibrium"
+        "concept": "Diffusion equilibrium",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              9,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "1a1629ee8c2db1",
@@ -2499,7 +3937,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Compare & distinguish",
         "deck": 9,
-        "concept": "Passive versus active transport"
+        "concept": "Passive versus active transport",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              14,
+              15,
+              16,
+              17
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "d07897c49018fb",
@@ -2510,7 +3960,19 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 9,
         "concept": "ATP-driven ion pump",
-        "answerFigure": "nak-pump"
+        "answerFigure": "nak-pump",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              18,
+              19,
+              20,
+              33
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0f1df698561d7c",
@@ -2520,7 +3982,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Explain why",
         "deck": 9,
-        "concept": "Secondary active transport"
+        "concept": "Secondary active transport",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              31,
+              32,
+              34,
+              38
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "32c14042b89659",
@@ -2530,7 +4004,19 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Electrochemical gradient"
+        "concept": "Electrochemical gradient",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              31,
+              32,
+              34,
+              38
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "29480d7477adf4",
@@ -2541,7 +4027,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Osmosis and tonicity",
-        "answerFigure": "osmosis-model"
+        "answerFigure": "osmosis-model",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "6094adf0179c40",
@@ -2552,7 +4047,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Osmosis and tonicity",
-        "answerFigure": "osmosis-model"
+        "answerFigure": "osmosis-model",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              26
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "7664b2ee0eb6e6",
@@ -2563,7 +4067,9 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 9,
         "concept": "Osmotic volume control",
-        "answerFigure": "osmosis-model"
+        "answerFigure": "osmosis-model",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "54fbc9d4e2d114",
@@ -2573,7 +4079,9 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 9,
-        "concept": "Contractile vacuole"
+        "concept": "Contractile vacuole",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "6a065c7fe8a263",
@@ -2584,7 +4092,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 9,
         "concept": "Turgor pressure",
-        "answerFigure": "osmosis-model"
+        "answerFigure": "osmosis-model",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-transport-glucose-barrier",
@@ -2594,7 +4104,19 @@ export const DECKS = [
         "concept": "Glucose permeability",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              27,
+              28,
+              31,
+              34
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-equilibrium-concentration",
@@ -2604,7 +4126,9 @@ export const DECKS = [
         "concept": "Diffusion and mass conservation",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-transport-glut-reversal",
@@ -2614,7 +4138,19 @@ export const DECKS = [
         "concept": "Reversible GLUT transport",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              12,
+              13,
+              18,
+              19
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-channel-gating",
@@ -2624,7 +4160,16 @@ export const DECKS = [
         "concept": "Channel gating versus driving force",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              14
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-nak-stoichiometry",
@@ -2635,7 +4180,19 @@ export const DECKS = [
         "deck": 9,
         "figure": "",
         "kind": "Application",
-        "answerFigure": "nak-pump"
+        "answerFigure": "nak-pump",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              18,
+              19,
+              20,
+              33
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-pump-electrogenic",
@@ -2646,7 +4203,19 @@ export const DECKS = [
         "deck": 9,
         "figure": "",
         "kind": "Application",
-        "answerFigure": "nak-pump"
+        "answerFigure": "nak-pump",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              18,
+              19,
+              20,
+              33
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-cotransport-directions",
@@ -2657,7 +4226,19 @@ export const DECKS = [
         "deck": 9,
         "figure": "transport-symport",
         "kind": "Diagram recognition",
-        "answerFigure": "transport-symport"
+        "answerFigure": "transport-symport",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              31,
+              32,
+              34,
+              38
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-electrical-opposition",
@@ -2667,7 +4248,9 @@ export const DECKS = [
         "concept": "Competing electrochemical forces",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-transport-sglt-pump-dependence",
@@ -2678,7 +4261,19 @@ export const DECKS = [
         "deck": 9,
         "figure": "",
         "kind": "Application",
-        "answerFigure": "transport-symport"
+        "answerFigure": "transport-symport",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              31,
+              32,
+              34,
+              38
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-transport-glut-sglt-comparison",
@@ -2688,7 +4283,19 @@ export const DECKS = [
         "concept": "Glucose carrier mechanisms",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              31,
+              32,
+              34,
+              38
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-class-net-flux",
@@ -2698,7 +4305,17 @@ export const DECKS = [
         "concept": "Net versus two-way movement",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              9,
+              10
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-class-uniporter",
@@ -2708,7 +4325,18 @@ export const DECKS = [
         "concept": "Uniporter recognition",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              35,
+              36,
+              37
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-class-gradient-energy",
@@ -2718,7 +4346,9 @@ export const DECKS = [
         "concept": "Free energy and coupling",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-class-action-potential",
@@ -2728,7 +4358,9 @@ export const DECKS = [
         "concept": "Gradient versus action potential",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-class-draw-cotransport",
@@ -2739,7 +4371,18 @@ export const DECKS = [
         "deck": 9,
         "figure": "",
         "kind": "Draw from memory",
-        "answerFigure": "transport-compare"
+        "answerFigure": "transport-compare",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              35,
+              36,
+              37
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "biol112-class-heart-antiport",
@@ -2750,7 +4393,9 @@ export const DECKS = [
         "deck": 9,
         "figure": "transport-antiport",
         "kind": "Diagram recognition",
-        "answerFigure": "transport-antiport"
+        "answerFigure": "transport-antiport",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-class-gas-cell-example",
@@ -2760,7 +4405,9 @@ export const DECKS = [
         "concept": "Gas diffusion in human cells",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "biol112-class-glut-cell-example",
@@ -2770,7 +4417,240 @@ export const DECKS = [
         "concept": "Glucose transport in human cells",
         "deck": 9,
         "figure": "",
-        "kind": "Application"
+        "kind": "Application",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              39,
+              40
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "Lecture 9, p. 40 says transporter names need not be memorized. Focus on the transport mechanism."
+      },
+      {
+        "id": "biol112-lecture-channel-lining",
+        "front": "Why are polar or charged R groups expected along a water-filled ion-channel passage?",
+        "prompt": "Why are polar or charged R groups expected along a water-filled ion-channel passage?",
+        "back": "They interact favorably with water and transported ions, unlike the surrounding lipid-facing surface.",
+        "kind": "Apply & explain",
+        "concept": "Channel-pore chemistry",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "lecture-channel",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              15,
+              16
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-leak-gated",
+        "front": "How does a leak channel differ from a gated channel in the lecture model?",
+        "prompt": "How does a leak channel differ from a gated channel in the lecture model?",
+        "back": "A leak channel is open; a gated channel opens or closes in response to a signal.",
+        "kind": "Apply & explain",
+        "concept": "Channel gating",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              14
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-carrier-rate",
+        "front": "Why can channel transport usually be faster than carrier transport?",
+        "prompt": "Why can channel transport usually be faster than carrier transport?",
+        "back": "An open pore lets solutes pass without a separate alternating-access cycle for each solute.",
+        "kind": "Apply & explain",
+        "concept": "Transport-rate mechanisms",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "channel-carrier",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              16,
+              18
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ratio-start",
+        "front": "For neutral glucose, [inside] = 1 mM and [outside] = 10 mM. What is the inside/outside concentration ratio?",
+        "prompt": "For neutral glucose, [inside] = 1 mM and [outside] = 10 mM. What is the inside/outside concentration ratio?",
+        "back": "0.1; the initial concentration gradient favors inward movement.",
+        "kind": "Apply & explain",
+        "concept": "Reading concentration ratios",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              20,
+              21
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ratio-draw",
+        "front": "Sketch the inside/outside glucose ratio over time for passive uptake starting below 1, with no glucose metabolism or other transport.",
+        "prompt": "Sketch the inside/outside glucose ratio over time for passive uptake starting below 1, with no glucose metabolism or other transport.",
+        "back": "The ratio rises toward 1 and levels off there; passive uptake alone does not maintain a ratio above 1.",
+        "kind": "Apply & explain",
+        "concept": "Drawing passive transport",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "lecture-ratio",
+        "sources": [
+          {
+            "lecture": 8,
+            "pages": [
+              22,
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ratio-active",
+        "front": "These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?",
+        "prompt": "These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?",
+        "back": "A: its inside/outside concentration ratio rises above 1, accumulating glucose against its gradient.",
+        "kind": "Interpret a model",
+        "concept": "Graph evidence for active uptake",
+        "deck": 9,
+        "figure": "lecture-two-ratios",
+        "answerFigure": "lecture-two-ratios",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              21,
+              24,
+              28
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ratio-limit",
+        "front": "Can a neutral-solute concentration-ratio curve approaching 1, by itself, distinguish simple from facilitated diffusion?",
+        "prompt": "Can a neutral-solute concentration-ratio curve approaching 1, by itself, distinguish simple from facilitated diffusion?",
+        "back": "No. Both can equilibrate concentrations; identify the molecule and whether a membrane protein provides the route.",
+        "kind": "Apply & explain",
+        "concept": "Limits of graph inference",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "lecture-ratio",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ratio-distribution",
+        "front": "Draw neutral-solute particles in equal-volume compartments when [inside]/[outside] = 3.",
+        "prompt": "Draw neutral-solute particles in equal-volume compartments when [inside]/[outside] = 3.",
+        "back": "Show three times as many particles inside as outside, for example 9 inside and 3 outside.",
+        "kind": "Apply & explain",
+        "concept": "Ratio-to-particle model",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "lecture-particles",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              21,
+              22,
+              25,
+              26
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-pump-phosphorylation",
+        "front": "Which amino-acid side chain is transiently phosphorylated in the Na⁺/K⁺-ATPase example?",
+        "prompt": "Which amino-acid side chain is transiently phosphorylated in the Na⁺/K⁺-ATPase example?",
+        "back": "An aspartate side chain.",
+        "kind": "Apply & explain",
+        "concept": "Pump covalent modification",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "nak-pump",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-gut-uptake-purpose",
+        "front": "Why is energy-coupled glucose uptake useful in intestinal cells when luminal glucose becomes scarce?",
+        "prompt": "Why is energy-coupled glucose uptake useful in intestinal cells when luminal glucose becomes scarce?",
+        "back": "It can continue uptake against the glucose concentration gradient, reducing loss of available glucose.",
+        "kind": "Apply & explain",
+        "concept": "Transport matched to cell function",
+        "deck": 9,
+        "figure": "",
+        "answerFigure": "transport-symport",
+        "sources": [
+          {
+            "lecture": 9,
+            "pages": [
+              39,
+              40
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
       }
     ],
     "module": "2-4"
@@ -2782,7 +4662,7 @@ export const DECKS = [
     "title": "Polarity, charge & interactions",
     "file": "BIOL112_Module2_1_Chemistry.txt",
     "defaultFigure": "carbonyl",
-    "source": "Existing cards from your supplied chemistry and macromolecules notes",
+    "source": "Lecture 4 · Chemistry of Biology; Lecture 7 · course clarification",
     "cards": [
       {
         "id": "5d997636f1e38b",
@@ -2793,7 +4673,19 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 10,
         "concept": "Hydroxyl groups",
-        "answerFigure": "hydroxyl"
+        "answerFigure": "hydroxyl",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              9,
+              10,
+              11,
+              13
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "109097e6f4e634",
@@ -2804,7 +4696,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 10,
         "concept": "Carboxyl groups",
-        "answerFigure": "carboxylate"
+        "answerFigure": "carboxylate",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0c147b0091a9ba",
@@ -2815,7 +4716,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 10,
         "concept": "Amino groups",
-        "answerFigure": "ammonium"
+        "answerFigure": "ammonium",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ca0e1fc6a84ad3",
@@ -2826,7 +4736,17 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 10,
         "concept": "Phosphate groups",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6,
+              20
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "25e23ef75b61ed",
@@ -2837,7 +4757,9 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 10,
         "concept": "Phosphate groups",
-        "answerFigure": "phosphoester"
+        "answerFigure": "phosphoester",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "f5a935317ba00e",
@@ -2848,7 +4770,19 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 10,
         "concept": "Carbonyl groups",
-        "answerFigure": "carbonyl"
+        "answerFigure": "carbonyl",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              9,
+              10,
+              11,
+              13
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "ce2c877933dd67",
@@ -2859,7 +4793,19 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 10,
         "concept": "Functional groups and polarity",
-        "answerFigure": "carbonyl"
+        "answerFigure": "carbonyl",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              9,
+              10,
+              11,
+              13
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a98892fbe1869e",
@@ -2870,7 +4816,19 @@ export const DECKS = [
         "kind": "Explain why",
         "deck": 10,
         "concept": "Functional groups and polarity",
-        "answerFigure": "fatty-acid"
+        "answerFigure": "fatty-acid",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              9,
+              10,
+              11,
+              13
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "e24f7c8c3adf9f",
@@ -2881,7 +4839,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 10,
         "concept": "Hydroxyl groups",
-        "answerFigure": "hydroxyl"
+        "answerFigure": "hydroxyl",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "541ec6d6374e70",
@@ -2891,7 +4851,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 10,
-        "concept": "Functional groups and polarity"
+        "concept": "Functional groups and polarity",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              6,
+              20
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "1423aa549927ea",
@@ -2902,7 +4872,234 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 10,
         "concept": "Hydroxyl groups",
-        "answerFigure": "fatty-acid"
+        "answerFigure": "fatty-acid",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
+      },
+      {
+        "id": "biol112-lecture-electronegativity",
+        "front": "Using the lecture’s electronegativity ordering, why are C–H regions treated as nonpolar?",
+        "prompt": "Using the lecture’s electronegativity ordering, why are C–H regions treated as nonpolar?",
+        "back": "C and H have similar electronegativities, so their bonding electrons are shared relatively evenly.",
+        "kind": "Apply & explain",
+        "concept": "Electronegativity and bond polarity",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              10,
+              11
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-interaction-ion-water",
+        "front": "Classify the attraction between Na⁺ and the oxygen end of a water molecule.",
+        "prompt": "Classify the attraction between Na⁺ and the oxygen end of a water molecule.",
+        "back": "Ion–permanent dipole (ion–PD).",
+        "kind": "Interpret a model",
+        "concept": "Ion–permanent dipole",
+        "deck": 10,
+        "figure": "lecture-ion-water",
+        "answerFigure": "lecture-ion-water",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              18,
+              20
+            ]
+          },
+          {
+            "lecture": 7,
+            "pages": [
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "BIOL 112 (2026/27) reserves the hydrogen-bond label for PD–PD interactions; this ion–water interaction is classified as ion–PD. Lecture 7 preserves the clarification in its original wording."
+      },
+      {
+        "id": "biol112-lecture-interaction-ion-induced",
+        "front": "A nearby ion distorts the electron cloud of a nonpolar group. What interaction results?",
+        "prompt": "A nearby ion distorts the electron cloud of a nonpolar group. What interaction results?",
+        "back": "Ion–induced dipole (ion–ID).",
+        "kind": "Apply & explain",
+        "concept": "Ion–induced dipole",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "lecture-induced",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-interaction-pd-induced",
+        "front": "A polar carbonyl distorts the electron cloud of a neighboring nonpolar group. Classify the interaction.",
+        "prompt": "A polar carbonyl distorts the electron cloud of a neighboring nonpolar group. Classify the interaction.",
+        "back": "Permanent dipole–induced dipole (PD–ID).",
+        "kind": "Apply & explain",
+        "concept": "Permanent–induced dipole",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "lecture-induced",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-interaction-id-id",
+        "front": "What weak attraction can occur between two nonpolar groups through fluctuating electron distributions?",
+        "prompt": "What weak attraction can occur between two nonpolar groups through fluctuating electron distributions?",
+        "back": "Induced dipole–induced dipole (ID–ID), or London dispersion attraction.",
+        "kind": "Apply & explain",
+        "concept": "Dispersion interactions",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "lecture-induced",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              19,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-interaction-pd-pd",
+        "front": "Two neutral carbonyl groups align with δ⁺ carbon near δ⁻ oxygen. What interaction can occur?",
+        "prompt": "Two neutral carbonyl groups align with δ⁺ carbon near δ⁻ oxygen. What interaction can occur?",
+        "back": "Permanent dipole–permanent dipole (PD–PD).",
+        "kind": "Apply & explain",
+        "concept": "Permanent dipole orientation",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              20,
+              23
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-interaction-strength",
+        "front": "What strongest-to-weakest order is used in the lecture’s simplified interaction scheme?",
+        "prompt": "What strongest-to-weakest order is used in the lecture’s simplified interaction scheme?",
+        "back": "Ion–ion > ion–PD > hydrogen bond > other PD–PD > ion–ID > PD–ID > ID–ID.",
+        "kind": "Apply & explain",
+        "concept": "Course interaction ranking",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "This is the course’s qualitative ordering, not a universal numerical ranking independent of solvent, distance and geometry."
+      },
+      {
+        "id": "biol112-lecture-dipole-attract-repel",
+        "front": "Can two permanent dipoles repel even though each molecule is neutral overall?",
+        "prompt": "Can two permanent dipoles repel even though each molecule is neutral overall?",
+        "back": "Yes. Orientation can bring like partial charges together; opposite partial charges favor attraction.",
+        "kind": "Apply & explain",
+        "concept": "Attraction versus repulsion",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              25
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-induced-attraction",
+        "front": "Why is the induced-dipole contribution attractive in the lecture model?",
+        "prompt": "Why is the induced-dipole contribution attractive in the lecture model?",
+        "back": "The electron cloud shifts so the nearer induced charge is opposite the inducing charge.",
+        "kind": "Apply & explain",
+        "concept": "Induced-dipole alignment",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "lecture-induced",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              26
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-covalent-vs-noncovalent",
+        "front": "What distinguishes a covalent bond from the noncovalent interactions in the lecture?",
+        "prompt": "What distinguishes a covalent bond from the noncovalent interactions in the lecture?",
+        "back": "Covalent bonding shares electrons; noncovalent interactions act between charge distributions without that covalent link.",
+        "kind": "Apply & explain",
+        "concept": "Bond versus interaction",
+        "deck": 10,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 4,
+            "pages": [
+              15,
+              16
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
       }
     ]
   },
@@ -2913,7 +5110,7 @@ export const DECKS = [
     "title": "Nucleic acid structure & directionality",
     "file": "BIOL112_Module2_6_Nucleic_Acids.txt",
     "defaultFigure": "nucleotide",
-    "source": "Existing September 18 notes · detailed Module 2-6 learning objectives not yet supplied",
+    "source": "Lecture 5 · nucleotide foundations; earlier notes",
     "cards": [
       {
         "id": "b949468ac5b34d",
@@ -2924,7 +5121,17 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 11,
         "concept": "Phosphate groups",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              40
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "a0a3d0371ed4db",
@@ -2934,7 +5141,17 @@ export const DECKS = [
         "figure": "",
         "kind": "Recall & application",
         "deck": 11,
-        "concept": "Macromolecule structure"
+        "concept": "Macromolecule structure",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              40
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "5ef92f3136fd40",
@@ -2945,7 +5162,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 11,
         "concept": "Macromolecule structure",
-        "answerFigure": "sugar-comparison"
+        "answerFigure": "sugar-comparison",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              40
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "9ea0d9c5b094e5",
@@ -2956,7 +5183,18 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 11,
         "concept": "Nucleotide carbon numbering",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "34cd3c7e1c15d4",
@@ -2967,7 +5205,18 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 11,
         "concept": "Nucleic-acid directionality",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "967e8c0ab26b16",
@@ -2978,7 +5227,18 @@ export const DECKS = [
         "kind": "Structure recognition",
         "deck": 11,
         "concept": "Nucleotide carbon numbering",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "4e059a2a62fef3",
@@ -2989,7 +5249,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 11,
         "concept": "Nucleic-acid directionality",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "0584c1c5960e24",
@@ -3000,7 +5271,18 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 11,
         "concept": "Phosphate groups",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "3807f7a049d9b5",
@@ -3011,7 +5293,18 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 11,
         "concept": "Nucleic-acid directionality",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "22f497f52cc9df",
@@ -3022,7 +5315,9 @@ export const DECKS = [
         "kind": "Apply it",
         "deck": 11,
         "concept": "Nucleic-acid directionality",
-        "answerFigure": "nucleotide"
+        "answerFigure": "nucleotide",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "19778ed33b7663",
@@ -3033,7 +5328,9 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 11,
         "concept": "Antiparallel DNA",
-        "answerFigure": "dna-antiparallel"
+        "answerFigure": "dna-antiparallel",
+        "sources": [],
+        "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
       },
       {
         "id": "c76e53724378eb",
@@ -3044,7 +5341,18 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 11,
         "concept": "Nucleic-acid directionality",
-        "answerFigure": "dna-antiparallel"
+        "answerFigure": "dna-antiparallel",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              27,
+              28,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "c7e5872c754078",
@@ -3055,7 +5363,18 @@ export const DECKS = [
         "kind": "Compare & distinguish",
         "deck": 11,
         "concept": "Phosphate groups",
-        "answerFigure": "dna-antiparallel"
+        "answerFigure": "dna-antiparallel",
+        "sources": [
+          {
+            "lecture": 5,
+            "pages": [
+              37,
+              38,
+              39
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       }
     ]
   },
@@ -3066,7 +5385,7 @@ export const DECKS = [
     "title": "Cell structures & compartments",
     "file": "BIOL112_Module1_1_Cell_Structures.txt",
     "defaultFigure": "double-membrane",
-    "source": "Existing September 18 & 21 notes · additional course material awaited",
+    "source": "Lectures 2–3 · cellular diversity and endosymbiosis; earlier compartment notes",
     "cards": [
       {
         "id": "1d5571994c1bb9",
@@ -3077,7 +5396,16 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 12,
         "concept": "Bilayer structure and assembly",
-        "answerFigure": "double-membrane"
+        "answerFigure": "double-membrane",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              32
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "b4812ce1553424",
@@ -3088,7 +5416,17 @@ export const DECKS = [
         "kind": "Recall & application",
         "deck": 12,
         "concept": "Lipids and membranes",
-        "answerFigure": "double-membrane"
+        "answerFigure": "double-membrane",
+        "sources": [
+          {
+            "lecture": 6,
+            "pages": [
+              33
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture",
+        "studyNote": "Lecture 6, p. 33 emphasizes continuity around nuclear pores; the inner and outer membrane regions each remain bilayers."
       },
       {
         "id": "5b050dd82bc5cc",
@@ -3098,7 +5436,16 @@ export const DECKS = [
         "figure": "",
         "kind": "Quick recall",
         "deck": 12,
-        "concept": "Bilayer structure and assembly"
+        "concept": "Bilayer structure and assembly",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "4098901fa99719",
@@ -3109,7 +5456,1018 @@ export const DECKS = [
         "kind": "Quick recall",
         "deck": 12,
         "concept": "Lipids and membranes",
-        "answerFigure": "cytoskeleton-model"
+        "answerFigure": "cytoskeleton-model",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-cell-theory",
+        "front": "What three claims make up cell theory?",
+        "prompt": "What three claims make up cell theory?",
+        "back": "Organisms consist of cells; the cell is the fundamental unit of life; cells arise from pre-existing cells.",
+        "kind": "Apply & explain",
+        "concept": "Cell theory",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              7
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-living-system",
+        "front": "Why is a collection of isolated macromolecules not yet a living cell?",
+        "prompt": "Why is a collection of isolated macromolecules not yet a living cell?",
+        "back": "A cell integrates a compartment, information processing, energy use, growth/division and responses to its environment.",
+        "kind": "Apply & explain",
+        "concept": "Smallest unit of life",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              8,
+              9,
+              10
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-unicellular",
+        "front": "How does a unicellular organism differ from one cell in a multicellular organism?",
+        "prompt": "How does a unicellular organism differ from one cell in a multicellular organism?",
+        "back": "The single cell is the whole organism; a cell in a multicellular organism is one cooperating, often specialized part.",
+        "kind": "Apply & explain",
+        "concept": "Cells versus organisms",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              24,
+              25
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-domains",
+        "front": "Which three domains contain cellular organisms?",
+        "prompt": "Which three domains contain cellular organisms?",
+        "back": "Bacteria, Archaea and Eukarya.",
+        "kind": "Apply & explain",
+        "concept": "Domains of life",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              16,
+              17
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-size-not-identity",
+        "front": "Can a cell’s size alone establish whether it is bacterial or eukaryotic?",
+        "prompt": "Can a cell’s size alone establish whether it is bacterial or eukaryotic?",
+        "back": "No. Size ranges overlap; evaluate cellular organization and multiple features.",
+        "kind": "Apply & explain",
+        "concept": "Cellular diversity",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20,
+              22,
+              23
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-scale-bar",
+        "front": "Estimate the long-axis length of this cell using its 20 μm scale bar.",
+        "prompt": "Estimate the long-axis length of this cell using its 20 μm scale bar.",
+        "back": "About 160 μm: the cell spans eight scale-bar lengths.",
+        "kind": "Interpret a model",
+        "concept": "Scale-bar application",
+        "deck": 12,
+        "figure": "lecture-scale",
+        "answerFigure": "lecture-scale",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              13,
+              14
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-cell-common",
+        "front": "Which basic components occur in both the bacterial and eukaryotic models?",
+        "prompt": "Which basic components occur in both the bacterial and eukaryotic models?",
+        "back": "A plasma membrane, cytoplasm, DNA and ribosomes.",
+        "kind": "Apply & explain",
+        "concept": "Shared cellular organization",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-cells",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-nucleoid-recognition",
+        "front": "The DNA region marked A has no surrounding nuclear envelope. What is this region in the bacterial model?",
+        "prompt": "The DNA region marked A has no surrounding nuclear envelope. What is this region in the bacterial model?",
+        "back": "The nucleoid.",
+        "kind": "Interpret a model",
+        "concept": "Nucleoid recognition",
+        "deck": 12,
+        "figure": "lecture-bacterial",
+        "answerFigure": "lecture-bacterial",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-nucleus-comparison",
+        "front": "What separates nuclear DNA from the cytoplasm in the eukaryotic model?",
+        "prompt": "What separates nuclear DNA from the cytoplasm in the eukaryotic model?",
+        "back": "A nuclear envelope; bacterial nucleoid DNA is not enclosed by that envelope.",
+        "kind": "Apply & explain",
+        "concept": "Nucleus versus nucleoid",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-cells",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-gram-negative",
+        "front": "What membrane arrangement makes the lecture’s E. coli example Gram-negative?",
+        "prompt": "What membrane arrangement makes the lecture’s E. coli example Gram-negative?",
+        "back": "It has an inner plasma membrane and an outer membrane.",
+        "kind": "Apply & explain",
+        "concept": "Bacterial envelope",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-bacterial",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              4
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-ribosomes",
+        "front": "Why does finding ribosomes not establish that a cell is eukaryotic?",
+        "prompt": "Why does finding ribosomes not establish that a cell is eukaryotic?",
+        "back": "Both bacterial and eukaryotic cells use ribosomes for protein synthesis.",
+        "kind": "Apply & explain",
+        "concept": "Shared protein synthesis",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-genome-chromosome-gene",
+        "front": "How do genome, chromosome and gene relate to one another?",
+        "prompt": "How do genome, chromosome and gene relate to one another?",
+        "back": "A genome is the complete genetic information; a chromosome is a DNA molecule with associated organization; a gene is a functional DNA sequence within it.",
+        "kind": "Apply & explain",
+        "concept": "Genome organization",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-genome",
+        "sources": [
+          {
+            "lecture": 2,
+            "pages": [
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-yeast-genomes",
+        "front": "Where are the two genomes described for yeast located?",
+        "prompt": "Where are the two genomes described for yeast located?",
+        "back": "In the nucleus and in mitochondria.",
+        "kind": "Apply & explain",
+        "concept": "Genome locations",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-genome",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-chromosome-topology",
+        "front": "Compare the lecture examples: E. coli chromosome versus yeast nuclear chromosomes.",
+        "prompt": "Compare the lecture examples: E. coli chromosome versus yeast nuclear chromosomes.",
+        "back": "E. coli: a circular chromosome; yeast nucleus: 16 linear chromosomes.",
+        "kind": "Apply & explain",
+        "concept": "Chromosomal structure",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-genome",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              4,
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-genome-size",
+        "front": "Which is larger in the lecture examples: E. coli’s genome or yeast’s nuclear genome?",
+        "prompt": "Which is larger in the lecture examples: E. coli’s genome or yeast’s nuclear genome?",
+        "back": "Yeast’s nuclear genome: about 12.1 Mb versus E. coli’s 4.6 Mb.",
+        "kind": "Apply & explain",
+        "concept": "Genome-size comparison",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              4,
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-endosymbiotic-evidence",
+        "front": "Why do organelle DNA and ribosomes support a bacterial origin of mitochondria and chloroplasts?",
+        "prompt": "Why do organelle DNA and ribosomes support a bacterial origin of mitochondria and chloroplasts?",
+        "back": "They retain bacterial-like genetic features: their own genomes, bacterial-related sequences and bacterial-like protein-synthesis machinery.",
+        "kind": "Apply & explain",
+        "concept": "Endosymbiotic evidence",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-genome",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              9,
+              10
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-endosymbiotic-division",
+        "front": "What organelle replication behavior supports endosymbiosis?",
+        "prompt": "What organelle replication behavior supports endosymbiosis?",
+        "back": "Mitochondria and chloroplasts grow and divide by fission rather than being built from nothing at each host-cell division.",
+        "kind": "Apply & explain",
+        "concept": "Endosymbiosis and fission",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-fission",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              10
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-endosymbiotic-ancestors",
+        "front": "Match the lecture’s bacterial ancestors to their organelles.",
+        "prompt": "Match the lecture’s bacterial ancestors to their organelles.",
+        "back": "Alphaproteobacteria → mitochondria; cyanobacteria → plastids.",
+        "kind": "Apply & explain",
+        "concept": "Organelle ancestry",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              11
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-unicellular-eukaryote",
+        "front": "Does being a single cell make yeast a bacterium?",
+        "prompt": "Does being a single cell make yeast a bacterium?",
+        "back": "No. Yeast is a unicellular eukaryote with a nucleus and membrane-bound organelles.",
+        "kind": "Apply & explain",
+        "concept": "Diversity across domains",
+        "deck": 12,
+        "figure": "",
+        "answerFigure": "lecture-cells",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              5
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      }
+    ]
+  },
+  {
+    "title": "Cell growth & population curves",
+    "short": "Cell growth",
+    "course": "BIOL 112",
+    "unit": "Unit 1",
+    "module": "1-2",
+    "file": "BIOL112_Module1_2_Cell_Growth.txt",
+    "defaultFigure": "lecture-growth",
+    "source": "Lecture 3 · Cell Growth",
+    "cards": [
+      {
+        "id": "biol112-lecture-individual-population",
+        "front": "A bacterial cell increases in size without dividing. Has the population’s cell number increased?",
+        "prompt": "A bacterial cell increases in size without dividing. Has the population’s cell number increased?",
+        "back": "No. Individual growth increases cell size; division increases cell number.",
+        "kind": "Apply & explain",
+        "concept": "Individual versus population growth",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-fission",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              17,
+              19
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-division-eukaryote",
+        "front": "What is the distinction between mitosis and cytokinesis in the lecture?",
+        "prompt": "What is the distinction between mitosis and cytokinesis in the lecture?",
+        "back": "Mitosis divides the nucleus; cytokinesis divides the cytoplasm into daughter cells.",
+        "kind": "Apply & explain",
+        "concept": "Eukaryotic cell division",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              18
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-culture-purpose",
+        "front": "Why grow cells in laboratory nutrient medium?",
+        "prompt": "Why grow cells in laboratory nutrient medium?",
+        "back": "To maintain and expand cells under controlled conditions so their processes can be studied.",
+        "kind": "Apply & explain",
+        "concept": "Laboratory culture",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              14,
+              15
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-media-use",
+        "front": "Why does a heterotrophic cell need nutrients such as glucose and amino acids in its medium?",
+        "prompt": "Why does a heterotrophic cell need nutrients such as glucose and amino acids in its medium?",
+        "back": "They supply usable carbon/building materials; energy-yielding nutrients also support cellular work and synthesis.",
+        "kind": "Apply & explain",
+        "concept": "Nutrient use",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              16,
+              21,
+              30,
+              31
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-log-axis",
+        "front": "On a log₂ cell-density axis, what does an increase of one vertical unit mean?",
+        "prompt": "On a log₂ cell-density axis, what does an increase of one vertical unit mean?",
+        "back": "Cell density doubles.",
+        "kind": "Apply & explain",
+        "concept": "Reading logarithmic axes",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-growth",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-lag",
+        "front": "Which phase fits cells adjusting gene expression after transfer to fresh medium, with little net population increase?",
+        "prompt": "Which phase fits cells adjusting gene expression after transfer to fresh medium, with little net population increase?",
+        "back": "Lag phase.",
+        "kind": "Apply & explain",
+        "concept": "Lag phase",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-growth",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-log",
+        "front": "What does the straight rising segment on this logarithmic growth plot represent?",
+        "prompt": "What does the straight rising segment on this logarithmic growth plot represent?",
+        "back": "Exponential (log) growth: cells are added by division faster than they are lost.",
+        "kind": "Interpret a model",
+        "concept": "Exponential growth",
+        "deck": 13,
+        "figure": "lecture-growth",
+        "answerFigure": "lecture-growth",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-stationary",
+        "front": "Does a stationary-phase plateau mean that every cell has stopped dividing?",
+        "prompt": "Does a stationary-phase plateau mean that every cell has stopped dividing?",
+        "back": "No. The viable population is roughly constant; some cells divide, die or stop dividing.",
+        "kind": "Apply & explain",
+        "concept": "Stationary phase",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-growth",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-death",
+        "front": "What balance of division and death explains a falling viable-cell-density curve?",
+        "prompt": "What balance of division and death explains a falling viable-cell-density curve?",
+        "back": "Cell loss by death exceeds addition by division.",
+        "kind": "Apply & explain",
+        "concept": "Death phase",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-growth",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-seven",
+        "front": "In the lecture’s seven-phase curve, what do regions 2, 4 and 7 add to the four main phases?",
+        "prompt": "In the lecture’s seven-phase curve, what do regions 2, 4 and 7 add to the four main phases?",
+        "back": "Acceleration, deceleration and long-term stationary phase, respectively.",
+        "kind": "Interpret a model",
+        "concept": "Four versus seven phases",
+        "deck": 13,
+        "figure": "lecture-growth-seven",
+        "answerFigure": "lecture-growth-seven",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-inhibitors",
+        "front": "Why can a closed nutrient culture stop increasing even when some cells remain alive?",
+        "prompt": "Why can a closed nutrient culture stop increasing even when some cells remain alive?",
+        "back": "Nutrients become limiting and metabolic wastes accumulate.",
+        "kind": "Apply & explain",
+        "concept": "Limits on population growth",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24,
+              28
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-expression",
+        "front": "Why can lag-phase cells be metabolically active despite little increase in cell number?",
+        "prompt": "Why can lag-phase cells be metabolically active despite little increase in cell number?",
+        "back": "They adjust gene expression and make the proteins needed to use the new environment.",
+        "kind": "Apply & explain",
+        "concept": "Gene expression in lag phase",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-replication",
+        "front": "Why must chromosome replication accompany repeated bacterial population doubling?",
+        "prompt": "Why must chromosome replication accompany repeated bacterial population doubling?",
+        "back": "Each daughter cell needs a copy of the genetic instructions.",
+        "kind": "Apply & explain",
+        "concept": "Replication and population growth",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "lecture-fission",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              14,
+              15,
+              17
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-diauxic-first-sugar",
+        "front": "From these sugar curves, which substrate is consumed first?",
+        "prompt": "From these sugar curves, which substrate is consumed first?",
+        "back": "Glucose: its concentration falls before xylose begins to decline.",
+        "kind": "Interpret a model",
+        "concept": "Using two carbon sources",
+        "deck": 13,
+        "figure": "lecture-diauxic",
+        "answerFigure": "lecture-diauxic",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-diauxic-pause",
+        "front": "Why is plateau i interpreted as a second lag phase rather than the final stationary phase?",
+        "prompt": "Why is plateau i interpreted as a second lag phase rather than the final stationary phase?",
+        "back": "Glucose is exhausted, but xylose remains; cells adjust metabolism and then resume exponential growth.",
+        "kind": "Interpret a model",
+        "concept": "Interpreting a temporary plateau",
+        "deck": 13,
+        "figure": "lecture-diauxic",
+        "answerFigure": "lecture-diauxic",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              25,
+              28
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-diauxic-final",
+        "front": "Why does plateau ii indicate stationary phase in this two-sugar experiment?",
+        "prompt": "Why does plateau ii indicate stationary phase in this two-sugar experiment?",
+        "back": "Both sugars are depleted; the population no longer increases.",
+        "kind": "Interpret a model",
+        "concept": "Interpreting the final plateau",
+        "deck": 13,
+        "figure": "lecture-diauxic",
+        "answerFigure": "lecture-diauxic",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              25,
+              28
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-isotope-tracing",
+        "front": "Why can ¹⁴C-labelled glucose reveal where glucose-derived carbon goes?",
+        "prompt": "Why can ¹⁴C-labelled glucose reveal where glucose-derived carbon goes?",
+        "back": "Its radioactive carbon atoms can be detected after incorporation into cellular products.",
+        "kind": "Apply & explain",
+        "concept": "Carbon tracing",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              29,
+              30
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-carbon-reallocation",
+        "front": "Does taking up labelled glucose restrict its carbon to carbohydrates?",
+        "prompt": "Does taking up labelled glucose restrict its carbon to carbohydrates?",
+        "back": "No. In the lecture experiment its carbon appears in CO₂, DNA, proteins, lipids and cell-wall polysaccharides.",
+        "kind": "Apply & explain",
+        "concept": "Nutrients versus synthesized products",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              33,
+              34
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-tracer-atom",
+        "front": "A molecule purified from cells contains the labelled α-carbon from alanine. What does that label establish?",
+        "prompt": "A molecule purified from cells contains the labelled α-carbon from alanine. What does that label establish?",
+        "back": "That alanine-derived carbon entered the product; it does not by itself identify the whole product or pathway.",
+        "kind": "Apply & explain",
+        "concept": "Interpreting tracer evidence",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              31,
+              32
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-growth-doublings",
+        "front": "A culture undergoes three doublings from 2 × 10⁴ cells/mL with negligible death. What density results?",
+        "prompt": "A culture undergoes three doublings from 2 × 10⁴ cells/mL with negligible death. What density results?",
+        "back": "1.6 × 10⁵ cells/mL: 2 × 10⁴ × 2³.",
+        "kind": "Apply & explain",
+        "concept": "Applying population doubling",
+        "deck": 13,
+        "figure": "",
+        "answerFigure": "",
+        "sources": [
+          {
+            "lecture": 3,
+            "pages": [
+              17,
+              20
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      }
+    ]
+  },
+  {
+    "title": "Fluid mosaic model",
+    "short": "Fluid mosaic",
+    "course": "BIOL 112",
+    "unit": "Unit 2",
+    "module": "2-3",
+    "file": "BIOL112_Fluid_Mosaic.txt",
+    "defaultFigure": "lecture-mosaic",
+    "source": "Lecture 7 · Fluid Mosaic Model of Membranes",
+    "cards": [
+      {
+        "id": "biol112-lecture-mosaic-components",
+        "front": "Why is the membrane described as a mosaic?",
+        "prompt": "Why is the membrane described as a mosaic?",
+        "back": "It contains multiple components, including phospholipids, cholesterol, proteins and carbohydrate-bearing molecules.",
+        "kind": "Apply & explain",
+        "concept": "Membrane composition",
+        "deck": 14,
+        "figure": "",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              14
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-lateral-flip",
+        "front": "Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?",
+        "prompt": "Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?",
+        "back": "Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.",
+        "kind": "Interpret a model",
+        "concept": "Membrane movement",
+        "deck": 14,
+        "figure": "lecture-mosaic",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              14
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-cholesterol-hot",
+        "front": "How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?",
+        "prompt": "How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?",
+        "back": "It restrains lipid movement and reduces excessive fluidity/permeability.",
+        "kind": "Apply & explain",
+        "concept": "Cholesterol at high temperature",
+        "deck": 14,
+        "figure": "",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              15
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-cholesterol-cold",
+        "front": "How does cholesterol help a membrane at low temperature?",
+        "prompt": "How does cholesterol help a membrane at low temperature?",
+        "back": "It disrupts tight phospholipid packing, helping the membrane remain fluid.",
+        "kind": "Apply & explain",
+        "concept": "Cholesterol at low temperature",
+        "deck": 14,
+        "figure": "",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              15
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-peripheral-integral",
+        "front": "In the model, which protein spans the bilayer and which stays on its surface?",
+        "prompt": "In the model, which protein spans the bilayer and which stays on its surface?",
+        "back": "A is transmembrane (integral); B is peripheral.",
+        "kind": "Interpret a model",
+        "concept": "Membrane association",
+        "deck": 14,
+        "figure": "lecture-mosaic",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              16,
+              17
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "biol112-lecture-membrane-sugars",
+        "front": "On which side of the red-cell membrane are the carbohydrate markers discussed for blood type exposed?",
+        "prompt": "On which side of the red-cell membrane are the carbohydrate markers discussed for blood type exposed?",
+        "back": "On the extracellular surface.",
+        "kind": "Apply & explain",
+        "concept": "Membrane carbohydrate orientation",
+        "deck": 14,
+        "figure": "",
+        "answerFigure": "lecture-mosaic",
+        "sources": [
+          {
+            "lecture": 7,
+            "pages": [
+              6,
+              14
+            ]
+          }
+        ],
+        "origin": "Lecture-aligned practice",
+        "lectureReview": "Covered in supplied lecture"
       }
     ]
   }
@@ -5560,6 +8918,216 @@ export const TESTS = [
     ],
     "explanation": "Carrier-mediated facilitated diffusion; GLUT1 provides the route without pumping glucose uphill.",
     "concept": "Glucose transport in human cells"
+  },
+  {
+    "id": "t-biol112-lecture-scale-bar",
+    "cardId": "biol112-lecture-scale-bar",
+    "deck": 12,
+    "prompt": "Estimate the long-axis length of this cell using its 20 μm scale bar.",
+    "figure": "lecture-scale",
+    "options": [
+      "About 160 μm: the cell spans eight scale-bar lengths.",
+      "20 μm: use the scale label alone.",
+      "80 μm: four scale bars.",
+      "320 mm: eight scale bars."
+    ],
+    "explanation": "About 160 μm: the cell spans eight scale-bar lengths.",
+    "concept": "Scale-bar application"
+  },
+  {
+    "id": "t-biol112-lecture-nucleoid-recognition",
+    "cardId": "biol112-lecture-nucleoid-recognition",
+    "deck": 12,
+    "prompt": "The DNA region marked A has no surrounding nuclear envelope. What is this region in the bacterial model?",
+    "figure": "lecture-bacterial",
+    "options": [
+      "The nucleoid.",
+      "The nucleus.",
+      "A chloroplast.",
+      "The Golgi apparatus."
+    ],
+    "explanation": "The nucleoid.",
+    "concept": "Nucleoid recognition"
+  },
+  {
+    "id": "t-biol112-lecture-yeast-genomes",
+    "cardId": "biol112-lecture-yeast-genomes",
+    "deck": 12,
+    "prompt": "Where are the two genomes described for yeast located?",
+    "figure": "",
+    "options": [
+      "In the nucleus and in mitochondria.",
+      "In the nucleus and cell wall.",
+      "Only in the nucleus.",
+      "In the Golgi and lysosomes."
+    ],
+    "explanation": "In the nucleus and in mitochondria.",
+    "concept": "Genome locations"
+  },
+  {
+    "id": "t-biol112-lecture-individual-population",
+    "cardId": "biol112-lecture-individual-population",
+    "deck": 13,
+    "prompt": "A bacterial cell increases in size without dividing. Has the population’s cell number increased?",
+    "figure": "",
+    "options": [
+      "No. Individual growth increases cell size; division increases cell number.",
+      "Yes, every increase in size doubles cell number.",
+      "Yes, population growth measures only cell volume.",
+      "No, because cells cannot grow before dividing."
+    ],
+    "explanation": "No. Individual growth increases cell size; division increases cell number.",
+    "concept": "Individual versus population growth"
+  },
+  {
+    "id": "t-biol112-lecture-growth-log-axis",
+    "cardId": "biol112-lecture-growth-log-axis",
+    "deck": 13,
+    "prompt": "On a log₂ cell-density axis, what does an increase of one vertical unit mean?",
+    "figure": "",
+    "options": [
+      "Cell density doubles.",
+      "One extra cell per mL.",
+      "Cell density rises by 2 cells per mL.",
+      "Cell density is unchanged."
+    ],
+    "explanation": "Cell density doubles.",
+    "concept": "Reading logarithmic axes"
+  },
+  {
+    "id": "t-biol112-lecture-growth-lag",
+    "cardId": "biol112-lecture-growth-lag",
+    "deck": 13,
+    "prompt": "Which phase fits cells adjusting gene expression after transfer to fresh medium, with little net population increase?",
+    "figure": "",
+    "options": [
+      "Lag phase.",
+      "Log phase.",
+      "Death phase.",
+      "Deceleration phase."
+    ],
+    "explanation": "Lag phase.",
+    "concept": "Lag phase"
+  },
+  {
+    "id": "t-biol112-lecture-growth-log",
+    "cardId": "biol112-lecture-growth-log",
+    "deck": 13,
+    "prompt": "What does the straight rising segment on this logarithmic growth plot represent?",
+    "figure": "lecture-growth",
+    "options": [
+      "Exponential (log) growth: cells are added by division faster than they are lost.",
+      "No cell division.",
+      "A constant absolute number of new cells per hour.",
+      "More deaths than divisions."
+    ],
+    "explanation": "Exponential (log) growth: cells are added by division faster than they are lost.",
+    "concept": "Exponential growth"
+  },
+  {
+    "id": "t-biol112-lecture-diauxic-first-sugar",
+    "cardId": "biol112-lecture-diauxic-first-sugar",
+    "deck": 13,
+    "prompt": "From these sugar curves, which substrate is consumed first?",
+    "figure": "lecture-diauxic",
+    "options": [
+      "Glucose: its concentration falls before xylose begins to decline.",
+      "Xylose: it is consumed before glucose.",
+      "Both disappear at exactly the same rate.",
+      "Neither is used during growth."
+    ],
+    "explanation": "Glucose: its concentration falls before xylose begins to decline.",
+    "concept": "Using two carbon sources"
+  },
+  {
+    "id": "t-biol112-lecture-interaction-ion-water",
+    "cardId": "biol112-lecture-interaction-ion-water",
+    "deck": 10,
+    "prompt": "Classify the attraction between Na⁺ and the oxygen end of a water molecule.",
+    "figure": "lecture-ion-water",
+    "options": [
+      "Ion–permanent dipole (ion–PD).",
+      "Ion–ion.",
+      "Induced dipole–induced dipole.",
+      "A covalent bond."
+    ],
+    "explanation": "Ion–permanent dipole (ion–PD).",
+    "concept": "Ion–permanent dipole"
+  },
+  {
+    "id": "t-biol112-lecture-starch-location",
+    "cardId": "biol112-lecture-starch-location",
+    "deck": 1,
+    "prompt": "Where is storage starch located in the wheat endosperm example?",
+    "figure": "",
+    "options": [
+      "In amyloplasts, a type of plastid.",
+      "In the nucleus.",
+      "In the mitochondrial matrix.",
+      "In the plasma-membrane lipid tails."
+    ],
+    "explanation": "In amyloplasts, a type of plastid.",
+    "concept": "Storage carbohydrate location"
+  },
+  {
+    "id": "t-biol112-lecture-lateral-flip",
+    "cardId": "biol112-lecture-lateral-flip",
+    "deck": 14,
+    "prompt": "Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?",
+    "figure": "lecture-mosaic",
+    "options": [
+      "Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.",
+      "Transverse flip-flop is the rapid movement.",
+      "Both require breaking all phospholipid covalent bonds.",
+      "Neither occurs in a living membrane."
+    ],
+    "explanation": "Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.",
+    "concept": "Membrane movement"
+  },
+  {
+    "id": "t-biol112-lecture-peripheral-integral",
+    "cardId": "biol112-lecture-peripheral-integral",
+    "deck": 14,
+    "prompt": "In the model, which protein spans the bilayer and which stays on its surface?",
+    "figure": "lecture-mosaic",
+    "options": [
+      "A is transmembrane (integral); B is peripheral.",
+      "A is peripheral; B is transmembrane.",
+      "Both are free cytosolic proteins.",
+      "B is a phospholipid rather than a protein."
+    ],
+    "explanation": "A is transmembrane (integral); B is peripheral.",
+    "concept": "Membrane association"
+  },
+  {
+    "id": "t-biol112-lecture-ratio-active",
+    "cardId": "biol112-lecture-ratio-active",
+    "deck": 9,
+    "prompt": "These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?",
+    "figure": "lecture-two-ratios",
+    "options": [
+      "A: its inside/outside concentration ratio rises above 1, accumulating glucose against its gradient.",
+      "B: approaching 1 proves uphill pumping.",
+      "Neither; passive diffusion maintains either curve.",
+      "Both; all membrane-protein transport uses ATP directly."
+    ],
+    "explanation": "A: its inside/outside concentration ratio rises above 1, accumulating glucose against its gradient.",
+    "concept": "Graph evidence for active uptake"
+  },
+  {
+    "id": "t-biol112-lecture-backbone-trace",
+    "cardId": "biol112-lecture-backbone-trace",
+    "deck": 8,
+    "prompt": "Which atoms form the repeating protein backbone, excluding the R groups?",
+    "figure": "lecture-backbone",
+    "options": [
+      "The repeating N–Cα–carbonyl-C chain.",
+      "Only the R groups.",
+      "Only the hydrogen-bonded oxygen atoms.",
+      "Only the disulfide-linked sulfur atoms."
+    ],
+    "explanation": "The repeating N–Cα–carbonyl-C chain.",
+    "concept": "Tracing the backbone"
   }
 ];
 export const CHEM_SHAPES = [

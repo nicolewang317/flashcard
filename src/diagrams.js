@@ -121,3 +121,6 @@ Object.assign(FIGURES,{
 });
 
 export { $, esc, icon, INK, BLUE, MUTED, line, txt, circ, path, note, svg, FIGURES, figure };
+
+import {LECTURE_FIGURES} from './lecture-diagrams.js';
+Object.assign(FIGURES,LECTURE_FIGURES);

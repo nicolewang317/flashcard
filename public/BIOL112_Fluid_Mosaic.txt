@@ -1,0 +1,6 @@
+Why is the membrane described as a mosaic?	It contains multiple components, including phospholipids, cholesterol, proteins and carbohydrate-bearing molecules.
+Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?	Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.
+How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?	It restrains lipid movement and reduces excessive fluidity/permeability.
+How does cholesterol help a membrane at low temperature?	It disrupts tight phospholipid packing, helping the membrane remain fluid.
+In the model, which protein spans the bilayer and which stays on its surface?	A is transmembrane (integral); B is peripheral.
+On which side of the red-cell membrane are the carbohydrate markers discussed for blood type exposed?	On the extracellular surface.

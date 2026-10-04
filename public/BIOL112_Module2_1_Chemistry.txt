@@ -9,3 +9,13 @@ Why is a long hydrocarbon chain hydrophobic?	Its mostly nonpolar bonds cannot fo
 Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?	–CH₂–OH: its polar hydroxyl can form hydrogen bonds with water.
 Which region interacts more favorably with water: –COO⁻ or –CH₃?	–COO⁻, because its negative charge interacts with water.
 Does one hydroxyl guarantee that an entire molecule is highly water-soluble?	No; the size of its nonpolar region also matters.
+Using the lecture’s electronegativity ordering, why are C–H regions treated as nonpolar?	C and H have similar electronegativities, so their bonding electrons are shared relatively evenly.
+Classify the attraction between Na⁺ and the oxygen end of a water molecule.	Ion–permanent dipole (ion–PD).
+A nearby ion distorts the electron cloud of a nonpolar group. What interaction results?	Ion–induced dipole (ion–ID).
+A polar carbonyl distorts the electron cloud of a neighboring nonpolar group. Classify the interaction.	Permanent dipole–induced dipole (PD–ID).
+What weak attraction can occur between two nonpolar groups through fluctuating electron distributions?	Induced dipole–induced dipole (ID–ID), or London dispersion attraction.
+Two neutral carbonyl groups align with δ⁺ carbon near δ⁻ oxygen. What interaction can occur?	Permanent dipole–permanent dipole (PD–PD).
+What strongest-to-weakest order is used in the lecture’s simplified interaction scheme?	Ion–ion > ion–PD > hydrogen bond > other PD–PD > ion–ID > PD–ID > ID–ID.
+Can two permanent dipoles repel even though each molecule is neutral overall?	Yes. Orientation can bring like partial charges together; opposite partial charges favor attraction.
+Why is the induced-dipole contribution attractive in the lecture model?	The electron cloud shifts so the nearer induced charge is opposite the inducing charge.
+What distinguishes a covalent bond from the noncovalent interactions in the lecture?	Covalent bonding shares electrons; noncovalent interactions act between charge distributions without that covalent link.

@@ -1,3 +1,4 @@
+import {mergeNotebooks} from './notebook-core.js';
 import { emptyStudy,copy,same,projectStudy,changesToEvents } from './sync-core.js';
 import { canonicalCardId } from './card-migrations.js';
 
@@ -10,7 +11,7 @@ export class CloudSync {
  persist(){if(!this.user)return;this.compact();try{this.storage.setItem(this.key(),JSON.stringify({baselines:this.baselines,events:[...this.events.values()],pending:this.pending,cursor:this.cursor}));this.cacheOK=true}catch{this.cacheOK=false;this.onStatus({state:'error',message:'Device storage is full. Keep this page open until changes sync.'})}}
  compact(){
   const latest=new Map(),keep=new Map();
-  for(const e of this.events.values())if(e.kind==='review')keep.set(e.event_id,e);else{const k=e.kind+':'+e.entity;if(!latest.has(k)||latest.get(k).seq<e.seq)latest.set(k,e)}
+  for(const e of this.events.values())if(e.kind==='test'&&e.entity.startsWith('notebook:')&&e.payload===null)continue;else if(e.kind==='review')keep.set(e.event_id,e);else{const k=e.kind+':'+e.entity;if(!latest.has(k)||latest.get(k).seq<e.seq)latest.set(k,e)}
   for(const e of latest.values())keep.set(e.event_id,e);this.events=keep;
  }
  async setUser(user){
@@ -58,6 +59,7 @@ export class CloudSync {
   for(let i=0;i<cards.length;i+=50){const {error}=await this.client.rpc('import_study_baselines',{items:cards.slice(i,i+50)});if(error)throw error;if(generation!==this.generation)throw Error('Account changed during import.');}
   await this.sync();const current=this.readUI(),merged=copy(current);
   for(const[course,test]of Object.entries(data.activeTests||{}))if(!merged.activeTests[course])merged.activeTests[course]=test;
+  merged.notebook=mergeNotebooks(merged.notebook,data.notebook);
   merged.testHistory.push(...(data.testHistory||[]));this.capture(merged);await this.sync();
  }
  mergeOtherTab(){

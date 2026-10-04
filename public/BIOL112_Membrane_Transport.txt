@@ -34,3 +34,13 @@ Sketch a symporter and an antiporter across a membrane, using arrows for solutes
 Na⁺ enters a heart muscle cell as Ca²⁺ leaves via one exchanger. Identify the coupled transport pattern.	Antiport: Na⁺ enters while Ca²⁺ leaves through the Na⁺/Ca²⁺ exchanger.
 O₂ enters a red blood cell directly through its lipid bilayer. Which transport mechanism is this?	Simple diffusion: a small nonpolar molecule crosses the lipid bilayer down its gradient.
 A human red blood cell takes up glucose down its gradient through GLUT1. Which transport mechanism is this?	Carrier-mediated facilitated diffusion; GLUT1 provides the route without pumping glucose uphill.
+Why are polar or charged R groups expected along a water-filled ion-channel passage?	They interact favorably with water and transported ions, unlike the surrounding lipid-facing surface.
+How does a leak channel differ from a gated channel in the lecture model?	A leak channel is open; a gated channel opens or closes in response to a signal.
+Why can channel transport usually be faster than carrier transport?	An open pore lets solutes pass without a separate alternating-access cycle for each solute.
+For neutral glucose, [inside] = 1 mM and [outside] = 10 mM. What is the inside/outside concentration ratio?	0.1; the initial concentration gradient favors inward movement.
+Sketch the inside/outside glucose ratio over time for passive uptake starting below 1, with no glucose metabolism or other transport.	The ratio rises toward 1 and levels off there; passive uptake alone does not maintain a ratio above 1.
+These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?	A: its inside/outside concentration ratio rises above 1, accumulating glucose against its gradient.
+Can a neutral-solute concentration-ratio curve approaching 1, by itself, distinguish simple from facilitated diffusion?	No. Both can equilibrate concentrations; identify the molecule and whether a membrane protein provides the route.
+Draw neutral-solute particles in equal-volume compartments when [inside]/[outside] = 3.	Show three times as many particles inside as outside, for example 9 inside and 3 outside.
+Which amino-acid side chain is transiently phosphorylated in the Na⁺/K⁺-ATPase example?	An aspartate side chain.
+Why is energy-coupled glucose uptake useful in intestinal cells when luminal glucose becomes scarce?	It can continue uptake against the glucose concentration gradient, reducing loss of available glucose.

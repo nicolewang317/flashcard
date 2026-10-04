@@ -30,3 +30,9 @@ How can a chaperone reduce inappropriate aggregation during folding?	It temporar
 Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?	No. Chaperones assist folding; they do not rewrite the primary sequence.
 At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.	Aspartate (charged) > threonine (polar, uncharged) > phenylalanine (nonpolar).
 A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?	Hydrogen bonding through its polar hydroxyl group.
+Why should peptide-bond synthesis not be treated like spontaneous phospholipid-bilayer assembly?	Peptide synthesis requires energy input and ribosomal catalysis; bilayer assembly organizes existing lipids.
+Which atoms form the repeating protein backbone, excluding the R groups?	The repeating N–Cα–carbonyl-C chain.
+Why is glycine the only non-chiral common amino acid in the lecture?	Its α-carbon has two identical H substituents rather than four different groups.
+What does an amino-acid residue mean in a polypeptide?	The amino-acid-derived unit remaining after incorporation into the peptide chain.
+A protein speeds up a cellular chemical reaction. Which listed protein role is it performing?	Catalysis: it is acting as an enzyme.
+In Lecture 10’s introductory terminology, what distinguishes a protein from just a long polypeptide chain?	The protein has folded into a functional structure; chain length alone does not establish function.

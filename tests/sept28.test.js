@@ -17,10 +17,10 @@ test('course mastery weights cards, excludes other courses, and updates after a 
 });
 test('transport move keeps all 18 stable IDs and their scored questions under the new unit',()=>{
  const moved=['8ded866480167a','dbe974593b2efc','1c36c3640b6bce','353300d67cbfc7','c88e0cacd1b53f','edfb4e1bbe486a','0a452a9d71d327','9e9a02f1776b43','0700ae8fe9b43f','1a1629ee8c2db1','d07897c49018fb','0f1df698561d7c','32c14042b89659','29480d7477adf4','6094adf0179c40','7664b2ee0eb6e6','54fbc9d4e2d114','6a065c7fe8a263'];
- const deck=DECKS[9];assert.equal(deck.unit,'Unit 2');assert.equal(deck.cards.length,36);
+ const deck=DECKS[9];assert.equal(deck.unit,'Unit 2');assert.equal(deck.cards.filter(c=>!c.id.startsWith('biol112-lecture-')).length,36);
  for(const id of moved){assert.ok(deck.cards.some(c=>c.id===id&&c.deck===9));assert.ok(!DECKS[2].cards.some(c=>c.id===id));for(const q of TESTS.filter(q=>q.cardId===id))assert.equal(q.deck,9);}
  assert.equal(deck.cards.filter(c=>c.id.startsWith('biol112-transport-')).length,10);
- const n=deck.file;assert.equal(fs.readFileSync(new URL('../public/'+n,import.meta.url),'utf8').trim().split('\n').length,36);
+ const n=deck.file;assert.equal(fs.readFileSync(new URL('../public/'+n,import.meta.url),'utf8').trim().split('\n').length,46);
 });
 test('glossary prioritizes full phrases and never matches inside other chemical terms',()=>{
  const html=highlightMolecules('A phosphate group, a pentose sugar, and a nitrogenous base.');

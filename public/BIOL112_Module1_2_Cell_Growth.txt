@@ -1,0 +1,20 @@
+A bacterial cell increases in size without dividing. Has the population’s cell number increased?	No. Individual growth increases cell size; division increases cell number.
+What is the distinction between mitosis and cytokinesis in the lecture?	Mitosis divides the nucleus; cytokinesis divides the cytoplasm into daughter cells.
+Why grow cells in laboratory nutrient medium?	To maintain and expand cells under controlled conditions so their processes can be studied.
+Why does a heterotrophic cell need nutrients such as glucose and amino acids in its medium?	They supply usable carbon/building materials; energy-yielding nutrients also support cellular work and synthesis.
+On a log₂ cell-density axis, what does an increase of one vertical unit mean?	Cell density doubles.
+Which phase fits cells adjusting gene expression after transfer to fresh medium, with little net population increase?	Lag phase.
+What does the straight rising segment on this logarithmic growth plot represent?	Exponential (log) growth: cells are added by division faster than they are lost.
+Does a stationary-phase plateau mean that every cell has stopped dividing?	No. The viable population is roughly constant; some cells divide, die or stop dividing.
+What balance of division and death explains a falling viable-cell-density curve?	Cell loss by death exceeds addition by division.
+In the lecture’s seven-phase curve, what do regions 2, 4 and 7 add to the four main phases?	Acceleration, deceleration and long-term stationary phase, respectively.
+Why can a closed nutrient culture stop increasing even when some cells remain alive?	Nutrients become limiting and metabolic wastes accumulate.
+Why can lag-phase cells be metabolically active despite little increase in cell number?	They adjust gene expression and make the proteins needed to use the new environment.
+Why must chromosome replication accompany repeated bacterial population doubling?	Each daughter cell needs a copy of the genetic instructions.
+From these sugar curves, which substrate is consumed first?	Glucose: its concentration falls before xylose begins to decline.
+Why is plateau i interpreted as a second lag phase rather than the final stationary phase?	Glucose is exhausted, but xylose remains; cells adjust metabolism and then resume exponential growth.
+Why does plateau ii indicate stationary phase in this two-sugar experiment?	Both sugars are depleted; the population no longer increases.
+Why can ¹⁴C-labelled glucose reveal where glucose-derived carbon goes?	Its radioactive carbon atoms can be detected after incorporation into cellular products.
+Does taking up labelled glucose restrict its carbon to carbohydrates?	No. In the lecture experiment its carbon appears in CO₂, DNA, proteins, lipids and cell-wall polysaccharides.
+A molecule purified from cells contains the labelled α-carbon from alanine. What does that label establish?	That alanine-derived carbon entered the product; it does not by itself identify the whole product or pathway.
+A culture undergoes three doublings from 2 × 10⁴ cells/mL with negligible death. What density results?	1.6 × 10⁵ cells/mL: 2 × 10⁴ × 2³.

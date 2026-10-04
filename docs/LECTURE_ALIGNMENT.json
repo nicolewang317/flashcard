@@ -1,0 +1,4157 @@
+[
+  {
+    "id": "452a82fad6cb0c",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the linkage R–C(=O)–O–R′.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0f8fb207df12bc",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In a structural formula, what does R usually represent?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "110c8d1ef82b3d",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In R–C(=O)–O–R′, what do the parentheses mean?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "41831ba6d3698c",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which functional group is –OH when attached to a carbon outside a carboxyl group?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "900a2d038c6eca",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which functional group appears repeatedly on a typical sugar?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "f14cc9bae4ae20",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the group in R–C(=O)–OH.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "34b018da2029be",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which functional group occurs at the end of a fatty acid?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "5d674e84f681b5",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Does a C=O bond alone identify a carboxyl group?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "6f4a25eecdf2a7",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the nitrogen-containing group in R–NH₂.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "8dc0a648b3b97c",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which repeating region of DNA and RNA contains phosphate groups?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "928cd65f030502",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In a typical phospholipid, which region contains phosphate?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "d32caf798806ed",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the functional group C=O.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ee18e8a7271de2",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the group –CH₃.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ca520d163fa16e",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What covalent linkage joins amino acids in a protein backbone?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "2215451ecb12cd",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which groups supply the C and N of a peptide bond?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "b71243ebee6d7f",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Recognize R–C(=O)–NH–R′: what linkage is shown?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "84d2a795408eae",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In –C(=O)–NH–, which bond is the peptide bond itself?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "43c5ffac3dd03a",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Why is R–C(=O)–NH–R′ not a free amino group?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "8f4ff9f1fb15be",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Why is the –C(=O)–NH– part of a peptide not a free carboxyl group?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "481e681bc77d57",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Why does cleaving a peptide bond within a linear protein backbone split the chain?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "2b7a00ec80eec4",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What two functional groups react to form an ester in the course model?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5b4dc30223fa95",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What functional groups are restored by the course model of ester hydrolysis?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "8d37052b26c4c1",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In a common glycerol-based phospholipid, what links a fatty acid to glycerol?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "cd98d8e3e5ef94",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How can you distinguish a free carboxyl group from an ester in a diagram?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a3252945c05041",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify R–C(=O)–S–R′.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "28a4f27db3882d",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which is a thioester: R–S–R′ or R–C(=O)–S–R′?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "2d93055072c7c4",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What does the thioester in acetyl-CoA enable it to transfer?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "51602b4aef54f6",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the phosphate attachment in R–O–P(=O)(O⁻)–O⁻.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "873341f64e90e4",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How is an alcohol-derived carbon group connected to phosphate in a phosphoester?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "15b577a0a7f372",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "A nucleotide's sugar is attached to one phosphate through C–O–P. What linkage is that attachment?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "ca128bbf6315f8",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify sugar–O–P(=O)(O⁻)–O–sugar.",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "f2274ed088f7bf",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a614efcd577db7",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Trace the connection between neighboring sugars in a nucleic-acid backbone.",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "bb301c5e6a88ee",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What feature distinguishes a phosphodiester from a phosphate monoester in a diagram?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "eb3f9e33cf7c44",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What happens to a DNA strand when one internal phosphodiester linkage is hydrolyzed?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "aae076b90b7766",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "37f0a6d006cf98",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which linkage joins monosaccharides in disaccharides and polysaccharides?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c66ad2b861e37f",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What groups react in the simplified model of glycosidic-bond formation between sugars?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "6418e8666d330f",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What do the numbers in a glucose (1→4) linkage identify?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ce5d00b26515d0",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What does α or β specify in a glycosidic-linkage name?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "4ccfcf4f81ee3e",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How do α and β substituents at C1 differ in a standard D-glucose Haworth drawing?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "b50af684af2284",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which linkage forms the glucose main chain of starch?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "d239968900916e",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which linkage forms an amylopectin branch point?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "9f27a546f579af",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which linkage joins glucose residues in cellulose?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "e9d803ea923110",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the glycosidic linkage in this glucose structure.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          8,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "65c68e0ba154d9",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify the glycosidic linkage in this glucose structure.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "032e9e16596658",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Why does glycosidic-linkage geometry matter biologically?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "e594e25ed84e4f",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Identify R–O–R′ when the oxygen joins two carbons and neither adjacent carbon is a carbonyl carbon.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "157128deef267f",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What structural feature distinguishes an ester from an ether?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "7b6f799048937b",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "After locating C=O, how do you distinguish an ester, amide, and thioester?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5d50e5d9b3b599",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How can you distinguish a carboxylic ester from a phosphoester by its central atom?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "afb93bab941a22",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What makes a sugar C–O–C connection an O-glycosidic linkage?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          12,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5231084ab9f460",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "An unfamiliar molecule has –C(=O)–NH– within a chain. Does that alone prove the whole molecule is a protein?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "1811912db864f3",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "An unfamiliar molecule has one ester linkage. Does that alone prove it is a triacylglycerol?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "bf0be168dba2b8",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Two free monomers join with net release of H₂O. What reaction type is modeled?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "042ef1aaa4eba9",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What happens to water in a hydrolysis reaction?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "006ef919da5d8d",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Why should a net dehydration equation not be treated as a complete cellular mechanism?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "95b1af8dda9fce",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which part of an amino acid varies and determines many of its properties?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a89fb0a7de7fa4",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "In this amino-acid structure, which substituent distinguishes one amino acid from another?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "08365faa9e7bd7",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "An amino acid has –NH₃⁺, –COO⁻, and an uncharged R group. What is its net charge?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          17,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "cd804a1daef1ae",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How do you distinguish the N-terminus from the C-terminus in a peptide backbone?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          31,
+          32,
+          33,
+          36
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "4c256c32e3cc30",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "To which end are new amino acids added during normal protein synthesis?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          31,
+          32,
+          33,
+          36
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "24fd620b6c912c",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "A peptide is drawn with its free backbone carboxyl group on the left. At which end is the next residue added?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          31,
+          32,
+          33,
+          36
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c9fb7bdd206a68",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "How many peptide bonds join 10 amino acids in one unbranched, noncyclic chain?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "efdb1c84a20974",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Does an amino group on a side chain define the N-terminus?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "9e9c1a58c8287e",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which disaccharide is made from two glucose units?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          9
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "601c7a29f950be",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Complete hydrolysis produces glucose and galactose from one course disaccharide. Which one?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          9
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "dcf0a04543870b",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Complete hydrolysis produces glucose and fructose from one course disaccharide. Which one?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          9
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c3ec1c33999669",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "Which polysaccharide is used for glucose storage in plants?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "adc532774fc4ea",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What is cellulose's main course-level biological role?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "4d79ab08c12f14",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "What linkage difference distinguishes starch from cellulose even though both contain glucose?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "c0d12ef23c1520",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "A plant glucose polymer has α(1→4) chains and α(1→6) branches. Identify it.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "b7e9b1efdc7e8c",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "An enzyme recognizes α(1→4) linkages. Does that guarantee it can cleave β(1→4)?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "1e34614c3e6692",
+    "module": "2-2",
+    "decision": "保留：不重复生成",
+    "question": "An enzyme cleaves only α(1→4) bonds in amylopectin. Which branch-point linkage remains uncleaved by it?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-lecture-rna-locations",
+    "module": "2-2",
+    "decision": "新增：补充独立考点",
+    "question": "Which of these contain RNA in the lecture model: nucleus, cytoplasm, mitochondrial matrix, plastid stroma or cell wall?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          12,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-starch-location",
+    "module": "2-2",
+    "decision": "新增：补充独立考点",
+    "question": "Where is storage starch located in the wheat endosperm example?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          15,
+          16
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-bacterial-carbohydrates",
+    "module": "2-2",
+    "decision": "新增：补充独立考点",
+    "question": "Match the bacterial carbohydrate examples to their locations: glycogen and peptidoglycan.",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          17,
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-bacterial-proteins",
+    "module": "2-2",
+    "decision": "新增：补充独立考点",
+    "question": "Are bacterial proteins confined to the cytoplasm?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "567c7314d54f2d",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why are lipids not classified as conventional repeating-monomer polymers?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a2174c4b23f17c",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What two regions make up a fatty acid?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "8b7b0441de337d",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Does ionizing a fatty acid's carboxyl group make its hydrocarbon chain polar?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "09d35709dd17ee",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How many hydroxyl groups does glycerol have before esterification?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c573281bc85cdc",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How many ester linkages attach fatty acids in one triacylglycerol?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "2fdfd7d5bf6b80",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What is the primary role of triacylglycerols in this unit?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          14,
+          19
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ed97f6cf8955db",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "In the simplified formation of one triacylglycerol from glycerol and three free fatty acids, how many waters are released?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "aedbcf85cfccda",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What products result from complete hydrolysis of one triacylglycerol in the course model?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0f84875c2ea96c",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What chemical features usually make a region hydrophilic?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          20,
+          21,
+          25
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "fb0a5f24c56649",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "A molecule has a polar head and nonpolar tails. What term describes this arrangement?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          20,
+          21,
+          25
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "982f374197fcf2",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Which parts make the head region of phosphatidylcholine hydrophilic?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "d52b1100080767",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What backbone connects the head region and fatty-acid chains in a glycerol-based phospholipid?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a0a1d51a3ad0cf",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Which head-group component is named in phosphatidylcholine?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "03745188ed50be",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How many fatty-acid tails does the typical glycerol-based phospholipid in this unit have?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "6eb97eac05a8e3",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Can an overall electrically neutral phospholipid still have a hydrophilic head?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "76fa67952b2174",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What kind of fatty-acid double bond commonly creates a kink?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          26,
+          27
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "67dd298e2cfb30",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Compared with straight tails, how do kinked tails affect close packing?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ad196db3d6d40a",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why is an isolated single phospholipid sheet unstable when water surrounds it on both sides?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ed74b0120f3b19",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How are phospholipid heads and tails oriented in a bilayer surrounded by water?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "82fd5793490c78",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What is a leaflet?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "57cac6a435cc5b",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Which course aggregate has an aqueous cavity: a micelle or a liposome?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "f1e7517075c3aa",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why do single-tail amphiphiles with bulky heads often favor micelles over bilayers?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "225b5653b5c01a",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why can closing a bilayer into a liposome be favorable?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "d1bc2fbbbf1c38",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "A circular cross-section has one layer of heads outside and tails filling the center. Identify the aggregate.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "f6121927923603",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "A circular cross-section has heads facing both the outside water and a water-filled center. Identify the aggregate.",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          28,
+          29
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "554d6a4793a52c",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What noncovalent interaction do water molecules form with one another?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          35
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "686c80fded1187",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "In ΔG = ΔH − TΔS, what competes with the enthalpy change?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          37,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "7113d60a8f8bf3",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "What temperature scale is required in ΔG = ΔH − TΔS?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "27108b918ef021",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "At constant temperature and pressure, what does ΔG < 0 tell you?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          37,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5940057e72d6ec",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Does spontaneous mean instantaneous or fast?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "6bd1135dad77c9",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "In the lecture model, why does water near exposed nonpolar tails have lower entropy?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          40,
+          41,
+          42
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "7d407d6f2143fe",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why does burying hydrophobic tails increase water entropy in the lecture model?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          40,
+          41,
+          42
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "fc12e8fec9d95d",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why can lipid entropy decrease during assembly?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          40,
+          41,
+          42
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "05ecfd7770ef1b",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How can bilayer formation be favored even though lipid entropy decreases?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          40,
+          41,
+          42
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0e5b77fe4b1d33",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "How does a positive ΔS affect ΔG when ΔH and T are fixed?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          37,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "2a69fa91b97e59",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Does a positive ΔS alone guarantee a negative ΔG?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "e251f726191cfa",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Does hydrophobic mean that water and a hydrocarbon have absolutely no interactions?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "5676a9bca1f215",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "At constant T and P, how does a spontaneous process with ΔG < 0 relate to the second law?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "f20c7da6097384",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Lipids change entropy by −20 J/K and water by +50 J/K. What is their combined change?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "c91e4b83bed467",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "At 300 K, ΔH = +2 kJ and ΔS = +20 J/K. Calculate ΔG.",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "64167b51d35e89",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Assuming ΔH and positive ΔS remain constant, how does increasing T affect ΔG?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "08be3d2ca9292b",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Why is the hydrophobic effect weaker as an explanation if no water is present?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "c7dec36b22b0ea",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Must an aggregate's molecules stay completely motionless for it to be stable?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "6e46179bc67c15",
+    "module": "2-3",
+    "decision": "保留：不重复生成",
+    "question": "Is forming a bilayer the same chemical process as synthesizing a phospholipid?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          17,
+          36
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-alpha-geometry",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "What geometry surrounds the α-carbon of a standard amino acid?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-sidechain-classification",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A free amino acid has NH₃⁺ and COO⁻ groups. Can those two groups alone tell you whether its R group is nonpolar?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          17,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-soluble-core",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "In a water-soluble globular protein, where would you usually expect nonpolar R groups?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-membrane-surface",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Would a nonpolar R group facing lipid tails in a membrane protein necessarily be misplaced?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          18,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-vdw-packing",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "What weak attractions help stabilize closely packed nonpolar side chains after they come together?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-ionic-pair",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A negatively charged R group lies near a positively charged R group. What interaction can stabilize their association?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-ph-protonation",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "How can changing pH disrupt an ionic interaction between two R groups?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-glycine-recognition",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Which amino acid has H as its R group?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-proline-recognition",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "An amino-acid side chain closes a ring by bonding back to the backbone nitrogen. Which amino acid is it?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-gly-pro-mobility",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Why does glycine allow more backbone flexibility than proline?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-cysteine-recognition",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Which special amino acid in this reading has a –CH₂–SH side chain?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-disulfide-crosslink",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "How can two cysteine side chains covalently crosslink parts of a protein?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-peptide-rigidity",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Why is rotation around the peptide C–N bond restricted?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-backbone-rotation",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "If the peptide C–N bond is rigid, which backbone bonds still allow a polypeptide to change conformation?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-sequence-order",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Do N–Gly–Cys–Pro–C and N–Pro–Cys–Gly–C have the same primary structure?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-sequence-to-function",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Why can replacing one amino acid change a protein’s function?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-secondary-hbonds",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Which backbone groups form the hydrogen bonds that stabilize α-helices and β-sheets?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          20,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-helix-recognition",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A polypeptide segment forms a regular coil stabilized by backbone hydrogen bonds. Which secondary structure is it?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          30
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-helix-sidechains",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "In a typical α-helix, where do the R groups project?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          20,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-sheet-recognition",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Extended polypeptide strands align side by side and hydrogen-bond between their backbones. Which secondary structure results?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          30
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-secondary-tertiary",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "What is the key interaction distinction between secondary and tertiary protein structure?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-one-chain-fold",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "One continuous polypeptide folds into several helices and sheets. What level describes its overall 3D shape?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          30
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-identical-subunits",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Two identical polypeptide chains associate into a functional protein. Does it have quaternary structure?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          30
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-protein-subunit-dissociation",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A two-subunit protein separates into two still-folded chains. Which structural level has been lost?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-disulfide-level",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "How does a disulfide within one chain differ structurally from one joining two subunits?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-denaturation-sequence",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A protein unfolds on heating without breaking peptide bonds. Which structural level is retained?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-shape-function",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Why can denaturation abolish binding even when the amino-acid sequence is unchanged?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-unfolding-aggregation",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Why are unfolded proteins often more prone to aggregation?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-chaperone-protection",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "How can a chaperone reduce inappropriate aggregation during folding?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-chaperone-limits",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "Can a folding chaperone repair a protein’s incorrect amino-acid sequence by changing a residue?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-hydrophilicity-ranking",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "At approximately pH 7, rank the side chains of aspartate, threonine, and phenylalanine from most to least hydrophilic.",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-protein-sidechain-hbond",
+    "module": "2-5",
+    "decision": "保留：不重复生成",
+    "question": "A threonine side chain has an –OH group but no formal charge. Which interaction with water does that group enable?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-lecture-peptide-energy",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "Why should peptide-bond synthesis not be treated like spontaneous phospholipid-bilayer assembly?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-backbone-trace",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "Which atoms form the repeating protein backbone, excluding the R groups?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          21,
+          22,
+          23
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-glycine-achiral",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "Why is glycine the only non-chiral common amino acid in the lecture?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-residue",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "What does an amino-acid residue mean in a polypeptide?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          18,
+          32,
+          33
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-protein-roles",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "A protein speeds up a cellular chemical reaction. Which listed protein role is it performing?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          8
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-polypeptide-folded",
+    "module": "2-5",
+    "decision": "新增：补充独立考点",
+    "question": "In Lecture 10’s introductory terminology, what distinguishes a protein from just a long polypeptide chain?",
+    "sources": [
+      {
+        "lecture": 10,
+        "pages": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "8ded866480167a",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What membrane property helps maintain cellular homeostasis?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "dbe974593b2efc",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Which passes through a lipid bilayer more easily: O₂ or Na⁺?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          27,
+          28,
+          31,
+          34
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "1c36c3640b6bce",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why does adding aquaporins increase water transport across a membrane?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "353300d67cbfc7",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why do ions usually need transport proteins to cross a lipid bilayer?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          27,
+          28,
+          31,
+          34
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c88e0cacd1b53f",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What two membrane components together determine selective permeability?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "edfb4e1bbe486a",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "How does a carrier move a solute differently from a channel?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          12,
+          14,
+          16,
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0a452a9d71d327",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Does movement through a membrane protein automatically mean active transport?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          12,
+          14,
+          16,
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "9e9a02f1776b43",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What distinguishes simple from facilitated diffusion?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          12,
+          14,
+          16,
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0700ae8fe9b43f",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "At diffusion equilibrium, do molecules stop moving?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          9,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "1a1629ee8c2db1",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What distinguishes active transport from passive transport?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          14,
+          15,
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "d07897c49018fb",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What directly powers the Na⁺/K⁺ pump in a neuron or other animal cell?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          18,
+          19,
+          20,
+          33
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0f1df698561d7c",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why can secondary active transport be active even without direct ATP use?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          31,
+          32,
+          34,
+          38
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "32c14042b89659",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What two differences make up an electrochemical gradient?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          31,
+          32,
+          34,
+          38
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "29480d7477adf4",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "A membrane passes water but not solute. Side A has more solute than B, with equal pressure. Which way is net water flow?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "6094adf0179c40",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "An animal cell enters a hypotonic solution. What happens to its volume?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "7664b2ee0eb6e6",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why do ion pumps help cells regulate their volume?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "54fbc9d4e2d114",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "What does a contractile vacuole do in a freshwater protist?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "6a065c7fe8a263",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why does a plant cell wall limit osmotic swelling?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-transport-glucose-barrier",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why does glucose cross a protein-free lipid bilayer much less readily than O₂?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          27,
+          28,
+          31,
+          34
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-equilibrium-concentration",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Two fixed 1-L compartments contain 8 mM and 2 mM of a freely permeating neutral solute. With no reactions, what concentration is reached on each side?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-transport-glut-reversal",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "For neutral glucose transported by GLUT, what happens to net flux if the glucose concentration gradient reverses?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          12,
+          13,
+          18,
+          19
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-channel-gating",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Opening a gated ion channel allows flux. What determines its net direction?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-nak-stoichiometry",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "In one normal Na⁺/K⁺-ATPase cycle, what crosses the membrane per ATP hydrolyzed?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          18,
+          19,
+          20,
+          33
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-pump-electrogenic",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "A pump moves 3 Na⁺ out and 2 K⁺ in per cycle. What is its net charge transfer?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          18,
+          19,
+          20,
+          33
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-cotransport-directions",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Na⁺ and glucose enter an intestinal epithelial cell together. Identify the cotransport pattern.",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          31,
+          32,
+          34,
+          38
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-electrical-opposition",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "A positive ion is more concentrated outside, but the inside is strongly positive. Can concentration alone predict net channel flux?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-transport-sglt-pump-dependence",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "After Na⁺/K⁺-ATPase inhibition, the inward Na⁺ driving force gradually collapses. Why does uphill glucose uptake by Na⁺–glucose symport weaken?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          31,
+          32,
+          34,
+          38
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-transport-glut-sglt-comparison",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Which can maintain uphill glucose transport: GLUT or a Na⁺–glucose cotransporter supplied with a sufficient inward Na⁺ gradient?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          31,
+          32,
+          34,
+          38
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-class-net-flux",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "In one second, 100 molecules cross A → B and 60 cross B → A. What is the net movement?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          9,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-class-uniporter",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "GLUT transports glucose without obligatorily coupling it to a second solute. Is it a uniporter, symporter, or antiporter?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          35,
+          36,
+          37
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-class-gradient-energy",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Does downhill solute movement automatically produce ATP or drive another solute uphill?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-class-action-potential",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Why should “electrochemical gradient” not be replaced by “action potential” in a transport explanation?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-class-draw-cotransport",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Sketch a symporter and an antiporter across a membrane, using arrows for solutes A and B.",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          35,
+          36,
+          37
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-class-heart-antiport",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "Na⁺ enters a heart muscle cell as Ca²⁺ leaves via one exchanger. Identify the coupled transport pattern.",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-class-gas-cell-example",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "O₂ enters a red blood cell directly through its lipid bilayer. Which transport mechanism is this?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-class-glut-cell-example",
+    "module": "2-4",
+    "decision": "保留：不重复生成",
+    "question": "A human red blood cell takes up glucose down its gradient through GLUT1. Which transport mechanism is this?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          39,
+          40
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-channel-lining",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Why are polar or charged R groups expected along a water-filled ion-channel passage?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          15,
+          16
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-leak-gated",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "How does a leak channel differ from a gated channel in the lecture model?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-carrier-rate",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Why can channel transport usually be faster than carrier transport?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          16,
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ratio-start",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "For neutral glucose, [inside] = 1 mM and [outside] = 10 mM. What is the inside/outside concentration ratio?",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          20,
+          21
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ratio-draw",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Sketch the inside/outside glucose ratio over time for passive uptake starting below 1, with no glucose metabolism or other transport.",
+    "sources": [
+      {
+        "lecture": 8,
+        "pages": [
+          22,
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ratio-active",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "These neutral-glucose curves start below 1. With no metabolism or binding, which curve requires energy-coupled accumulation?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          21,
+          24,
+          28
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ratio-limit",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Can a neutral-solute concentration-ratio curve approaching 1, by itself, distinguish simple from facilitated diffusion?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ratio-distribution",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Draw neutral-solute particles in equal-volume compartments when [inside]/[outside] = 3.",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          21,
+          22,
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-pump-phosphorylation",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Which amino-acid side chain is transiently phosphorylated in the Na⁺/K⁺-ATPase example?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-gut-uptake-purpose",
+    "module": "2-4",
+    "decision": "新增：补充独立考点",
+    "question": "Why is energy-coupled glucose uptake useful in intestinal cells when luminal glucose becomes scarce?",
+    "sources": [
+      {
+        "lecture": 9,
+        "pages": [
+          39,
+          40
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5d997636f1e38b",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Is an ordinary alcohol –OH group charged as drawn?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          9,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "109097e6f4e634",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Why does a carboxyl group become negatively charged after donating H⁺?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0c147b0091a9ba",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Why can an amino group act as a base?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ca0e1fc6a84ad3",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Why can phosphate groups make a molecular region hydrophilic?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "25e23ef75b61ed",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Are all phosphate-containing groups always drawn with exactly the same charge?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "f5a935317ba00e",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Why is the oxygen end of a carbonyl partially negative?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          9,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "ce2c877933dd67",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Does the polarity of C=O mean that the group necessarily has a net charge?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          9,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a98892fbe1869e",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Why is a long hydrocarbon chain hydrophobic?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          9,
+          10,
+          11,
+          13
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "e24f7c8c3adf9f",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Which interacts more favorably with water: –CH₂–CH₂– or –CH₂–OH, and why?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "541ec6d6374e70",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Which region interacts more favorably with water: –COO⁻ or –CH₃?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          6,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "1423aa549927ea",
+    "module": "2-1",
+    "decision": "保留：不重复生成",
+    "question": "Does one hydroxyl guarantee that an entire molecule is highly water-soluble?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "biol112-lecture-electronegativity",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "Using the lecture’s electronegativity ordering, why are C–H regions treated as nonpolar?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          10,
+          11
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-ion-water",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "Classify the attraction between Na⁺ and the oxygen end of a water molecule.",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          18,
+          20
+        ]
+      },
+      {
+        "lecture": 7,
+        "pages": [
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-ion-induced",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "A nearby ion distorts the electron cloud of a nonpolar group. What interaction results?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-pd-induced",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "A polar carbonyl distorts the electron cloud of a neighboring nonpolar group. Classify the interaction.",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-id-id",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "What weak attraction can occur between two nonpolar groups through fluctuating electron distributions?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          19,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-pd-pd",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "Two neutral carbonyl groups align with δ⁺ carbon near δ⁻ oxygen. What interaction can occur?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          20,
+          23
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-interaction-strength",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "What strongest-to-weakest order is used in the lecture’s simplified interaction scheme?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-dipole-attract-repel",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "Can two permanent dipoles repel even though each molecule is neutral overall?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          25
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-induced-attraction",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "Why is the induced-dipole contribution attractive in the lecture model?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-covalent-vs-noncovalent",
+    "module": "2-1",
+    "decision": "新增：补充独立考点",
+    "question": "What distinguishes a covalent bond from the noncovalent interactions in the lecture?",
+    "sources": [
+      {
+        "lecture": 4,
+        "pages": [
+          15,
+          16
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "b949468ac5b34d",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "What three components make a nucleotide?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          40
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "a0a3d0371ed4db",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Which base differs between DNA and RNA?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          40
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5ef92f3136fd40",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "How do ribose and deoxyribose differ at the 2′ carbon?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          40
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "9ea0d9c5b094e5",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Which pentose carbon is attached to the nitrogenous base?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "34cd3c7e1c15d4",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Which pentose carbon bears the OH needed at the growing end of a nucleic-acid strand?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "967e8c0ab26b16",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Which numbered pentose carbon lies outside the ring and is commonly attached to phosphate?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "4e059a2a62fef3",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "What does the prime mark in 3′ indicate in this context?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "0584c1c5960e24",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "How can you identify the two ends of the usual textbook nucleic-acid strand?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "3807f7a049d9b5",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Why is nucleic-acid synthesis described as 5′ → 3′?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "22f497f52cc9df",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "If the growing terminal nucleotide lacks a usable 3′-OH, what happens to normal extension?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "19778ed33b7663",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?",
+    "sources": [],
+    "status": "Prior notes / supplementary practice; not explicitly covered in these slides"
+  },
+  {
+    "id": "c76e53724378eb",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "What does polymer polarity mean when discussing 5′ and 3′ ends?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          27,
+          28,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "c7e5872c754078",
+    "module": "2-6",
+    "decision": "保留：不重复生成",
+    "question": "Are nitrogenous bases the repeating links of the sugar–phosphate backbone?",
+    "sources": [
+      {
+        "lecture": 5,
+        "pages": [
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "1d5571994c1bb9",
+    "module": "1-1",
+    "decision": "保留：不重复生成",
+    "question": "How many bilayers make up the mitochondrial double membrane?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          32
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "b4812ce1553424",
+    "module": "1-1",
+    "decision": "保留：不重复生成",
+    "question": "Does the nuclear envelope contain one bilayer or two?",
+    "sources": [
+      {
+        "lecture": 6,
+        "pages": [
+          33
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "5b050dd82bc5cc",
+    "module": "1-1",
+    "decision": "保留：不重复生成",
+    "question": "Name a course organelle surrounded by a single membrane bilayer.",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "4098901fa99719",
+    "module": "1-1",
+    "decision": "保留：不重复生成",
+    "question": "What protein framework helps maintain cell shape?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-cell-theory",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "What three claims make up cell theory?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          7
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-living-system",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Why is a collection of isolated macromolecules not yet a living cell?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-unicellular",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "How does a unicellular organism differ from one cell in a multicellular organism?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          24,
+          25
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-domains",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Which three domains contain cellular organisms?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-size-not-identity",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Can a cell’s size alone establish whether it is bacterial or eukaryotic?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20,
+          22,
+          23
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-scale-bar",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Estimate the long-axis length of this cell using its 20 μm scale bar.",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          13,
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-cell-common",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Which basic components occur in both the bacterial and eukaryotic models?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-nucleoid-recognition",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "The DNA region marked A has no surrounding nuclear envelope. What is this region in the bacterial model?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-nucleus-comparison",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "What separates nuclear DNA from the cytoplasm in the eukaryotic model?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-gram-negative",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "What membrane arrangement makes the lecture’s E. coli example Gram-negative?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-ribosomes",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Why does finding ribosomes not establish that a cell is eukaryotic?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-genome-chromosome-gene",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "How do genome, chromosome and gene relate to one another?",
+    "sources": [
+      {
+        "lecture": 2,
+        "pages": [
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-yeast-genomes",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Where are the two genomes described for yeast located?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-chromosome-topology",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Compare the lecture examples: E. coli chromosome versus yeast nuclear chromosomes.",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          4,
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-genome-size",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Which is larger in the lecture examples: E. coli’s genome or yeast’s nuclear genome?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          4,
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-endosymbiotic-evidence",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Why do organelle DNA and ribosomes support a bacterial origin of mitochondria and chloroplasts?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          9,
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-endosymbiotic-division",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "What organelle replication behavior supports endosymbiosis?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          10
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-endosymbiotic-ancestors",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Match the lecture’s bacterial ancestors to their organelles.",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          11
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-unicellular-eukaryote",
+    "module": "1-1",
+    "decision": "新增：补充独立考点",
+    "question": "Does being a single cell make yeast a bacterium?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          5
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-individual-population",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "A bacterial cell increases in size without dividing. Has the population’s cell number increased?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          17,
+          19
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-division-eukaryote",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "What is the distinction between mitosis and cytokinesis in the lecture?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          18
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-culture-purpose",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why grow cells in laboratory nutrient medium?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          14,
+          15
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-media-use",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why does a heterotrophic cell need nutrients such as glucose and amino acids in its medium?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          16,
+          21,
+          30,
+          31
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-log-axis",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "On a log₂ cell-density axis, what does an increase of one vertical unit mean?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-lag",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Which phase fits cells adjusting gene expression after transfer to fresh medium, with little net population increase?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-log",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "What does the straight rising segment on this logarithmic growth plot represent?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-stationary",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Does a stationary-phase plateau mean that every cell has stopped dividing?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-death",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "What balance of division and death explains a falling viable-cell-density curve?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-seven",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "In the lecture’s seven-phase curve, what do regions 2, 4 and 7 add to the four main phases?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-inhibitors",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why can a closed nutrient culture stop increasing even when some cells remain alive?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24,
+          28
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-expression",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why can lag-phase cells be metabolically active despite little increase in cell number?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          23,
+          24
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-replication",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why must chromosome replication accompany repeated bacterial population doubling?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          14,
+          15,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-diauxic-first-sugar",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "From these sugar curves, which substrate is consumed first?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          25,
+          26
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-diauxic-pause",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why is plateau i interpreted as a second lag phase rather than the final stationary phase?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          25,
+          28
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-diauxic-final",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why does plateau ii indicate stationary phase in this two-sugar experiment?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          25,
+          28
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-isotope-tracing",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Why can ¹⁴C-labelled glucose reveal where glucose-derived carbon goes?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          29,
+          30
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-carbon-reallocation",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "Does taking up labelled glucose restrict its carbon to carbohydrates?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          33,
+          34
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-tracer-atom",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "A molecule purified from cells contains the labelled α-carbon from alanine. What does that label establish?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          31,
+          32
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-growth-doublings",
+    "module": "1-2",
+    "decision": "新增：补充独立考点",
+    "question": "A culture undergoes three doublings from 2 × 10⁴ cells/mL with negligible death. What density results?",
+    "sources": [
+      {
+        "lecture": 3,
+        "pages": [
+          17,
+          20
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-mosaic-components",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "Why is the membrane described as a mosaic?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-lateral-flip",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-cholesterol-hot",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          15
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-cholesterol-cold",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "How does cholesterol help a membrane at low temperature?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          15
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-peripheral-integral",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "In the model, which protein spans the bilayer and which stays on its surface?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          16,
+          17
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  },
+  {
+    "id": "biol112-lecture-membrane-sugars",
+    "module": "2-3",
+    "decision": "新增：补充独立考点",
+    "question": "On which side of the red-cell membrane are the carbohydrate markers discussed for blood type exposed?",
+    "sources": [
+      {
+        "lecture": 7,
+        "pages": [
+          6,
+          14
+        ]
+      }
+    ],
+    "status": "Covered in supplied lecture"
+  }
+]

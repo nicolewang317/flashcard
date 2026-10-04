@@ -1,6 +1,7 @@
+import {emptyNotebook,normalizeNotebook} from './notebook-core.js';
 // Pure, testable projection of immutable cloud events into the existing study UI.
 import { canonicalCardId, remapProgress } from './card-migrations.js';
-export const emptyStudy = () => ({version:2,progress:{},activeTests:{},testHistory:[],settings:{deck:0}});
+export const emptyStudy = () => ({version:2,progress:{},activeTests:{},testHistory:[],settings:{deck:0},notebook:emptyNotebook()});
 export const emptyRecord = () => ({status:'new',due:0,streak:0,star:false,misses:0,history:[],lastWrong:null});
 export const copy = value => structuredClone(value);
 export const same = (a,b) => JSON.stringify(a) === JSON.stringify(b);
@@ -21,6 +22,10 @@ export function projectStudy(baselines,events,pending=[]){
    if(!reviews.has(e.entity))reviews.set(e.entity,[]);reviews.get(e.entity).push(e);
   }else if(e.kind==='favorite'&&typeof e.payload==='boolean'){
    db.progress[e.entity]??=emptyRecord();db.progress[e.entity].star=e.payload;
+  }else if(e.kind==='test'&&e.entity.startsWith('notebook:')){
+   const match=/^notebook:(questions|issues|attempts):(.+)$/.exec(e.entity);
+   // Ignore null envelopes from older clients; notebook records are never test sessions.
+   if(match&&e.payload)db.notebook[match[1]][match[2]]=copy(e.payload);
   }else if(e.kind==='test'){
    if(e.payload===null)delete db.activeTests[e.entity];else db.activeTests[e.entity]=copy(e.payload);
   }else if(e.kind==='result')results.set(e.entity,copy(e.payload));
@@ -32,6 +37,7 @@ export function projectStudy(baselines,events,pending=[]){
   for(const e of items){const h=copy(e.payload);r.streak=h.ok?Math.min(r.streak+1,1000):0;r.status=h.ok?'known':'practice';r.due=h.at+(h.ok?[1,3,7,14,30][Math.min(r.streak-1,4)]*86400000:600000);r.misses+=h.ok?0:1;r.history.push(h);if(!h.ok)r.lastWrong=h}
   r.star=star;r.history=r.history.slice(-40);db.progress[cardId]=r;
  }
+ db.notebook=normalizeNotebook(db.notebook);
  db.testHistory=[...results.values()].sort((a,b)=>a.at-b.at).slice(-60);return db;
 }
 export function changesToEvents(previous,next,makeId=()=>crypto.randomUUID(),now=()=>Date.now()){
@@ -48,5 +54,8 @@ export function changesToEvents(previous,next,makeId=()=>crypto.randomUUID(),now
  }
  const oldResults=new Map(previous.testHistory.map(h=>[resultKey(h),h]));
  for(const h of next.testHistory)if(!same(oldResults.get(resultKey(h)),h))add('result',resultKey(h),h);
+ for(const type of ['questions','issues','attempts'])for(const [id,value] of Object.entries(next.notebook?.[type]||{})){
+  if(!same(previous.notebook?.[type]?.[id],value))add('test',`notebook:${type}:${id}`,value);
+ }
  return events;
 }

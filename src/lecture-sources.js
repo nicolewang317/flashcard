@@ -1,0 +1,152 @@
+// Original supplied PDF metadata. Page numbers are 1-based PDF pages.
+export const LECTURES = [
+  {
+    "id": 2,
+    "title": "Cellular Diversity",
+    "file": "biol_112_lecture_2_cellular_diversity_september_11_2026.pdf",
+    "pageCount": 31,
+    "modules": [
+      "1-1"
+    ],
+    "sha256": "461e85f0cf87ce4fec99e884493e960aa38b5c3841192bcee79d41d9a8925237",
+    "requirements": [
+      4,
+      5,
+      18,
+      24,
+      28,
+      29
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cell Growth",
+    "file": "biol_112_lecture_3_cell_growth_september_14_2026.pdf",
+    "pageCount": 37,
+    "modules": [
+      "1-1",
+      "1-2"
+    ],
+    "sha256": "4453ab4532e68d5f1d6a3b2f1caf2d7ded1ea68b30c826ee4a50faa7d7b6d527",
+    "requirements": [
+      14,
+      15
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Chemistry of Biology",
+    "file": "biol_112_lecture_4_chemistry_for_biology_september_16_2026.pdf",
+    "pageCount": 28,
+    "modules": [
+      "2-1"
+    ],
+    "sha256": "0d9536d72c15f84b66cede0fe84e6ee184d025bc388f0b4eef4e4bb2ddd5ba3e",
+    "requirements": [
+      3,
+      4,
+      11
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Macromolecules",
+    "file": "biol_112_lecture_5_macromolecules_september_18_2026.pdf",
+    "pageCount": 43,
+    "modules": [
+      "2-2",
+      "2-6"
+    ],
+    "sha256": "6aaf2e9f3379d9a65ebf87aee65667093f371a87612e4c261876e8e133f77dde",
+    "requirements": [
+      4,
+      7,
+      8,
+      9,
+      10,
+      34
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Macromolecules II",
+    "file": "biol_112_lecture_6_macromoleculesII_september_21_2026.pdf",
+    "pageCount": 44,
+    "modules": [
+      "2-2",
+      "2-3"
+    ],
+    "sha256": "9dae59da2946b2e1d8b44ccf4686a7a36878f9fe3354e1d8a50310aa15c0a400",
+    "requirements": [
+      4,
+      7
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Fluid Mosaic Model of Membranes",
+    "file": "biol_112_lecture_7_fluid_moasaic_model_september_23_2026.pdf",
+    "pageCount": 35,
+    "modules": [
+      "2-1",
+      "2-3",
+      "2-4"
+    ],
+    "sha256": "b51bd33596a4b520406ddae785b0a3c2f89fd0a521fbae8c65f5153f2fa522ea",
+    "requirements": [
+      4,
+      5,
+      7,
+      8,
+      19
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Membrane Transport",
+    "file": "biol_112_lecture_8_membrane_transport_september_23_2026.pdf",
+    "pageCount": 25,
+    "modules": [
+      "2-3",
+      "2-4"
+    ],
+    "sha256": "c81148ec63cef7da9a09864547634ea16a6d6381abf9df74afb5a87eb574f5e9",
+    "requirements": [
+      1,
+      2,
+      5,
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Active Transport",
+    "file": "biol_112_lecture_9_active_transport_september_28_2026.pdf",
+    "pageCount": 41,
+    "modules": [
+      "2-4"
+    ],
+    "sha256": "81aed99bed1ec91c4d20a8c089f565c679b19b5855efaff151279cc09109cfca",
+    "requirements": [
+      2,
+      40
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Protein Structure I",
+    "file": "biol_112_lecture_10_protein_structure_I_october_2_2026.pdf",
+    "pageCount": 35,
+    "modules": [
+      "2-5"
+    ],
+    "sha256": "516e47eaf732302661a5c038378cf14edc93436d431ea4bac855538d902e5921",
+    "requirements": [
+      4,
+      5,
+      6,
+      9,
+      24
+    ]
+  }
+];

@@ -93,3 +93,27 @@ test('re-importing old and canonical backups cannot duplicate an existing merged
  backup.progress[alias]=backup.progress[target];await a.engine.importBackup(backup);
  assert.equal(a.ui.progress[target].misses,3);assert.equal(h.backend.baselines.length,1);clearTimeout(a.engine.timer);
 });
+
+test('notebook concurrent offline reviews survive reload, reconcile, and remain account-isolated',async()=>{
+ const {recordTest,questionStats}=await import('../src/notebook-core.js');const h=harness(),a=h.device('u'),b=h.device('u');
+ await a.engine.setUser({id:'u'});await b.engine.setUser({id:'u'});h.backend.offline=true;
+ const q={id:'q1',course:'BIOL 112',chapter:'2-2',prompt:'Question',answer:'Answer',concept:'Concept'};
+ recordTest(a.ui.notebook,q,false,'a',1);a.engine.capture(a.ui);recordTest(b.ui.notebook,q,false,'b',2);b.engine.capture(b.ui);
+ // Separate devices ordinarily have separate local storage; pending requests here also test distinct event IDs.
+ h.backend.offline=false;await a.engine.sync();await b.engine.sync();await a.engine.sync();
+ assert.equal(questionStats(a.ui.notebook,a.ui.notebook.questions['test:q1']).misses,2);assert.deepEqual(a.ui.notebook,b.ui.notebook);
+ const c=h.device('other');await c.engine.setUser({id:'other'});assert.equal(Object.keys(c.ui.notebook.questions).length,0);
+ const restarted=h.device('u');await restarted.engine.setUser({id:'u'});assert.equal(Object.keys(restarted.ui.notebook.attempts).length,2);
+ await restarted.engine.importBackup(a.ui);assert.equal(Object.keys(restarted.ui.notebook.attempts).length,2);
+ for(const d of [a,b,c,restarted])clearTimeout(d.engine.timer);
+});
+
+test('notebook outbox survives an offline restart and null legacy envelopes cannot erase records during compaction',async()=>{
+ const {recordTest}=await import('../src/notebook-core.js');const h=harness(),a=h.device('u');await a.engine.setUser({id:'u'});h.backend.offline=true;
+ recordTest(a.ui.notebook,{id:'q',course:'CHEM 121',chapter:'VSEPR',prompt:'Shape?',answer:'Bent',concept:'AXE'},false,'Linear',100);
+ a.engine.capture(a.ui);await a.engine.sync();const b=h.device('u');await b.engine.setUser({id:'u'});assert.equal(Object.keys(b.ui.notebook.attempts).length,1);
+ h.backend.offline=false;await b.engine.sync();await b.engine.sync();assert.equal(h.backend.rows.length,2);
+ h.backend.rows.push({...event('legacy-null',++h.backend.seq,'test','notebook:questions:test:q',null),user_id:'u'});await b.engine.sync();b.engine.persist();
+ const c=h.device('u');await c.engine.setUser({id:'u'});assert.equal(Object.keys(c.ui.notebook.questions).length,1);
+ for(const d of [a,b,c])clearTimeout(d.engine.timer);
+});

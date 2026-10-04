@@ -2,3 +2,22 @@ How many bilayers make up the mitochondrial double membrane?	Two separate bilaye
 Does the nuclear envelope contain one bilayer or two?	Two bilayers: the inner and outer nuclear membranes. The outer membrane is continuous with the ER.
 Name a course organelle surrounded by a single membrane bilayer.	ER, Golgi, or lysosome.
 What protein framework helps maintain cell shape?	The cytoskeleton.
+What three claims make up cell theory?	Organisms consist of cells; the cell is the fundamental unit of life; cells arise from pre-existing cells.
+Why is a collection of isolated macromolecules not yet a living cell?	A cell integrates a compartment, information processing, energy use, growth/division and responses to its environment.
+How does a unicellular organism differ from one cell in a multicellular organism?	The single cell is the whole organism; a cell in a multicellular organism is one cooperating, often specialized part.
+Which three domains contain cellular organisms?	Bacteria, Archaea and Eukarya.
+Can a cell’s size alone establish whether it is bacterial or eukaryotic?	No. Size ranges overlap; evaluate cellular organization and multiple features.
+Estimate the long-axis length of this cell using its 20 μm scale bar.	About 160 μm: the cell spans eight scale-bar lengths.
+Which basic components occur in both the bacterial and eukaryotic models?	A plasma membrane, cytoplasm, DNA and ribosomes.
+The DNA region marked A has no surrounding nuclear envelope. What is this region in the bacterial model?	The nucleoid.
+What separates nuclear DNA from the cytoplasm in the eukaryotic model?	A nuclear envelope; bacterial nucleoid DNA is not enclosed by that envelope.
+What membrane arrangement makes the lecture’s E. coli example Gram-negative?	It has an inner plasma membrane and an outer membrane.
+Why does finding ribosomes not establish that a cell is eukaryotic?	Both bacterial and eukaryotic cells use ribosomes for protein synthesis.
+How do genome, chromosome and gene relate to one another?	A genome is the complete genetic information; a chromosome is a DNA molecule with associated organization; a gene is a functional DNA sequence within it.
+Where are the two genomes described for yeast located?	In the nucleus and in mitochondria.
+Compare the lecture examples: E. coli chromosome versus yeast nuclear chromosomes.	E. coli: a circular chromosome; yeast nucleus: 16 linear chromosomes.
+Which is larger in the lecture examples: E. coli’s genome or yeast’s nuclear genome?	Yeast’s nuclear genome: about 12.1 Mb versus E. coli’s 4.6 Mb.
+Why do organelle DNA and ribosomes support a bacterial origin of mitochondria and chloroplasts?	They retain bacterial-like genetic features: their own genomes, bacterial-related sequences and bacterial-like protein-synthesis machinery.
+What organelle replication behavior supports endosymbiosis?	Mitochondria and chloroplasts grow and divide by fission rather than being built from nothing at each host-cell division.
+Match the lecture’s bacterial ancestors to their organelles.	Alphaproteobacteria → mitochondria; cyanobacteria → plastids.
+Does being a single cell make yeast a bacterium?	No. Yeast is a unicellular eukaryote with a nucleus and membrane-bound organelles.

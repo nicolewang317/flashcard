@@ -15,3 +15,7 @@ What linkage difference distinguishes starch from cellulose even though both con
 A plant glucose polymer has α(1→4) chains and α(1→6) branches. Identify it.	Amylopectin.
 An enzyme recognizes α(1→4) linkages. Does that guarantee it can cleave β(1→4)?	No; the different geometry may prevent recognition.
 An enzyme cleaves only α(1→4) bonds in amylopectin. Which branch-point linkage remains uncleaved by it?	α(1→6).
+Which of these contain RNA in the lecture model: nucleus, cytoplasm, mitochondrial matrix, plastid stroma or cell wall?	Nucleus, cytoplasm, mitochondrial matrix and plastid stroma.
+Where is storage starch located in the wheat endosperm example?	In amyloplasts, a type of plastid.
+Match the bacterial carbohydrate examples to their locations: glycogen and peptidoglycan.	Glycogen → cytoplasm; peptidoglycan → cell wall.
+Are bacterial proteins confined to the cytoplasm?	No. They also associate with DNA and occur in membranes and the cell envelope.

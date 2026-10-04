@@ -83,3 +83,15 @@ aside{overflow-y:auto;padding-top:25px}.course{padding:20px 12px 13px}.course st
 .reference-label{display:block;text-align:left;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin-bottom:7px}
 .card-reference .figure svg{max-height:175px}.card-reference .figure-caption{font-size:11px}
 @media(max-width:780px){.curriculum-unit{margin-left:0}.curriculum-unit>summary{font-size:18px}.curriculum-module>summary{font-size:14px}.card-reference{padding:8px}.card-reference .figure svg{max-height:165px}.syllabus-content{padding:14px;font-size:14px}.source-heading{font-size:17px}#current-requirements{margin:0 0 10px}}
+
+/* Lecture references stay separate from the immutable teacher text. */
+#lecture-dialog{width:min(1050px,94vw);max-height:90dvh;overflow:auto}
+#lecture-file{overflow-wrap:anywhere;font-size:12px}
+.lecture-page{border:1px solid var(--line,#cfdef6);border-radius:12px;margin:12px 0;padding:14px}
+.lecture-page>summary{font-weight:650;cursor:pointer}
+.lecture-original-link{display:block;margin:12px 0;font-size:13px}
+.lecture-original-link img{display:block;width:100%;height:auto;background:white;border:1px solid #e0e7f1;margin-bottom:8px}
+.lecture-extracted{font-size:13px;margin-top:12px}
+.lecture-extracted pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;line-height:1.6}
+.card-source{font-size:12px!important;line-height:1.5;color:#536c94;margin:14px 0 0;max-width:650px}
+.card-study-note{font-size:13px!important;line-height:1.5;color:#685432;background:#fff8e8;padding:10px;border-radius:8px;max-width:650px}
