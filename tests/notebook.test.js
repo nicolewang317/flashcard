@@ -23,3 +23,12 @@ test('event retries and backup imports do not inflate notebook counts or pollute
 test('normalization rejects invalid notebook records and is safe for old backups',()=>{
  assert.deepEqual(normalizeNotebook(null),emptyNotebook());assert.deepEqual(normalizeNotebook({questions:{bad:{course:'OTHER',prompt:'p',chapter:'c'}}}),emptyNotebook());
 });
+test('image-only questions, custom chapters and tags survive cloud replay and backup merge',()=>{
+ const db=emptyStudy(),image={path:'11111111-1111-4111-8111-111111111111/22222222-2222-4222-8222-222222222222.png',name:'question.png',type:'image/png',size:1024};
+ db.notebook.questions.photo={...sample,id:'photo',prompt:'',concepts:['Ion–PD','完整电荷与部分电荷'],issueIds:[],images:[image],updatedAt:2};
+ db.notebook.chapters.custom={id:'custom',course:sample.course,title:'MLM1 test',updatedAt:2};
+ const events=changesToEvents(emptyStudy(),db).map((e,i)=>({...e,seq:i+1}));
+ const restored=projectStudy([],events);assert.deepEqual(restored.notebook.questions.photo.images,[image]);assert.equal(restored.notebook.chapters.custom.title,'MLM1 test');
+ assert.deepEqual(mergeNotebooks(emptyNotebook(),restored.notebook),restored.notebook);
+ assert.equal(Object.keys(restored.activeTests).length,0);
+});

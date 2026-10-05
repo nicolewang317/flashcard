@@ -23,7 +23,7 @@ export function projectStudy(baselines,events,pending=[]){
   }else if(e.kind==='favorite'&&typeof e.payload==='boolean'){
    db.progress[e.entity]??=emptyRecord();db.progress[e.entity].star=e.payload;
   }else if(e.kind==='test'&&e.entity.startsWith('notebook:')){
-   const match=/^notebook:(questions|issues|attempts):(.+)$/.exec(e.entity);
+   const match=/^notebook:(questions|issues|attempts|chapters):(.+)$/.exec(e.entity);
    // Ignore null envelopes from older clients; notebook records are never test sessions.
    if(match&&e.payload)db.notebook[match[1]][match[2]]=copy(e.payload);
   }else if(e.kind==='test'){
@@ -54,7 +54,7 @@ export function changesToEvents(previous,next,makeId=()=>crypto.randomUUID(),now
  }
  const oldResults=new Map(previous.testHistory.map(h=>[resultKey(h),h]));
  for(const h of next.testHistory)if(!same(oldResults.get(resultKey(h)),h))add('result',resultKey(h),h);
- for(const type of ['questions','issues','attempts'])for(const [id,value] of Object.entries(next.notebook?.[type]||{})){
+ for(const type of ['questions','issues','attempts','chapters'])for(const [id,value] of Object.entries(next.notebook?.[type]||{})){
   if(!same(previous.notebook?.[type]?.[id],value))add('test',`notebook:${type}:${id}`,value);
  }
  return events;

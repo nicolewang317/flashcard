@@ -45,7 +45,7 @@ try{
  
 }catch(e){storageOK=false}
 let state={deck:db.settings.deck,tab:'flashcards',filter:'all',queue:[],pos:0,revealed:false,search:'',kind:'all',lab:'ester',annotations:false,wrongFilter:'active',reviewIds:null,testScope:'set',testLength:10,openCourse:DECKS[db.settings.deck].course};
-const notebookUI=createNotebookUI({getData:()=>db,getCourse:()=>DECKS[state.deck].course,getChapters:course=>[...new Set(DECKS.filter(d=>d.course===course).map(d=>d.module?moduleLabel(d.module):d.unit))],save,getIllustration:q=>{const c=CARD_MAP.get(q.sourceCardId);return c?cardGraphic(c):''}});
+const notebookUI=createNotebookUI({getMedia:()=>syncUI?.media,getOwner:()=>syncUI?.getAccountId(),getData:()=>db,getCourse:()=>DECKS[state.deck].course,getChapters:course=>[...new Set(DECKS.filter(d=>d.course===course).map(d=>d.module?moduleLabel(d.module):d.unit))],save,getIllustration:q=>{const c=CARD_MAP.get(q.sourceCardId);return c?cardGraphic(c):''}});
 state.lab=defaultFigure(DECKS[state.deck]);
 function record(id){return db.progress[id]||{status:'new',due:0,streak:0,star:false,misses:0,history:[],lastWrong:null}}
 function save(){try{if(!syncUI?.isSignedIn())localStorage.setItem(STORE,JSON.stringify(db));syncUI?.capture(db)}catch(e){storageOK=false}$('#storage-warning').hidden=storageOK}

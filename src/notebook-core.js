@@ -1,5 +1,6 @@
+import {normalizeImages} from './notebook-media.js';
 // One question record, independent review events, and shared cross-chapter issues.
-export const emptyNotebook=()=>({questions:{},issues:{},attempts:{}});
+export const emptyNotebook=()=>({questions:{},issues:{},attempts:{},chapters:{}});
 const courses=['BIOL 112','CHEM 121'];
 const text=(v,n=8000)=>typeof v==='string'?v.slice(0,n):'';
 const list=v=>Array.isArray(v)?[...new Set(v.filter(x=>typeof x==='string').map(x=>x.trim().slice(0,150)).filter(Boolean))].slice(0,50):[];
@@ -7,7 +8,8 @@ export function normalizeNotebook(raw){
  const n=emptyNotebook();
  for(const type of Object.keys(n))for(const [id,v]of Object.entries(raw?.[type]||{})){
   if(!v||typeof v!=='object'||!courses.includes(v.course)||!/^[-\w:]{1,120}$/.test(id))continue;
-  if(type==='questions'&&text(v.prompt)&&text(v.chapter))n.questions[id]={id,course:v.course,chapter:text(v.chapter,150),sourceCardId:text(v.sourceCardId,120),prompt:text(v.prompt),answer:text(v.answer),notes:text(v.notes),reason:text(v.reason,150),concepts:list(v.concepts),issueIds:list(v.issueIds),createdAt:Number(v.createdAt)||0,updatedAt:Number(v.updatedAt)||0};
+  if(type==='chapters'&&text(v.title))n.chapters[id]={id,course:v.course,title:text(v.title,150),updatedAt:Number(v.updatedAt)||0};
+  if(type==='questions'&&(text(v.prompt)||normalizeImages(v.images).length)&&text(v.chapter))n.questions[id]={id,course:v.course,chapter:text(v.chapter,150),sourceCardId:text(v.sourceCardId,120),prompt:text(v.prompt),images:normalizeImages(v.images),answer:text(v.answer),notes:text(v.notes),reason:text(v.reason,150),concepts:list(v.concepts),issueIds:list(v.issueIds),createdAt:Number(v.createdAt)||0,updatedAt:Number(v.updatedAt)||0};
   if(type==='issues'&&text(v.title))n.issues[id]={id,course:v.course,title:text(v.title,150),summary:text(v.summary),updatedAt:Number(v.updatedAt)||0};
   if(type==='attempts'&&typeof v.ok==='boolean'&&Number.isFinite(v.at)&&text(v.questionId))n.attempts[id]={id,course:v.course,questionId:text(v.questionId,120),ok:v.ok,at:v.at,chosen:text(v.chosen),source:text(v.source,100)};
  }
