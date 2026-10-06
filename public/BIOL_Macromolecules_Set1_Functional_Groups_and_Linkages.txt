@@ -29,11 +29,9 @@ Identify the phosphate attachment in R–O–P(=O)(O⁻)–O⁻.	A phosphoester 
 How is an alcohol-derived carbon group connected to phosphate in a phosphoester?	Through the alcohol oxygen: C–O–P, not a direct C–P bond.
 A nucleotide's sugar is attached to one phosphate through C–O–P. What linkage is that attachment?	Phosphoester.
 Identify sugar–O–P(=O)(O⁻)–O–sugar.	A phosphodiester connection.
-Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?	Phosphodiester linkage.
 Trace the connection between neighboring sugars in a nucleic-acid backbone.	3′-C–O–P–O–C-5′; the sugars are connected through phosphate, not directly by C–C.
 What feature distinguishes a phosphodiester from a phosphate monoester in a diagram?	Two organic groups are attached through oxygens to the same phosphate instead of one.
 What happens to a DNA strand when one internal phosphodiester linkage is hydrolyzed?	Its covalent backbone is cut at that position.
-Does a phosphodiester bond connect the paired bases across two DNA strands?	No; it connects successive nucleotides within one strand.
 Which linkage joins monosaccharides in disaccharides and polysaccharides?	Glycosidic linkage.
 What groups react in the simplified model of glycosidic-bond formation between sugars?	Hydroxyl groups on the two sugars, including the anomeric hydroxyl of one.
 What do the numbers in a glucose (1→4) linkage identify?	C1 of one glucose and C4 of the next, joined through oxygen.

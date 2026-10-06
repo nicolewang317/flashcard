@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-05",
+  "before": [
+    {
+      "id": "f2274ed088f7bf",
+      "front": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
+      "back": "Phosphodiester linkage.",
+      "prompt": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 0,
+      "concept": "Phosphodiester backbone",
+      "answerFigure": "phosphoester",
+      "sources": [
+        {
+          "lecture": 5,
+          "pages": [
+            37,
+            38,
+            39
+          ]
+        }
+      ],
+      "lectureReview": "Covered in supplied lecture"
+    },
+    {
+      "id": "aae076b90b7766",
+      "front": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
+      "back": "No; it connects successive nucleotides within one strand.",
+      "prompt": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
+      "figure": "",
+      "kind": "Compare & distinguish",
+      "deck": 0,
+      "concept": "Phosphodiester backbone",
+      "answerFigure": "dna-antiparallel",
+      "sources": [
+        {
+          "lecture": 5,
+          "pages": [
+            37,
+            38,
+            39
+          ]
+        }
+      ],
+      "lectureReview": "Covered in supplied lecture"
+    }
+  ],
+  "after": [
+    {
+      "id": "f2274ed088f7bf",
+      "front": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+      "back": "A phosphodiester bond: a covalent 3′–O–P–O–5′ connection in the DNA/RNA backbone.",
+      "prompt": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+      "figure": "",
+      "kind": "Quick recall",
+      "deck": 11,
+      "concept": "Phosphodiester backbone",
+      "answerFigure": "phosphodiester",
+      "sources": [],
+      "lectureReview": "Covered in supplied lecture",
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": ""
+    },
+    {
+      "id": "aae076b90b7766",
+      "front": "Which bonds link complementary bases across paired DNA strands?",
+      "back": "Noncovalent hydrogen bonds link complementary base pairs; covalent phosphodiester bonds run along each backbone.",
+      "prompt": "Which bonds link complementary bases across paired DNA strands?",
+      "figure": "",
+      "kind": "Compare & distinguish",
+      "deck": 11,
+      "concept": "Base pairing bonds",
+      "answerFigure": "dna-antiparallel",
+      "sources": [],
+      "lectureReview": "Covered in supplied lecture",
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": "Dashed rungs represent base-pair hydrogen bonds; the rails represent covalent sugar–phosphate backbones."
+    },
+    {
+      "id": "biol112-dna-rna-transcription",
+      "front": "A cell makes RNA using a DNA template. Which process is this?",
+      "prompt": "A cell makes RNA using a DNA template. Which process is this?",
+      "back": "Transcription — RNA synthesis from a DNA template.",
+      "concept": "Transcription",
+      "deck": 11,
+      "figure": "",
+      "kind": "Apply & identify",
+      "sources": [],
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": "Gene-expression regulation controls when and how much RNA is transcribed; it does not replace the DNA template.",
+      "answerFigure": "information-flow"
+    },
+    {
+      "id": "biol112-dna-rna-replication",
+      "front": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+      "prompt": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+      "back": "Replication — DNA synthesis; each daughter DNA molecule contains one parental strand and one newly made strand.",
+      "concept": "Replication",
+      "deck": 11,
+      "figure": "",
+      "kind": "Apply & identify",
+      "sources": [],
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": "",
+      "answerFigure": "information-flow"
+    },
+    {
+      "id": "biol112-dna-rna-translation",
+      "front": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+      "prompt": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+      "back": "Translation — protein synthesis using the nucleotide sequence of mRNA.",
+      "concept": "Translation",
+      "deck": 11,
+      "figure": "",
+      "kind": "Apply & identify",
+      "sources": [],
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": "",
+      "answerFigure": "information-flow"
+    },
+    {
+      "id": "biol112-dna-rna-mutation",
+      "front": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+      "prompt": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+      "back": "Mutation — a change in the DNA sequence.",
+      "concept": "Mutation",
+      "deck": 11,
+      "figure": "",
+      "kind": "Apply & identify",
+      "sources": [],
+      "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+      "studyNote": "A SNP is variation at a single nucleotide position. A deletion and a mutation in general are not automatically SNPs."
+    }
+  ],
+  "inputCount": 10,
+  "uniqueConcepts": 6,
+  "duplicatesConsolidated": 4,
+  "existingCardsRevised": 2,
+  "newCards": 4
+}

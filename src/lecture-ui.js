@@ -13,7 +13,7 @@ export function createLectureUI(){
  return {open(id=2){select.value=String(id);render();dialog.showModal();dialog.scrollTop=0;}};
 }
 export function cardSourceHTML(c){
- const source=(c.sources||[]).map(s=>'Lecture '+s.lecture+' · PDF p'+(s.pages.length>1?'p':'')+'. '+s.pages.join(', ')).join(' · ');
+ const source=c.sourceLabel||(c.sources||[]).map(s=>'Lecture '+s.lecture+' · PDF p'+(s.pages.length>1?'p':'')+'. '+s.pages.join(', ')).join(' · ');
  const note=c.studyNote?`<p class="card-study-note">${esc(c.studyNote)}</p>`:'';
  return `${source?`<p class="card-source">Source: ${esc(source)}</p>`:c.lectureReview?'<p class="card-source">Source: earlier notes / supplementary practice · not explicitly covered in these slides</p>':''}${note}`;
 }

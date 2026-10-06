@@ -124,3 +124,6 @@ export { $, esc, icon, INK, BLUE, MUTED, line, txt, circ, path, note, svg, FIGUR
 
 import {LECTURE_FIGURES} from './lecture-diagrams.js';
 Object.assign(FIGURES,LECTURE_FIGURES);
+Object.assign(FIGURES,{
+ 'information-flow':{name:'DNA, RNA and protein',group:'Structure models',caption:'Process summary, not a molecular structure. Replication copies DNA; transcription makes RNA; translation makes a polypeptide.',desc:'DNA to DNA by replication; DNA to RNA by transcription; mRNA to polypeptide by translation at the ribosome.',explain:'The template and product distinguish these three processes.',draw:()=>[['DNA','DNA','Replication'],['DNA','RNA','Transcription'],['mRNA','Polypeptide','Translation · ribosome']].map(([from,to,label],i)=>{const y=48+i*87;return txt(110,y,from,27,BLUE)+line(195,y,475,y)+path(`M463 ${y-8} 475 ${y} 463 ${y+8}`)+txt(590,y,to,25,BLUE)+note(335,y+29,label)}).join('')}
+});

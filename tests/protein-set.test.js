@@ -19,5 +19,5 @@ test('unit scope includes all macromolecule sets, excludes chemistry, and preser
 });
 test('the BIOL course and Macromolecules exports both include the Protein set',()=>{
  const file=name=>readFileSync(new URL('../public/'+name,import.meta.url),'utf8').trim().split('\n');
- assert.equal(file('BIOL112_Proteins_Sept27.txt').length,38);assert.equal(file('BIOL112_All_Units_Master.txt').length,289);assert.equal(file('BIOL_Macromolecules_Master.txt').length,178);
+ assert.equal(file('BIOL112_Proteins_Sept27.txt').length,38);assert.equal(file('BIOL112_All_Units_Master.txt').length,293);assert.equal(file('BIOL_Macromolecules_Master.txt').length,178);
 });

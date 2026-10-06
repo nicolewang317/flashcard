@@ -29,11 +29,9 @@ Identify the phosphate attachment in R–O–P(=O)(O⁻)–O⁻.	A phosphoester 
 How is an alcohol-derived carbon group connected to phosphate in a phosphoester?	Through the alcohol oxygen: C–O–P, not a direct C–P bond.
 A nucleotide's sugar is attached to one phosphate through C–O–P. What linkage is that attachment?	Phosphoester.
 Identify sugar–O–P(=O)(O⁻)–O–sugar.	A phosphodiester connection.
-Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?	Phosphodiester linkage.
 Trace the connection between neighboring sugars in a nucleic-acid backbone.	3′-C–O–P–O–C-5′; the sugars are connected through phosphate, not directly by C–C.
 What feature distinguishes a phosphodiester from a phosphate monoester in a diagram?	Two organic groups are attached through oxygens to the same phosphate instead of one.
 What happens to a DNA strand when one internal phosphodiester linkage is hydrolyzed?	Its covalent backbone is cut at that position.
-Does a phosphodiester bond connect the paired bases across two DNA strands?	No; it connects successive nucleotides within one strand.
 Which linkage joins monosaccharides in disaccharides and polysaccharides?	Glycosidic linkage.
 What groups react in the simplified model of glycosidic-bond formation between sugars?	Hydroxyl groups on the two sugars, including the anomeric hydroxyl of one.
 What do the numbers in a glucose (1→4) linkage identify?	C1 of one glucose and C4 of the next, joined through oxygen.
@@ -238,6 +236,12 @@ If the growing terminal nucleotide lacks a usable 3′-OH, what happens to norma
 One DNA strand runs 5′ → 3′ along a given direction. How does its partner run along that same direction?	3′ → 5′: the strands are antiparallel.
 What does polymer polarity mean when discussing 5′ and 3′ ends?	The polymer has chemically different ends and therefore a direction.
 Are nitrogenous bases the repeating links of the sugar–phosphate backbone?	No; they attach to the sugars and project from the backbone.
+Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?	A phosphodiester bond: a covalent 3′–O–P–O–5′ connection in the DNA/RNA backbone.
+Which bonds link complementary bases across paired DNA strands?	Noncovalent hydrogen bonds link complementary base pairs; covalent phosphodiester bonds run along each backbone.
+A cell makes RNA using a DNA template. Which process is this?	Transcription — RNA synthesis from a DNA template.
+Each parental DNA strand templates a new complementary DNA strand. Which process is this?	Replication — DNA synthesis; each daughter DNA molecule contains one parental strand and one newly made strand.
+A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?	Translation — protein synthesis using the nucleotide sequence of mRNA.
+A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?	Mutation — a change in the DNA sequence.
 Why is the membrane described as a mosaic?	It contains multiple components, including phospholipids, cholesterol, proteins and carbohydrate-bearing molecules.
 Which movement is rapid in the lecture diagram: within one leaflet or across to the other leaflet?	Lateral movement within one leaflet; spontaneous transverse flip-flop is much slower.
 How does cholesterol affect a membrane that would otherwise become too fluid at high temperature?	It restrains lipid movement and reduces excessive fluidity/permeability.

@@ -32,3 +32,11 @@ test('image-only questions, custom chapters and tags survive cloud replay and ba
  assert.deepEqual(mergeNotebooks(emptyNotebook(),restored.notebook),restored.notebook);
  assert.equal(Object.keys(restored.activeTests).length,0);
 });
+
+test('chapter overview pins and approved structure references survive normalization and repeated import',()=>{
+ const n=emptyNotebook();recordTest(n,{...sample,id:'structure'},false,'',1);const q=n.questions['test:structure'];q.illustration='chem-ch2-boron';
+ n.issues.pinned={id:'pinned',course:sample.course,title:'Octet priority',summary:'原文保留',pinnedChapters:['Chapter 2','Chapter 2'],updatedAt:2};
+ const normalized=normalizeNotebook(n);assert.equal(normalized.questions[q.id].illustration,'chem-ch2-boron');assert.deepEqual(normalized.issues.pinned.pinnedChapters,['Chapter 2']);
+ assert.deepEqual(mergeNotebooks(normalized,normalized),normalized);
+ q.illustration='../../private';assert.equal(normalizeNotebook(n).questions[q.id].illustration,'');
+});

@@ -549,14 +549,14 @@
     "id": "f2274ed088f7bf",
     "course": "BIOL 112",
     "originalDeck": 0,
-    "question": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
-    "answer": "Phosphodiester linkage.",
-    "decision": "保留原文；显示结构参考图",
+    "question": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+    "answer": "A phosphodiester bond: a covalent 3′–O–P–O–5′ connection in the DNA/RNA backbone.",
+    "decision": "重写并迁入 DNA & RNA；保留 ID 和学习进度",
     "frontFigure": null,
-    "answerFigure": "phosphoester",
-    "reason": "先回忆或推理，再翻面看小模型，避免图片直接泄露答案。",
-    "finalDeck": 0,
-    "module": "2-2"
+    "answerFigure": "phosphodiester",
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。",
+    "finalDeck": 11,
+    "module": "2-6"
   },
   {
     "id": "a614efcd577db7",
@@ -601,14 +601,14 @@
     "id": "aae076b90b7766",
     "course": "BIOL 112",
     "originalDeck": 0,
-    "question": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
-    "answer": "No; it connects successive nucleotides within one strand.",
-    "decision": "保留原文；显示结构参考图",
+    "question": "Which bonds link complementary bases across paired DNA strands?",
+    "answer": "Noncovalent hydrogen bonds link complementary base pairs; covalent phosphodiester bonds run along each backbone.",
+    "decision": "重写并迁入 DNA & RNA；保留 ID 和学习进度",
     "frontFigure": null,
     "answerFigure": "dna-antiparallel",
-    "reason": "先回忆或推理，再翻面看小模型，避免图片直接泄露答案。",
-    "finalDeck": 0,
-    "module": "2-2"
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。",
+    "finalDeck": 11,
+    "module": "2-6"
   },
   {
     "id": "37f0a6d006cf98",
@@ -4561,5 +4561,57 @@
     "frontFigure": null,
     "answerFigure": "lecture-mosaic",
     "reason": "依据上传讲义，页码保存在 sources；不改动教师原文。"
+  },
+  {
+    "id": "biol112-dna-rna-transcription",
+    "course": "BIOL 112",
+    "originalDeck": null,
+    "finalDeck": 11,
+    "module": "2-6",
+    "question": "A cell makes RNA using a DNA template. Which process is this?",
+    "answer": "Transcription — RNA synthesis from a DNA template.",
+    "decision": "新增独立考点",
+    "frontFigure": null,
+    "answerFigure": "information-flow",
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。"
+  },
+  {
+    "id": "biol112-dna-rna-replication",
+    "course": "BIOL 112",
+    "originalDeck": null,
+    "finalDeck": 11,
+    "module": "2-6",
+    "question": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+    "answer": "Replication — DNA synthesis; each daughter DNA molecule contains one parental strand and one newly made strand.",
+    "decision": "新增独立考点",
+    "frontFigure": null,
+    "answerFigure": "information-flow",
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。"
+  },
+  {
+    "id": "biol112-dna-rna-translation",
+    "course": "BIOL 112",
+    "originalDeck": null,
+    "finalDeck": 11,
+    "module": "2-6",
+    "question": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+    "answer": "Translation — protein synthesis using the nucleotide sequence of mRNA.",
+    "decision": "新增独立考点",
+    "frontFigure": null,
+    "answerFigure": "information-flow",
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。"
+  },
+  {
+    "id": "biol112-dna-rna-mutation",
+    "course": "BIOL 112",
+    "originalDeck": null,
+    "finalDeck": 11,
+    "module": "2-6",
+    "question": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+    "answer": "Mutation — a change in the DNA sequence.",
+    "decision": "新增独立考点",
+    "frontFigure": null,
+    "answerFigure": null,
+    "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。"
   }
 ]

@@ -2,7 +2,7 @@
 
 A personal flashcard library for BIOL 112 and CHEM 121, with Supabase sign-in and automatic progress syncing between a phone and Mac.
 
-- 351 flashcards across fifteen sets and 177 scored questions, with original study diagrams.
+- 355 flashcards across fifteen sets and 183 scored questions, with original study diagrams.
 - Course and set mastery rings, plus structure-and-information popovers on highlighted answer terms.
 - BIOL 112 follows Unit 1 / Unit 2 and Modules 1-1 through 2-6. The teacher’s complete supplied requirements are archived verbatim and quoted at each level.
 - 277 cards have structure-reference diagrams; all 276 earlier question/answer texts and card IDs are preserved. Lecture 2–10 adds 75 distinct cards, including Module 1-2 growth curves. Existing cards do not imply complete objective coverage.

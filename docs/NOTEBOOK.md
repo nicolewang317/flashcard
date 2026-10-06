@@ -19,3 +19,9 @@
 本地验证：纯逻辑与模拟后端覆盖重复事件、备份合并、并行编辑、离线重载、账号隔离、旧客户端空值兼容。浏览器覆盖电脑/手机录题、跨章节关联、统一总结、搜索/筛选、待复习、刷新保留、Test 自动记录、Forgot 分离。没有操作真实 Supabase 数据或进行真实跨设备账号测试。
 
 兼容性核查：读取 Supabase changelog（2026-10-03）和 RLS 文档；此次无需采用新 API 或变更依赖版本。
+
+## Chapter reminders and answer structures (2026-10-05)
+
+Shared issues may now specify `pinnedChapters` (editable as one chapter title per line). Those exact summaries appear above that chapter's questions; the underlying issue records remain shared with the common-problem view. Approved chemistry answer diagrams appear inside the answer disclosure and can be opened at full size. The separate `illustration` field survives editing, normalization, backup and synchronization. Existing screenshot uploads, image-only questions, concept tags, custom chapters and account ownership protections from the latest deployed source are preserved.
+
+The generic chemistry structure assets are public educational diagrams. Personal mistake records and account identifiers are not bundled in the website source. The enolate illustration is explicitly a screenshot example, not a reconstruction of unspecified A/B contributor drawings. Source definitions: https://goldbook.iupac.org/terms/view/C01309 and https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance .

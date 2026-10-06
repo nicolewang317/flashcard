@@ -583,28 +583,6 @@ export const DECKS = [
         "lectureReview": "Covered in supplied lecture"
       },
       {
-        "id": "f2274ed088f7bf",
-        "front": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
-        "back": "Phosphodiester linkage.",
-        "prompt": "Which covalent linkage creates the DNA/RNA sugar–phosphate backbone?",
-        "figure": "",
-        "kind": "Quick recall",
-        "deck": 0,
-        "concept": "Phosphodiester backbone",
-        "answerFigure": "phosphoester",
-        "sources": [
-          {
-            "lecture": 5,
-            "pages": [
-              37,
-              38,
-              39
-            ]
-          }
-        ],
-        "lectureReview": "Covered in supplied lecture"
-      },
-      {
         "id": "a614efcd577db7",
         "front": "Trace the connection between neighboring sugars in a nucleic-acid backbone.",
         "back": "3′-C–O–P–O–C-5′; the sugars are connected through phosphate, not directly by C–C.",
@@ -650,28 +628,6 @@ export const DECKS = [
         "answerFigure": "phosphodiester",
         "sources": [],
         "lectureReview": "Prior notes / supplementary practice; not explicitly covered in these slides"
-      },
-      {
-        "id": "aae076b90b7766",
-        "front": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
-        "back": "No; it connects successive nucleotides within one strand.",
-        "prompt": "Does a phosphodiester bond connect the paired bases across two DNA strands?",
-        "figure": "",
-        "kind": "Compare & distinguish",
-        "deck": 0,
-        "concept": "Phosphodiester backbone",
-        "answerFigure": "dna-antiparallel",
-        "sources": [
-          {
-            "lecture": 5,
-            "pages": [
-              37,
-              38,
-              39
-            ]
-          }
-        ],
-        "lectureReview": "Covered in supplied lecture"
       },
       {
         "id": "37f0a6d006cf98",
@@ -5107,10 +5063,10 @@ export const DECKS = [
     "course": "BIOL 112",
     "unit": "Unit 2",
     "module": "2-6",
-    "title": "Nucleic acid structure & directionality",
+    "title": "DNA & RNA · structure and information flow",
     "file": "BIOL112_Module2_6_Nucleic_Acids.txt",
     "defaultFigure": "nucleotide",
-    "source": "Lecture 5 · nucleotide foundations; earlier notes",
+    "source": "Lecture 5 · nucleotide foundations; earlier notes; user-supplied DNA & RNA matching notes (October 5)",
     "cards": [
       {
         "id": "b949468ac5b34d",
@@ -5375,6 +5331,91 @@ export const DECKS = [
           }
         ],
         "lectureReview": "Covered in supplied lecture"
+      },
+      {
+        "id": "f2274ed088f7bf",
+        "front": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+        "back": "A phosphodiester bond: a covalent 3′–O–P–O–5′ connection in the DNA/RNA backbone.",
+        "prompt": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+        "figure": "",
+        "kind": "Quick recall",
+        "deck": 11,
+        "concept": "Phosphodiester backbone",
+        "answerFigure": "phosphodiester",
+        "sources": [],
+        "lectureReview": "Covered in supplied lecture",
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": ""
+      },
+      {
+        "id": "aae076b90b7766",
+        "front": "Which bonds link complementary bases across paired DNA strands?",
+        "back": "Noncovalent hydrogen bonds link complementary base pairs; covalent phosphodiester bonds run along each backbone.",
+        "prompt": "Which bonds link complementary bases across paired DNA strands?",
+        "figure": "",
+        "kind": "Compare & distinguish",
+        "deck": 11,
+        "concept": "Base pairing bonds",
+        "answerFigure": "dna-antiparallel",
+        "sources": [],
+        "lectureReview": "Covered in supplied lecture",
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": "Dashed rungs represent base-pair hydrogen bonds; the rails represent covalent sugar–phosphate backbones."
+      },
+      {
+        "id": "biol112-dna-rna-transcription",
+        "front": "A cell makes RNA using a DNA template. Which process is this?",
+        "prompt": "A cell makes RNA using a DNA template. Which process is this?",
+        "back": "Transcription — RNA synthesis from a DNA template.",
+        "concept": "Transcription",
+        "deck": 11,
+        "figure": "",
+        "kind": "Apply & identify",
+        "sources": [],
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": "Gene-expression regulation controls when and how much RNA is transcribed; it does not replace the DNA template.",
+        "answerFigure": "information-flow"
+      },
+      {
+        "id": "biol112-dna-rna-replication",
+        "front": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+        "prompt": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+        "back": "Replication — DNA synthesis; each daughter DNA molecule contains one parental strand and one newly made strand.",
+        "concept": "Replication",
+        "deck": 11,
+        "figure": "",
+        "kind": "Apply & identify",
+        "sources": [],
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": "",
+        "answerFigure": "information-flow"
+      },
+      {
+        "id": "biol112-dna-rna-translation",
+        "front": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+        "prompt": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+        "back": "Translation — protein synthesis using the nucleotide sequence of mRNA.",
+        "concept": "Translation",
+        "deck": 11,
+        "figure": "",
+        "kind": "Apply & identify",
+        "sources": [],
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": "",
+        "answerFigure": "information-flow"
+      },
+      {
+        "id": "biol112-dna-rna-mutation",
+        "front": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+        "prompt": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+        "back": "Mutation — a change in the DNA sequence.",
+        "concept": "Mutation",
+        "deck": 11,
+        "figure": "",
+        "kind": "Apply & identify",
+        "sources": [],
+        "sourceLabel": "DNA & RNA matching notes · supplied October 5",
+        "studyNote": "A SNP is variation at a single nucleotide position. A deletion and a mutation in general are not automatically SNPs."
       }
     ]
   },
@@ -6472,7 +6513,7 @@ export const DECKS = [
     ]
   }
 ];
-export const GUIDE = "# Molecule Study · active recall\n\n276 flashcards and 163 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n\n## October 3 curriculum and structure review\nThe teacher’s complete supplied requirements are preserved verbatim in BIOL112_Syllabus_Original.txt. Unit and Module views quote slices of that source. Navigation has 2 units and 8 modules. No requirements or missing objectives were written for the teacher. Existing cards were reassigned with stable IDs; Module 1-2 awaits course materials. All 276 existing cards were reviewed for diagram needs without altering question or answer text. See STRUCTURE_REVIEW.json for each decision. Course/module percentages describe current card mastery, not complete syllabus coverage.\n";
+export const GUIDE = "# Molecule Study · active recall\n\n355 flashcards and 183 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n\n## October 3 curriculum and structure review\nThe teacher’s complete supplied requirements are preserved verbatim in BIOL112_Syllabus_Original.txt. Unit and Module views quote slices of that source. Navigation has 2 units and 8 modules. No requirements or missing objectives were written for the teacher. Existing cards were reassigned with stable IDs; Module 1-2 awaits course materials. All 276 existing cards were reviewed for diagram needs without altering question or answer text. See STRUCTURE_REVIEW.json for each decision. Course/module percentages describe current card mastery, not complete syllabus coverage.\n";
 export const TESTS = [
   {
     "id": "t-452a82fad6cb0c",
@@ -9128,6 +9169,96 @@ export const TESTS = [
     ],
     "explanation": "The repeating N–Cα–carbonyl-C chain.",
     "concept": "Tracing the backbone"
+  },
+  {
+    "id": "t-f2274ed088f7bf",
+    "cardId": "f2274ed088f7bf",
+    "deck": 11,
+    "prompt": "Which covalent linkage joins the 3′-OH of one nucleotide to the 5′-phosphate of the next?",
+    "figure": "",
+    "options": [
+      "Phosphodiester bond",
+      "Hydrogen bond",
+      "Peptide bond",
+      "Glycosidic bond"
+    ],
+    "explanation": "A phosphodiester bond: a covalent 3′–O–P–O–5′ connection in the DNA/RNA backbone.",
+    "concept": "Phosphodiester backbone"
+  },
+  {
+    "id": "t-aae076b90b7766",
+    "cardId": "aae076b90b7766",
+    "deck": 11,
+    "prompt": "Which bonds link complementary bases across paired DNA strands?",
+    "figure": "",
+    "options": [
+      "Noncovalent hydrogen bonds",
+      "Covalent phosphodiester bonds",
+      "Covalent peptide bonds",
+      "Ionic bonds"
+    ],
+    "explanation": "Noncovalent hydrogen bonds link complementary base pairs; covalent phosphodiester bonds run along each backbone.",
+    "concept": "Base pairing bonds"
+  },
+  {
+    "id": "t-biol112-dna-rna-transcription",
+    "cardId": "biol112-dna-rna-transcription",
+    "deck": 11,
+    "prompt": "A cell makes RNA using a DNA template. Which process is this?",
+    "figure": "",
+    "options": [
+      "Transcription",
+      "Replication",
+      "Translation",
+      "Mutation"
+    ],
+    "explanation": "Transcription — RNA synthesis from a DNA template.",
+    "concept": "Transcription"
+  },
+  {
+    "id": "t-biol112-dna-rna-replication",
+    "cardId": "biol112-dna-rna-replication",
+    "deck": 11,
+    "prompt": "Each parental DNA strand templates a new complementary DNA strand. Which process is this?",
+    "figure": "",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Translation",
+      "Mutation"
+    ],
+    "explanation": "Replication — DNA synthesis; each daughter DNA molecule contains one parental strand and one newly made strand.",
+    "concept": "Replication"
+  },
+  {
+    "id": "t-biol112-dna-rna-translation",
+    "cardId": "biol112-dna-rna-translation",
+    "deck": 11,
+    "prompt": "A ribosome reads mRNA codons to assemble an amino-acid sequence. Which process is this?",
+    "figure": "",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Mutation"
+    ],
+    "explanation": "Translation — protein synthesis using the nucleotide sequence of mRNA.",
+    "concept": "Translation"
+  },
+  {
+    "id": "t-biol112-dna-rna-mutation",
+    "cardId": "biol112-dna-rna-mutation",
+    "deck": 11,
+    "prompt": "A gene is deleted or one DNA nucleotide is changed. What general term covers both changes?",
+    "figure": "",
+    "options": [
+      "Mutation",
+      "Transcription",
+      "Translation",
+      "Replication"
+    ],
+    "explanation": "Mutation — a change in the DNA sequence.",
+    "concept": "Mutation"
   }
 ];
 export const CHEM_SHAPES = [
