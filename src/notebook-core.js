@@ -1,7 +1,7 @@
 import {normalizeImages} from './notebook-media.js';
 // One question record, independent review events, and shared cross-chapter issues.
 export const emptyNotebook=()=>({questions:{},issues:{},attempts:{},chapters:{}});
-const courses=['BIOL 112','CHEM 121'];
+const courses=['BIOL 112','CHEM 121','BIOL 121'];
 const sourceFieldNames=['Question','Correct answer','My wrong answer','Key concept for this question',"What I didn't understand"];
 const sourceFields=v=>Object.fromEntries(sourceFieldNames.filter(k=>typeof v?.[k]==='string').map(k=>[k,text(v[k]) ]));
 const text=(v,n=8000)=>typeof v==='string'?v.slice(0,n):'';

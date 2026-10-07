@@ -6511,9 +6511,70 @@ export const DECKS = [
         "lectureReview": "Covered in supplied lecture"
       }
     ]
+  },
+  {
+    "course": "BIOL 121",
+    "unit": "Genetics",
+    "title": "Genetics vocabulary",
+    "file": "BIOL121_Genetics_Vocabulary.txt",
+    "masterFile": "BIOL121_Genetics_Master.txt",
+    "source": "Your supplied BIOL 121 vocabulary · original definitions",
+    "defaultFigure": "genetics-locus",
+    "figureKeys": [
+      "genetics-locus",
+      "genetics-pedigree"
+    ],
+    "cards": [
+      {
+        "id": "biol121-genetics-polygenic-trait",
+        "front": "Polygenic trait",
+        "prompt": "Polygenic trait",
+        "back": "A trait that shows continuous variation—usually normally distributed—due to the involvement of products from many different genes. Also called a quantitative trait.",
+        "deck": 15,
+        "concept": "Polygenic trait",
+        "kind": "Vocabulary",
+        "figure": "",
+        "sourceLabel": "BIOL 121 vocabulary · supplied definitions"
+      },
+      {
+        "id": "biol121-genetics-genetic-locus",
+        "front": "Genetic locus",
+        "prompt": "Genetic locus",
+        "back": "The physical location of a gene on a chromosome. The plural form is loci and is pronounced LOW-sigh.",
+        "deck": 15,
+        "concept": "Genetic locus",
+        "kind": "Vocabulary",
+        "figure": "",
+        "sourceLabel": "BIOL 121 vocabulary · supplied definitions",
+        "answerFigure": "genetics-locus"
+      },
+      {
+        "id": "biol121-genetics-genome",
+        "front": "Genome",
+        "prompt": "Genome",
+        "back": "All of the DNA, and thus all genes, in an individual of a particular species.",
+        "deck": 15,
+        "concept": "Genome",
+        "kind": "Vocabulary",
+        "figure": "",
+        "sourceLabel": "BIOL 121 vocabulary · supplied definitions"
+      },
+      {
+        "id": "biol121-genetics-pedigree",
+        "front": "Pedigree",
+        "prompt": "Pedigree",
+        "back": "A diagram summarizing the incidence of a genetic disease or other trait in a family. Pedigrees are used to identify the pattern of inheritance of specific traits and predict how likely offspring from a particular set of parents are to have a specific phenotype.",
+        "deck": 15,
+        "concept": "Pedigree",
+        "kind": "Vocabulary",
+        "figure": "",
+        "sourceLabel": "BIOL 121 vocabulary · supplied definitions",
+        "answerFigure": "genetics-pedigree"
+      }
+    ]
   }
 ];
-export const GUIDE = "# Molecule Study · active recall\n\n355 flashcards and 183 scored questions across BIOL 112 and CHEM 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n\n## October 3 curriculum and structure review\nThe teacher’s complete supplied requirements are preserved verbatim in BIOL112_Syllabus_Original.txt. Unit and Module views quote slices of that source. Navigation has 2 units and 8 modules. No requirements or missing objectives were written for the teacher. Existing cards were reassigned with stable IDs; Module 1-2 awaits course materials. All 276 existing cards were reviewed for diagram needs without altering question or answer text. See STRUCTURE_REVIEW.json for each decision. Course/module percentages describe current card mastery, not complete syllabus coverage.\n";
+export const GUIDE = "# Molecule Study · active recall\n\n359 flashcards and 187 scored questions across BIOL 112, CHEM 121 and BIOL 121. BIOL 112 → Macromolecules includes Proteins; BIOL 112 → Membranes contains Transport & gradients. Course and set progress count currently remembered/correct cards, with red below one third, yellow below 80%, green below 100%, and a star at completion. Account progress syncs between devices when connected; export a backup before clearing browser data.\n\nHover or tap highlighted terms on card backs for local structure diagrams and explanations. These are learning aids; close them and try recalling independently before rating a card.\n\n## A useful 20-minute session\n\n1. **Retrieve, 8 minutes.** Choose Due + new. Say or write your answer before revealing. Start with 15–25 cards rather than the whole master deck.\n2. **Draw, 5 minutes.** Sketch four randomly chosen groups/linkages from memory. Mark the atoms and bond orders that prove the identification. Then use Diagram lab to check.\n3. **Explain, 4 minutes.** Explain one mechanism aloud using “because,” “therefore,” and the relevant molecular change.\n4. **Apply, 3 minutes.** Answer an unfamiliar case below. Record the error, the correction, and the structural clue you missed.\n\nUse **Forgot** if you guessed, missed a required atom/charge, or could not explain your reasoning. Use **Remembered** only after a correct unaided answer. This is self-assessment, not automatic grading. The app schedules Forgot after 10 minutes and successful reviews after 1, 3, 7, 14, then 30 days. Needs practice keeps missed cards accessible immediately. All cards remains available for unrestricted study.\n\nKeyboard: **Space** flips between front and back, **1** marks Forgot, **2** marks Remembered. In Flashcards, **← / →** moves through the session; in Swipe review, **← / →** rates Forgot / Remembered. Shortcuts do not apply while typing or using a dialog. A session is a snapshot of the selected queue; changing a filter rebuilds it.\n\nThe bottom star saves a favorite (收藏). **Test** automatically scores curated multiple-choice questions; wrong answers save your choice and knowledge point in **Wrong deck (错题本)**. A successful later review resolves the active flag while **All missed · history** retains the mistake. Scored questions are available in Test for each set.\n\n## Draw these without looking\n\n- Hydroxyl, carboxyl, carboxylate, neutral amino, protonated amino, carbonyl, and methyl groups.\n- Ester, ether, amide/peptide, thioester, phosphoester, and phosphodiester linkages.\n- A generic amino acid with its α-carbon and R group; a dipeptide with N- and C-termini.\n- A nucleotide with sugar, phosphate, and base; number the sugar 1′ through 5′ and mark the growing 3′-OH.\n- A glucose-chain connection at 1→4 and a branch connection at 1→6. State α or β separately from the carbon numbers.\n- A bilayer, a liposome, and a micelle. Show where water can be and which regions face it.\n\nFor each drawing, explain one property caused by its structure. Never grade a drawing correct just because its overall silhouette looks familiar.\n\n## Identify an unfamiliar structure\n\n1. Read the element symbols, charges, and bond orders.\n2. Find any C=O, then inspect the atom directly attached to that carbon: O suggests ester, N suggests amide, S suggests thioester. An –OH/–O⁻ at that carbon instead gives carboxyl/carboxylate.\n3. If P is present, follow its oxygen connections. Count organic groups attached through O: one for a phosphate monoester, two for a phosphodiester.\n4. For a sugar-to-sugar linkage, identify the participating carbons and the anomeric configuration. C–O–C alone does not tell the whole story.\n5. Check the whole molecule before calling it a protein, lipid, or nucleic acid. One linkage is a clue, not proof of the molecule's identity.\n\n## Mixed application practice\n\nAttempt these before reading the key.\n\n1. A molecule contains CH₃–C(=O)–O–CH₂–CH₃. Identify the linkage and the feature that rules out an ether.\n2. Another contains CH₃–C(=O)–NH–CH₃. Which atom distinguishes it from the first linkage?\n3. A terminal nucleotide has no usable 3′-OH. Predict what happens when the next nucleotide is available.\n4. An enzyme cuts α(1→4) but not α(1→6). Will it eliminate every linkage in amylopectin?\n5. A circular aggregate encloses water; both the external and cavity-facing surfaces have polar heads. Identify it and count the leaflets across its wall.\n6. An answer claims that bilayer assembly is impossible because lipids lose entropy. Correct the missing part of the reasoning.\n7. If ΔS_lipids = −20 J/K and ΔS_water = +50 J/K, find total ΔS. With T = 300 K and ΔH = +5 kJ, calculate ΔG.\n8. O₂ and Na⁺ encounter a protein-free lipid bilayer. Predict which crosses more easily and why.\n9. A transporter couples downhill H⁺ movement to uphill glucose movement. Explain why this is active transport without direct ATP use by that transporter.\n10. A strand is drawn 3′ on the left and 5′ on the right. Point to the growing end without relying on page orientation.\n\n### Answer key\n\n1. Ester; a carbonyl carbon is directly bonded to the linking oxygen.\n2. Amide; N replaces the linking O at the carbonyl carbon.\n3. Normal chain extension stops because the next backbone linkage requires the terminal 3′-OH.\n4. No. The α(1→6) branch connections remain uncleaved by that enzyme.\n5. Liposome; two leaflets make its one bilayer wall.\n6. Include surrounding water. Tail burial releases constrained water; in the lecture model, the water-entropy increase exceeds the lipid-entropy decrease and helps make ΔG negative.\n7. +30 J/K = +0.030 kJ/K. TΔS = 9 kJ, so ΔG = 5 − 9 = −4 kJ.\n8. O₂, because it is small and nonpolar. Na⁺ faces the unfavorable hydrophobic interior.\n9. Secondary active transport uses energy stored in the H⁺ electrochemical gradient to drive uphill glucose movement.\n10. The left-hand 3′ end.\n\n## Explain the central mechanism\n\nGive this explanation from memory in about 45 seconds:\n\n**Exposed hydrophobic tails constrain nearby water → tails aggregate and expose less area → water is released into the bulk → water entropy rises → this outweighs lipid ordering in the lecture model → the entropy contribution lowers ΔG → a bilayer can form spontaneously.**\n\nThen distinguish this noncovalent assembly from esterification, which changes covalent bonds. Include ΔH when judging ΔG; positive ΔS alone does not guarantee a favorable process.\n\n## Small clarifications to the notes\n\n- **Sugar numbering:** use 1, 4, and 6 for glucose glycosidic linkages. Primes in 1′–5′ distinguish a nucleotide's sugar numbering from its base numbering. The notes' glucose prime marks are not needed.\n- **Phosphodiester:** 3′ and 5′ positions connect through sugar–O–P–O–sugar, not a direct carbon–carbon bond.\n- **Hydrophobic effect:** “ordered water” is the course's introductory model. Consider both water and lipid entropy. Spontaneous means favorable, not necessarily fast.\n- **Dehydration:** the equations summarize net reactions; cellular polymer synthesis uses enzymes and often activated reactants. Do not assume every cellular bond-forming mechanism releases water in one direct step.\n- **Double bonds:** a cis double bond produces the familiar fatty-acid kink; a double bond alone does not specify cis geometry.\n- **Membranes:** one bilayer has two leaflets. A double membrane means two bilayers. The nuclear envelope likewise has inner and outer membranes, joined at nuclear pores; “two layers” alone is ambiguous.\n- **Water:** “universal solvent” does not mean that all substances dissolve well in it.\n- **Organic molecules:** C–H bonds are a useful course clue, not a universal definition covering every chemical classification.\n- **Diagrams:** these are simplified structural diagrams; R/R′ means the rest of a molecule. Not every H or substituent is shown. Charges and bond orders shown are intentional; phosphate protonation can vary.\n\n## Quizlet import\n\nUse any one of the four set `.txt` files, or the combined master. Each line is exactly **front, TAB, back**, with no header or blank lines. Paste into Quizlet's import box and choose **Tab** between front/back and **New line** between cards. Preview before importing. Text imports contain readable structural formulas; the interactive SVG diagrams remain in the website.\n\n## Error log\n\n| Date | Card or concept | My mistake | Correct clue or explanation | Next review |\n| --- | --- | --- | --- | --- |\n| | | | | |\n\nRevisit missed items later today, then after 1, 3, and 7 days. Mix structures, directionality, and thermodynamics rather than finishing one deck once and never returning.\n\n\n## Content provenance\nThe September 18, 21, 27 and 28 notes were supplied by you. The textbook itself was not accessed. Existing transport cards retain their IDs after moving into Membranes. The new material adds 2 R-group application cards and 10 transport applications, with matching scored questions. Repeated definitions and protein-structure explanations were retained in their existing cards rather than duplicated.\n\n## Transport class overview\nThe Transport & gradients set now includes 36 cards: directional-flux calculations, uniport/cotransport, energy coupling, membrane voltage, human-cell examples and drawing practice. Draw on paper before revealing the symport/antiport answer diagram; this drawing is self-assessed, not automatically scored. Other new cards have scored Test questions. Previously covered definitions remain in their existing cards.\n\n## October 3 curriculum and structure review\nThe teacher’s complete supplied requirements are preserved verbatim in BIOL112_Syllabus_Original.txt. Unit and Module views quote slices of that source. Navigation has 2 units and 8 modules. No requirements or missing objectives were written for the teacher. Existing cards were reassigned with stable IDs; Module 1-2 awaits course materials. All 276 existing cards were reviewed for diagram needs without altering question or answer text. See STRUCTURE_REVIEW.json for each decision. Course/module percentages describe current card mastery, not complete syllabus coverage.\n";
 export const TESTS = [
   {
     "id": "t-452a82fad6cb0c",
@@ -9259,6 +9320,66 @@ export const TESTS = [
     ],
     "explanation": "Mutation — a change in the DNA sequence.",
     "concept": "Mutation"
+  },
+  {
+    "id": "t-biol121-genetics-polygenic-trait",
+    "cardId": "biol121-genetics-polygenic-trait",
+    "deck": 15,
+    "prompt": "Which term matches this definition?\n\nA trait that shows continuous variation—usually normally distributed—due to the involvement of products from many different genes. Also called a quantitative trait.",
+    "figure": "",
+    "options": [
+      "Polygenic trait",
+      "Genetic locus",
+      "Genome",
+      "Pedigree"
+    ],
+    "explanation": "A trait that shows continuous variation—usually normally distributed—due to the involvement of products from many different genes. Also called a quantitative trait.",
+    "concept": "Polygenic trait"
+  },
+  {
+    "id": "t-biol121-genetics-genetic-locus",
+    "cardId": "biol121-genetics-genetic-locus",
+    "deck": 15,
+    "prompt": "Which term matches this definition?\n\nThe physical location of a gene on a chromosome. The plural form is loci and is pronounced LOW-sigh.",
+    "figure": "",
+    "options": [
+      "Genetic locus",
+      "Polygenic trait",
+      "Genome",
+      "Pedigree"
+    ],
+    "explanation": "The physical location of a gene on a chromosome. The plural form is loci and is pronounced LOW-sigh.",
+    "concept": "Genetic locus"
+  },
+  {
+    "id": "t-biol121-genetics-genome",
+    "cardId": "biol121-genetics-genome",
+    "deck": 15,
+    "prompt": "Which term matches this definition?\n\nAll of the DNA, and thus all genes, in an individual of a particular species.",
+    "figure": "",
+    "options": [
+      "Genome",
+      "Polygenic trait",
+      "Genetic locus",
+      "Pedigree"
+    ],
+    "explanation": "All of the DNA, and thus all genes, in an individual of a particular species.",
+    "concept": "Genome"
+  },
+  {
+    "id": "t-biol121-genetics-pedigree",
+    "cardId": "biol121-genetics-pedigree",
+    "deck": 15,
+    "prompt": "Which term matches this definition?\n\nA diagram summarizing the incidence of a genetic disease or other trait in a family. Pedigrees are used to identify the pattern of inheritance of specific traits and predict how likely offspring from a particular set of parents are to have a specific phenotype.",
+    "figure": "",
+    "options": [
+      "Pedigree",
+      "Polygenic trait",
+      "Genetic locus",
+      "Genome"
+    ],
+    "explanation": "A diagram summarizing the incidence of a genetic disease or other trait in a family. Pedigrees are used to identify the pattern of inheritance of specific traits and predict how likely offspring from a particular set of parents are to have a specific phenotype.",
+    "concept": "Pedigree"
   }
 ];
 export const CHEM_SHAPES = [

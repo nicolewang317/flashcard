@@ -1,0 +1,4 @@
+Polygenic trait	A trait that shows continuous variation—usually normally distributed—due to the involvement of products from many different genes. Also called a quantitative trait.
+Genetic locus	The physical location of a gene on a chromosome. The plural form is loci and is pronounced LOW-sigh.
+Genome	All of the DNA, and thus all genes, in an individual of a particular species.
+Pedigree	A diagram summarizing the incidence of a genetic disease or other trait in a family. Pedigrees are used to identify the pattern of inheritance of specific traits and predict how likely offspring from a particular set of parents are to have a specific phenotype.

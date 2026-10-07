@@ -9,7 +9,7 @@ const hash=x=>createHash('sha256').update(x).digest('hex');
 test('original 276-card baseline is unchanged apart from explicitly archived DNA/RNA revisions',()=>{
  const revisions=JSON.parse(fs.readFileSync(new URL('../docs/DNA_RNA_CARD_REVISIONS.json',import.meta.url)));
  const originals=new Map(revisions.before.map(c=>[c.id,c]));
- const rows=DECKS.flatMap(d=>d.cards).filter(c=>!c.id.startsWith('biol112-lecture-')&&!c.id.startsWith('biol112-dna-rna-')).map(c=>originals.get(c.id)||c).map(({id,front,prompt,back})=>({id,front,prompt,back})).sort((a,b)=>a.id.localeCompare(b.id));
+ const rows=DECKS.flatMap(d=>d.cards).filter(c=>!c.id.startsWith('biol121-')&&!c.id.startsWith('biol112-lecture-')&&!c.id.startsWith('biol112-dna-rna-')).map(c=>originals.get(c.id)||c).map(({id,front,prompt,back})=>({id,front,prompt,back})).sort((a,b)=>a.id.localeCompare(b.id));
  assert.equal(rows.length,276);assert.equal(hash(JSON.stringify(rows)),'b0dbfdfdf0cf0a4723e203edc79408d166bd84dca0d560c56375c2914b3ede19');
 });
 test('full source archive is immutable and identical to the downloadable original',()=>{
@@ -34,6 +34,6 @@ test('all reviewed models resolve, every card has an audit row, and unit exports
  const cards=DECKS.flatMap(d=>d.cards);assert.equal(audit.length,cards.length);
  const keys=new Set([...Object.keys(FIGURES),...CHEM_SHAPES.map(s=>'v-'+s.key)]);
  for(const c of cards){assert.equal(audit.filter(r=>r.id===c.id).length,1);if(c.answerFigure)assert.ok(keys.has(c.answerFigure),c.answerFigure);}
- assert.equal(cards.filter(c=>c.answerFigure).length,280);
+ assert.equal(cards.filter(c=>c.answerFigure).length,282);
  for(const unit of ['Unit 1','Unit 2']){const filename='BIOL112_'+unit.replace(' ','')+'_Master.txt';assert.equal(fs.readFileSync(new URL('../public/'+filename,import.meta.url),'utf8').trim().split('\n').length,DECKS.filter(d=>d.unit===unit).flatMap(d=>d.cards).length);}
 });

@@ -1,8 +1,8 @@
 # Molecule Study
 
-A personal flashcard library for BIOL 112 and CHEM 121, with Supabase sign-in and automatic progress syncing between a phone and Mac.
+A personal flashcard library for BIOL 112, CHEM 121 and BIOL 121, with Supabase sign-in and automatic progress syncing between a phone and Mac.
 
-- 355 flashcards across fifteen sets and 183 scored questions, with original study diagrams.
+- 359 flashcards across sixteen sets and 187 scored questions, with original study diagrams.
 - Course and set mastery rings, plus structure-and-information popovers on highlighted answer terms.
 - BIOL 112 follows Unit 1 / Unit 2 and Modules 1-1 through 2-6. The teacher’s complete supplied requirements are archived verbatim and quoted at each level.
 - 277 cards have structure-reference diagrams; all 276 earlier question/answer texts and card IDs are preserved. Lecture 2–10 adds 75 distinct cards, including Module 1-2 growth curves. Existing cards do not imply complete objective coverage.
@@ -98,3 +98,7 @@ All nine supplied PDFs (319 pages) were read. [Integration and all new cards](do
 ## Course mistake notebooks
 
 Each course has a new **错题本** with four views over one question collection: 全部 / 按章节 / 按共性问题 / 待复习. New Test errors enter automatically; manual question entry, shared cross-chapter summaries and filters are supported. Open a question for focused review: original prompt/screenshots → reveal answer → correct/incorrect with optional reflection → save and next. Dated results stay under that question; older notes are collapsed. No replacement illustration is inferred. The original forgotten-card view is now **未记牢卡片**, with its existing records preserved. See [notebook behavior and sync validation](docs/NOTEBOOK.md). No database migration is required.
+
+## BIOL 121 vocabulary
+
+Genetics → Genetics vocabulary contains four supplied terms: Polygenic trait, Genetic locus, Genome and Pedigree. Definitions are preserved verbatim in cards and docs/BIOL121_VOCABULARY_ORIGINAL.json. Matching Test questions, a separate course mastery indicator, favorites, review progress, exports and course notebook support are included. Locus and pedigree cards use small illustrative diagrams only on the answer side.

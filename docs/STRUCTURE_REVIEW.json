@@ -4613,5 +4613,57 @@
     "frontFigure": null,
     "answerFigure": null,
     "reason": "用户提供的 matching notes；重复条目合并，结构或流程在背面显示。"
+  },
+  {
+    "id": "biol121-genetics-polygenic-trait",
+    "course": "BIOL 121",
+    "originalDeck": null,
+    "finalDeck": 15,
+    "module": null,
+    "question": "Polygenic trait",
+    "answer": "A trait that shows continuous variation—usually normally distributed—due to the involvement of products from many different genes. Also called a quantitative trait.",
+    "frontFigure": null,
+    "answerFigure": null,
+    "decision": "新增；保留用户提供定义原文",
+    "reason": "词汇释义，不添加无关结构图。"
+  },
+  {
+    "id": "biol121-genetics-genetic-locus",
+    "course": "BIOL 121",
+    "originalDeck": null,
+    "finalDeck": 15,
+    "module": null,
+    "question": "Genetic locus",
+    "answer": "The physical location of a gene on a chromosome. The plural form is loci and is pronounced LOW-sigh.",
+    "frontFigure": null,
+    "answerFigure": "genetics-locus",
+    "decision": "新增；保留用户提供定义原文",
+    "reason": "背面配示例小图辅助理解；正面不泄露答案。"
+  },
+  {
+    "id": "biol121-genetics-genome",
+    "course": "BIOL 121",
+    "originalDeck": null,
+    "finalDeck": 15,
+    "module": null,
+    "question": "Genome",
+    "answer": "All of the DNA, and thus all genes, in an individual of a particular species.",
+    "frontFigure": null,
+    "answerFigure": null,
+    "decision": "新增；保留用户提供定义原文",
+    "reason": "词汇释义，不添加无关结构图。"
+  },
+  {
+    "id": "biol121-genetics-pedigree",
+    "course": "BIOL 121",
+    "originalDeck": null,
+    "finalDeck": 15,
+    "module": null,
+    "question": "Pedigree",
+    "answer": "A diagram summarizing the incidence of a genetic disease or other trait in a family. Pedigrees are used to identify the pattern of inheritance of specific traits and predict how likely offspring from a particular set of parents are to have a specific phenotype.",
+    "frontFigure": null,
+    "answerFigure": "genetics-pedigree",
+    "decision": "新增；保留用户提供定义原文",
+    "reason": "背面配示例小图辅助理解；正面不泄露答案。"
   }
 ]
