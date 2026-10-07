@@ -25,3 +25,16 @@
 Shared issues may now specify `pinnedChapters` (editable as one chapter title per line). Those exact summaries appear above that chapter's questions; the underlying issue records remain shared with the common-problem view. Approved chemistry answer diagrams appear inside the answer disclosure and can be opened at full size. The separate `illustration` field survives editing, normalization, backup and synchronization. Existing screenshot uploads, image-only questions, concept tags, custom chapters and account ownership protections from the latest deployed source are preserved.
 
 The generic chemistry structure assets are public educational diagrams. Personal mistake records and account identifiers are not bundled in the website source. The enolate illustration is explicitly a screenshot example, not a reconstruction of unspecified A/B contributor drawings. Source definitions: https://goldbook.iupac.org/terms/view/C01309 and https://openstax.org/books/chemistry-2e/pages/7-4-formal-charges-and-resonance .
+
+## 逐题复习（2026-10-06，取代旧的单题展开方式）
+
+- 四个入口和筛选保留，列表只显示原题摘要、状态、记录日期和编辑入口。点开一道题或「开始逐题复习」后，使用当前筛选 / 章节 / 共性问题中的题目 ID 建立本轮队列；队列去重，复习期间顺序不会因刚保存的结果跳动。
+- 初始只有完整原题、原始题图 / 截图和原题选项。不会从关联 flashcard 的默认模型猜图，也不再自动显示 `illustration` 指向的补充化学解答示意图。原有这个字段和文件不删除，仅停止自动展示。Test 题只重用它自己的原图；旧记录只有题干与已知 Test 题完全一致时，才恢复该题的原图和选项。
+- 「显示答案」后显示完整正确答案，以及可选 `reminder` 的前两句；不会自动用长笔记生成提醒。提醒可以在题目编辑页填写，超出两句的原始内容保留于「以往笔记」。原题和原有长笔记均不改写。
+- 选择「答对 / 答错」，可选输入「这次为什么错或有什么新发现」，点击「保存并下一题」（末题为「保存并完成」）。未选择结果不能保存。成功保存后进入下一题，并重新隐藏答案；结束显示本轮完成。
+- 每次复习独立保存 `reflection`、日期和对错，历史的 `chosen` 仍表示当时回答，两者不混用。日期、对错和当次原因在同题的「历次记录」里查看；无原因的旧记录标明未填写，不替用户编造原因。
+- 「以往笔记」默认折叠，收纳原有错因、长笔记、来源、知识点和共性问题总结；初次看题时不显示历史和笔记，防止答案泄露。
+- 同一题只存在于 `questions` 一次；所有视图使用同一 `attempts` 集合。保存失败重试沿用尝试 ID，防止重复计数。账号或课程切换不允许将当前复盘写到另一个账号 / 课程；同账号后台刷新保留正在输入的草稿。
+- 新增字段兼容旧备份和既有事件同步协议，无数据库迁移。本轮没有操作真实账号数据，也未自动发布线上版本。
+
+验证：65 项自动测试通过；浏览器隔离样本验证原题隐藏答案、原图放大、答案与最多两句提醒、必选评分、可选原因、保存下一题 / 完成、失败重试、刷新后的历史、章节筛选、跨章节共性问题计数、待复习队列和手机布局。正式账号跨设备同步未进行现场操作；事件投影及重复导入由自动测试覆盖。

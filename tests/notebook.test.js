@@ -40,3 +40,28 @@ test('chapter overview pins and approved structure references survive normalizat
  assert.deepEqual(mergeNotebooks(normalized,normalized),normalized);
  q.illustration='../../private';assert.equal(normalizeNotebook(n).questions[q.id].illustration,'');
 });
+
+test('one-question review keeps per-attempt reflections through sync, retries and backup imports',async()=>{
+ const {recordReview}=await import('../src/notebook-core.js');const db=emptyStudy();
+ recordTest(db.notebook,{...sample,originalFigure:'ester',options:['Ether','Ester','Amide','Thioester']},false,'Ether',1);
+ const q=db.notebook.questions['test:one'];q.notes='Original long notes stay unchanged.';q.reminder='Check the carbonyl. Then inspect the bonded atom.';q.source='Original worksheet';
+ const first={questionId:q.id,course:q.course,ok:false,reflection:'I missed the carbonyl.',id:'review-1',at:2};
+ recordReview(db.notebook,first);recordReview(db.notebook,{...first,at:9});
+ recordReview(db.notebook,{...first,ok:true,reflection:'Now I can distinguish O from N.',id:'review-2',at:3});
+ const events=changesToEvents(emptyStudy(),db).map((e,i)=>({...e,seq:i+1}));const restored=projectStudy([],events.concat(events));
+ const merged=mergeNotebooks(restored.notebook,restored.notebook);const stats=questionStats(merged,merged.questions[q.id],4);
+ assert.equal(stats.events.length,3);assert.equal(stats.misses,2);assert.equal(merged.attempts['review-1'].at,2);assert.equal(merged.attempts['review-1'].reflection,first.reflection);assert.equal(merged.attempts['review-2'].reflection,'Now I can distinguish O from N.');
+ assert.equal(merged.questions[q.id].notes,q.notes);assert.equal(merged.questions[q.id].source,q.source);assert.equal(merged.questions[q.id].reminder,q.reminder);assert.deepEqual(merged.questions[q.id].options,['Ether','Ester','Amide','Thioester']);assert.equal(merged.questions[q.id].originalFigure,'ester');
+ assert.throws(()=>recordReview(merged,{...first,course:'CHEM 121',id:'wrong-owner-course'}));assert.equal(Object.keys(merged.questions).length,1);
+});
+test('key reminders show at most two sentences without changing stored long notes',async()=>{
+ const {shortReminder}=await import('../src/notebook-core.js');assert.equal(shortReminder('先数电子。再检查八隅体。最后优化电荷。'),'先数电子。再检查八隅体。');assert.equal(shortReminder('Count electrons. Check the octet. Compare charges.'),'Count electrons. Check the octet.');assert.equal(shortReminder(''),'');
+});
+
+test('imported questions remain unreviewed without fabricated misses and preserve all five source fields',()=>{
+ const db=emptyStudy(),original={Question:'Original prompt','Correct answer':'Original answer','My wrong answer':'Reported original error','Key concept for this question':'Original concept',"What I didn't understand":'Original uncertainty'};
+ const q={...sample,id:'imported',concepts:['Resonance','Formal charge'],issueIds:[],images:[],sourceFields:original,createdAt:1,updatedAt:1};db.notebook.questions[q.id]=q;
+ let stats=questionStats(db.notebook,q);assert.equal(stats.status,'unreviewed');assert.equal(stats.due,true);assert.equal(stats.misses,0);assert.equal(stats.events.length,0);
+ const events=changesToEvents(emptyStudy(),db).map((e,i)=>({...e,seq:i+1}));const restored=projectStudy([],events);assert.deepEqual(restored.notebook.questions[q.id].sourceFields,original);assert.deepEqual(mergeNotebooks(restored.notebook,restored.notebook).questions[q.id].sourceFields,original);
+ addAttempt(db.notebook,q,false);stats=questionStats(db.notebook,q);assert.equal(stats.status,'unresolved');assert.equal(stats.misses,1);
+});
