@@ -231,6 +231,23 @@ main>header{flex:none}
 }
 .molecule-structure svg{max-height:185px}
 
+/* Keep each card the same size while allowing long prompts and answers to be read. */
+#panel.card-study-panel .card-face .card-content{
+ overflow-x:hidden;
+ overflow-y:auto;
+ justify-content:flex-start;
+ overscroll-behavior:contain;
+ scrollbar-width:thin;
+ scrollbar-color:#9db5d7 transparent;
+ touch-action:pan-y;
+ -webkit-overflow-scrolling:touch;
+}
+#panel.card-study-panel .card-face .card-content::-webkit-scrollbar{width:6px}
+#panel.card-study-panel .card-face .card-content::-webkit-scrollbar-thumb{background:#9db5d7;border-radius:8px}
+#panel.card-study-panel .card-face .card-content::-webkit-scrollbar-track{background:transparent}
+#panel.card-study-panel .flip-hint{cursor:default}
+@media(max-width:780px){#panel.card-study-panel .card-face .flip-hint{font-size:9px;line-height:1.2}}
+
 /* Official course structure and read-only source archive. */
 .curriculum-unit{margin:8px 0 14px 7px;border-left:2px solid #cbdaf0;padding:8px 0 8px 12px}
 .curriculum-unit>summary{font-size:18px;line-height:1.35;padding:4px 0;cursor:pointer}
