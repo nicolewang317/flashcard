@@ -1,3 +1,4 @@
+import {mergeCardEdits} from './custom-cards.js';
 import {mergeNotebooks} from './notebook-core.js';
 import { emptyStudy,copy,same,projectStudy,changesToEvents } from './sync-core.js';
 import { canonicalCardId } from './card-migrations.js';
@@ -59,6 +60,7 @@ export class CloudSync {
   for(let i=0;i<cards.length;i+=50){const {error}=await this.client.rpc('import_study_baselines',{items:cards.slice(i,i+50)});if(error)throw error;if(generation!==this.generation)throw Error('Account changed during import.');}
   await this.sync();const current=this.readUI(),merged=copy(current);
   for(const[course,test]of Object.entries(data.activeTests||{}))if(!merged.activeTests[course])merged.activeTests[course]=test;
+  merged.cardEdits=mergeCardEdits(merged.cardEdits,data.cardEdits);
   merged.notebook=mergeNotebooks(merged.notebook,data.notebook);
   merged.testHistory.push(...(data.testHistory||[]));this.capture(merged);await this.sync();
  }

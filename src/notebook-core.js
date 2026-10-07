@@ -26,23 +26,23 @@ export function questionStats(n,q,now=Date.now()){
  return {events,misses,last,status,recent:Math.max(q.updatedAt,last?.at||0),due:status==='unreviewed'||status==='unresolved'||status==='reviewing'&&last.at+86400000<=now};
 }
 export function issueStats(n,issue){const questions=Object.values(n.questions).filter(q=>q.course===issue.course&&q.issueIds.includes(issue.id));return {questions,count:questions.length,misses:questions.reduce((v,q)=>v+questionStats(n,q).misses,0)}}
-export function addAttempt(n,q,ok,chosen='',source='复习',at=Date.now(),id=crypto.randomUUID()){n.attempts[id]={id,questionId:q.id,course:q.course,ok,chosen,source,at};return n.attempts[id]}
+export function addAttempt(n,q,ok,chosen='',source='Review',at=Date.now(),id=crypto.randomUUID()){n.attempts[id]={id,questionId:q.id,course:q.course,ok,chosen,source,at};return n.attempts[id]}
 export function recordTest(n,{id,course,chapter,prompt,answer,concept,sourceCardId='',originalFigure='',options=[]},ok,chosen,at=Date.now()){
  const key='test:'+id;
  if(ok&&!n.questions[key])return;
- n.questions[key]??={id:key,course,chapter,prompt,answer,sourceCardId,originalFigure,options,concepts:[concept],issueIds:[],reason:'待分析',notes:'',createdAt:at,updatedAt:at};
+ n.questions[key]??={id:key,course,chapter,prompt,answer,sourceCardId,originalFigure,options,concepts:[concept],issueIds:[],reason:'To analyze',notes:'',createdAt:at,updatedAt:at};
  addAttempt(n,n.questions[key],ok,chosen,'Test',at);
 }
 
 // A stable attempt ID makes a failed-save retry idempotent; each deliberate new review gets a new ID.
 export function recordReview(n,{questionId,course,ok,reflection='',id,at=Date.now()}){
  const q=n.questions[questionId];
- if(!q||q.course!==course||typeof ok!=='boolean'||!id)throw Error('无法保存这道题的复习记录。');
+ if(!q||q.course!==course||typeof ok!=='boolean'||!id)throw Error('Could not save this review.');
  if(n.attempts[id]){
-  if(n.attempts[id].questionId!==questionId||n.attempts[id].course!==course)throw Error('复习记录不匹配。');
+  if(n.attempts[id].questionId!==questionId||n.attempts[id].course!==course)throw Error('Review record does not match.');
   return n.attempts[id];
  }
- const a=addAttempt(n,q,ok,'','逐题复习',at,id);a.reflection=text(reflection,2000).trim();return a;
+ const a=addAttempt(n,q,ok,'','Question review',at,id);a.reflection=text(reflection,2000).trim();return a;
 }
 export function shortReminder(value){
  const content=text(value,600).trim();if(!content)return '';

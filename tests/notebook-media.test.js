@@ -15,10 +15,10 @@ test('cloud upload keeps originals private, and failed upload remains an error',
  const media=createNotebookMedia({client,getUser:()=>({id:uid})});const result=await media.upload(file);
  assert.equal(received.body,file);assert.equal(received.options.upsert,false);assert.ok(result.path.startsWith(uid+'/'));assert.equal(result.name,'original.png');
  const failing=createNotebookMedia({client:{storage:{from:()=>({upload:async()=>({error:new Error('offline')})})}},getUser:()=>({id:uid})});
- await assert.rejects(failing.upload(file),/上传失败/);
+ await assert.rejects(failing.upload(file),/upload failed/);
 });
 test('account switching during upload and foreign image reads are rejected',async()=>{
  let user={id:uid};const client={storage:{from:()=>({upload:async()=>{user={id:'another'};return {error:null}}})}};
- const media=createNotebookMedia({client,getUser:()=>user});await assert.rejects(media.upload(new File(['x'],'x.png',{type:'image/png'})),/账号已切换/);
- await assert.rejects(media.url(photo),/保存截图的账号/);
+ const media=createNotebookMedia({client,getUser:()=>user});await assert.rejects(media.upload(new File(['x'],'x.png',{type:'image/png'})),/Account changed/);
+ await assert.rejects(media.url(photo),/account that saved/);
 });
