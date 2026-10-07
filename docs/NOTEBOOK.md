@@ -38,3 +38,7 @@ The generic chemistry structure assets are public educational diagrams. Personal
 - 新增字段兼容旧备份和既有事件同步协议，无数据库迁移。本轮没有操作真实账号数据，也未自动发布线上版本。
 
 验证：65 项自动测试通过；浏览器隔离样本验证原题隐藏答案、原图放大、答案与最多两句提醒、必选评分、可选原因、保存下一题 / 完成、失败重试、刷新后的历史、章节筛选、跨章节共性问题计数、待复习队列和手机布局。正式账号跨设备同步未进行现场操作；事件投影及重复导入由自动测试覆盖。
+
+## Imported original fields and unreviewed state
+
+Imported questions may retain the five named original fields in `sourceFields`: Question, Correct answer, My wrong answer, Key concept for this question, What I didn't understand. The original text is also retained in the folded notes for older-client compatibility. Editing preserves the source archive. A question with no attempt events is explicitly 未复习 and remains available in 待复习; importing it does not fabricate an incorrect answer event or review date.
