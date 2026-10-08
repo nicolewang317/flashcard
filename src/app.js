@@ -133,9 +133,44 @@ function renderCards(){
  s+=`<p class="mode-note">${swipe?'← Forgot goes to your Forgotten cards · Remembered goes right →':'Think of your answer, then click the card to flip it.'}</p><div class="drag-wrap" id="drag-wrap"><div class="flip-scene" id="flip-scene"><div class="swipe-stamp left">Forgot</div><div class="swipe-stamp right">Remembered</div><div class="flip-card ${state.revealed?'is-flipped':''}" id="flip-card"><article class="card-face front" aria-label="Card front" aria-hidden="${state.revealed}" ${state.revealed?'inert':''}><div class="card-meta"><span class="kind">${esc(c.kind)}</span><span class="card-meta-actions"><span class="card-status">FRONT</span><button type="button" class="ask-ai" aria-label="Ask AI about this flashcard">Ask AI <span aria-hidden="true">✦</span></button></span></div><div class="card-content ${frontLong?'is-long':''}"><h2 class="question">${esc(c.prompt)}</h2>${cardGraphic(c)}${cardManager.imageHTML(c,'front')}</div><p class="flip-hint">Click or press Space to flip</p></article><article class="card-face back" aria-label="Card back" aria-hidden="${!state.revealed}" ${!state.revealed?'inert':''}><div class="card-meta"><span class="kind">${esc(c.concept)}</span><span class="card-meta-actions"><span class="card-status">BACK</span><button type="button" class="ask-ai" aria-label="Ask AI about this flashcard">Ask AI <span aria-hidden="true">✦</span></button></span></div><div class="card-content ${backLong?'is-long':''}"><p class="question">${esc(c.prompt)}</p><div class="answer">${highlightMolecules(c.back)}</div>${cardManager.imageHTML(c,'back')}${c.answerFigure&&c.answerFigure!==c.figure?`<div class="card-reference"><span class="reference-label">Structure reference</span>${figure(c.answerFigure,true)}</div>`:''}${cardExtras.trim()?`<button id="card-extras" class="card-extras-button">Course note & source</button>`:''}</div><p class="flip-hint">Swipe or scroll for more · tap highlighted terms for info · click outside to flip</p></article></div></div></div>${cardExtras.trim()?`<dialog id="card-extras-dialog" class="card-extras-dialog"><button class="close" aria-label="Close">×</button><h2>Course note & source</h2><div class="card-extras-content">${cardExtras}</div></dialog>`:''}<div class="card-footer"><button id="favorite" class="star-button" aria-pressed="${record(c.id).star}" aria-label="${record(c.id).star?'Remove favorite':'Add favorite'}">${starIcon}<span>${record(c.id).star?'Saved':'Favorite'}</span></button><button id="flip" class="quiet">${state.revealed?'Show front':'Flip to answer'} ↻</button></div><div class="rating-bar"><button id="forgot" class="secondary forgot" ${!swipe&&!state.revealed?'disabled':''}>← Forgot</button><button id="remembered" class="secondary remember" ${!swipe&&!state.revealed?'disabled':''}>Remembered →</button></div>`;
  }
  s+=`<div class="session-nav"><button id="previous" class="circle" aria-label="Previous card" ${state.pos===0?'disabled':''}>${icon('left',22)}</button><div class="session-text"><strong>${c?`Card ${state.pos+1} of ${n}`:n?'End of session':'Recall first. Reveal second.'}</strong><small>${swipe?'Drag left or right, or use the buttons.':'Space flips · 1 Forgot · 2 Remembered'}</small></div><button id="next" class="circle" aria-label="Skip card" ${!c?'disabled':''}>${icon('right',22)}</button></div><div class="progress" role="progressbar" aria-label="Session position" aria-valuemin="0" aria-valuemax="${Math.max(n,1)}" aria-valuenow="${Math.min(state.pos,n)}"><span style="width:${n?Math.min(state.pos/n*100,100):0}%"></span></div><div class="below"><span>${wrongCards().length} need review in ${DECKS[state.deck].unit} · ${syncUI?.isSignedIn()?'automatic sync enabled':'saved on this device'}</span><button class="quiet" id="show-source">Study tips & backups</button></div>`;
- $('#panel').innerHTML=s;$('#panel').classList.add('card-study-panel');cardManager.loadImages($('#panel'));
+ const panel=$('#panel');panel.innerHTML=s;panel.classList.add('card-study-panel');
+ panel.querySelectorAll('.flip-hint,.session-text small,.card-meta-actions .ask-ai').forEach(node=>node.remove());
+ if(c){
+  const reviewEnd=document.createElement('div');reviewEnd.className='review-end';
+  const management=panel.querySelector('.card-tools');management.before(reviewEnd);
+  const aiButton=document.createElement('button');aiButton.type='button';aiButton.id='ai-open-control';aiButton.className='ai-open-control';aiButton.textContent='Ask AI ✦';aiButton.setAttribute('aria-label','Open AI Study Assistant');
+  reviewEnd.append(aiButton,management);
+  const actionRow=document.createElement('div');actionRow.className='card-action-row';
+  const footer=panel.querySelector('.card-footer'),rating=panel.querySelector('.rating-bar'),navigation=panel.querySelector('.session-nav');
+  footer.before(actionRow);actionRow.append(footer,rating,navigation);
+  panel.querySelector('#forgot').textContent='Forgot';panel.querySelector('#remembered').textContent='Remembered';
+  updateFlipLabel();
+ }
+ cardManager.loadImages(panel);
+ panel.querySelectorAll('.card-content img').forEach(img=>{if(!img.complete)img.addEventListener('load',scheduleCardFit,{once:true})});
+ scheduleCardFit();
 }
-function flip(){moleculePopover.close();if(!current()||!['flashcards','swipe'].includes(state.tab))return;state.revealed=!state.revealed;const card=$('#flip-card');card.classList.toggle('is-flipped',state.revealed);for(const[sel,hide]of [['.front',state.revealed],['.back',!state.revealed]]){const face=card.querySelector(sel);face.setAttribute('aria-hidden',hide);face.inert=hide}$('#flip').textContent=state.revealed?'Show front ↻':'Flip to answer ↻';if(state.tab==='flashcards'){for(const id of ['forgot','remembered'])$('#'+id).disabled=!state.revealed}}
+let cardFitFrame=0;
+function scheduleCardFit(){
+ cancelAnimationFrame(cardFitFrame);
+ cardFitFrame=requestAnimationFrame(()=>{
+  if(!['flashcards','swipe'].includes(state.tab))return;
+  document.querySelectorAll('#panel .card-face .card-content').forEach(content=>{
+   const text=[...content.querySelectorAll('.question,.answer')].filter(node=>getComputedStyle(node).display!=='none');
+   text.forEach(node=>node.style.fontSize='');
+   if(!content.clientHeight)return;
+   const minimum=innerWidth<=780?14:16;
+   for(let step=0;step<14&&content.scrollHeight>content.clientHeight+2;step++){
+    let changed=false;
+    text.forEach(node=>{const size=parseFloat(getComputedStyle(node).fontSize);if(size>minimum){node.style.fontSize=`${Math.max(minimum,size-1)}px`;changed=true}});
+    if(!changed)break;
+   }
+  });
+ });
+}
+window.addEventListener('resize',scheduleCardFit);
+function updateFlipLabel(){const button=$('#flip');if(!button)return;button.textContent=state.revealed?'Front ↻':'Flip ↻';button.setAttribute('aria-label',state.revealed?'Show question':'Show answer')}
+function flip(){moleculePopover.close();if(!current()||!['flashcards','swipe'].includes(state.tab))return;state.revealed=!state.revealed;const card=$('#flip-card');card.classList.toggle('is-flipped',state.revealed);for(const[sel,hide]of [['.front',state.revealed],['.back',!state.revealed]]){const face=card.querySelector(sel);face.setAttribute('aria-hidden',hide);face.inert=hide}updateFlipLabel();scheduleCardFit();if(state.tab==='flashcards'){for(const id of ['forgot','remembered'])$('#'+id).disabled=!state.revealed}}
 function next(){if(state.pos<state.queue.length){state.pos++;state.revealed=false;renderCards()}}
 let ratingBusy=false;
 function rate(ok,animate=false){const c=current();if(!c||ratingBusy||state.tab==='flashcards'&&!state.revealed)return;ratingBusy=true;mark(c,ok,state.tab==='swipe'?'Swipe review':'Flashcards');const finish=()=>{state.pos++;state.revealed=false;ratingBusy=false;render();toast(ok?'Remembered · review scheduled':'Saved to Forgotten cards · '+c.concept)};if(animate){const wrap=$('#drag-wrap');wrap.classList.add('departing');wrap.style.transform=`translateX(${ok?280:-280}px) rotate(${ok?12:-12}deg)`;setTimeout(finish,180)}else finish()}
@@ -185,7 +220,7 @@ document.addEventListener('pointerup',e=>finishPointer(e));document.addEventList
 document.addEventListener('click',e=>{
  if(e.target.closest('.flashcard-images'))return;
  const b=e.target.closest('button');
- if(b?.classList.contains('ask-ai')){aiStudy.open();return}
+ if(b?.id==='ai-open-control'||b?.classList.contains('ask-ai')){aiStudy.open();return}
  if(b?.id==='card-extras'){$('#card-extras-dialog')?.showModal();return}
  if(e.target.closest('#flip-scene')){if(e.target.closest('button,a'))return;if(Date.now()>suppressClickUntil)flip();return}
  if(!b)return;
