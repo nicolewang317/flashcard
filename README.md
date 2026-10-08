@@ -24,6 +24,14 @@ npm run dev -- --port 3000
 
 Fill in `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY`. These are browser-safe values. Never use a Supabase secret/service-role key or database password in the frontend.
 
+To exercise the authenticated AI tutor locally, add an OpenAI API key to the ignored `.env.local` file, then run the Vercel development server so its `/api/ai/study` function runs too:
+
+```sh
+npx vercel dev --listen 3000
+```
+
+Sign in to the app, open a flashcard, and use **Ask AI**. The standard `npm run dev` command is still useful for frontend-only work but does not execute Vercel API functions. AI text and optional diagram requests are sent only after a signed-in user explicitly asks. `OPENAI_API_KEY` stays server-side; never prefix it with `VITE_`.
+
 ```sh
 npm test
 npm run build
@@ -50,9 +58,12 @@ Both tables enforce `auth.uid() = user_id` and grant no anonymous data access. T
 1. Import this GitHub repository into Vercel. Keep the repository root as the project root.
 2. Use the **Vite** preset, build command `npm run build`, and output directory `dist` (also in `vercel.json`).
 3. Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY` as environment variables. Redeploy if you change them after building.
-4. In Supabase → Authentication → Sign In / Providers, keep Email authentication and new user registration enabled, and turn **Confirm email OFF**. Save. The app checks the public Auth settings before registering and refuses to submit a signup while email confirmation is enabled or cannot be checked.
-5. In Supabase → Authentication → URL Configuration, set **Site URL** to `https://flashcard-three-omega.vercel.app` and the exact allowed redirect to `https://flashcard-three-omega.vercel.app/`. Password sign-in stays on the current site; these settings also avoid localhost destinations for older links.
-6. Open the deployed site. New users choose **Create account**, enter an email and a password of at least 8 characters, then confirm the password. Existing users choose **Sign in**. Use the same email and password on your phone.
+4. Add `OPENAI_API_KEY` as a server environment variable in Vercel. The Supabase URL and publishable key above are also used server-side to validate the signed-in session; the OpenAI key is never sent to the browser. Optional model overrides are `OPENAI_STUDY_MODEL` and `OPENAI_IMAGE_MODEL`.
+5. In Supabase → Authentication → Sign In / Providers, keep Email authentication and new user registration enabled, and turn **Confirm email OFF**. Save. The app checks the public Auth settings before registering and refuses to submit a signup while email confirmation is enabled or cannot be checked.
+6. In Supabase → Authentication → URL Configuration, set **Site URL** to `https://flashcard-three-omega.vercel.app` and the exact allowed redirect to `https://flashcard-three-omega.vercel.app/`. Password sign-in stays on the current site; these settings also avoid localhost destinations for older links.
+7. Open the deployed site. New users choose **Create account**, enter an email and a password of at least 8 characters, then confirm the password. Existing users choose **Sign in**. Use the same email and password on your phone.
+
+Ask AI is a right-side overlay on desktop and a full-screen sheet on small screens. It snapshots the current card and supplies its course hierarchy, Learn/Apply mode, source citations, and associated teaching notes. The server verifies the Supabase bearer token, limits request size and frequency, and owns the fixed tutor instructions. Diagram generation is explicit and on demand. Generated diagrams are AI study aids; check exact molecular structures against course sources. No card progress or notebook data is sent to the model.
 
 This is the owner's requested no-email setup: email addresses are account identifiers and their ownership is not verified. Registration and password sign-in do not depend on SMTP or an inbox. The app does not call OTP, resend, or password-reset-email endpoints. Passwords are handled by Supabase Auth, never added to progress records or backups. Session tokens are persisted by the Supabase SDK to keep the browser signed in.
 

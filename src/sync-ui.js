@@ -94,7 +94,7 @@ export function createSyncUI({getData,onData,getGuest,onAccountSwitch,qa=false})
  dialog.querySelector('#show-password').addEventListener('change',e=>{for(const input of dialog.querySelectorAll('input[name="password"],input[name="confirmPassword"]'))input.type=e.target.checked?'text':'password'});
  dialog.querySelector('#cancel-password').addEventListener('click',()=>setMode('signin'));
  dialog.querySelector('#password-help').addEventListener('click',()=>message('If you are still signed in on another device, open Account & sync → Set / change password there. Otherwise, contact the site owner to set or reset your password. No email is sent.'));
- if(!configured||qa){renderBar();updateEntry();return {getAccountId:()=>null,media:createNotebookMedia({getUser:()=>null,local:true}),isSignedIn:()=>false,capture:()=>{},importBackup:async()=>{throw Error('Sign in to import into your cloud account.')}}}
+ if(!configured||qa){renderBar();updateEntry();return {getAccountId:()=>null,getAccessToken:async()=>null,media:createNotebookMedia({getUser:()=>null,local:true}),isSignedIn:()=>false,capture:()=>{},importBackup:async()=>{throw Error('Sign in to import into your cloud account.')}}}
  const client=createClient(url,key,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true,flowType:'implicit'}});
  const media=createNotebookMedia({client,getUser:()=>user});
  const engine=new CloudSync({client,storage:localStorage,onData,onStatus:showStatus,readUI:getData});
@@ -134,5 +134,5 @@ export function createSyncUI({getData,onData,getGuest,onAccountSwitch,qa=false})
  window.addEventListener('pagehide',()=>engine.persist());
  renderBar();
  updateEntry();
- return {getAccountId:()=>user?.id,media,isSignedIn:()=>!!user,capture:data=>engine.capture(data),importBackup:data=>engine.importBackup(data)};
+ return {getAccountId:()=>user?.id,getAccessToken:async()=>{const{data,error}=await client.auth.getSession();return error?null:data.session?.access_token||null},media,isSignedIn:()=>!!user,capture:data=>engine.capture(data),importBackup:data=>engine.importBackup(data)};
 }

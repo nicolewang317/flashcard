@@ -294,3 +294,104 @@ main>header{flex:none}
 #panel.card-study-panel .card-extras-content .card-source{font-size:12px!important;text-align:left;margin:8px 0}
 #panel.card-study-panel .card-extras-content .card-study-note{font-size:13px!important;padding:10px;margin:10px 0}
 #panel.card-study-panel .card-extras-content .answer-context{font-size:14px;line-height:1.55;margin:10px 0}
+
+/* Focused flashcard study layout and contextual AI assistant. */
+body.focused-study{overflow:hidden}
+body.focused-study .shell{height:100dvh;min-height:0}
+body.focused-study main{height:100dvh;min-height:0;display:flex;flex-direction:column;overflow:hidden;padding:14px 26px 12px}
+body.focused-study main>header{flex:none}
+body.focused-study main>header h1{font-size:26px;margin-bottom:3px}
+body.focused-study main>header .subheading{font-size:12px;margin-bottom:10px}
+body.focused-study #mode-tabs{flex:none;margin:0 0 10px}
+body.focused-study #panel.card-study-panel{flex:1;min-height:0;overflow:hidden}
+body.focused-study #panel.card-study-panel>.review-controls{min-height:36px;margin-bottom:5px}
+body.focused-study #panel.card-study-panel .study-modes button{min-height:32px;padding:5px 10px}
+body.focused-study #panel.card-study-panel .toolbar .control,
+body.focused-study #panel.card-study-panel .toolbar .secondary{min-height:32px;padding:5px 10px}
+body.focused-study #panel.card-study-panel .toolbar select{width:140px;max-width:140px}
+body.focused-study #panel.card-study-panel .toolbar .count{margin-left:0}
+body.focused-study #panel.card-study-panel .mode-note{display:none}
+body.focused-study #panel.card-study-panel>.drag-wrap{flex:1;min-height:0;max-height:600px;width:100%;margin:auto;display:grid;place-items:center;perspective:1600px}
+body.focused-study #panel.card-study-panel .flip-scene{flex:none;width:min(100%,1015px,calc((100dvh - 285px)*1.75));height:auto;aspect-ratio:1.75;max-height:580px;perspective:1600px}
+body.focused-study #panel.card-study-panel .flip-card{height:100%;min-height:0}
+body.focused-study #panel.card-study-panel .card-face{height:100%;min-height:0;padding:22px 30px 16px;border-radius:20px}
+body.focused-study #panel.card-study-panel .card-face .card-content{justify-content:center;overflow:hidden;touch-action:auto}
+body.focused-study #panel.card-study-panel .card-face .card-content.is-long{justify-content:flex-start;overflow-y:auto;touch-action:pan-y}
+body.focused-study #panel.card-study-panel .card-face .question{font-size:clamp(20px,2.15vw,28px);line-height:1.34;margin:12px 0 16px}
+body.focused-study #panel.card-study-panel .card-face .answer{font-size:clamp(20px,2.05vw,27px);line-height:1.48}
+body.focused-study #panel.card-study-panel .card-face .figure svg{max-height:min(26vh,235px)}
+body.focused-study #panel.card-study-panel .card-face .card-reference .figure svg{max-height:min(18vh,165px)}
+.card-meta-actions{display:flex;align-items:center;gap:13px}
+.ask-ai{border:1px solid #d7e4f6;border-radius:20px;background:#fff;color:#315786;min-height:30px;padding:5px 10px;font-size:11px;font-weight:650;letter-spacing:0;text-transform:none;transition:background .15s,border-color .15s}
+.ask-ai:hover{background:#eef5ff;border-color:#a9c2e8}.ask-ai span{color:#3975cf}
+body.focused-study #panel.card-study-panel>.card-footer{display:flex;justify-content:center;gap:16px;margin:2px auto 0}
+body.focused-study #panel.card-study-panel>.card-footer button{min-height:30px;padding:4px 10px}
+body.focused-study #panel.card-study-panel>.rating-bar{justify-content:center;gap:12px;margin:5px 0 0}
+body.focused-study #panel.card-study-panel>.rating-bar button{min-width:132px;width:auto;flex:none;min-height:38px;padding:7px 16px}
+body.focused-study #panel.card-study-panel>.session-nav{margin:4px 0 1px;gap:18px}
+body.focused-study #panel.card-study-panel>.session-nav .circle{width:32px;height:32px}
+body.focused-study #panel.card-study-panel>.session-nav .session-text{font-size:12px}
+body.focused-study #panel.card-study-panel>.session-nav .session-text small{font-size:10px}
+body.focused-study #panel.card-study-panel>.progress{height:3px}
+body.focused-study #panel.card-study-panel>.below{margin-top:4px;font-size:10px}
+.study-overflow{position:relative;order:3;flex:none;z-index:8}
+.study-overflow>summary{display:grid;place-items:center;width:34px;height:32px;border:1px solid var(--border);border-radius:9px;background:#fff;color:var(--muted);font-size:16px;letter-spacing:1px;list-style:none;cursor:pointer}
+.study-overflow>summary::-webkit-details-marker{display:none}
+.study-overflow-menu{position:absolute;z-index:20;top:38px;right:0;display:grid;gap:3px;min-width:190px;padding:7px;border:1px solid var(--border);border-radius:12px;background:white;box-shadow:0 12px 30px #14275020}
+.study-overflow-menu button{min-height:36px;padding:8px 10px;border:0;border-radius:8px;background:white;color:var(--ink);font-size:12px;text-align:left}
+.study-overflow-menu button:hover{background:var(--pale)}
+
+.ai-study-drawer{position:fixed;inset:0 0 0 auto;margin:0 0 0 auto;width:min(400px,100vw);height:100dvh;max-height:100dvh;padding:0;border:0;border-left:1px solid var(--border);border-radius:0;background:#fff;color:var(--ink);box-shadow:-16px 0 44px #10245120;overflow:hidden}
+.ai-study-drawer[open]{display:flex;flex-direction:column}
+.ai-study-drawer::backdrop{background:#10245145;backdrop-filter:blur(2px)}
+.ai-study-header{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:19px 20px 14px;border-bottom:1px solid var(--border)}
+.ai-study-eyebrow{font-size:9px;letter-spacing:1.7px;color:var(--blue);font-weight:750}
+.ai-study-header h2{font-size:18px;line-height:1.2;margin:5px 0 0}
+.ai-close{width:34px;height:34px;border:1px solid var(--border);border-radius:50%;background:white;color:var(--muted);font-size:22px;line-height:1}
+.ai-study-context{display:grid;gap:4px;margin:14px 16px 11px;padding:12px 14px;border:1px solid var(--border);border-radius:12px;background:var(--pale)}
+.ai-context-label{font-size:9px;letter-spacing:1.2px;color:var(--muted);font-weight:700}
+.ai-study-context strong{font-size:14px;line-height:1.3}
+.ai-study-context>span:last-of-type{font-size:10px;line-height:1.4;color:var(--muted)}
+.ai-study-context p{font-size:11px;line-height:1.4;color:#405a7f;margin:3px 0 0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ai-study-actions{display:grid;grid-template-columns:1fr 1fr;gap:7px;padding:0 16px 12px}
+.ai-study-actions button{display:grid;gap:3px;min-height:51px;padding:8px 10px;text-align:left;border:1px solid #e0e8f4;border-radius:10px;background:white;color:var(--ink)}
+.ai-study-actions button:hover:not(:disabled){background:#f5f8fe;border-color:#b5c9e7}
+.ai-study-actions button:disabled{cursor:wait;opacity:.5}
+.ai-study-actions button strong{font-size:11px;font-weight:680}.ai-study-actions button span{font-size:9px;line-height:1.3;color:var(--muted)}
+.ai-study-actions button:last-child{grid-column:1/-1;min-height:45px}
+.ai-study-messages{flex:1;min-height:80px;overflow-y:auto;overscroll-behavior:contain;padding:4px 16px 10px}
+.ai-message{max-width:94%;margin:7px 0 11px;padding:10px 12px;border:1px solid #e2e9f3;border-radius:12px;background:#f8faff;overflow-wrap:anywhere}
+.ai-message.user{margin-left:auto;background:#edf4ff;border-color:#d4e3fa}
+.ai-message>strong{font-size:10px;color:var(--muted)}
+.ai-message p{white-space:pre-wrap;font-size:12px;line-height:1.6;margin:5px 0 0}
+.ai-message img{display:block;width:100%;height:auto;max-height:300px;object-fit:contain;margin-top:9px;border:1px solid #e0e7f1;border-radius:8px;background:white}
+.ai-thinking{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px;padding:9px 5px}
+.ai-spinner{width:15px;height:15px;border:2px solid #d6e3f6;border-top-color:var(--blue);border-radius:50%;animation:ai-spin .8s linear infinite}
+@keyframes ai-spin{to{transform:rotate(360deg)}}
+.ai-retry{margin-top:8px;border:0;background:none;color:var(--blue);padding:4px 0;font-size:11px;text-decoration:underline;text-underline-offset:3px}
+.ai-study-compose{display:flex;align-items:end;gap:8px;padding:12px 16px 5px;border-top:1px solid var(--border)}
+.ai-study-compose textarea{flex:1;min-width:0;resize:none;border:1px solid var(--border);border-radius:10px;padding:10px 11px;color:var(--ink);background:white;font-size:12px;line-height:1.45}
+.ai-study-compose button{min-height:40px;padding:8px 13px;font-size:12px}
+.ai-study-footnote{margin:4px 16px 12px;color:#71839e;font-size:9px;line-height:1.4}
+@keyframes ai-spin{to{transform:rotate(360deg)}}
+@media(max-width:780px){
+ body.focused-study{overflow:hidden}body.focused-study .shell{height:100dvh;min-height:0}body.focused-study aside{height:112px;flex:0 0 112px;position:relative;top:auto;padding:4px 14px;overflow-y:auto}body.focused-study .brand{font-size:22px;padding:0 8px;gap:8px}body.focused-study .brand svg{width:24px;height:30px}body.focused-study .course-tree{margin:2px 0 0}body.focused-study .course-heading{padding:6px 3px;font-size:14px}body.focused-study .course-utilities{margin:0;padding:2px 0}body.focused-study main{padding:8px 12px 8px}
+ body.focused-study main>header h1{font-size:19px;line-height:1.2}body.focused-study main>header .subheading{font-size:10px;margin-bottom:5px}
+ body.focused-study #mode-tabs{margin-bottom:5px}body.focused-study #mode-tabs .tab{padding:7px 7px 8px;font-size:11px}
+ body.focused-study #panel.card-study-panel>.review-controls{display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:auto auto;gap:3px 5px;margin-bottom:3px}
+ body.focused-study #panel.card-study-panel .study-modes{grid-row:1;grid-column:1;min-width:0}body.focused-study #panel.card-study-panel .card-tools{grid-row:1;grid-column:2}body.focused-study #panel.card-study-panel .toolbar{grid-row:2;grid-column:1/-1}
+ body.focused-study #panel.card-study-panel .study-modes button{min-height:27px;padding:4px 6px;font-size:10px;gap:3px}body.focused-study #panel.card-study-panel .study-modes button small{font-size:8px}
+ body.focused-study #panel.card-study-panel .toolbar{flex:1 1 75%;gap:4px;min-height:27px}body.focused-study #panel.card-study-panel .toolbar .control,body.focused-study #panel.card-study-panel .toolbar .secondary{min-height:27px;padding:3px 5px;font-size:9px}
+ body.focused-study #panel.card-study-panel .toolbar select{width:108px;max-width:108px}body.focused-study #panel.card-study-panel .toolbar .count{display:none}
+ .study-overflow{margin-left:auto}.study-overflow>summary{width:29px;height:27px;font-size:13px}
+ body.focused-study #panel.card-study-panel>.drag-wrap{min-height:0;max-height:none}body.focused-study #panel.card-study-panel .flip-scene{width:min(100%,calc((100dvh - 500px)*1.48));aspect-ratio:1.48}
+ body.focused-study #panel.card-study-panel .card-face{padding:14px 13px 10px;border-radius:16px}body.focused-study #panel.card-study-panel .card-face .card-content{padding:0 2px}
+ body.focused-study #panel.card-study-panel .card-face .question{font-size:clamp(16px,4.4vw,21px);line-height:1.27;margin:7px 0 10px}body.focused-study #panel.card-study-panel .card-face .answer{font-size:clamp(16px,4.2vw,21px);line-height:1.35;padding:11px 12px;margin-top:8px}
+ body.focused-study #panel.card-study-panel .card-face .figure svg{max-height:min(22dvh,165px)}.card-meta-actions{gap:6px}.ask-ai{min-height:26px;padding:4px 7px;font-size:9px}
+ body.focused-study #panel.card-study-panel>.card-footer{gap:7px}body.focused-study #panel.card-study-panel>.card-footer button{min-height:27px;padding:3px 7px;font-size:10px}
+ body.focused-study #panel.card-study-panel>.rating-bar{margin-top:3px;gap:7px}body.focused-study #panel.card-study-panel>.rating-bar button{min-width:0;min-height:34px;padding:6px 12px;font-size:11px}
+ body.focused-study #panel.card-study-panel>.session-nav{gap:7px;margin:2px 0}body.focused-study #panel.card-study-panel>.session-nav .circle{width:27px;height:27px}
+ body.focused-study #panel.card-study-panel>.session-nav .session-text{font-size:10px;min-width:150px}body.focused-study #panel.card-study-panel>.session-nav .session-text small{font-size:8px}
+ body.focused-study #panel.card-study-panel>.below{font-size:8px;gap:3px}
+ .ai-study-drawer{inset:0;width:100vw;height:100dvh;max-height:100dvh;border:0;border-radius:0}.ai-study-header{padding:calc(12px + env(safe-area-inset-top)) 16px 12px}.ai-study-compose{padding-bottom:calc(5px + env(safe-area-inset-bottom))}
+}
